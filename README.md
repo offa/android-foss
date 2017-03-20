@@ -36,7 +36,21 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ## Keyboard
 - [**AnySoftKeyboard**](https://anysoftkeyboard.github.io/)
 
-# PDF Viewer
+
+## PDF Viewer
 - [**CuprumPDF**](https://github.com/paride/CopperPDF)
 - [**PDFreader4Android**](https://droidapps.github.io/pdfreader4Android/)
 - [**MuPDF**](http://mupdf.com/)
+
+
+## Image Viewer & Galleries
+- [**LeafPic**](https://github.com/HoraApps/LeafPic)
+
+
+## Calendar
+- [**Etar**](https://github.com/Etar-Group/Etar-Calendar)
+
+
+## Music Player
+- [**Odyssey**](https://github.com/gateship-one/odyssey)
+- [**Vanilla Music**](http://vanillamusic.io/)
