@@ -61,3 +61,16 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 - [**Calculator**](https://github.com/Xlythe/Calculator)
 - [**Simple-Calculator**](https://github.com/SimpleMobileTools/Simple-Calculator)
 - [**Clean Calculator**](https://github.com/jchmrt/clean-calculator)
+
+
+## Notes & Todo Lists
+- [**Omni-Notes**](https://federicoiosue.github.io/Omni-Notes/)
+- [**SealNote**](https://github.com/vishesh/sealnote)
+- [**Notes**](https://www.secuso.informatik.tu-darmstadt.de/en/secuso/research/results/privacy-friendly-apps/notes/)
+- [**Simple-Notes**](https://github.com/SimpleMobileTools/Simple-Notes)
+- [**Notification Notes**](https://github.com/khuttun/NotificationNotes)
+- [**Swiftnotes**](https://github.com/adrianchifor/Swiftnotes)
+- [**uNote**](https://gitlab.com/Varlorg/uNote)
+- [**NoteCrypt**](https://github.com/RyuzakiKK/NoteCrypt)
+- [**NoteBuddy**](https://github.com/YoeriNijs/NoteBuddy)
+
