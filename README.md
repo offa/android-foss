@@ -49,8 +49,15 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ## Calendar
 - [**Etar**](https://github.com/Etar-Group/Etar-Calendar)
+- [**Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)
 
 
 ## Music Player
 - [**Odyssey**](https://github.com/gateship-one/odyssey)
 - [**Vanilla Music**](http://vanillamusic.io/)
+
+
+## Calculator
+- [**Calculator**](https://github.com/Xlythe/Calculator)
+- [**Simple-Calculator**](https://github.com/SimpleMobileTools/Simple-Calculator)
+- [**Clean Calculator**](https://github.com/jchmrt/clean-calculator)
