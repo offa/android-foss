@@ -20,6 +20,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ## Maps & Navigation
 - [**OsmAnd~**](http://osmand.net/)
+  - [Contour Lines and Hillshade](http://osmand.net/features?id=contour-lines-plugin)
+  - [Parking Spot](http://osmand.net/features?id=parking-plugin)
 
 
 ## Clock & Stopwatch
