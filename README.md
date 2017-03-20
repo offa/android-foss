@@ -15,18 +15,20 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ## Camera
 - [**Open Camera**](http://opencamera.sourceforge.net/)
+- [**Simple Camera**](https://github.com/SimpleMobileTools/Simple-Camera)
 
 
 ## Maps & Navigation
 - [**OsmAnd~**](http://osmand.net/)
 
 
-## Clocks & Stopwatch
+## Clock & Stopwatch
 - [**Clock+**](https://github.com/philliphsu/ClockPlus)
 
 
 ## File Manager
 - [**Amaze**](https://github.com/arpitkh96/AmazeFileManager)
+- [**Simple File Manager**](https://github.com/SimpleMobileTools/Simple-File-Manager)
 
 
 ## SMS
@@ -43,34 +45,57 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 - [**MuPDF**](http://mupdf.com/)
 
 
-## Image Viewer & Galleries
+## Image Viewer & Gallery
 - [**LeafPic**](https://github.com/HoraApps/LeafPic)
+- [**Simple Gallery**](https://github.com/SimpleMobileTools/Simple-Gallery)
 
 
 ## Calendar
 - [**Etar**](https://github.com/Etar-Group/Etar-Calendar)
-- [**Simple-Calendar**](https://github.com/SimpleMobileTools/Simple-Calendar)
+- [**Simple Calendar**](https://github.com/SimpleMobileTools/Simple-Calendar)
 
 
 ## Music Player
 - [**Odyssey**](https://github.com/gateship-one/odyssey)
 - [**Vanilla Music**](http://vanillamusic.io/)
+- [**Simple Music Player**](https://github.com/SimpleMobileTools/Simple-Music-Player)
 
 
 ## Calculator
 - [**Calculator**](https://github.com/Xlythe/Calculator)
-- [**Simple-Calculator**](https://github.com/SimpleMobileTools/Simple-Calculator)
+- [**Simple Calculator**](https://github.com/SimpleMobileTools/Simple-Calculator)
 - [**Clean Calculator**](https://github.com/jchmrt/clean-calculator)
 
 
 ## Notes & Todo Lists
 - [**Omni-Notes**](https://federicoiosue.github.io/Omni-Notes/)
 - [**SealNote**](https://github.com/vishesh/sealnote)
-- [**Notes**](https://www.secuso.informatik.tu-darmstadt.de/en/secuso/research/results/privacy-friendly-apps/notes/)
-- [**Simple-Notes**](https://github.com/SimpleMobileTools/Simple-Notes)
+- [**Privacy Friendly Notes**](https://www.secuso.informatik.tu-darmstadt.de/en/secuso/research/results/privacy-friendly-apps/notes/)
+- [**Simple Notes**](https://github.com/SimpleMobileTools/Simple-Notes)
 - [**Notification Notes**](https://github.com/khuttun/NotificationNotes)
 - [**Swiftnotes**](https://github.com/adrianchifor/Swiftnotes)
 - [**uNote**](https://gitlab.com/Varlorg/uNote)
 - [**NoteCrypt**](https://github.com/RyuzakiKK/NoteCrypt)
 - [**NoteBuddy**](https://github.com/YoeriNijs/NoteBuddy)
+
+
+## Launcher & Desktop
+- [**Simple App Launcher**](https://github.com/SimpleMobileTools/Simple-App-Launcher)
+
+
+## Flashlight
+- [**Simple Flashlight**](https://github.com/SimpleMobileTools/Simple-Flashlight)
+- [**Privacy Friendly Torchlight**](https://www.secuso.informatik.tu-darmstadt.de/en/secuso/research/results/privacy-friendly-apps/torchlight-app/)
+
+
+## System
+- [**Privacy Friendly Net Monitor**](https://www.secuso.informatik.tu-darmstadt.de/en/secuso/research/results/privacy-friendly-apps/net-monitor/)
+
+
+## Weather
+- [**Privacy Friendly Weather**](https://www.secuso.informatik.tu-darmstadt.de/en/secuso/research/results/privacy-friendly-apps/weather/)
+
+
+## Drawing
+- [**Simple Draw**](https://github.com/SimpleMobileTools/Simple-Draw)
 
