@@ -38,5 +38,5 @@ A list of **Free** and **Open Source** Software** ***(FOSS)*** for **Android**.
 
 # PDF Viewer
 - [**CuprumPDF**](https://github.com/paride/CopperPDF)
-- [**PDFreader4Android](https://droidapps.github.io/pdfreader4Android/)
+- [**PDFreader4Android**](https://droidapps.github.io/pdfreader4Android/)
 - [**MuPDF**](http://mupdf.com/)
