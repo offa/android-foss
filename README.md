@@ -80,6 +80,11 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 
 ## Launcher & Desktop
+- [**OpenLauncher**](https://github.com/BennyKok/OpenLauncher)
+- [**Hayai**](https://github.com/seizonsenryaku/HayaiLauncher)
+- [**KISS**](http://kisslauncher.com/)
+- [**Search Based Launcher**](https://github.com/vackosar/search-based-launcher/)
+- [**Silverfish**](https://github.com/stanipintjuk/Silverfish)
 - [**Simple App Launcher**](https://github.com/SimpleMobileTools/Simple-App-Launcher)
 
 
