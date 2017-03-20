@@ -49,7 +49,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ## Calendar
 - [**Etar**](https://github.com/Etar-Group/Etar-Calendar)
-- [**Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)
+- [**Simple-Calendar**](https://github.com/SimpleMobileTools/Simple-Calendar)
 
 
 ## Music Player
