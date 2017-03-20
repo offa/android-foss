@@ -104,3 +104,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ## Drawing
 - [**Simple Draw**](https://github.com/SimpleMobileTools/Simple-Draw)
 
+## Mail
+- [**K-9 Mail**](https://github.com/k9mail/k-9)
+- [**K9 Material (unofficial)**](https://github.com/scoute-dich/K9-MailClient)
+
