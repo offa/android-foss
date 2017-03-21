@@ -6,7 +6,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 
 ## App Store
-- [**F-Droid**](https://f-droid.org/) *– Best way to install and update apps*
+- [**F-Droid**](https://f-droid.org/) *– Preferred way to install and update apps*
 
 ------------------------
 
