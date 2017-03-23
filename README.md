@@ -42,6 +42,15 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### Keyboard
 - [**AnySoftKeyboard**](https://anysoftkeyboard.github.io/) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.menny.android.anysoftkeyboard)]**</sup>
+    - [French Language Pack](https://github.com/AnySoftKeyboard/LanguagePack) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.anysoftkeyboard.languagepack.french_xlarge)]**</sup>
+    - [German Language Pack](https://github.com/AnySoftKeyboard/LanguagePack) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.anysoftkeyboard.languagepack.german)]**</sup>
+    - [Danish Language Pack](https://github.com/AnySoftKeyboard/LanguagePack) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.anysoftkeyboard.languagepack.danish)]**</sup>
+    - [Italian Language Pack](https://github.com/AnySoftKeyboard/LanguagePack) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.anysoftkeyboard.languagepack.italian)]**</sup>
+    - [Norwegian Language Pack](https://github.com/AnySoftKeyboard/LanguagePack) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.anysoftkeyboard.languagepack.norwegian)]**</sup>
+    - [Spanish Language Pack](https://github.com/AnySoftKeyboard/LanguagePack) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.anysoftkeyboard.languagepack.spain)]**</sup>
+    - [Swedish Language Pack](https://github.com/AnySoftKeyboard/LanguagePack) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.anysoftkeyboard.languagepack.swedish)]**</sup>
+    - [Russian Language Pack](https://github.com/AnySoftKeyboard/LanguagePack) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.anysoftkeyboard.languagepack.russian2)]**</sup>
+    - ...
 
 
 ### PDF Viewer
