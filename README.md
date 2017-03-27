@@ -69,7 +69,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 
 ### Launcher & Desktop
-- [**OpenLauncher**](https://github.com/BennyKok/OpenLauncher)
+- [**OpenLauncher**](https://github.com/BennyKok/OpenLauncher) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.benny.openlauncher)]**</sup>
 - [**Hayai**](https://github.com/seizonsenryaku/HayaiLauncher) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.hayaisoftware.launcher)]**</sup>
 - [**KISS**](http://kisslauncher.com/) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=fr.neamar.kiss)]**</sup>
 - [**Search Based Launcher**](https://github.com/vackosar/search-based-launcher/) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.vackosar.searchbasedlauncher)]**</sup>
