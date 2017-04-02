@@ -127,3 +127,9 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### Weather
 - [**Privacy Friendly Weather**](https://www.secuso.informatik.tu-darmstadt.de/en/secuso/research/results/privacy-friendly-apps/weather/) <sup>**[[F-Droid]()]**</sup>
 
+
+------------------------
+
+## Getting more …
+
+- [**F-Droid**](https://f-droid.org/)
