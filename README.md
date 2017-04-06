@@ -134,5 +134,5 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 - [**F-Droid**](https://f-droid.org/)
 - [**Fossdroid**](https://fossdroid.com/)
-- [**CellularPrivacy – Recommendations](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Recommendations)
+- [**CellularPrivacy – Recommendations**](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Recommendations)
 
