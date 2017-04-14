@@ -96,6 +96,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     - [Tag Editor](http://vanillamusic.io/) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.kanedias.vanilla.audiotag)]**</sup>
     - [Headphone Detector](http://vanillamusic.io/) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=ch.blinkenlights.android.vanillaplug)]**</sup>
 - [**Simple Music Player**](https://github.com/SimpleMobileTools/Simple-Music-Player) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.simplemobiletools.musicplayer)]**</sup>
+- [**Phonograph**](https://github.com/kabouzeid/Phonograph)
+- [**Music-Player**](https://github.com/andremion/Music-Player)
 
 
 ### Notes & Todo Lists
