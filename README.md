@@ -66,7 +66,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     - [Swedish Language Pack](https://github.com/AnySoftKeyboard/LanguagePack) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.anysoftkeyboard.languagepack.swedish)]**</sup>
     - [Russian Language Pack](https://github.com/AnySoftKeyboard/LanguagePack) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.anysoftkeyboard.languagepack.russian2)]**</sup>
     - ...
-
+- [**Hacker's Keyboard**](https://github.com/klausw/hackerskeyboard) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=org.pocketworkstation.pckeyboard)]**</sup>
 
 ### Launcher & Desktop
 - [**OpenLauncher**](https://github.com/BennyKok/OpenLauncher) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.benny.openlauncher)]**</sup>
