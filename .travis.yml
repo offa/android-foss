@@ -1,0 +1,6 @@
+language: generic
+
+dist: trusty
+
+script:
+  - ./check.sh
