@@ -5,7 +5,7 @@ set extglob
 SOURCE_FILE=README.md
 
 FDROID_SETTINGS=$( \
-            grep -ni "https://f-droid.org/repository/browse/?" $SOURCE_FILE \
+            grep -ni "https://f-droid.org/repository/browse/?" ${SOURCE_FILE} \
             | sed "s/.*https:\/\/f-droid.org\/repository\/browse\/?//g" \
             | sed "s/)].*/;/g" \
             )
@@ -15,9 +15,9 @@ FAILED=0
 
 while IFS=';' read -ra TOK; do
     for i in "${TOK[@]}"; do
-        echo -ne "Check '$i' ... "
+        echo -ne "Check '${i}' ... "
 
-        if [[ "$i" =~ ^fdid=([[:alnum:]]|[\._-])+$ ]];
+        if [[ "${i}" =~ ^fdid=([[:alnum:]]|[\._-])+$ ]];
         then
             echo "OK"
         else
@@ -26,11 +26,11 @@ while IFS=';' read -ra TOK; do
         fi
 
     done
-done <<< "$FDROID_SETTINGS"
+done <<< "${FDROID_SETTINGS}"
 
-if [[ $FAILED -ge 1 ]];
+if [[ ${FAILED} -ge 1 ]];
 then
-    echo "Invalid Urls: $FAILED"
+    echo "Invalid Urls: ${FAILED}"
     exit 1
 fi
 
