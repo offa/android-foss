@@ -102,6 +102,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### Notes & Todo Lists
 - [**Minimal-Todo**](https://github.com/rubenroy/Minimal-Todo) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.rubenroy.minimaltodo)]**</sup>
+- [**Memento**](https://github.com/yaa110/Memento) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=github.yaa110.memento)]**</sup>
 - [**Omni-Notes**](https://federicoiosue.github.io/Omni-Notes/) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=it.feio.android.omninotes.foss)]**</sup>
 - [**SealNote**](https://github.com/vishesh/sealnote) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.twistedplane.sealnote)]**</sup>
 - [**Privacy Friendly Notes**](https://www.secuso.informatik.tu-darmstadt.de/en/secuso/research/results/privacy-friendly-apps/notes/) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=org.secuso.privacyfriendlynotes)]**</sup>
