@@ -1,5 +1,6 @@
 # Android FOSS
 
+[![Build Status](https://travis-ci.org/offa/android-foss.svg?branch=master)](https://travis-ci.org/offa/android-foss)
 [![License](https://img.shields.io/badge/license-GPLv3-yellow.svg)](LICENSE)
 
 A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** – saving *Freedom* and *Privacy*.
