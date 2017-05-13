@@ -99,6 +99,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 - [**Simple Music Player**](https://github.com/SimpleMobileTools/Simple-Music-Player) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.simplemobiletools.musicplayer)]**</sup>
 - [**Phonograph**](https://github.com/kabouzeid/Phonograph)
 - [**Music-Player**](https://github.com/andremion/Music-Player)
+- [**MaterialAudiobookPlayer**](https://github.com/PaulWoitaschek/MaterialAudiobookPlayer) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=de.ph1b.audiobook)]**</sup>
 
 
 ### Notes & Todo Lists
