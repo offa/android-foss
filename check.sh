@@ -19,9 +19,9 @@ while IFS=';' read -ra TOK; do
 
         if [[ "${i}" =~ ^fdid=([[:alnum:]]|[\._-])+$ ]];
         then
-            echo -e "\e[0;32mOK\e[0m"
+            echo -e "\e[0;32m OK \e[0m"
         else
-            echo -e "\e[0;31mINVALID\e[0m"
+            echo -e "\e[0;31m INVALID \e[0m"
             let "FAILED += 1"
         fi
 
