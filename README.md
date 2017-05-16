@@ -126,6 +126,16 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 - [**QKSMS**](https://github.com/moezbhatti/qksms) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.moez.QKSMS)]**</sup>
 
 
+### Synchronisation
+- [**aCalDAV**](https://github.com/ennswi/AndroidCaldavSyncAdapater) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=de.we.acaldav)]**</sup>
+- [**DAVdroid**](https://gitlab.com/bitfireAT/davdroid) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=at.bitfire.davdroid)]**</sup>
+- [**EteSync**](https://github.com/etesync/android) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.etesync.syncadapter)]**</sup>
+- [**Syncthing**](https://github.com/syncthing/syncthing-android) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.nutomic.syncthingandroid)]**</sup>
+- [**ownCloud**](https://github.com/owncloud/android) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.owncloud.android)]**</sup>
+- [**Seafile**](https://github.com/haiwen/seadroid) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.seafile.seadroid2]**</sup>
+- [**Syncopoli**](https://gitlab.com/fengshaun/syncopoli) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=org.amoradi.syncopoli)]**</sup>
+
+
 ### System
 - [**Privacy Friendly Net Monitor**](https://www.secuso.informatik.tu-darmstadt.de/en/secuso/research/results/privacy-friendly-apps/net-monitor/) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=org.secuso.privacyfriendlynetmonitor)]**</sup>
 
