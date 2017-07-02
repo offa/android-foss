@@ -146,6 +146,13 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ------------------------
 
+## Rooting and Recovery
+
+- [**Magisk**](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
+- [**TWRP**](https://twrp.me/)
+
+------------------------
+
 ## Getting more …
 
 - [**F-Droid**](https://f-droid.org/)
