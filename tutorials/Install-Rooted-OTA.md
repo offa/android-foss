@@ -6,7 +6,7 @@ The installation of ***OTA*** updates often fails if the device has been **roote
 
 -------------------------------------
 
-## Prerequisite
+## – Prerequisite –
 
 1. The Update file of the version that's *already running* on the device (*NOT* the update you want to install)
 1. [**TWRP**](https://twrp.me/) for your device
@@ -19,7 +19,7 @@ Doing the update isn't that difficult: Reset some system partitions, install ***
 
 -------------------------------------
 
-## Short Version
+## – Short Version –
 
 1. Download the Update *current installed*
 1. Enable USB Debugging
@@ -34,7 +34,7 @@ Doing the update isn't that difficult: Reset some system partitions, install ***
 
 -------------------------------------
 
-## Long Version
+## – Long Version –
 
 At first double check your backups and the prerequisites listed above. 
 
@@ -131,6 +131,6 @@ That's it!
 
 -------------------------------------
 
-## Further information
+## – Further information –
 
  - [A manual OTA for rooted hammerheads, quasi](https://gist.github.com/eyecatchup/ec0a852428c19705380e)
