@@ -2,13 +2,13 @@
 
 The installation of OTA updates often fails if the device has been rooted. Though it's still possible – without data loss. This guide shows how, using *TWRP* and *Magisk*.
 
-***IMPORTANT:** Before you start **backup** everything that's important! Proceed at own risk!*
+***WARNING:** Before you start **backup** everything that's important! Proceed at own risk!*
 
 -------------------------------------
 
 ## Prerequisite
 
-1. The Update file of the version that's already running on the device (*NOT* the update you want to install)
+1. The Update file of the version that's *already running* on the device (*NOT* the update you want to install)
 1. [**TWRP**](https://twrp.me/) for your device
 1. [**Magisk**](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 1. *ADB* and *Fastboot* inclusive developer mode the device
