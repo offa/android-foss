@@ -17,6 +17,7 @@ Don't forget to check the checksums of all files.
 
 Doing the update isn't that difficult: Reset some system partitions, install ***OTA***, refresh ***TWPR*** and ***Magisk***, done. There are two versions of this guide: The *short version* is just a list of steps, while the *long version* explains each step and the commands necessary.
 
+-------------------------------------
 
 ## Short Version
 
@@ -128,7 +129,7 @@ Once back in your system make sure everything works fine, you are running the la
 That's it!
 
 
------------------
+-------------------------------------
 
 ## Further information
 
