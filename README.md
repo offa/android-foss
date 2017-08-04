@@ -6,12 +6,12 @@
 A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** – saving *Freedom* and *Privacy*.
 
 
-## App Store
+## – App Store –
 - [**F-Droid**](https://f-droid.org/) *– Preferred way to install and update apps*
 
 ------------------------
 
-## Apps
+## – Apps –
 
 ### Browser
 - [**Firefox**](https://www.mozilla.org/de/firefox/android/)
@@ -146,21 +146,21 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ------------------------
 
-## Rooting and Recovery
+## – Rooting and Recovery –
 
 - [**Magisk**](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 - [**TWRP**](https://twrp.me/)
 
 ------------------------
 
-## Tutorials and Guides
+## – Tutorials and Guides –
 
 - [**OTA on Rooted Device**](tutorials/Install-Rooted-OTA.md)
 
 
 ------------------------
 
-## Getting more …
+## – Getting more … –
 
 - [**F-Droid**](https://f-droid.org/)
 - [**Fossdroid**](https://fossdroid.com/)
