@@ -2,7 +2,7 @@
 
 The installation of OTA updates often fails if the device has been rooted. Though it's still possible – without data loss. This guide shows how, using *TWRP* and *Magisk*.
 
-***IMPORTANT:** Before you start **backup** everything that's important!*
+***IMPORTANT:** Before you start **backup** everything that's important! Proceed at own risk!*
 
 -------------------------------------
 
@@ -37,4 +37,8 @@ Doing the update isn't that difficult: Reset some system partitions, install OTA
 
 At first double check your backups and the prerequisites listed above. 
 
+
+### Preparation
+
+Unpack the downloaded Update file, you need: `recovery.img`, `system.img` and `boot.img`.
 
