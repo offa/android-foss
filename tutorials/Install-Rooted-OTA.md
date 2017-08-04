@@ -40,6 +40,11 @@ At first double check your backups and the prerequisites listed above.
 
 ### Preparation
 
+##### Copy Magisk to your device
+
+Copy (or download) Magisk Zip to your device. It doesn't matter if it's on the internal or SD memory, just place it somewhere you can find it again later. You can do this step at any later time too.
+
+
 ##### Stock files of current running version
 
 Download the update file for the version running on your device, not the version you want to install. Given you are running on v1.2.3 and want to update to v1.2.4, you need the v1.2.3 file. 
@@ -51,7 +56,7 @@ Unpack the downloaded file, you need: `recovery.img`, `system.img` and `boot.img
 Plug the divce to your computer throuth USB and and enable *USB Debugging* on the device.
 
 
-### Flash System Files
+### Flash System Images
 
 Open a terminal and use these commands to flash the necessary partitions (don't type the `$`).
 
@@ -78,3 +83,46 @@ Open a terminal and use these commands to flash the necessary partitions (don't 
 > fastboot reboot
 ```
 
+### Install OTA
+
+Install the *OTA* as usual on the device. The update will reboot automatically. Once this is done check that the installed version is correct and your system is up to date.
+
+
+### Install TWRP
+
+Flash *TWRP* using *ADB*. The image typically has a differnt name, for simplification `TWRP.img` is used here.
+
+```sh
+# Check if device is recognized
+> adb devices
+
+# Boot into bootloader
+> adb reboot bootloader
+
+# Check device again in Bootloader
+> fastboot devices
+
+# Flash TWRP
+> fastboot flash recovery TWRP.img
+
+# Reboot device
+> fastboot reboot
+```
+
+##### Boot into TWRP
+
+When the last command restarts the device, use the *Volume Keys* to navigate. Select boot into *"Recovery"*. *TWRP* will show up then.
+
+
+### Install Magisk
+
+From the *TWRP* menu select *"Install"* and install the *Magisk* Zip. Reboot afterwards.
+
+Note: *It's a good chance to clear the *Dalvik-Cache* here, but that's fully optional.*
+
+
+### Done
+
+Once back in your system make sure everything works fine, you are running the latest version and root is enabled. Just one last step: Disable *USB Debugging*.
+
+That's it!
