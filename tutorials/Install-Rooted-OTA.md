@@ -15,7 +15,7 @@ The installation of ***OTA*** updates often fails if the device has been **roote
 
 Don't forget to check the checksums of all files.
 
-Doing the update isn't that difficult: Reset some system partitions, install ***OTA***, refresh ***TWPR*** and ***Magisk***, done. There are two versions of this guide: The short version is just a list of steps, while the long version contains each step and the commands necessary.
+Doing the update isn't that difficult: Reset some system partitions, install ***OTA***, refresh ***TWPR*** and ***Magisk***, done. There are two versions of this guide: The *short version* is just a list of steps, while the *long version* explains each step and the commands necessary.
 
 
 ## Short Version
@@ -47,7 +47,7 @@ Copy (or download) ***Magisk*** Zip to your device. It doesn't matter if it's on
 
 ##### Stock files of current running version
 
-Download the update file for the version running on your device, not the version you want to install. Given you are running on v1.2.3 and want to update to v1.2.4, you need the v1.2.3 file.
+Download the update file for the version running on your device – *not* the version you want to install. Given you are running on v1.2.3 and want to update to v1.2.4, you need the v1.2.3 file.
 
 Unpack the downloaded file, you need: `recovery.img`, `system.img` and `boot.img`.
 
