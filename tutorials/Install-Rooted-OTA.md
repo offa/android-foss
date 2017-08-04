@@ -38,7 +38,7 @@ Doing the update isn't that difficult: Reset some system partitions, install ***
 At first double check your backups and the prerequisites listed above. 
 
 
-### Preparation
+### Step 1 – Preparation
 
 ##### Copy *Magisk* to your device
 
@@ -56,7 +56,7 @@ Unpack the downloaded file, you need: `recovery.img`, `system.img` and `boot.img
 Plug the device to your computer through USB and enable *USB Debugging* on the device.
 
 
-### Flash System Images
+### Step 2 – Flash System Images
 
 Open a terminal and use these commands to flash the necessary partitions (don't type the `>`):
 
@@ -83,12 +83,12 @@ Open a terminal and use these commands to flash the necessary partitions (don't 
 > fastboot reboot
 ```
 
-### Install *OTA*
+### Step 3 – Install *OTA*
 
 Install the ***OTA*** as usual on the device. The update will reboot automatically. Once this is done check that the installed version is correct and your system is up to date.
 
 
-### Install *TWRP*
+### Step 4 – Install *TWRP*
 
 Flash ***TWRP*** using ***ADB***. The image typically has a different name, for simplification `TWRP.img` is used here.
 
@@ -114,14 +114,14 @@ Flash ***TWRP*** using ***ADB***. The image typically has a different name, for 
 When the last command restarts the device, use the *Volume Keys* to navigate. Select boot into *"Recovery"*. ***TWRP*** will show up then.
 
 
-### Install *Magisk*
+### Step 5 – Install *Magisk*
 
 From the ***TWRP*** menu select *"Install"* and install the ***Magisk*** Zip. Reboot afterwards.
 
 **Note:** *It's a good chance to clear the *Dalvik-Cache* at this point – but that's fully optional.*
 
 
-### Done
+### Step 6 – Done
 
 Once back in your system make sure everything works fine, you are running the latest version and root is enabled. Just one last step: Disable *USB Debugging*.
 
