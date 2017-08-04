@@ -153,6 +153,13 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ------------------------
 
+## Tutorials and Guides
+
+- [**OTA on Rooted Device**](tutorials/Install-Rooted-OTA.md)
+
+
+------------------------
+
 ## Getting more …
 
 - [**F-Droid**](https://f-droid.org/)
