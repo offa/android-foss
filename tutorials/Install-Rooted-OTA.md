@@ -8,7 +8,7 @@ The installation of OTA updates often fails if the device has been rooted. Thoug
 
 ## Prerequisite
 
-1. The Update file of the version that's running on the device (*NOT* the update you want to install)
+1. The Update file of the version that's already running on the device (*NOT* the update you want to install)
 1. [**TWRP**](https://twrp.me/) for your device
 1. [**Magisk**](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 1. *ADB* and *Fastboot* inclusive developer mode the device
@@ -40,5 +40,41 @@ At first double check your backups and the prerequisites listed above.
 
 ### Preparation
 
-Unpack the downloaded Update file, you need: `recovery.img`, `system.img` and `boot.img`.
+##### Stock files of current running version
+
+Download the update file for the version running on your device, not the version you want to install. Given you are running on v1.2.3 and want to update to v1.2.4, you need the v1.2.3 file. 
+
+Unpack the downloaded file, you need: `recovery.img`, `system.img` and `boot.img`.
+
+##### Enable USB Debugging
+
+Plug the divce to your computer throuth USB and and enable *USB Debugging* on the device.
+
+
+### Flash System Files
+
+Open a terminal and use these commands to flash the necessary partitions (don't type the `$`).
+
+```sh
+# Check if device is recognized
+> adb devices
+
+# Boot into bootloader
+> adb reboot bootloader
+
+# Check device again in Bootloader
+> fastboot devices
+
+# Flash recovery image
+> fastboot flash recovery recovery.img
+
+# Flash system image
+> fastboot flash system system.img
+
+# Flash boot image
+> fastboot flash boot boot.img
+
+# Reboot device
+> fastboot reboot
+```
 
