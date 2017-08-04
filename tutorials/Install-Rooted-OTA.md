@@ -126,3 +126,10 @@ Note: *It's a good chance to clear the *Dalvik-Cache* here, but that's fully opt
 Once back in your system make sure everything works fine, you are running the latest version and root is enabled. Just one last step: Disable *USB Debugging*.
 
 That's it!
+
+
+-----------------
+
+## Further information
+
+ - [A manual OTA for rooted hammerheads, quasi](https://gist.github.com/eyecatchup/ec0a852428c19705380e)
