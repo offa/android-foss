@@ -26,6 +26,7 @@ Doing the update isn't that difficult: Reset some system partitions, install ***
 1. Boot to Bootloader
 1. Flash *recovery*, *system* and *boot* images
 1. Reboot
+1. Install OTA
 1. Flash ***TWRP***
 1. Boot to Recovery
 1. Install ***Magisk***
