@@ -49,13 +49,13 @@ Copy (or download) ***Magisk*** Zip to your device. It doesn't matter if it's on
 
 ##### Stock files of current running version
 
-Download the update file for the version running on your device – *not* the version you want to install. Given you are running on v1.2.3 and want to update to v1.2.4, you need the v1.2.3 file.
+Download the update file for the version already running on your device – *not* the version you want to install. Given you are running on v1.2.3 and want to update to v1.2.4, you need the v1.2.3 file.
 
 Unpack the downloaded file, you need: `recovery.img`, `system.img` and `boot.img`.
 
 ##### Enable USB Debugging
 
-Plug the device to your computer through USB and enable *USB Debugging* on the device.
+Connect the device to your computer through USB and enable *USB Debugging* on the device.
 
 
 ### Step 2 – Flash System Images
@@ -92,7 +92,7 @@ Install the ***OTA*** as usual on the device. The update will reboot automatical
 
 ### Step 4 – Install *TWRP*
 
-Flash ***TWRP*** using ***ADB***. The image typically has a different name, for simplification `TWRP.img` is used here.
+Flash ***TWRP*** using ***ADB***. The image typically has a device specific name (eg. `twrp-[version]-[device].img`), for simplification `TWRP.img` is used here.
 
 ```sh
 # Check if device is recognized
