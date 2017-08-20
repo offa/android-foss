@@ -7,14 +7,17 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 
 ## – App Store –
-- [**F-Droid**](https://f-droid.org/) *– Preferred way to install and update apps*
+- [**F-Droid**](https://f-droid.org/) - Preferred way to install and update apps.
+- [**Fossdroid**](https://fossdroid.com/) - Attractive, web based client for F-Droid.
 
 ------------------------
 
 ## – Apps –
 
-### Browser
-- [**Firefox**](https://www.mozilla.org/de/firefox/android/)
+### Internet
+- [**Firefox**](https://www.mozilla.org/firefox/android/) - Open Source browser from Mozilla.
+- [**Firefox Klar**](https://www.mozilla.org/firefox/android/) <sup>**[[F-Droid](https://f-droid.org/packages/org.mozilla.klar/)]**</sup> - Privacy browser from Mozilla, blocks trackers, automatically clears history/cookies.
+- [**FFUpdater**](https://gitlab.com/krt/ffupdater) <sup>**[[F-Droid](https://f-droid.org/packages/de.marmaro.krt.ffupdater/)]**</sup> - Privacy browser from Mozilla, blocks trackers, automatically clears history/cookies.
 
 
 ### Calculator
