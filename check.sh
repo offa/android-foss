@@ -5,8 +5,8 @@ set extglob
 SOURCE_FILE=README.md
 
 FDROID_SETTINGS=$( \
-            grep -ni "https://f-droid.org/repository/browse/?" ${SOURCE_FILE} \
-            | sed "s/.*https:\/\/f-droid.org\/repository\/browse\/?//g" \
+            grep -ni "https://f-droid.org/packages" ${SOURCE_FILE} \
+            | sed "s/.*https:\/\/f-droid.org\/packages\///g" \
             | sed "s/)].*/;/g" \
             )
 
@@ -17,7 +17,7 @@ while IFS=';' read -ra TOK; do
     for i in "${TOK[@]}"; do
         echo -ne "Check '${i}' ... "
 
-        if [[ "${i}" =~ ^fdid=([[:alnum:]]|[\._-])+$ ]];
+        if [[ "${i}" =~ ^([[:alnum:]]|[\._-])+$ ]];
         then
             echo -e "\e[0;32m OK \e[0m"
         else
