@@ -81,7 +81,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 - [**Search Based Launcher**](https://github.com/vackosar/search-based-launcher/) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.vackosar.searchbasedlauncher)]**</sup>
 - [**Silverfish**](https://github.com/stanipintjuk/Silverfish) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.launcher.silverfish)]**</sup>
 - [**Simple App Launcher**](https://github.com/SimpleMobileTools/Simple-App-Launcher) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.simplemobiletools.applauncher)]**</sup>
-- [**LaunchTime**](https://github.com/quaap/LaunchTime) <sup>**[[F-Droid](https://f-droid.org/packages/com.quaap.launchtime/)]**</sup>
+- [**LaunchTime**](https://github.com/quaap/LaunchTime) <sup>**[[F-Droid](https://f-droid.org/packages/com.quaap.launchtime)]**</sup>
 
 
 ### Mail
@@ -94,6 +94,11 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
   - [Contour Lines and Hillshade](http://osmand.net/features?id=contour-lines-plugin) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=net.osmand.srtmPlugin.paid)]**</sup>
   - [Parking Spot](http://osmand.net/features?id=parking-plugin) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=net.osmand.parkingPlugin)]**</sup>
 - [**Maps.ME**](https://maps.me/en/home)
+
+
+### Media Frontends
+- [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) <sup>**[[F-Droid](https://f-droid.org/packages/org.schabi.newpipe)]**</sup>
+
 
 ### Music Player
 - [**Odyssey**](https://github.com/gateship-one/odyssey) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=org.gateshipone.odyssey)]**</sup>
