@@ -81,6 +81,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 - [**Search Based Launcher**](https://github.com/vackosar/search-based-launcher/) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.vackosar.searchbasedlauncher)]**</sup>
 - [**Silverfish**](https://github.com/stanipintjuk/Silverfish) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.launcher.silverfish)]**</sup>
 - [**Simple App Launcher**](https://github.com/SimpleMobileTools/Simple-App-Launcher) <sup>**[[F-Droid](https://f-droid.org/repository/browse/?fdid=com.simplemobiletools.applauncher)]**</sup>
+- [**LaunchTime**](https://github.com/quaap/LaunchTime) <sup>**[[F-Droid](https://f-droid.org/packages/com.quaap.launchtime/)]**</sup>
 
 
 ### Mail
