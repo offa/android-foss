@@ -15,11 +15,11 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ## – Apps –
 
 ### Internet
-- [**Firefox**](https://www.mozilla.org/firefox/android/) - Open Source browser from Mozilla.
-- [**Firefox Klar**](https://www.mozilla.org/firefox/android/) <sup>**[[F-Droid](https://f-droid.org/packages/org.mozilla.klar)]**</sup> - Privacy browser from Mozilla, blocks trackers, automatically clears history/cookies.
-- [**FFUpdater**](https://gitlab.com/krt/ffupdater) <sup>**[[F-Droid](https://f-droid.org/packages/de.marmaro.krt.ffupdater)]**</sup> - Downloads Firefox APK from official website and updates.
-- [**Chromium SWE Updater**](https://forum.xda-developers.com/android/apps-games/app-code-aurora-s-chromium-swe-browser-t3603932) <sup>**[[F-Droid](https://f-droid.org/packages/chromiumupdater.bamless.com.chromiumsweupdater)]**</sup> - Downloads Snapdragon optimised version of Chromuim APK and updates.
-- [**Lightning**](http://acrdevelopment.org/) <sup>**[[F-Droid](https://f-droid.org/packages/acr.browser.lightning)]**</sup> - Simple browser that uses the WebKit rendering engine built-in.
+- [**Firefox**](https://www.mozilla.org/firefox/android/)
+- [**Firefox Klar**](https://www.mozilla.org/firefox/android/) <sup>**[[F-Droid](https://f-droid.org/packages/org.mozilla.klar)]**</sup>
+- [**FFUpdater**](https://gitlab.com/krt/ffupdater) <sup>**[[F-Droid](https://f-droid.org/packages/de.marmaro.krt.ffupdater)]**</sup>
+- [**Chromium SWE Updater**](https://forum.xda-developers.com/android/apps-games/app-code-aurora-s-chromium-swe-browser-t3603932) <sup>**[[F-Droid](https://f-droid.org/packages/chromiumupdater.bamless.com.chromiumsweupdater)]**</sup>
+- [**Lightning**](http://acrdevelopment.org/) <sup>**[[F-Droid](https://f-droid.org/packages/acr.browser.lightning)]**</sup>
 
 
 ### Calculator
