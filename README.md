@@ -101,6 +101,10 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 - [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) <sup>**[[F-Droid](https://f-droid.org/packages/org.schabi.newpipe)]**</sup>
 
 
+### • Messaging
+- [**Kontalk**](https://github.com/kontalk/androidclient) <sup>**[[F-Droid](https://f-droid.org/packages/org.kontalk)]**</sup>
+
+
 ### • Music Player
 - [**Odyssey**](https://github.com/gateship-one/odyssey) <sup>**[[F-Droid](https://f-droid.org/packages/org.gateshipone.odyssey)]**</sup>
 - [**Vanilla Music**](http://vanillamusic.io/) <sup>**[[F-Droid](https://f-droid.org/packages/ch.blinkenlights.android.vanilla)]**</sup>
