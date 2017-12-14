@@ -83,6 +83,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 - [**Simple App Launcher**](https://github.com/SimpleMobileTools/Simple-App-Launcher) <sup>**[[F-Droid](https://f-droid.org/packages/com.simplemobiletools.applauncher)]**</sup>
 - [**LaunchTime**](https://github.com/quaap/LaunchTime) <sup>**[[F-Droid](https://f-droid.org/packages/com.quaap.launchtime)]**</sup>
 - [**PaperLaunch**](https://github.com/devmil/PaperLaunch) <sup>**[[F-Droid](https://f-droid.org/de/packages/de.devmil.paperlaunch)]**</sup>
+- [**Emerald Launcher**](https://github.com/HenriDellal/emerald) <sup>**[[F-Droid](https://f-droid.org/packages/ru.henridellal.emerald)]**</sup>
+
 
 
 ### • Mail
