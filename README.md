@@ -120,6 +120,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 - [**Phonograph**](https://github.com/kabouzeid/Phonograph)
 - [**Music-Player**](https://github.com/andremion/Music-Player)
 - [**MaterialAudiobookPlayer**](https://github.com/PaulWoitaschek/MaterialAudiobookPlayer) <sup>**[[F-Droid](https://f-droid.org/packages/de.ph1b.audiobook)]**</sup>
+- [**Transistor**](https://github.com/y20k/transistor) <sup>**[[F-Droid](https://f-droid.org/packages/org.y20k.transistor)]**</sup>
 
 
 ### • Notes & Todo Lists
