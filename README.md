@@ -158,6 +158,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 
 ### • System
+- [**OS Monitor**](https://github.com/eolwral/OSMonitor) <sup>**[[F-Droid](https://f-droid.org/packages/com.eolwral.osmonitor)]**</sup>
+- [**BackgroundRestrictor**](https://github.com/MrBIMC/RunInBackgroundPermissionSetter) <sup>**[[F-Droid](https://f-droid.org/packages/com.pavelsikun.runinbackgroundpermissionsetter)]**</sup>
 - [**Privacy Friendly Net Monitor**](https://www.secuso.informatik.tu-darmstadt.de/en/secuso/research/results/privacy-friendly-apps/net-monitor/) <sup>**[[F-Droid](https://f-droid.org/packages/org.secuso.privacyfriendlynetmonitor)]**</sup>
 
 
