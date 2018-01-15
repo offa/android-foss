@@ -106,6 +106,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 
 ### • Messaging
+- [**Conversations**](https://github.com/siacs/Conversations) <sup>**[[F-Droid](https://f-droid.org/packages/eu.siacs.conversations)]**</sup>
+- [**Silence**](https://github.com/SilenceIM/Silence) <sup>**[[F-Droid](https://f-droid.org/packages/org.smssecure.smssecure)]**</sup>
 - [**Kontalk**](https://github.com/kontalk/androidclient) <sup>**[[F-Droid](https://f-droid.org/packages/org.kontalk)]**</sup>
 
 
