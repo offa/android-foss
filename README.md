@@ -43,6 +43,12 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 - [**Clock+**](https://github.com/philliphsu/ClockPlus) <sup>**[[F-Droid](https://f-droid.org/packages/com.philliphsu.clock2)]**</sup>
 
 
+### • Document / PDF Viewer
+- [**MuPDF**](http://mupdf.com/) <sup>**[[F-Droid](https://f-droid.org/packages/com.artifex.mupdfdemo)]**</sup>
+- [**CuprumPDF**](https://github.com/paride/CopperPDF) <sup>**[[F-Droid](https://f-droid.org/packages/org.ninthfloor.copperpdf)]**</sup>
+- [**PDFreader4Android**](https://droidapps.github.io/pdfreader4Android/) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.droidapps.pdfreader)]**</sup>
+
+
 ### • Drawing
 - [**Simple Draw**](https://github.com/SimpleMobileTools/Simple-Draw) <sup>**[[F-Droid](https://f-droid.org/packages/com.simplemobiletools.draw)]**</sup>
 
@@ -140,12 +146,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 - [**uNote**](https://gitlab.com/Varlorg/uNote) <sup>**[[F-Droid](https://f-droid.org/packages/app.varlorg.unote)]**</sup>
 - [**NoteCrypt**](https://github.com/RyuzakiKK/NoteCrypt) <sup>**[[F-Droid](https://f-droid.org/packages/com.notecryptpro)]**</sup>
 - [**NoteBuddy**](https://github.com/YoeriNijs/NoteBuddy) <sup>**[[F-Droid](https://f-droid.org/packages/nl.yoerinijs.notebuddy)]**</sup>
-
-
-### • PDF Viewer
-- [**MuPDF**](http://mupdf.com/) <sup>**[[F-Droid](https://f-droid.org/packages/com.artifex.mupdfdemo)]**</sup>
-- [**CuprumPDF**](https://github.com/paride/CopperPDF) <sup>**[[F-Droid](https://f-droid.org/packages/org.ninthfloor.copperpdf)]**</sup>
-- [**PDFreader4Android**](https://droidapps.github.io/pdfreader4Android/) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.droidapps.pdfreader)]**</sup>
 
 
 ### • SMS
