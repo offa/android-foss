@@ -47,6 +47,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 - [**MuPDF**](http://mupdf.com/) <sup>**[[F-Droid](https://f-droid.org/packages/com.artifex.mupdfdemo)]**</sup>
 - [**CuprumPDF**](https://github.com/paride/CopperPDF) <sup>**[[F-Droid](https://f-droid.org/packages/org.ninthfloor.copperpdf)]**</sup>
 - [**PDFreader4Android**](https://droidapps.github.io/pdfreader4Android/) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.droidapps.pdfreader)]**</sup>
+- [**Document Viewer**](https://github.com/PrivacyApps/document-viewer) <sup>**[[F-Droid](https://f-droid.org/packages/org.sufficientlysecure.viewer)]**</sup>
 
 
 ### • Drawing
