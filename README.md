@@ -31,7 +31,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Calendar
 - [**Etar**](https://github.com/Etar-Group/Etar-Calendar) <sup>**[[F-Droid](https://f-droid.org/packages/ws.xsoh.etar)]**</sup>
 - [**Simple Calendar**](https://github.com/SimpleMobileTools/Simple-Calendar) <sup>**[[F-Droid](https://f-droid.org/packages/com.simplemobiletools.calendar)]**</sup>
-- [**Offline Calendar **](https://github.com/PrivacyApps/offline-calendar) <sup>**[[F-Droid](https://f-droid.org/packages/org.sufficientlysecure.localcalendar)]**</sup>
+- [**Offline Calendar**](https://github.com/PrivacyApps/offline-calendar) <sup>**[[F-Droid](https://f-droid.org/packages/org.sufficientlysecure.localcalendar)]**</sup>
 
 
 ### • Camera
