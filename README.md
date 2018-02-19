@@ -43,6 +43,10 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 - [**Clock+**](https://github.com/philliphsu/ClockPlus) <sup>**[[F-Droid](https://f-droid.org/packages/com.philliphsu.clock2)]**</sup>
 
 
+### Contacts
+- [**Simple Contacts+**](https://github.com/SimpleMobileTools/Simple-Contacts) <sup>**[[F-Droid](https://f-droid.org/packages/com.simplemobiletools.contacts)]**</sup>
+
+
 ### • Document / PDF Viewer
 - [**MuPDF**](http://mupdf.com/) <sup>**[[F-Droid](https://f-droid.org/packages/com.artifex.mupdfdemo)]**</sup>
 - [**CuprumPDF**](https://github.com/paride/CopperPDF) <sup>**[[F-Droid](https://f-droid.org/packages/org.ninthfloor.copperpdf)]**</sup>
