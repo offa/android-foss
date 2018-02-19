@@ -44,7 +44,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 
 ### Contacts
-- [**Simple Contacts+**](https://github.com/SimpleMobileTools/Simple-Contacts) <sup>**[[F-Droid](https://f-droid.org/packages/com.simplemobiletools.contacts)]**</sup>
+- [**Simple Contacts**](https://github.com/SimpleMobileTools/Simple-Contacts) <sup>**[[F-Droid](https://f-droid.org/packages/com.simplemobiletools.contacts)]**</sup>
 
 
 ### • Document / PDF Viewer
