@@ -39,7 +39,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 - [**Simple Camera**](https://github.com/SimpleMobileTools/Simple-Camera) <sup>**[[F-Droid](https://f-droid.org/packages/com.simplemobiletools.camera)]**</sup>
 
 
-### • Clock & Stopwatch
+### • Clock & Time
 - [**Clock+**](https://github.com/philliphsu/ClockPlus) <sup>**[[F-Droid](https://f-droid.org/packages/com.philliphsu.clock2)]**</sup>
 
 
