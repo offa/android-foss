@@ -41,6 +41,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Clock & Time
 - [**Clock+**](https://github.com/philliphsu/ClockPlus) <sup>**[[F-Droid](https://f-droid.org/packages/com.philliphsu.clock2)]**</sup>
+- [**Talalarmo**](https://github.com/trikita/talalarmo) <sup>**[[F-Droid](https://f-droid.org/packages/trikita.talalarmo/)]**</sup>
 
 
 ### Contacts
