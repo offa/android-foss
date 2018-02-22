@@ -41,7 +41,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Clock & Time
 - [**Clock+**](https://github.com/philliphsu/ClockPlus) <sup>**[[F-Droid](https://f-droid.org/packages/com.philliphsu.clock2)]**</sup>
-- [**Talalarmo**](https://github.com/trikita/talalarmo) <sup>**[[F-Droid](https://f-droid.org/packages/trikita.talalarmo/)]**</sup>
+- [**Talalarmo**](https://github.com/trikita/talalarmo) <sup>**[[F-Droid](https://f-droid.org/packages/trikita.talalarmo)]**</sup>
 
 
 ### Contacts
@@ -152,6 +152,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 - [**uNote**](https://gitlab.com/Varlorg/uNote) <sup>**[[F-Droid](https://f-droid.org/packages/app.varlorg.unote)]**</sup>
 - [**NoteCrypt**](https://github.com/RyuzakiKK/NoteCrypt) <sup>**[[F-Droid](https://f-droid.org/packages/com.notecryptpro)]**</sup>
 - [**NoteBuddy**](https://github.com/YoeriNijs/NoteBuddy) <sup>**[[F-Droid](https://f-droid.org/packages/nl.yoerinijs.notebuddy)]**</sup>
+- [**Material Notes**](https://github.com/BijoySingh/Material-Notes-Android-App) <sup>**[[F-Droid](https://f-droid.org/packages/com.bijoysingh.quicknote)]**</sup>
 
 
 ### • SMS
