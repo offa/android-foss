@@ -44,7 +44,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 - [**Talalarmo**](https://github.com/trikita/talalarmo) <sup>**[[F-Droid](https://f-droid.org/packages/trikita.talalarmo)]**</sup>
 
 
-### Contacts
+### • Contacts
 - [**Simple Contacts**](https://github.com/SimpleMobileTools/Simple-Contacts) <sup>**[[F-Droid](https://f-droid.org/packages/com.simplemobiletools.contacts)]**</sup>
 
 
