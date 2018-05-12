@@ -6,7 +6,7 @@ The installation of ***OTA*** updates often fails if the device has been **roote
 
 
 Table of Contents
-=================
+-----------------
 
    * [Prerequisite](#-prerequisite-)
    * [Short Version](#-short-version-)
