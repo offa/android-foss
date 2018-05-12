@@ -8,16 +8,16 @@ The installation of ***OTA*** updates often fails if the device has been **roote
 Table of Contents
 -----------------
 
-    * [Prerequisite](#-prerequisite-)
-    * [Short Version](#-short-version-)
-    * [Long Version](#-long-version-)
-       * [Step 1 – Preparation](#step-1--preparation)
-       * [Step 2 – Flash System Images](#step-2--flash-system-images)
-       * [Step 3 – Install <em>OTA</em>](#step-3--install-ota)
-       * [Step 4 – Install <em>TWRP</em>](#step-4--install-twrp)
-       * [Step 5 – Install <em>Magisk</em>](#step-5--install-magisk)
-       * [Step 6 – Done](#step-6--done)
-    * [Further information](#-further-information-)
+   * [Prerequisite](#-prerequisite-)
+   * [Short Version](#-short-version-)
+   * [Long Version](#-long-version-)
+      * [Step 1 – Preparation](#step-1--preparation)
+      * [Step 2 – Flash System Images](#step-2--flash-system-images)
+      * [Step 3 – Install <em>OTA</em>](#step-3--install-ota)
+      * [Step 4 – Install <em>TWRP</em>](#step-4--install-twrp)
+      * [Step 5 – Install <em>Magisk</em>](#step-5--install-magisk)
+      * [Step 6 – Done](#step-6--done)
+   * [Further information](#-further-information-)
 
 
 -------------------------------------
