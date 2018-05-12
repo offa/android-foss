@@ -6,7 +6,7 @@
 A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** – saving *Freedom* and *Privacy*.
 
 Table of Contents
-=================
+-----------------
 
    * [App Store](#-app-store-)
    * [Apps –](#-apps-)
