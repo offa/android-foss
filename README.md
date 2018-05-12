@@ -9,7 +9,7 @@ Table of Contents
 -----------------
 
    * [App Store](#-app-store-)
-   * [Apps –](#-apps-)
+   * [Apps](#-apps-)
       * [Internet](#-internet)
       * [Calculator](#-calculator)
       * [Calendar](#-calendar)
