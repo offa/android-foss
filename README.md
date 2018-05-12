@@ -5,6 +5,39 @@
 
 A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** – saving *Freedom* and *Privacy*.
 
+Table of Contents
+=================
+
+   * [Android FOSS](#android-foss)
+      * [App Store](#-app-store-)
+      * [Apps –](#-apps-)
+         * [Internet](#-internet)
+         * [Calculator](#-calculator)
+         * [Calendar](#-calendar)
+         * [Camera](#-camera)
+         * [Clock &amp; Time](#-clock--time)
+         * [Contacts](#-contacts)
+         * [Document / PDF Viewer](#-document--pdf-viewer)
+         * [Drawing](#-drawing)
+         * [File Manager](#-file-manager)
+         * [Flashlight](#-flashlight)
+         * [Image Viewer &amp; Gallery](#-image-viewer--gallery)
+         * [Keyboard](#-keyboard)
+         * [Launcher &amp; Desktop](#-launcher--desktop)
+         * [Mail](#-mail)
+         * [Maps &amp; Navigation](#-maps--navigation)
+         * [Media Frontends](#-media-frontends)
+         * [Messaging](#-messaging)
+         * [Music Player](#-music-player)
+         * [Notes &amp; Todo Lists](#-notes--todo-lists)
+         * [SMS](#-sms)
+         * [Synchronisation](#-synchronisation)
+         * [System](#-system)
+         * [Weather](#-weather)
+      * [Rooting and Recovery](#-rooting-and-recovery-)
+      * [Tutorials and Guides](#-tutorials-and-guides-)
+      * [Getting more …](#-getting-more--)
+
 
 ## – App Store –
 - [**F-Droid**](https://f-droid.org/) - Preferred way to install and update apps.
