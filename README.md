@@ -123,6 +123,7 @@ Table of Contents
     - ...
 - [**Hacker's Keyboard**](https://github.com/klausw/hackerskeyboard) <sup>**[[F-Droid](https://f-droid.org/packages/org.pocketworkstation.pckeyboard)]**</sup>
 
+
 ### • Launcher & Desktop
 - [**OpenLauncher**](https://github.com/BennyKok/OpenLauncher) <sup>**[[F-Droid](https://f-droid.org/packages/com.benny.openlauncher)]**</sup>
 - [**Hayai**](https://github.com/seizonsenryaku/HayaiLauncher) <sup>**[[F-Droid](https://f-droid.org/packages/com.hayaisoftware.launcher)]**</sup>
@@ -133,6 +134,7 @@ Table of Contents
 - [**LaunchTime**](https://github.com/quaap/LaunchTime) <sup>**[[F-Droid](https://f-droid.org/packages/com.quaap.launchtime)]**</sup>
 - [**PaperLaunch**](https://github.com/devmil/PaperLaunch) <sup>**[[F-Droid](https://f-droid.org/de/packages/de.devmil.paperlaunch)]**</sup>
 - [**Emerald Launcher**](https://github.com/HenriDellal/emerald) <sup>**[[F-Droid](https://f-droid.org/packages/ru.henridellal.emerald)]**</sup>
+- [**Essential Launcher**](https://github.com/clemensbartz/essential-launcher) <sup>**[[F-Droid](https://f-droid.org/packages/de.clemensbartz.android.launcher)]**</sup>
 
 
 
