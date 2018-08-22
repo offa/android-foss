@@ -97,7 +97,7 @@ Table of Contents
 - [**Amaze**](https://github.com/arpitkh96/AmazeFileManager) <sup>**[[F-Droid](https://f-droid.org/packages/com.amaze.filemanager)]**</sup>
 - [**Simple File Manager**](https://github.com/SimpleMobileTools/Simple-File-Manager) <sup>**[[F-Droid](https://f-droid.org/packages/com.simplemobiletools.filemanager)]**</sup>
 - [**Dir**](https://github.com/veniosg/Dir) <sup>**[[F-Droid](https://f-droid.org/packages/com.veniosg.dir)]**</sup>
-
+- [** AnExplorer Pro**](https://github.com/1hakr/AnExplorer) <sup>**[[F-Droid](https://f-droid.org/de/packages/dev.dworks.apps.anexplorer.pro)]**</sup>
 
 
 ### • Flashlight
