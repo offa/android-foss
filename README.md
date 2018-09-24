@@ -82,6 +82,10 @@ Table of Contents
 - [**Simple Contacts**](https://github.com/SimpleMobileTools/Simple-Contacts) <sup>**[[F-Droid](https://f-droid.org/packages/com.simplemobiletools.contacts)]**</sup>
 
 
+### • Dialer
+- [**Emerald Dialer**](https://github.com/HenriDellal/emerald-dialer) <sup>**[[F-Droid](https://f-droid.org/de/packages/ru.henridellal.dialer)]**</sup>
+
+
 ### • Document / PDF Viewer
 - [**MuPDF**](http://mupdf.com/) <sup>**[[F-Droid](https://f-droid.org/packages/com.artifex.mupdfdemo)]**</sup>
 - [**CuprumPDF**](https://github.com/paride/CopperPDF) <sup>**[[F-Droid](https://f-droid.org/packages/org.ninthfloor.copperpdf)]**</sup>
