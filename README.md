@@ -188,7 +188,7 @@ Table of Contents
 - [**Omni-Notes**](https://federicoiosue.github.io/Omni-Notes/) <sup>**[[F-Droid](https://f-droid.org/packages/it.feio.android.omninotes.foss)]**</sup>
 - [**SealNote**](https://github.com/vishesh/sealnote) <sup>**[[F-Droid](https://f-droid.org/packages/com.twistedplane.sealnote)]**</sup>
 - [**Privacy Friendly Notes**](https://www.secuso.informatik.tu-darmstadt.de/en/secuso/research/results/privacy-friendly-apps/notes/) <sup>**[[F-Droid](https://f-droid.org/packages/org.secuso.privacyfriendlynotes)]**</sup>
-- [**Simple Notes**](https://github.com/SimpleMobileTools/Simple-Notes) <sup>**[[F-Droid](https://f-droid.org/packages/com.simplemobiletools.notes)]**</sup>
+- [**Simple Notes**](https://github.com/SimpleMobileTools/Simple-Notes) <sup>**[[F-Droid](https://f-droid.org/de/packages/com.simplemobiletools.notes.pro)]**</sup>
 - [**Notification Notes**](https://github.com/khuttun/NotificationNotes) <sup>**[[F-Droid](https://f-droid.org/packages/com.khuttun.notificationnotes)]**</sup>
 - [**Swiftnotes**](https://github.com/adrianchifor/Swiftnotes) <sup>**[[F-Droid](https://f-droid.org/packages/com.moonpi.swiftnotes)]**</sup>
 - [**uNote**](https://gitlab.com/Varlorg/uNote) <sup>**[[F-Droid](https://f-droid.org/packages/app.varlorg.unote)]**</sup>
