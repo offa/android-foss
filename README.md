@@ -80,11 +80,11 @@ Table of Contents
 
 
 ### • Contacts
-- [**Simple Contacts**](https://github.com/SimpleMobileTools/Simple-Contacts) <sup>**[[F-Droid](https://f-droid.org/de/packages/com.simplemobiletools.contacts.pro)]**</sup>
+- [**Simple Contacts**](https://github.com/SimpleMobileTools/Simple-Contacts) <sup>**[[F-Droid](https://f-droid.org/packages/com.simplemobiletools.contacts.pro)]**</sup>
 
 
 ### • Dialer
-- [**Emerald Dialer**](https://github.com/HenriDellal/emerald-dialer) <sup>**[[F-Droid](https://f-droid.org/de/packages/ru.henridellal.dialer)]**</sup>
+- [**Emerald Dialer**](https://github.com/HenriDellal/emerald-dialer) <sup>**[[F-Droid](https://f-droid.org/packages/ru.henridellal.dialer)]**</sup>
 
 
 ### • Document / PDF Viewer
@@ -100,9 +100,9 @@ Table of Contents
 
 ### • File Manager
 - [**Amaze**](https://github.com/arpitkh96/AmazeFileManager) <sup>**[[F-Droid](https://f-droid.org/packages/com.amaze.filemanager)]**</sup>
-- [**Simple File Manager**](https://github.com/SimpleMobileTools/Simple-File-Manager) <sup>**[[F-Droid](https://f-droid.org/de/packages/com.simplemobiletools.filemanager.pro)]**</sup>
+- [**Simple File Manager**](https://github.com/SimpleMobileTools/Simple-File-Manager) <sup>**[[F-Droid](https://f-droid.org/packages/com.simplemobiletools.filemanager.pro)]**</sup>
 - [**Dir**](https://github.com/veniosg/Dir) <sup>**[[F-Droid](https://f-droid.org/packages/com.veniosg.dir)]**</sup>
-- [**AnExplorer Pro**](https://github.com/1hakr/AnExplorer) <sup>**[[F-Droid](https://f-droid.org/de/packages/dev.dworks.apps.anexplorer.pro)]**</sup>
+- [**AnExplorer Pro**](https://github.com/1hakr/AnExplorer) <sup>**[[F-Droid](https://f-droid.org/packages/dev.dworks.apps.anexplorer.pro)]**</sup>
 
 
 ### • Flashlight
@@ -112,7 +112,7 @@ Table of Contents
 
 ### • Image Viewer & Gallery
 - [**LeafPic**](https://github.com/HoraApps/LeafPic) <sup>**[[F-Droid](https://f-droid.org/packages/org.horaapps.leafpic)]**</sup>
-- [**Simple Gallery**](https://github.com/SimpleMobileTools/Simple-Gallery) <sup>**[[F-Droid](https://f-droid.org/de/packages/com.simplemobiletools.gallery.pro)]**</sup>
+- [**Simple Gallery**](https://github.com/SimpleMobileTools/Simple-Gallery) <sup>**[[F-Droid](https://f-droid.org/packages/com.simplemobiletools.gallery.pro)]**</sup>
 - [**Camera Roll**](https://github.com/kollerlukas/Camera-Roll-Android-App) <sup>**[[F-Droid](https://f-droid.org/packages/us.koller.cameraroll)]**</sup>
 
 
@@ -138,7 +138,7 @@ Table of Contents
 - [**Silverfish**](https://github.com/stanipintjuk/Silverfish) <sup>**[[F-Droid](https://f-droid.org/packages/com.launcher.silverfish)]**</sup>
 - [**Simple App Launcher**](https://github.com/SimpleMobileTools/Simple-App-Launcher) <sup>**[[F-Droid](https://f-droid.org/packages/com.simplemobiletools.applauncher)]**</sup>
 - [**LaunchTime**](https://github.com/quaap/LaunchTime) <sup>**[[F-Droid](https://f-droid.org/packages/com.quaap.launchtime)]**</sup>
-- [**PaperLaunch**](https://github.com/devmil/PaperLaunch) <sup>**[[F-Droid](https://f-droid.org/de/packages/de.devmil.paperlaunch)]**</sup>
+- [**PaperLaunch**](https://github.com/devmil/PaperLaunch) <sup>**[[F-Droid](https://f-droid.org/packages/de.devmil.paperlaunch)]**</sup>
 - [**Emerald Launcher**](https://github.com/HenriDellal/emerald) <sup>**[[F-Droid](https://f-droid.org/packages/ru.henridellal.emerald)]**</sup>
 - [**Essential Launcher**](https://github.com/clemensbartz/essential-launcher) <sup>**[[F-Droid](https://f-droid.org/packages/de.clemensbartz.android.launcher)]**</sup>
 
@@ -179,7 +179,7 @@ Table of Contents
 - [**Music-Player**](https://github.com/andremion/Music-Player)
 - [**MaterialAudiobookPlayer**](https://github.com/PaulWoitaschek/MaterialAudiobookPlayer) <sup>**[[F-Droid](https://f-droid.org/packages/de.ph1b.audiobook)]**</sup>
 - [**Transistor**](https://github.com/y20k/transistor) <sup>**[[F-Droid](https://f-droid.org/packages/org.y20k.transistor)]**</sup>
-- [**Vinyl Music Player**](https://github.com/AdrienPoupa/VinylMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/de/packages/com.poupa.vinylmusicplayer)]**</sup>
+- [**Vinyl Music Player**](https://github.com/AdrienPoupa/VinylMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/packages/com.poupa.vinylmusicplayer)]**</sup>
 
 
 ### • Notes & Todo Lists
@@ -188,7 +188,7 @@ Table of Contents
 - [**Omni-Notes**](https://federicoiosue.github.io/Omni-Notes/) <sup>**[[F-Droid](https://f-droid.org/packages/it.feio.android.omninotes.foss)]**</sup>
 - [**SealNote**](https://github.com/vishesh/sealnote) <sup>**[[F-Droid](https://f-droid.org/packages/com.twistedplane.sealnote)]**</sup>
 - [**Privacy Friendly Notes**](https://www.secuso.informatik.tu-darmstadt.de/en/secuso/research/results/privacy-friendly-apps/notes/) <sup>**[[F-Droid](https://f-droid.org/packages/org.secuso.privacyfriendlynotes)]**</sup>
-- [**Simple Notes**](https://github.com/SimpleMobileTools/Simple-Notes) <sup>**[[F-Droid](https://f-droid.org/de/packages/com.simplemobiletools.notes.pro)]**</sup>
+- [**Simple Notes**](https://github.com/SimpleMobileTools/Simple-Notes) <sup>**[[F-Droid](https://f-droid.org/packages/com.simplemobiletools.notes.pro)]**</sup>
 - [**Notification Notes**](https://github.com/khuttun/NotificationNotes) <sup>**[[F-Droid](https://f-droid.org/packages/com.khuttun.notificationnotes)]**</sup>
 - [**Swiftnotes**](https://github.com/adrianchifor/Swiftnotes) <sup>**[[F-Droid](https://f-droid.org/packages/com.moonpi.swiftnotes)]**</sup>
 - [**uNote**](https://gitlab.com/Varlorg/uNote) <sup>**[[F-Droid](https://f-droid.org/packages/app.varlorg.unote)]**</sup>
