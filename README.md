@@ -112,7 +112,7 @@ Table of Contents
 
 ### • Image Viewer & Gallery
 - [**LeafPic**](https://github.com/HoraApps/LeafPic) <sup>**[[F-Droid](https://f-droid.org/packages/org.horaapps.leafpic)]**</sup>
-- [**Simple Gallery**](https://github.com/SimpleMobileTools/Simple-Gallery) <sup>**[[F-Droid](https://f-droid.org/packages/com.simplemobiletools.gallery)]**</sup>
+- [**Simple Gallery**](https://github.com/SimpleMobileTools/Simple-Gallery) <sup>**[[F-Droid](https://f-droid.org/de/packages/com.simplemobiletools.gallery.pro)]**</sup>
 - [**Camera Roll**](https://github.com/kollerlukas/Camera-Roll-Android-App) <sup>**[[F-Droid](https://f-droid.org/packages/us.koller.cameraroll)]**</sup>
 
 
