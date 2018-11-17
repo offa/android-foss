@@ -80,7 +80,7 @@ Table of Contents
 
 
 ### • Contacts
-- [**Simple Contacts**](https://github.com/SimpleMobileTools/Simple-Contacts) <sup>**[[F-Droid](https://f-droid.org/packages/com.simplemobiletools.contacts)]**</sup>
+- [**Simple Contacts**](https://github.com/SimpleMobileTools/Simple-Contacts) <sup>**[[F-Droid](https://f-droid.org/de/packages/com.simplemobiletools.contacts.pro)]**</sup>
 
 
 ### • Dialer
