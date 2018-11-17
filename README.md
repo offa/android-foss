@@ -100,7 +100,7 @@ Table of Contents
 
 ### • File Manager
 - [**Amaze**](https://github.com/arpitkh96/AmazeFileManager) <sup>**[[F-Droid](https://f-droid.org/packages/com.amaze.filemanager)]**</sup>
-- [**Simple File Manager**](https://github.com/SimpleMobileTools/Simple-File-Manager) <sup>**[[F-Droid](https://f-droid.org/packages/com.simplemobiletools.filemanager)]**</sup>
+- [**Simple File Manager**](https://github.com/SimpleMobileTools/Simple-File-Manager) <sup>**[[F-Droid](https://f-droid.org/de/packages/com.simplemobiletools.filemanager.pro)]**</sup>
 - [**Dir**](https://github.com/veniosg/Dir) <sup>**[[F-Droid](https://f-droid.org/packages/com.veniosg.dir)]**</sup>
 - [**AnExplorer Pro**](https://github.com/1hakr/AnExplorer) <sup>**[[F-Droid](https://f-droid.org/de/packages/dev.dworks.apps.anexplorer.pro)]**</sup>
 
