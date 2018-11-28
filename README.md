@@ -128,6 +128,7 @@ Table of Contents
     - [Russian Language Pack](https://github.com/AnySoftKeyboard/LanguagePack) <sup>**[[F-Droid](https://f-droid.org/packages/com.anysoftkeyboard.languagepack.russian2)]**</sup>
     - ...
 - [**Hacker's Keyboard**](https://github.com/klausw/hackerskeyboard) <sup>**[[F-Droid](https://f-droid.org/packages/org.pocketworkstation.pckeyboard)]**</sup>
+- [**BeHe Keyboard**](https://github.com/VladThodo/behe-keyboard) <sup>**[[F-Droid](https://f-droid.org/packages/com.vlath.keyboard)]**</sup>
 
 
 ### • Launcher & Desktop
