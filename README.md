@@ -165,6 +165,7 @@ Table of Contents
 - [**Silence**](https://github.com/SilenceIM/Silence) <sup>**[[F-Droid](https://f-droid.org/packages/org.smssecure.smssecure)]**</sup>
 - [**Ring**](https://ring.cx/) <sup>**[[F-Droid](https://f-droid.org/packages/cx.ring)]**</sup>
 - [**Kontalk**](https://github.com/kontalk/androidclient) <sup>**[[F-Droid](https://f-droid.org/packages/org.kontalk)]**</sup>
+- [**Pix-Art Messenger**](https://github.com/kriztan/Pix-Art-Messenger) <sup>**[[F-Droid](https://f-droid.org/de/packages/de.pixart.messenger)]**</sup>
 
 
 ### • Music Player
