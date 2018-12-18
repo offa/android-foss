@@ -43,7 +43,8 @@ Table of Contents
 
 ## – App Store –
 - [**F-Droid**](https://f-droid.org/) - Preferred way to install and update apps.
-- [**Fossdroid**](https://fossdroid.com/) - Attractive, web based client for F-Droid.
+- [**G-Droid**](https://f-droid.org/de/packages/org.gdroid.gdroid) - Alternative Client App for *F-Droid*.
+- [**Fossdroid**](https://fossdroid.com/) - Attractive, web based client for *F-Droid*.
 
 ------------------------
 
