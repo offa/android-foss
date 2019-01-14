@@ -149,6 +149,7 @@ Table of Contents
 ### • Mail
 - [**K-9 Mail**](https://github.com/k9mail/k-9) <sup>**[[F-Droid](https://f-droid.org/packages/com.fsck.k9)]**</sup>
 - [**K9 Material (unofficial)**](https://github.com/scoute-dich/K9-MailClient) <sup>**[[F-Droid](https://f-droid.org/packages/com.fsck.k9.material)]**</sup>
+- [**FairEmail**](https://github.com/M66B/open-source-email) <sup>**[[F-Droid](https://f-droid.org/app/eu.faircode.email)]**</sup>
 
 
 ### • Maps & Navigation
