@@ -20,6 +20,7 @@ Table of Contents
    * [Document / PDF Viewer](#-document--pdf-viewer)
    * [Drawing](#-drawing)
    * [File Manager](#-file-manager)
+   * [Firewall](#-firewall)
    * [Flashlight](#-flashlight)
    * [Image Viewer &amp; Gallery](#-image-viewer--gallery)
    * [Keyboard](#-keyboard)
@@ -104,6 +105,10 @@ Table of Contents
 - [**Simple File Manager**](https://github.com/SimpleMobileTools/Simple-File-Manager) <sup>**[[F-Droid](https://f-droid.org/packages/com.simplemobiletools.filemanager.pro)]**</sup>
 - [**Dir**](https://github.com/veniosg/Dir) <sup>**[[F-Droid](https://f-droid.org/packages/com.veniosg.dir)]**</sup>
 - [**AnExplorer Pro**](https://github.com/1hakr/AnExplorer) <sup>**[[F-Droid](https://f-droid.org/packages/dev.dworks.apps.anexplorer.pro)]**</sup>
+
+
+### • Firewall
+- [**NetGuard**](https://github.com/M66B/NetGuard) <sup>**[[F-Droid](https://f-droid.org/app/eu.faircode.netguard)]**</sup>
 
 
 ### • Flashlight
@@ -219,7 +224,6 @@ Table of Contents
 - [**OS Monitor**](https://github.com/eolwral/OSMonitor) <sup>**[[F-Droid](https://f-droid.org/packages/com.eolwral.osmonitor)]**</sup>
 - [**BackgroundRestrictor**](https://github.com/MrBIMC/RunInBackgroundPermissionSetter) <sup>**[[F-Droid](https://f-droid.org/packages/com.pavelsikun.runinbackgroundpermissionsetter)]**</sup>
 - [**Privacy Friendly Net Monitor**](https://www.secuso.informatik.tu-darmstadt.de/en/secuso/research/results/privacy-friendly-apps/net-monitor/) <sup>**[[F-Droid](https://f-droid.org/packages/org.secuso.privacyfriendlynetmonitor)]**</sup>
-- [**NetGuard**](https://github.com/M66B/NetGuard) <sup>**[[F-Droid](https://f-droid.org/app/eu.faircode.netguard)]**</sup>
 
 
 ### • Weather
