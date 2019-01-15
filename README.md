@@ -108,7 +108,7 @@ Table of Contents
 
 
 ### • Firewall
-- [**AFWall+**](https://github.com/ukanth/afwall) <sup>**[[F-Droid](https://f-droid.org/de/packages/dev.ukanth.ufirewall)]**</sup>
+- [**AFWall+**](https://github.com/ukanth/afwall) <sup>**[[F-Droid](https://f-droid.org/app/dev.ukanth.ufirewall)]**</sup>
 - [**NetGuard**](https://github.com/M66B/NetGuard) <sup>**[[F-Droid](https://f-droid.org/app/eu.faircode.netguard)]**</sup>
 
 
