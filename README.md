@@ -20,6 +20,7 @@ Table of Contents
    * [Document / PDF Viewer](#-document--pdf-viewer)
    * [Drawing](#-drawing)
    * [File Manager](#-file-manager)
+   * [Firewall](#-firewall)
    * [Flashlight](#-flashlight)
    * [Image Viewer &amp; Gallery](#-image-viewer--gallery)
    * [Keyboard](#-keyboard)
@@ -106,6 +107,11 @@ Table of Contents
 - [**AnExplorer Pro**](https://github.com/1hakr/AnExplorer) <sup>**[[F-Droid](https://f-droid.org/app/dev.dworks.apps.anexplorer.pro)]**</sup>
 
 
+### • Firewall
+- [**AFWall+**](https://github.com/ukanth/afwall) <sup>**[[F-Droid](https://f-droid.org/de/packages/dev.ukanth.ufirewall)]**</sup>
+- [**NetGuard**](https://github.com/M66B/NetGuard) <sup>**[[F-Droid](https://f-droid.org/app/eu.faircode.netguard)]**</sup>
+
+
 ### • Flashlight
 - [**Simple Flashlight**](https://github.com/SimpleMobileTools/Simple-Flashlight) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.flashlight)]**</sup>
 - [**Privacy Friendly Torchlight**](https://www.secuso.informatik.tu-darmstadt.de/en/secuso/research/results/privacy-friendly-apps/torchlight-app/) <sup>**[[F-Droid](https://f-droid.org/app/com.secuso.torchlight2)]**</sup>
@@ -149,6 +155,7 @@ Table of Contents
 ### • Mail
 - [**K-9 Mail**](https://github.com/k9mail/k-9) <sup>**[[F-Droid](https://f-droid.org/app/com.fsck.k9)]**</sup>
 - [**K9 Material (unofficial)**](https://github.com/scoute-dich/K9-MailClient) <sup>**[[F-Droid](https://f-droid.org/app/com.fsck.k9.material)]**</sup>
+- [**FairEmail**](https://github.com/M66B/open-source-email) <sup>**[[F-Droid](https://f-droid.org/app/eu.faircode.email)]**</sup>
 
 
 ### • Maps & Navigation
