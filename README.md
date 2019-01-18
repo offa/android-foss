@@ -167,6 +167,7 @@ Table of Contents
 
 ### • Media Frontends
 - [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) <sup>**[[F-Droid](https://f-droid.org/app/org.schabi.newpipe)]**</sup>
+- [**SkyTube**](https://github.com/ram-on/SkyTube) <sup>**[[F-Droid](https://f-droid.org/app/free.rm.skytube.oss)]**</sup>
 
 
 ### • Messaging
