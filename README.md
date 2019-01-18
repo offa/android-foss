@@ -253,4 +253,5 @@ Table of Contents
 - [**F-Droid**](https://f-droid.org/)
 - [**Fossdroid**](https://fossdroid.com/)
 - [**CellularPrivacy – Recommendations**](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Recommendations)
+- [**List of free and open-source Android applications**](https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications)
 
