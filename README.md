@@ -90,7 +90,7 @@ Table of Contents
 
 
 ### • Document / PDF Viewer
-- [**MuPDF**](http://mupdf.com/) <sup>**[[F-Droid](https://f-droid.org/app/com.artifex.mupdfdemo)]**</sup>
+- [**MuPDF**](http://mupdf.com/) <sup>**[[F-Droid](https://f-droid.org/app/com.artifex.mupdf.viewer.app)]**</sup>
 - [**CuprumPDF**](https://github.com/paride/CopperPDF) <sup>**[[F-Droid](https://f-droid.org/app/org.ninthfloor.copperpdf)]**</sup>
 - [**PDFreader4Android**](https://droidapps.github.io/pdfreader4Android/) <sup>**[[F-Droid](https://f-droid.org/app/io.github.droidapps.pdfreader)]**</sup>
 - [**Document Viewer**](https://github.com/PrivacyApps/document-viewer) <sup>**[[F-Droid](https://f-droid.org/app/org.sufficientlysecure.viewer)]**</sup>
