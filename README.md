@@ -181,7 +181,7 @@ Table of Contents
 - [**Pix-Art Messenger**](https://github.com/kriztan/Pix-Art-Messenger) <sup>**[[F-Droid](https://f-droid.org/app/de.pixart.messenger)]**</sup>
 
 
-### • Music Player
+### • Music & Audio Player
 - [**Odyssey**](https://github.com/gateship-one/odyssey) <sup>**[[F-Droid](https://f-droid.org/app/org.gateshipone.odyssey)]**</sup>
 - [**Vanilla Music**](http://vanillamusic.io/) <sup>**[[F-Droid](https://f-droid.org/app/ch.blinkenlights.android.vanilla)]**</sup>
     - [Cover Fetcher](http://vanillamusic.io/) <sup>**[[F-Droid](https://f-droid.org/app/com.kanedias.vanilla.coverfetch)]**</sup>
@@ -194,6 +194,7 @@ Table of Contents
 - [**MaterialAudiobookPlayer**](https://github.com/PaulWoitaschek/MaterialAudiobookPlayer) <sup>**[[F-Droid](https://f-droid.org/app/de.ph1b.audiobook)]**</sup>
 - [**Transistor**](https://github.com/y20k/transistor) <sup>**[[F-Droid](https://f-droid.org/app/org.y20k.transistor)]**</sup>
 - [**Vinyl Music Player**](https://github.com/AdrienPoupa/VinylMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/app/com.poupa.vinylmusicplayer)]**</sup>
+- [**Audio Anchor**](https://github.com/flackbash/AudioAnchor) <sup>**[[F-Droid](https://f-droid.org/app/com.prangesoftwaresolutions.audioanchor)]**</sup>
 
 
 ### • Notes & Todo Lists
