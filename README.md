@@ -34,6 +34,7 @@ Table of Contents
    * [SMS](#-sms)
    * [Synchronisation](#-synchronisation)
    * [System](#-system)
+   * [Video Player](#-video-player)
    * [Weather](#-weather)
 * [Rooting and Recovery](#-rooting-and-recovery-)
 * [Tutorials and Guides](#-tutorials-and-guides-)
@@ -231,6 +232,10 @@ Table of Contents
 - [**OS Monitor**](https://github.com/eolwral/OSMonitor) <sup>**[[F-Droid](https://f-droid.org/app/com.eolwral.osmonitor)]**</sup>
 - [**BackgroundRestrictor**](https://github.com/MrBIMC/RunInBackgroundPermissionSetter) <sup>**[[F-Droid](https://f-droid.org/app/com.pavelsikun.runinbackgroundpermissionsetter)]**</sup>
 - [**Privacy Friendly Net Monitor**](https://www.secuso.informatik.tu-darmstadt.de/en/secuso/research/results/privacy-friendly-apps/net-monitor/) <sup>**[[F-Droid](https://f-droid.org/app/org.secuso.privacyfriendlynetmonitor)]**</sup>
+
+
+### • Video Player
+- [**VLC**](https://www.videolan.org/vlc/download-android.html) <sup>**[[F-Droid](https://f-droid.org/app/org.videolan.vlc)]**</sup>
 
 
 ### • Weather
