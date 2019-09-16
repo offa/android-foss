@@ -31,6 +31,7 @@ Table of Contents
    * [Messaging](#-messaging)
    * [Music Player](#-music-player)
    * [Notes &amp; Todo Lists](#-notes--todo-lists)
+   * [Security](#-security)
    * [SMS](#-sms)
    * [Synchronisation](#-synchronisation)
    * [System](#-system)
@@ -213,6 +214,11 @@ Table of Contents
 - [**NoteBuddy**](https://github.com/YoeriNijs/NoteBuddy) <sup>**[[F-Droid](https://f-droid.org/app/nl.yoerinijs.notebuddy)]**</sup>
 - [**Material Notes**](https://github.com/BijoySingh/Material-Notes-Android-App) <sup>**[[F-Droid](https://f-droid.org/app/com.bijoysingh.quicknote)]**</sup>
 - [**Markor**](https://github.com/gsantner/markor) <sup>**[[F-Droid](https://f-droid.org/app/net.gsantner.markor)]**</sup>
+
+
+### • Security
+- [**FreeOTP+**](https://github.com/helloworld1/FreeOTPPlus) <sup>**[[F-Droid](https://f-droid.org/app/org.liberty.android.freeotpplus)]**</sup>
+- [**andOTP**](https://github.com/andOTP/andOTP) <sup>**[[F-Droid](https://f-droid.org/app/org.shadowice.flocke.andotp)]**</sup>
 
 
 ### • SMS
