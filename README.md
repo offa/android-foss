@@ -169,6 +169,7 @@ Table of Contents
   - [Contour Lines and Hillshade](http://osmand.net/features?id=contour-lines-plugin) <sup>**[[F-Droid](https://f-droid.org/app/net.osmand.srtmPlugin.paid)]**</sup>
   - [Parking Spot](http://osmand.net/features?id=parking-plugin) <sup>**[[F-Droid](https://f-droid.org/app/net.osmand.parkingPlugin)]**</sup>
 - [**Maps.ME**](https://maps.me/en/home)
+- [**Transportr**](https://github.com/grote/transportr) <sup>**[[F-Droid](https://f-droid.org/app/de.grobox.liberario)]**</sup>
 
 
 ### • Media Frontends
