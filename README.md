@@ -144,7 +144,7 @@ Table of Contents
 
 ### • Launcher & Desktop
 - [**OpenLauncher**](https://github.com/BennyKok/OpenLauncher) <sup>**[[F-Droid](https://f-droid.org/app/com.benny.openlauncher)]**</sup>
-- [**Lawnchair**](https://github.com/LawnchairLauncher/Lawnchair) <sup>**[[F-Droid](https://f-droid.org/app/ch.deletescape.lawnchair.plah)]**</sup>
+- [**Lawnchair**](https://github.com/LawnchairLauncher/Lawnchair)
 - [**ZimLX**](https://github.com/otakuhqz/ZimLX) <sup>**[[F-Droid](https://f-droid.org/app/org.zimmob.zimlx)]**</sup>
 - [**Hayai**](https://github.com/seizonsenryaku/HayaiLauncher) <sup>**[[F-Droid](https://f-droid.org/app/com.hayaisoftware.launcher)]**</sup>
 - [**KISS**](http://kisslauncher.com/) <sup>**[[F-Droid](https://f-droid.org/app/fr.neamar.kiss)]**</sup>
