@@ -155,7 +155,7 @@ Table of Contents
 - [**PaperLaunch**](https://github.com/devmil/PaperLaunch) <sup>**[[F-Droid](https://f-droid.org/app/de.devmil.paperlaunch)]**</sup>
 - [**Emerald Launcher**](https://github.com/HenriDellal/emerald) <sup>**[[F-Droid](https://f-droid.org/app/ru.henridellal.emerald)]**</sup>
 - [**Essential Launcher**](https://github.com/clemensbartz/essential-launcher) <sup>**[[F-Droid](https://f-droid.org/app/de.clemensbartz.android.launcher)]**</sup>
-
+- [**Rootless Pixel Launcher**](https://github.com/amirzaidi/Launcher3) <sup>**[[F-Droid](https://f-droid.org/app/amirz.rootless.nexuslauncher)]**</sup>
 
 
 ### • Mail
