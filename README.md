@@ -200,6 +200,7 @@ Table of Contents
 - [**Transistor**](https://github.com/y20k/transistor) <sup>**[[F-Droid](https://f-droid.org/app/org.y20k.transistor)]**</sup>
 - [**Vinyl Music Player**](https://github.com/AdrienPoupa/VinylMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/app/com.poupa.vinylmusicplayer)]**</sup>
 - [**Audio Anchor**](https://github.com/flackbash/AudioAnchor) <sup>**[[F-Droid](https://f-droid.org/app/com.prangesoftwaresolutions.audioanchor)]**</sup>
+- [**Escapepod**](https://github.com/y20k/escapepod) <sup>**[[F-Droid](https://f-droid.org/app/org.y20k.escapepod)]**</sup>
 
 
 ### • Notes & Todo Lists
