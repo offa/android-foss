@@ -109,6 +109,7 @@ Table of Contents
 - [**Simple File Manager**](https://github.com/SimpleMobileTools/Simple-File-Manager) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.filemanager.pro)]**</sup>
 - [**Dir**](https://github.com/veniosg/Dir) <sup>**[[F-Droid](https://f-droid.org/app/com.veniosg.dir)]**</sup>
 - [**AnExplorer Pro**](https://github.com/1hakr/AnExplorer) <sup>**[[F-Droid](https://f-droid.org/app/dev.dworks.apps.anexplorer.pro)]**</sup>
+- [**Material Files**](https://github.com/zhanghai/MaterialFiles) <sup>**[[F-Droid](https://f-droid.org/app/me.zhanghai.android.files)]**</sup>
 
 
 ### • Firewall
