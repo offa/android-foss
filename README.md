@@ -219,6 +219,7 @@ Table of Contents
 - [**Material Notes**](https://github.com/BijoySingh/Material-Notes-Android-App) <sup>**[[F-Droid](https://f-droid.org/app/com.bijoysingh.quicknote)]**</sup>
 - [**Markor**](https://github.com/gsantner/markor) <sup>**[[F-Droid](https://f-droid.org/app/net.gsantner.markor)]**</sup>
 - [**ToDoList**](https://github.com/Webierta/ToDoList) <sup>**[[F-Droid](https://f-droid.org/app/com.android.todolist)]**</sup>
+- [**1List**](https://github.com/lolo-io/OneList) <sup>**[[F-Droid](https://f-droid.org/app/com.lolo.io.onelist)]**</sup>
 
 
 ### • Security
