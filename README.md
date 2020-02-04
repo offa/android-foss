@@ -247,6 +247,7 @@ Table of Contents
 - [**Privacy Friendly Net Monitor**](https://www.secuso.informatik.tu-darmstadt.de/en/secuso/research/results/privacy-friendly-apps/net-monitor/) <sup>**[[F-Droid](https://f-droid.org/app/org.secuso.privacyfriendlynetmonitor)]**</sup>
 - [**Shelter**](https://git.angry.im/PeterCxy/Shelter) <sup>**[[F-Droid](https://f-droid.org/en/packages/net.typeblog.shelter)]**</sup>
 - [**SuperFreezZ**](https://gitlab.com/SuperFreezZ/SuperFreezZ) <sup>**[[F-Droid](https://f-droid.org/app/superfreeze.tool.android)]**</sup>
+- [**Blockada**](https://github.com/blokadaorg/blokada) <sup>**[[F-Droid](https://f-droid.org/app/org.blokada.alarm)]**</sup>
 
 
 ### • Video Player
@@ -280,4 +281,3 @@ Table of Contents
 - [**Guardian Project**](https://guardianproject.info/)
 - [**CellularPrivacy – Recommendations**](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Recommendations)
 - [**List of free and open-source Android applications**](https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications)
-
