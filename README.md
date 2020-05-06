@@ -82,6 +82,7 @@ Table of Contents
 ### • Clock & Time
 - [**Clock+**](https://github.com/philliphsu/ClockPlus) <sup>**[[F-Droid](https://f-droid.org/app/com.philliphsu.clock2)]**</sup>
 - [**Talalarmo**](https://github.com/trikita/talalarmo) <sup>**[[F-Droid](https://f-droid.org/app/trikita.talalarmo)]**</sup>
+- [**Simple Clock**](https://github.com/SimpleMobileTools/Simple-Clock) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.clock)]**</sup>
 
 
 ### • Contacts
