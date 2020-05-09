@@ -45,10 +45,11 @@ Table of Contents
 
 
 ## – App Store –
-- [**F-Droid**](https://f-droid.org/) - Preferred way to install and update apps.
-    - [**G-Droid**](https://f-droid.org/app/org.gdroid.gdroid) - Alternative Client App for *F-Droid*.
-    - [**M-Droid**](https://f-droid.org/app/com.mdroid) - Alternative Client App for *F-Droid*.
-    - [**Fossdroid**](https://fossdroid.com/) - Attractive, web based client for *F-Droid*.
+- [**F-Droid**](https://f-droid.org/)
+    - Alternative clients:
+        - [**G-Droid**](https://f-droid.org/app/org.gdroid.gdroid)
+        - [**M-Droid**](https://f-droid.org/app/com.mdroid)
+        - [**Fossdroid**](https://fossdroid.com/)
 
 ------------------------
 
