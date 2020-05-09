@@ -50,6 +50,7 @@ Table of Contents
         - [**G-Droid**](https://f-droid.org/app/org.gdroid.gdroid)
         - [**M-Droid**](https://f-droid.org/app/com.mdroid)
         - [**Fossdroid**](https://fossdroid.com/)
+        - [**Aurora Droid**](https://gitlab.com/AuroraOSS/auroradroid) <sup>**[[F-Droid](https://f-droid.org/app/com.aurora.adroid)]**</sup>
 
 ------------------------
 
