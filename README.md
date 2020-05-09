@@ -10,7 +10,7 @@ Table of Contents
 
 * [App Store](#-app-store-)
 * [Apps](#-apps-)
-   * [Internet](#-internet)
+   * [Browser](#-browser)
    * [Calculator](#-calculator)
    * [Calendar](#-calendar)
    * [Camera](#-camera)
@@ -56,7 +56,7 @@ Table of Contents
 
 ## – Apps –
 
-### • Internet
+### • Browser
 - [**Firefox**](https://www.mozilla.org/firefox/android/)
 - [**Firefox Klar**](https://www.mozilla.org/firefox/android/) <sup>**[[F-Droid](https://f-droid.org/app/org.mozilla.klar)]**</sup>
 - [**FFUpdater**](https://notabug.org/Tobiwan/ffupdater) <sup>**[[F-Droid](https://f-droid.org/app/de.marmaro.krt.ffupdater)]**</sup>
