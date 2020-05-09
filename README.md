@@ -46,11 +46,10 @@ Table of Contents
 
 ## – App Store –
 - [**F-Droid**](https://f-droid.org/)
-    - Alternative clients:
-        - [**G-Droid**](https://gitlab.com/gdroid/gdroidclient/) <sup>**[[F-Droid](https://f-droid.org/app/org.gdroid.gdroid)]**</sup>
-        - [**M-Droid**](https://github.com/SkyzohKey/M-Droid) <sup>**[[F-Droid](https://f-droid.org/app/com.mdroid)]**</sup>
-        - [**Aurora Droid**](https://gitlab.com/AuroraOSS/auroradroid) <sup>**[[F-Droid](https://f-droid.org/app/com.aurora.adroid)]**</sup>
-        - [**Fossdroid**](https://fossdroid.com/)
+    - [**G-Droid**](https://gitlab.com/gdroid/gdroidclient/) <sup>**[[F-Droid](https://f-droid.org/app/org.gdroid.gdroid)]**</sup>
+    - [**M-Droid**](https://github.com/SkyzohKey/M-Droid) <sup>**[[F-Droid](https://f-droid.org/app/com.mdroid)]**</sup>
+    - [**Aurora Droid**](https://gitlab.com/AuroraOSS/auroradroid) <sup>**[[F-Droid](https://f-droid.org/app/com.aurora.adroid)]**</sup>
+    - [**Fossdroid**](https://fossdroid.com/)
 
 ------------------------
 
