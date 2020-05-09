@@ -59,7 +59,7 @@ Table of Contents
 ### • Internet
 - [**Firefox**](https://www.mozilla.org/firefox/android/)
 - [**Firefox Klar**](https://www.mozilla.org/firefox/android/) <sup>**[[F-Droid](https://f-droid.org/app/org.mozilla.klar)]**</sup>
-- [**FFUpdater**](https://gitlab.com/krt/ffupdater) <sup>**[[F-Droid](https://f-droid.org/app/de.marmaro.krt.ffupdater)]**</sup>
+- [**FFUpdater**](https://notabug.org/Tobiwan/ffupdater) <sup>**[[F-Droid](https://f-droid.org/app/de.marmaro.krt.ffupdater)]**</sup>
 - [**Chromium SWE Updater**](https://forum.xda-developers.com/android/apps-games/app-code-aurora-s-chromium-swe-browser-t3603932) <sup>**[[F-Droid](https://f-droid.org/app/chromiumupdater.bamless.com.chromiumsweupdater)]**</sup>
 - [**Lightning**](http://acrdevelopment.org/) <sup>**[[F-Droid](https://f-droid.org/app/acr.browser.lightning)]**</sup>
 
