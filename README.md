@@ -228,6 +228,7 @@ Table of Contents
 ### • Security
 - [**FreeOTP+**](https://github.com/helloworld1/FreeOTPPlus) <sup>**[[F-Droid](https://f-droid.org/app/org.liberty.android.freeotpplus)]**</sup>
 - [**andOTP**](https://github.com/andOTP/andOTP) <sup>**[[F-Droid](https://f-droid.org/app/org.shadowice.flocke.andotp)]**</sup>
+- [**KeePassDX**](https://github.com/Kunzisoft/KeePassDX) <sup>**[[F-Droid](https://f-droid.org/app/com.kunzisoft.keepass.libre)]**</sup>
 
 
 ### • SMS
