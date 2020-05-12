@@ -61,6 +61,7 @@ Table of Contents
 - [**FFUpdater**](https://notabug.org/Tobiwan/ffupdater) <sup>**[[F-Droid](https://f-droid.org/app/de.marmaro.krt.ffupdater)]**</sup>
 - [**Chromium SWE Updater**](https://forum.xda-developers.com/android/apps-games/app-code-aurora-s-chromium-swe-browser-t3603932) <sup>**[[F-Droid](https://f-droid.org/app/chromiumupdater.bamless.com.chromiumsweupdater)]**</sup>
 - [**Lightning**](http://acrdevelopment.org/) <sup>**[[F-Droid](https://f-droid.org/app/acr.browser.lightning)]**</sup>
+- [**Bromite**](https://www.bromite.org/)
 
 
 ### • Calculator
@@ -229,6 +230,8 @@ Table of Contents
 - [**FreeOTP+**](https://github.com/helloworld1/FreeOTPPlus) <sup>**[[F-Droid](https://f-droid.org/app/org.liberty.android.freeotpplus)]**</sup>
 - [**andOTP**](https://github.com/andOTP/andOTP) <sup>**[[F-Droid](https://f-droid.org/app/org.shadowice.flocke.andotp)]**</sup>
 - [**KeePassDX**](https://github.com/Kunzisoft/KeePassDX) <sup>**[[F-Droid](https://f-droid.org/app/com.kunzisoft.keepass.libre)]**</sup>
+- [**Aegis**](https://getaegis.app/) <sup>**[[F-Droid](https://f-droid.org/app/com.beemdevelopment.aegis)]**</sup>
+
 
 
 ### • SMS
