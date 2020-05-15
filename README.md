@@ -225,6 +225,7 @@ Table of Contents
 - [**Markor**](https://github.com/gsantner/markor) <sup>**[[F-Droid](https://f-droid.org/app/net.gsantner.markor)]**</sup>
 - [**ToDoList**](https://github.com/Webierta/ToDoList) <sup>**[[F-Droid](https://f-droid.org/app/com.android.todolist)]**</sup>
 - [**1List**](https://github.com/lolo-io/OneList) <sup>**[[F-Droid](https://f-droid.org/app/com.lolo.io.onelist)]**</sup>
+- [**OpenTasks**](https://github.com/dmfs/opentasks) <sup>**[[F-Droid](https://f-droid.org/app/org.dmfs.tasks)]**</sup>
 
 
 ### • Security
