@@ -101,6 +101,7 @@ Table of Contents
 - [**PDFreader4Android**](https://droidapps.github.io/pdfreader4Android/) <sup>**[[F-Droid](https://f-droid.org/app/io.github.droidapps.pdfreader)]**</sup>
 - [**Document Viewer**](https://github.com/PrivacyApps/document-viewer) <sup>**[[F-Droid](https://f-droid.org/app/org.sufficientlysecure.viewer)]**</sup>
 - [**Book Reader**](https://gitlab.com/axet/android-book-reader) <sup>**[[F-Droid](https://f-droid.org/app/com.github.axet.bookreader)]**</sup>
+- [**Pdf Viewer Plus**](https://github.com/JavaCafe01/PdfViewer) <sup>**[[F-Droid](https://f-droid.org/app/com.gsnathan.pdfviewer)]**</sup>
 
 
 ### • Drawing
