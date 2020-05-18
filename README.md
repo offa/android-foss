@@ -239,6 +239,7 @@ Table of Contents
 
 ### • SMS
 - [**QKSMS**](https://github.com/moezbhatti/qksms) <sup>**[[F-Droid](https://f-droid.org/app/com.moez.QKSMS)]**</sup>
+- [**Simple SMS Messenger**](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.smsmessenger)]**</sup>
 
 
 ### • Synchronisation
