@@ -262,6 +262,7 @@ Table of Contents
 
 ### • Video Player
 - [**VLC**](https://www.videolan.org/vlc/download-android.html) <sup>**[[F-Droid](https://f-droid.org/app/org.videolan.vlc)]**</sup>
+- [**mpv for Android**](https://github.com/mpv-android/mpv-android)
 
 
 ### • Weather
