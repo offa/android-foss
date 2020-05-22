@@ -30,7 +30,7 @@ Table of Contents
    * [Media Frontends](#-media-frontends)
    * [Messaging](#-messaging)
    * [Music](#-music)
-   * [Music Player](#-music-player)
+   * [Music &amp; Audio Player](#-music--audio-player)
    * [Notes &amp; Todo Lists](#-notes--todo-lists)
    * [Security](#-security)
    * [SMS](#-sms)
