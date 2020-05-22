@@ -29,6 +29,7 @@ Table of Contents
    * [Maps &amp; Navigation](#-maps--navigation)
    * [Media Frontends](#-media-frontends)
    * [Messaging](#-messaging)
+   * [Music](#-music)
    * [Music Player](#-music-player)
    * [Notes &amp; Todo Lists](#-notes--todo-lists)
    * [Security](#-security)
@@ -192,6 +193,10 @@ Table of Contents
 - [**Ring**](https://ring.cx/) <sup>**[[F-Droid](https://f-droid.org/app/cx.ring)]**</sup>
 - [**Kontalk**](https://github.com/kontalk/androidclient) <sup>**[[F-Droid](https://f-droid.org/app/org.kontalk)]**</sup>
 - [**Pix-Art Messenger**](https://github.com/kriztan/Pix-Art-Messenger) <sup>**[[F-Droid](https://f-droid.org/app/de.pixart.messenger)]**</sup>
+
+
+### • Music
+- [**Metronome**](https://github.com/thetwom/toc2) <sup>**[[F-Droid](https://f-droid.org/app/de.moekadu.metronome)]**</sup>
 
 
 ### • Music & Audio Player
