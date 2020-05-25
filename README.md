@@ -15,6 +15,7 @@ Table of Contents
    * [Calendar](#-calendar)
    * [Camera](#-camera)
    * [Clock &amp; Time](#-clock--time)
+   * [Community Clients](#-community-clients)
    * [Contacts](#-contacts)
    * [Dialer](#-dialer)
    * [Document / PDF Viewer](#-document--pdf-viewer)
@@ -86,6 +87,10 @@ Table of Contents
 - [**Clock+**](https://github.com/philliphsu/ClockPlus) <sup>**[[F-Droid](https://f-droid.org/app/com.philliphsu.clock2)]**</sup>
 - [**Talalarmo**](https://github.com/trikita/talalarmo) <sup>**[[F-Droid](https://f-droid.org/app/trikita.talalarmo)]**</sup>
 - [**Simple Clock**](https://github.com/SimpleMobileTools/Simple-Clock) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.clock)]**</sup>
+
+
+### • Community Clients
+- [**Slide**](https://github.com/ccrama/Slide) <sup>**[[F-Droid](https://f-droid.org/app/me.ccrama.redditslide)]**</sup>
 
 
 ### • Contacts
