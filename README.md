@@ -10,6 +10,7 @@ Table of Contents
 
 * [App Store](#-app-store-)
 * [Apps](#-apps-)
+   * [Automation](#-automation)
    * [Browser](#-browser)
    * [Calculator](#-calculator)
    * [Calendar](#-calendar)
@@ -56,6 +57,9 @@ Table of Contents
 ------------------------
 
 ## – Apps –
+
+### • Automation
+- [**Easer**](https://github.com/renyuneyun/Easer) <sup>**[[F-Droid](https://f-droid.org/app/ryey.easer)]**</sup>
 
 ### • Browser
 - [**Firefox**](https://www.mozilla.org/firefox/android/)
