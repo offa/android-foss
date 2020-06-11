@@ -19,7 +19,7 @@ Table of Contents
    * [Community Clients](#-community-clients)
    * [Contacts](#-contacts)
    * [Dialer](#-dialer)
-   * [Document / PDF Viewer](#-document--pdf-viewer)
+   * [Document &amp; PDF Viewer](#-document--pdf-viewer)
    * [Drawing](#-drawing)
    * [File Manager](#-file-manager)
    * [Firewall](#-firewall)
@@ -106,7 +106,7 @@ Table of Contents
 - [**Simple Dialer**](https://github.com/SimpleMobileTools/Simple-Dialer) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.dialer)]**</sup>
 
 
-### • Document / PDF Viewer
+### • Document & PDF Viewer
 - [**MuPDF**](http://mupdf.com/) <sup>**[[F-Droid](https://f-droid.org/app/com.artifex.mupdf.viewer.app)]**</sup>
 - [**Document Viewer**](https://github.com/PrivacyApps/document-viewer) <sup>**[[F-Droid](https://f-droid.org/app/org.sufficientlysecure.viewer)]**</sup>
 - [**Book Reader**](https://gitlab.com/axet/android-book-reader) <sup>**[[F-Droid](https://f-droid.org/app/com.github.axet.bookreader)]**</sup>
