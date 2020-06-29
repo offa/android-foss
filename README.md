@@ -31,6 +31,7 @@ Table of Contents
    * [Maps &amp; Navigation](#-maps--navigation)
    * [Media Frontends](#-media-frontends)
    * [Messaging](#-messaging)
+   * [Miscellaneous](#-miscellaneous)
    * [Music](#-music)
    * [Music &amp; Audio Player](#-music--audio-player)
    * [Notes &amp; Todo Lists](#-notes--todo-lists)
@@ -203,6 +204,10 @@ Table of Contents
 - [**Pix-Art Messenger**](https://github.com/kriztan/Pix-Art-Messenger) <sup>**[[F-Droid](https://f-droid.org/app/de.pixart.messenger)]**</sup>
 
 
+### • Miscellaneous
+- [**KouChat**](https://github.com/blurpy/kouchat-android) <sup>**[[F-Droid](https://f-droid.org/app/net.usikkert.kouchat.android)]**</sup>
+
+
 ### • Music
 - [**Metronome**](https://github.com/thetwom/toc2) <sup>**[[F-Droid](https://f-droid.org/app/de.moekadu.metronome)]**</sup>
 
@@ -249,7 +254,6 @@ Table of Contents
 - [**KeePassDX**](https://github.com/Kunzisoft/KeePassDX) <sup>**[[F-Droid](https://f-droid.org/app/com.kunzisoft.keepass.libre)]**</sup>
 - [**Aegis**](https://getaegis.app/) <sup>**[[F-Droid](https://f-droid.org/app/com.beemdevelopment.aegis)]**</sup>
 - [**Bitwarden Mobile**](https://github.com/bitwarden/mobile)
-
 
 
 ### • SMS
