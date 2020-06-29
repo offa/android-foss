@@ -34,7 +34,7 @@ Table of Contents
    * [Music](#-music)
    * [Music &amp; Audio Player](#-music--audio-player)
    * [Notes &amp; Todo Lists](#-notes--todo-lists)
-   * [Security](#-security)
+   * [Password &amp; Authentication](#-password--authentication)
    * [SMS](#-sms)
    * [Synchronisation](#-synchronisation)
    * [System](#-system)
@@ -243,7 +243,7 @@ Table of Contents
 - [**OpenTasks**](https://github.com/dmfs/opentasks) <sup>**[[F-Droid](https://f-droid.org/app/org.dmfs.tasks)]**</sup>
 
 
-### • Security
+### • Password & Authentication
 - [**FreeOTP+**](https://github.com/helloworld1/FreeOTPPlus) <sup>**[[F-Droid](https://f-droid.org/app/org.liberty.android.freeotpplus)]**</sup>
 - [**andOTP**](https://github.com/andOTP/andOTP) <sup>**[[F-Droid](https://f-droid.org/app/org.shadowice.flocke.andotp)]**</sup>
 - [**KeePassDX**](https://github.com/Kunzisoft/KeePassDX) <sup>**[[F-Droid](https://f-droid.org/app/com.kunzisoft.keepass.libre)]**</sup>
