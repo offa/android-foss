@@ -22,6 +22,7 @@ Table of Contents
    * [Document &amp; PDF Viewer](#-document--pdf-viewer)
    * [Drawing](#-drawing)
    * [File Manager](#-file-manager)
+   * [File Sharing](#-file-sharing)
    * [Firewall](#-firewall)
    * [Flashlight](#-flashlight)
    * [Image Viewer &amp; Gallery](#-image-viewer--gallery)
@@ -125,6 +126,10 @@ Table of Contents
 - [**Dir**](https://github.com/veniosg/Dir) <sup>**[[F-Droid](https://f-droid.org/app/com.veniosg.dir)]**</sup>
 - [**AnExplorer Pro**](https://github.com/1hakr/AnExplorer) <sup>**[[F-Droid](https://f-droid.org/app/dev.dworks.apps.anexplorer.pro)]**</sup>
 - [**Material Files**](https://github.com/zhanghai/MaterialFiles) <sup>**[[F-Droid](https://f-droid.org/app/me.zhanghai.android.files)]**</sup>
+
+
+### • File Sharing
+- [**TrebleShot**](https://github.com/trebleshot/android) <sup>**[[F-Droid](https://f-droid.org/app/com.genonbeta.TrebleShot)]**</sup>
 
 
 ### • Firewall
