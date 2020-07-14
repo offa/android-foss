@@ -178,6 +178,7 @@ Table of Contents
 - [**Essential Launcher**](https://github.com/clemensbartz/essential-launcher) <sup>**[[F-Droid](https://f-droid.org/app/de.clemensbartz.android.launcher)]**</sup>
 - [**Rootless Pixel Launcher**](https://github.com/amirzaidi/Launcher3) <sup>**[[F-Droid](https://f-droid.org/app/amirz.rootless.nexuslauncher)]**</sup>
 - [**BlissLauncher**](https://gitlab.e.foundation/e/apps/BlissLauncher) <sup>**[[F-Droid](https://f-droid.org/app/foundation.e.blisslauncher)]**</sup>
+- [**Posidon Launcher**](https://github.com/leoxshn/posidonLauncher) <sup>**[[F-Droid](https://f-droid.org/app/posidon.launcher)]**</sup>
 
 
 ### • Mail
