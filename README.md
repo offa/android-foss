@@ -71,6 +71,7 @@ Table of Contents
 - [**Chromium SWE Updater**](https://forum.xda-developers.com/android/apps-games/app-code-aurora-s-chromium-swe-browser-t3603932) <sup>**[[F-Droid](https://f-droid.org/app/chromiumupdater.bamless.com.chromiumsweupdater)]**</sup>
 - [**Lightning**](http://acrdevelopment.org/) <sup>**[[F-Droid](https://f-droid.org/app/acr.browser.lightning)]**</sup>
 - [**Bromite**](https://www.bromite.org/)
+- [**DuckDuckGo Privacy Browser**](https://github.com/duckduckgo/Android) <sup>**[[F-Droid](https://f-droid.org/app/com.duckduckgo.mobile.android)]**</sup>
 
 
 ### • Calculator
