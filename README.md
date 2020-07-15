@@ -138,7 +138,6 @@ Table of Contents
 
 ### • Flashlight
 - [**Simple Flashlight**](https://github.com/SimpleMobileTools/Simple-Flashlight) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.flashlight)]**</sup>
-- [**Privacy Friendly Torchlight**](https://www.secuso.informatik.tu-darmstadt.de/en/secuso/research/results/privacy-friendly-apps/torchlight-app/) <sup>**[[F-Droid](https://f-droid.org/app/com.secuso.torchlight2)]**</sup>
 
 
 ### • Image Viewer & Gallery
