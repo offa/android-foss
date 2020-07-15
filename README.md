@@ -104,7 +104,6 @@ Table of Contents
 
 
 ### • Dialer
-- [**Emerald Dialer**](https://github.com/HenriDellal/emerald-dialer) <sup>**[[F-Droid](https://f-droid.org/app/ru.henridellal.dialer)]**</sup>
 - [**Simple Dialer**](https://github.com/SimpleMobileTools/Simple-Dialer) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.dialer)]**</sup>
 
 
