@@ -83,7 +83,6 @@ Table of Contents
 ### • Calendar
 - [**Etar**](https://github.com/Etar-Group/Etar-Calendar) <sup>**[[F-Droid](https://f-droid.org/app/ws.xsoh.etar)]**</sup>
 - [**Simple Calendar**](https://github.com/SimpleMobileTools/Simple-Calendar) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.calendar)]**</sup>
-- [**Offline Calendar**](https://github.com/PrivacyApps/offline-calendar) <sup>**[[F-Droid](https://f-droid.org/app/org.sufficientlysecure.localcalendar)]**</sup>
 
 
 ### • Camera
