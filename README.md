@@ -160,6 +160,7 @@ Table of Contents
 - [**BeHe Keyboard**](https://github.com/VladThodo/behe-keyboard) <sup>**[[F-Droid](https://f-droid.org/app/com.vlath.keyboard)]**</sup>
 - [**Trime**](https://github.com/osfans/trime) <sup>**[[F-Droid](https://f-droid.org/app/com.osfans.trime)]**</sup>
 - [**Simple Keyboard**](https://github.com/rkkr/simple-keyboard) <sup>**[[F-Droid](https://f-droid.org/app/rkr.simplekeyboard.inputmethod)]**</sup>
+- [**OpenBoard**](https://github.com/dslul/openboard) <sup>**[[F-Droid](https://f-droid.org/app/org.dslul.openboard.inputmethod.latin)]**</sup>
 
 
 ### • Launcher & Desktop
