@@ -10,6 +10,7 @@ Table of Contents
 
 * [App Store](#-app-store-)
 * [Apps](#-apps-)
+   * [Ad Blocker](#-ad-blocker)
    * [Automation](#-automation)
    * [Browser](#-browser)
    * [Calculator](#-calculator)
@@ -60,6 +61,10 @@ Table of Contents
 ------------------------
 
 ## – Apps –
+
+### • Ad Blocker
+- [**Blockada**](https://github.com/blokadaorg/blokada) <sup>**[[F-Droid](https://f-droid.org/app/org.blokada.alarm)]**</sup>
+- [**AdAway**](https://github.com/AdAway/AdAway) <sup>**[[F-Droid](https://f-droid.org/app/org.adaway)]**</sup>
 
 ### • Automation
 - [**Easer**](https://github.com/renyuneyun/Easer) <sup>**[[F-Droid](https://f-droid.org/app/ryey.easer)]**</sup>
