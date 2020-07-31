@@ -21,6 +21,7 @@ Table of Contents
    * [Contacts](#-contacts)
    * [Dialer](#-dialer)
    * [Document &amp; PDF Viewer](#-document--pdf-viewer)
+   * [Document Scanner](#-document-scanner)
    * [Drawing](#-drawing)
    * [File Manager](#-file-manager)
    * [File Sharing](#-file-sharing)
@@ -119,6 +120,11 @@ Table of Contents
 - [**Document Viewer**](https://github.com/PrivacyApps/document-viewer) <sup>**[[F-Droid](https://f-droid.org/app/org.sufficientlysecure.viewer)]**</sup>
 - [**Book Reader**](https://gitlab.com/axet/android-book-reader) <sup>**[[F-Droid](https://f-droid.org/app/com.github.axet.bookreader)]**</sup>
 - [**Pdf Viewer Plus**](https://github.com/JavaCafe01/PdfViewer) <sup>**[[F-Droid](https://f-droid.org/app/com.gsnathan.pdfviewer)]**</sup>
+
+
+### • Document Scanner
+- [**OpenNoteScanner**](https://github.com/ctodobom/OpenNoteScanner) <sup>**[[F-Droid](https://f-droid.org/app/com.todobom.opennotescanner)]**</sup>
+- [**Docus**](https://github.com/Breta01/docus) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.bretahajek.docus)]**</sup>
 
 
 ### • Drawing
