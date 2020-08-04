@@ -124,7 +124,6 @@ Table of Contents
 
 ### • Document Scanner
 - [**OpenNoteScanner**](https://github.com/ctodobom/OpenNoteScanner) <sup>**[[F-Droid](https://f-droid.org/app/com.todobom.opennotescanner)]**</sup>
-- [**Docus**](https://github.com/Breta01/docus) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.bretahajek.docus)]**</sup>
 
 
 ### • Drawing
