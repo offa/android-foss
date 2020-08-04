@@ -11,4 +11,7 @@ Each listed software has to meet following criteria:
 1. Documentation available (Project website etc.)
 1. Free of charge
 
-It's also useful if it's already available on *F-Droid*. If not yet, it's also a good idea to promote this to the projects developer.
+
+If the packages is available on [**F-Droid**](https://f-droid.org/) it can be linked using the `https://f-droid.org/app/<APP>` url. If not yet, it's a good idea to promote this to the projects developer.
+
+Please do not submit third party repositories.
