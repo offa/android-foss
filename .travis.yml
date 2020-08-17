@@ -1,6 +1,6 @@
 language: generic
 
-dist: bionic
+dist: focal
 
 script:
   - ./check.sh
