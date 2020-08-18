@@ -179,7 +179,6 @@ Table of Contents
 ### • Launcher & Desktop
 - [**OpenLauncher**](https://github.com/BennyKok/OpenLauncher) <sup>**[[F-Droid](https://f-droid.org/app/com.benny.openlauncher)]**</sup>
 - [**Lawnchair**](https://github.com/LawnchairLauncher/Lawnchair)
-- [**ZimLX**](https://github.com/otakuhqz/ZimLX) <sup>**[[F-Droid](https://f-droid.org/app/org.zimmob.zimlx)]**</sup>
 - [**KISS**](http://kisslauncher.com/) <sup>**[[F-Droid](https://f-droid.org/app/fr.neamar.kiss)]**</sup>
 - [**Search Based Launcher**](https://github.com/vackosar/search-based-launcher/) <sup>**[[F-Droid](https://f-droid.org/app/com.vackosar.searchbasedlauncher)]**</sup>
 - [**Silverfish**](https://github.com/stanipintjuk/Silverfish) <sup>**[[F-Droid](https://f-droid.org/app/com.launcher.silverfish)]**</sup>
