@@ -53,7 +53,7 @@ Doing the update isn't that difficult: Reset some system partitions, install ***
 
 ## – Long Version –
 
-At first double check your backups and the prerequisites listed above. 
+At first double check your backups and the prerequisites listed above.
 
 
 ### Step 1 – Preparation
@@ -150,4 +150,5 @@ That's it!
 
 ## – Further information –
 
- - [A manual OTA for rooted hammerheads, quasi](https://gist.github.com/eyecatchup/ec0a852428c19705380e)
+- [Magisk – OTA Upgrade Guide](https://topjohnwu.github.io/Magisk/ota.html)
+- [A manual OTA for rooted hammerheads, quasi](https://gist.github.com/eyecatchup/ec0a852428c19705380e)
