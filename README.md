@@ -94,7 +94,7 @@ Table of Contents
 
 ### • Calendar
 - [**Etar**](https://github.com/Etar-Group/Etar-Calendar) <sup>**[[F-Droid](https://f-droid.org/app/ws.xsoh.etar)]**</sup>
-- [**Simple Calendar**](https://github.com/SimpleMobileTools/Simple-Calendar) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.calendar)]**</sup>
+- [**Simple Calendar**](https://github.com/SimpleMobileTools/Simple-Calendar) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.calendar.pro)]**</sup>
 
 
 ### • Camera
@@ -136,7 +136,7 @@ Table of Contents
 
 
 ### • Drawing
-- [**Simple Draw**](https://github.com/SimpleMobileTools/Simple-Draw) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.draw)]**</sup>
+- [**Simple Draw**](https://github.com/SimpleMobileTools/Simple-Draw) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.draw.pro)]**</sup>
 
 
 ### • File Manager
@@ -300,7 +300,7 @@ Table of Contents
 - [**EteSync**](https://github.com/etesync/android) <sup>**[[F-Droid](https://f-droid.org/app/com.etesync.syncadapter)]**</sup>
 - [**Syncthing**](https://github.com/syncthing/syncthing-android) <sup>**[[F-Droid](https://f-droid.org/app/com.nutomic.syncthingandroid)]**</sup>
 - [**ownCloud**](https://github.com/owncloud/android) <sup>**[[F-Droid](https://f-droid.org/app/com.owncloud.android)]**</sup>
-- [**Seafile**](https://github.com/haiwen/seadroid) <sup>**[[F-Droid](https://f-droid.org/app/com.seafile.seadroid)]**</sup>
+- [**Seafile**](https://github.com/haiwen/seadroid) <sup>**[[F-Droid](https://f-droid.org/app/com.seafile.seadroid2)]**</sup>
 - [**Syncopoli**](https://gitlab.com/fengshaun/syncopoli) <sup>**[[F-Droid](https://f-droid.org/app/org.amoradi.syncopoli)]**</sup>
 
 
