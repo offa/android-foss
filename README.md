@@ -296,7 +296,7 @@ Table of Contents
 
 ### • Synchronisation
 - [**aCalDAV**](https://github.com/ennswi/AndroidCaldavSyncAdapater) <sup>**[[F-Droid](https://f-droid.org/app/de.we.acaldav)]**</sup>
-- [**DAVdroid**](https://gitlab.com/bitfireAT/davdroid) <sup>**[[F-Droid](https://f-droid.org/app/at.bitfire.davdroid)]**</sup>
+- [**DAVdroid**](https://gitlab.com/bitfireAT/davx5-ose) <sup>**[[F-Droid](https://f-droid.org/app/at.bitfire.davdroid)]**</sup>
 - [**EteSync**](https://github.com/etesync/android) <sup>**[[F-Droid](https://f-droid.org/app/com.etesync.syncadapter)]**</sup>
 - [**Syncthing**](https://github.com/syncthing/syncthing-android) <sup>**[[F-Droid](https://f-droid.org/app/com.nutomic.syncthingandroid)]**</sup>
 - [**ownCloud**](https://github.com/owncloud/android) <sup>**[[F-Droid](https://f-droid.org/app/com.owncloud.android)]**</sup>
