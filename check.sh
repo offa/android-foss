@@ -1,36 +1,52 @@
 #!/bin/bash
 
-set extglob
-
 SOURCE_FILE=README.md
 
-FDROID_SETTINGS=$( \
-            grep -ni "https://f-droid.org/packages" ${SOURCE_FILE} \
-            | sed "s/.*https:\/\/f-droid.org\/packages\///g" \
-            | sed "s/)].*/;/g" \
-            )
+LINKS=$(grep "http" "$SOURCE_FILE" \
+| grep -oP "http.*" \
+| sed "s|)$||" \
+| sed "s|) .*||" \
+| grep -v img.shields.io \
+| grep -v travis-ci.org)
 
+mapfile -t LINKS <<< "$LINKS"
 
-FAILED=0
+for link in "${LINKS[@]}"
+do
+    echo "Testing $link"
+    STATUS_CODE="$(curl -LI "$link" -o /dev/null -w '%{http_code}\n' -s)"
+    if [[ "$STATUS_CODE" != "200" ]]
+    then
+        FALSE_LINKS+=("$link")
+    fi
+done
 
-while IFS=';' read -ra TOK; do
-    for i in "${TOK[@]}"; do
-        echo -ne "Check '${i}' ... "
+FDROID_LINKS=$(grep -oP "https://f-droid.*" "$SOURCE_FILE" \
+| sed "s|)].*||" \
+| grep -v "https://f-droid.org/)")
 
-        if [[ "${i}" =~ ^([[:alnum:]]|[\._-])+$ ]];
-        then
-            echo -e "\e[0;32m OK \e[0m"
-        else
-            echo -e "\e[0;31m INVALID \e[0m"
-            let "FAILED += 1"
-        fi
+mapfile -t FDROID_LINKS <<< "$FDROID_LINKS"
 
-    done
-done <<< "${FDROID_SETTINGS}"
+for link in "${FDROID_LINKS[@]}"
+do
+    echo "Testing $link"
+    STATUS_CODE="$(curl -LI "$link" -o /dev/null -w '%{http_code}\n' -s)"
+    if [[ "$STATUS_CODE" != "200" ]]
+    then
+        FALSE_LINKS+=("$link")
+    fi
+done
 
-if [[ ${FAILED} -ge 1 ]];
+if [ -n "${FALSE_LINKS[*]}" ]
 then
-    echo "Invalid Urls: ${FAILED}"
+    clear
+    echo "Some links weren't reachable."
+    for link in "${FALSE_LINKS[@]}"
+    do
+        echo "$link"
+    done
     exit 1
+else
+    echo "No false link was found"
 fi
 
