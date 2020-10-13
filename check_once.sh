@@ -11,6 +11,15 @@ LINKS=$(grep "http" "$SOURCE_FILE" \
 
 mapfile -t LINKS <<< "$LINKS"
 
+for link in "${LINKS[@]}"
+do
+    echo "Testing $link"
+    STATUS_CODE="$(curl -LI "$link" -o /dev/null -w '%{http_code}\n' -s)"
+    if [[ "$STATUS_CODE" != "200" ]]
+    then
+        FALSE_LINKS+=("$link")
+    fi
+done
 
 FDROID_LINKS=$(grep -oP "https://f-droid.*" "$SOURCE_FILE" \
 | sed "s|)].*||" \
@@ -18,34 +27,19 @@ FDROID_LINKS=$(grep -oP "https://f-droid.*" "$SOURCE_FILE" \
 
 mapfile -t FDROID_LINKS <<< "$FDROID_LINKS"
 
-count=0
-while [ "$count" -lt 1000 ]
+for link in "${FDROID_LINKS[@]}"
 do
-    link="${LINKS[$count]}"
-    if [ -n "$link" ]
+    echo "Testing $link"
+    STATUS_CODE="$(curl -LI "$link" -o /dev/null -w '%{http_code}\n' -s)"
+    if [[ "$STATUS_CODE" != "200" ]]
     then
-        echo "Testing $link"
-        STATUS_CODE=$(curl -LI "$link" -o /dev/null -w '%{http_code}\n' -s)
-        if [[ "$STATUS_CODE" != "200" ]]
-        then
-            FALSE_LINKS+=("$link")
-        fi
+        FALSE_LINKS+=("$link")
     fi
-    link="${FDROID_LINKS[$count]}"
-    if [ -n "$link" ]
-    then
-        echo "Testing $link"
-        STATUS_CODE=$(curl -LI "$link" -o /dev/null -w '%{http_code}\n' -s)
-        if [[ "$STATUS_CODE" != "200" ]]
-        then
-            FALSE_LINKS+=("$link")
-        fi
-    fi
-    ((count++))
 done
 
 if [ -n "${FALSE_LINKS[*]}" ]
 then
+    clear
     echo "Some links weren't reachable."
     for link in "${FALSE_LINKS[@]}"
     do
@@ -55,3 +49,4 @@ then
 else
     echo "No false link was found"
 fi
+
