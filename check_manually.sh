@@ -1,7 +1,5 @@
 #!/bin/bash
 
-wget https://raw.githubusercontent.com/offa/android-foss/master/README.md
-
 SOURCE_FILE=README.md
 
 LINKS=$(grep "http" "$SOURCE_FILE" \
