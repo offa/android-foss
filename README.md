@@ -301,6 +301,7 @@ Table of Contents
 - [**ownCloud**](https://github.com/owncloud/android) <sup>**[[F-Droid](https://f-droid.org/app/com.owncloud.android)]**</sup>
 - [**Seafile**](https://github.com/haiwen/seadroid) <sup>**[[F-Droid](https://f-droid.org/app/com.seafile.seadroid2)]**</sup>
 - [**Syncopoli**](https://gitlab.com/fengshaun/syncopoli) <sup>**[[F-Droid](https://f-droid.org/app/org.amoradi.syncopoli)]**</sup>
+- [**Nextcloud**](https://github.com/nextcloud/android) <sup>**[[F-Droid](https://f-droid.org/app/com.nextcloud.client)]**</sup>
 
 
 ### • System
