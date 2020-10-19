@@ -37,12 +37,13 @@ Table of Contents
    * [Miscellaneous](#-miscellaneous)
    * [Music](#-music)
    * [Music &amp; Audio Player](#-music--audio-player)
-   * [Notes &amp; Todo Lists](#-notes--todo-lists)
+   * [Notes](#-notes)
    * [Office](#-office)
    * [Password &amp; Authentication](#-password--authentication)
    * [SMS](#-sms)
    * [Synchronisation](#-synchronisation)
    * [System](#-system)
+   * [Todo Lists](#-todo-lists)
    * [Utilities](#-utilities)
    * [Video Player](#-video-player)
    * [Weather](#-weather)
@@ -256,24 +257,16 @@ Table of Contents
 - [**Music Player GO**](https://github.com/enricocid/Music-Player-GO) <sup>**[[F-Droid](https://f-droid.org/app/com.iven.musicplayergo)]**</sup>
 
 
-### • Notes & Todo Lists
-- [**Minimal-Todo**](https://github.com/rubenroy/Minimal-Todo) <sup>**[[F-Droid](https://f-droid.org/app/com.rubenroy.minimaltodo)]**</sup>
-- [**Memento**](https://github.com/yaa110/Memento) <sup>**[[F-Droid](https://f-droid.org/app/github.yaa110.memento)]**</sup>
+### • Notes
 - [**Omni-Notes**](https://federicoiosue.github.io/Omni-Notes/) <sup>**[[F-Droid](https://f-droid.org/app/it.feio.android.omninotes.foss)]**</sup>
-- [**SealNote**](https://github.com/vishesh/sealnote) <sup>**[[F-Droid](https://f-droid.org/app/com.twistedplane.sealnote)]**</sup>
 - [**Privacy Friendly Notes**](https://www.secuso.informatik.tu-darmstadt.de/en/secuso/research/results/privacy-friendly-apps/notes/) <sup>**[[F-Droid](https://f-droid.org/app/org.secuso.privacyfriendlynotes)]**</sup>
 - [**Simple Notes**](https://github.com/SimpleMobileTools/Simple-Notes) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.notes.pro)]**</sup>
 - [**Notification Notes**](https://github.com/khuttun/NotificationNotes) <sup>**[[F-Droid](https://f-droid.org/app/com.khuttun.notificationnotes)]**</sup>
-- [**Swiftnotes**](https://github.com/adrianchifor/Swiftnotes) <sup>**[[F-Droid](https://f-droid.org/app/com.moonpi.swiftnotes)]**</sup>
 - [**uNote**](https://gitlab.com/Varlorg/uNote) <sup>**[[F-Droid](https://f-droid.org/app/app.varlorg.unote)]**</sup>
 - [**NoteCrypt**](https://github.com/RyuzakiKK/NoteCrypt) <sup>**[[F-Droid](https://f-droid.org/app/com.notecryptpro)]**</sup>
 - [**NoteBuddy**](https://github.com/YoeriNijs/NoteBuddy) <sup>**[[F-Droid](https://f-droid.org/app/nl.yoerinijs.notebuddy)]**</sup>
 - [**Material Notes**](https://github.com/BijoySingh/Material-Notes-Android-App) <sup>**[[F-Droid](https://f-droid.org/app/com.bijoysingh.quicknote)]**</sup>
 - [**Markor**](https://github.com/gsantner/markor) <sup>**[[F-Droid](https://f-droid.org/app/net.gsantner.markor)]**</sup>
-- [**ToDoList**](https://github.com/Webierta/ToDoList) <sup>**[[F-Droid](https://f-droid.org/app/com.android.todolist)]**</sup>
-- [**1List**](https://github.com/lolo-io/OneList) <sup>**[[F-Droid](https://f-droid.org/app/com.lolo.io.onelist)]**</sup>
-- [**OpenTasks**](https://github.com/dmfs/opentasks) <sup>**[[F-Droid](https://f-droid.org/app/org.dmfs.tasks)]**</sup>
-- [**Tasks.org**](https://github.com/tasks/tasks) <sup>**[[F-Droid](https://f-droid.org/app/org.tasks)]**</sup>
 
 
 ### • Office
@@ -313,6 +306,14 @@ Table of Contents
 - [**Blockada**](https://github.com/blokadaorg/blokada) <sup>**[[F-Droid](https://f-droid.org/app/org.blokada.alarm)]**</sup>
 - [**AppManager**](https://github.com/MuntashirAkon/AppManager) <sup>**[[F-Droid](https://f-droid.org/app/io.github.muntashirakon.AppManager)]**</sup>
 - [**CPU Info**](https://github.com/kamgurgul/cpu-info) <sup>**[[F-Droid](https://f-droid.org/app/com.kgurgul.cpuinfo)]**</sup>
+
+
+### • ToDo Lists
+- [**Minimal-Todo**](https://github.com/rubenroy/Minimal-Todo) <sup>**[[F-Droid](https://f-droid.org/app/com.rubenroy.minimaltodo)]**</sup>
+- [**ToDoList**](https://github.com/Webierta/ToDoList) <sup>**[[F-Droid](https://f-droid.org/app/com.android.todolist)]**</sup>
+- [**1List**](https://github.com/lolo-io/OneList) <sup>**[[F-Droid](https://f-droid.org/app/com.lolo.io.onelist)]**</sup>
+- [**OpenTasks**](https://github.com/dmfs/opentasks) <sup>**[[F-Droid](https://f-droid.org/app/org.dmfs.tasks)]**</sup>
+- [**Tasks.org**](https://github.com/tasks/tasks) <sup>**[[F-Droid](https://f-droid.org/app/org.tasks)]**</sup>
 
 
 ### • Utilities
