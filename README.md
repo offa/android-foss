@@ -183,7 +183,7 @@ Table of Contents
 - [**Trime**](https://github.com/osfans/trime) <sup>**[[F-Droid](https://f-droid.org/app/com.osfans.trime)]**</sup>
 - [**Simple Keyboard**](https://github.com/rkkr/simple-keyboard) <sup>**[[F-Droid](https://f-droid.org/app/rkr.simplekeyboard.inputmethod)]**</sup>
 - [**OpenBoard**](https://github.com/dslul/openboard) <sup>**[[F-Droid](https://f-droid.org/app/org.dslul.openboard.inputmethod.latin)]**</sup>
-
+- [**Indic Keyboard**](https://gitlab.com/indicproject/indic-keyboard) <sup>**[[F-Droid](https://f-droid.org/packages/org.smc.inputmethod.indic)]**</sup>
 
 ### • Launcher & Desktop
 - [**OpenLauncher**](https://github.com/BennyKok/OpenLauncher) <sup>**[[F-Droid](https://f-droid.org/app/com.benny.openlauncher)]**</sup>
