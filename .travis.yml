@@ -1,6 +1,0 @@
-language: generic
-
-dist: focal
-
-script:
-  - ./check.sh
