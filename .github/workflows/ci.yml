@@ -1,0 +1,13 @@
+name: ci
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Check
+    steps:
+      - name: Checkout
+        uses: actions/checkout@master
+      - name: Check
+        run: ./check.sh
