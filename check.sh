@@ -5,8 +5,8 @@ set extglob
 SOURCE_FILE=README.md
 
 FDROID_SETTINGS=$( \
-            grep -ni "https://f-droid.org/packages" ${SOURCE_FILE} \
-            | sed "s/.*https:\/\/f-droid.org\/packages\///g" \
+            grep -ni "https://f-droid.org/app" ${SOURCE_FILE} \
+            | sed "s/.*https:\/\/f-droid.org\/app\///g" \
             | sed "s/)].*/;/g" \
             )
 
@@ -33,4 +33,3 @@ then
     echo "Invalid Urls: ${FAILED}"
     exit 1
 fi
-
