@@ -328,6 +328,7 @@ Table of Contents
 - [**mpv for Android**](https://github.com/mpv-android/mpv-android)
 - [**Nova Video Player**](https://github.com/nova-video-player/aos-AVP) <sup>**[[F-Droid](https://f-droid.org/app/org.courville.nova)]**</sup>
 - [**Just (Video) Player**](https://github.com/moneytoo/Player) <sup>**[[F-Droid](https://f-droid.org/app/com.brouken.player)]**</sup>
+- [**Fermata Media Player**](https://github.com/AndreyPavlenko/Fermata)
 
 
 ### • Weather
