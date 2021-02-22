@@ -344,7 +344,7 @@ Table of Contents
 
 ## – Rooting and Recovery –
 
-- [**Magisk**](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
+- [**Magisk**](https://github.com/topjohnwu/Magisk)
 - [**TWRP**](https://twrp.me/)
 
 ------------------------
