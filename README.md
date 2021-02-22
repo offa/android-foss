@@ -272,6 +272,7 @@ Table of Contents
 - [**NoteBuddy**](https://github.com/YoeriNijs/NoteBuddy) <sup>**[[F-Droid](https://f-droid.org/app/nl.yoerinijs.notebuddy)]**</sup>
 - [**Material Notes**](https://github.com/BijoySingh/Material-Notes-Android-App) <sup>**[[F-Droid](https://f-droid.org/app/com.bijoysingh.quicknote)]**</sup>
 - [**Markor**](https://github.com/gsantner/markor) <sup>**[[F-Droid](https://f-droid.org/app/net.gsantner.markor)]**</sup>
+- [**Notally**](https://github.com/OmGodse/Notally) <sup>**[[F-Droid](https://f-droid.org/app/com.omgodse.notally)]**</sup>
 
 
 ### • Office
