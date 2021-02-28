@@ -258,7 +258,7 @@ Table of Contents
 - [**Escapepod**](https://github.com/y20k/escapepod) <sup>**[[F-Droid](https://f-droid.org/app/org.y20k.escapepod)]**</sup>
 - [**Music Player GO**](https://github.com/enricocid/Music-Player-GO) <sup>**[[F-Droid](https://f-droid.org/app/com.iven.musicplayergo)]**</sup>
 - [**Pulse Music**](https://github.com/HardcodeCoder/PulseMusic) <sup>**[[F-Droid](https://f-droid.org/app/com.hardcodecoder.pulsemusic)]**</sup>
-
+- [**Tsacdop**](https://github.com/stonega/tsacdop) <sup>**[[F-Droid](https:/f-droid.org/app/com.stonegate.tsacop)]**</sup>
 
 ### • Notes
 - [**Omni-Notes**](https://federicoiosue.github.io/Omni-Notes/) <sup>**[[F-Droid](https://f-droid.org/app/it.feio.android.omninotes.foss)]**</sup>
