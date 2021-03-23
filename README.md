@@ -256,6 +256,7 @@ Table of Contents
 - [**Vinyl Music Player**](https://github.com/AdrienPoupa/VinylMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/app/com.poupa.vinylmusicplayer)]**</sup>
 - [**Music Player GO**](https://github.com/enricocid/Music-Player-GO) <sup>**[[F-Droid](https://f-droid.org/app/com.iven.musicplayergo)]**</sup>
 - [**Pulse Music**](https://github.com/HardcodeCoder/PulseMusic) <sup>**[[F-Droid](https://f-droid.org/app/com.hardcodecoder.pulsemusic)]**</sup>
+- [**Retro Music Player**](https://github.com/h4h13/RetroMusicPlayer)
 
 ### • Notes
 - [**Omni-Notes**](https://federicoiosue.github.io/Omni-Notes/) <sup>**[[F-Droid](https://f-droid.org/app/it.feio.android.omninotes.foss)]**</sup>
