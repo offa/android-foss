@@ -238,6 +238,7 @@ Table of Contents
 - [**Simple Voice Recorder**](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.voicerecorder)]**</sup>
 - [**KouChat**](https://github.com/blurpy/kouchat-android) <sup>**[[F-Droid](https://f-droid.org/app/net.usikkert.kouchat.android)]**</sup>
 - [**Tachiyomi**](https://github.com/inorichi/tachiyomi) <sup>**[[F-Droid](https://f-droid.org/app/eu.kanade.tachiyomi)]**</sup>
+- [**Feeder**](https://gitlab.com/spacecowboy/Feeder) <sup>**[[F-Droid](https://f-droid.org/app/com.nononsenseapps.feeder)]**</sup>
 
 
 ### • Music
