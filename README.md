@@ -131,6 +131,7 @@ Table of Contents
 - [**Book Reader**](https://gitlab.com/axet/android-book-reader) <sup>**[[F-Droid](https://f-droid.org/app/com.github.axet.bookreader)]**</sup>
 - [**Pdf Viewer Plus**](https://github.com/JavaCafe01/PdfViewer) <sup>**[[F-Droid](https://f-droid.org/app/com.gsnathan.pdfviewer)]**</sup>
 - [**Librera Reader**](https://github.com/foobnix/LibreraReader) <sup>**[[F-Droid](https://f-droid.org/app/com.foobnix.pro.pdf.reader)]**</sup>
+- [**KOReader**](https://github.com/koreader/koreader) <sup>**[[F-Droid](https://f-droid.org/app/org.koreader.launcher)]**</sup>
 
 
 ### • Document Scanner
@@ -200,6 +201,7 @@ Table of Contents
 - [**Rootless Pixel Launcher**](https://github.com/amirzaidi/Launcher3) <sup>**[[F-Droid](https://f-droid.org/app/amirz.rootless.nexuslauncher)]**</sup>
 - [**BlissLauncher**](https://gitlab.e.foundation/e/apps/BlissLauncher) <sup>**[[F-Droid](https://f-droid.org/app/foundation.e.blisslauncher)]**</sup>
 - [**Posidon Launcher**](https://github.com/leoxshn/posidonLauncher) <sup>**[[F-Droid](https://f-droid.org/app/posidon.launcher)]**</sup>
+- [**Discreet Launcher**](https://github.com/falzonv/discreet-launcher) <sup>**[[F-Droid](https://f-droid.org/app/com.vincent_falzon.discreetlauncher)]**</sup>
 
 
 ### • Mail
@@ -236,6 +238,7 @@ Table of Contents
 - [**Simple Voice Recorder**](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.voicerecorder)]**</sup>
 - [**KouChat**](https://github.com/blurpy/kouchat-android) <sup>**[[F-Droid](https://f-droid.org/app/net.usikkert.kouchat.android)]**</sup>
 - [**Tachiyomi**](https://github.com/inorichi/tachiyomi) <sup>**[[F-Droid](https://f-droid.org/app/eu.kanade.tachiyomi)]**</sup>
+- [**Feeder**](https://gitlab.com/spacecowboy/Feeder) <sup>**[[F-Droid](https://f-droid.org/app/com.nononsenseapps.feeder)]**</sup>
 
 
 ### • Music
