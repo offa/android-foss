@@ -122,6 +122,7 @@ Table of Contents
 
 
 ### • Dialer
+- [**Koler**](https://github.com/Chooloo/koler)
 - [**Simple Dialer**](https://github.com/SimpleMobileTools/Simple-Dialer) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.dialer)]**</sup>
 
 
