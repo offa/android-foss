@@ -101,7 +101,7 @@ Table of Contents
 ### • Camera
 - [**Open Camera**](http://opencamera.sourceforge.net/) <sup>**[[F-Droid](https://f-droid.org/app/net.sourceforge.opencamera)]**</sup>
 - [**Simple Camera**](https://github.com/SimpleMobileTools/Simple-Camera) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.camera)]**</sup>
-
+- [**Photon Camera**](https://github.com/eszdman/PhotonCamera)
 
 ### • Clock & Time
 - [**Clock+**](https://github.com/philliphsu/ClockPlus) <sup>**[[F-Droid](https://f-droid.org/app/com.philliphsu.clock2)]**</sup>
