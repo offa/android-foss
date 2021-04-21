@@ -260,6 +260,7 @@ Table of Contents
 - [**Pulse Music**](https://github.com/HardcodeCoder/PulseMusic) <sup>**[[F-Droid](https://f-droid.org/app/com.hardcodecoder.pulsemusic)]**</sup>
 - [**Odeon**](https://github.com/thibseisel/android-odeon) <sup>**[[F-Droid](https://f-droid.org/app/fr.nihilus.music)]**</sup>
 
+
 ### • Notes
 - [**Omni-Notes**](https://federicoiosue.github.io/Omni-Notes/) <sup>**[[F-Droid](https://f-droid.org/app/it.feio.android.omninotes.foss)]**</sup>
 - [**Privacy Friendly Notes**](https://github.com/SecUSo/privacy-friendly-notes) <sup>**[[F-Droid](https://f-droid.org/app/org.secuso.privacyfriendlynotes)]**</sup>
@@ -270,6 +271,7 @@ Table of Contents
 - [**Material Notes**](https://github.com/BijoySingh/Material-Notes-Android-App) <sup>**[[F-Droid](https://f-droid.org/app/com.bijoysingh.quicknote)]**</sup>
 - [**Markor**](https://github.com/gsantner/markor) <sup>**[[F-Droid](https://f-droid.org/app/net.gsantner.markor)]**</sup>
 - [**Notally**](https://github.com/OmGodse/Notally) <sup>**[[F-Droid](https://f-droid.org/app/com.omgodse.notally)]**</sup>
+- [**neutriNote**](https://github.com/appml/neutrinote) <sup>**[[F-Droid](https://f-droid.org/app/com.appmindlab.nano)]**</sup>
 
 
 ### • Office
