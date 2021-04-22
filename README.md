@@ -101,7 +101,7 @@ Table of Contents
 ### • Camera
 - [**Open Camera**](http://opencamera.sourceforge.net/) <sup>**[[F-Droid](https://f-droid.org/app/net.sourceforge.opencamera)]**</sup>
 - [**Simple Camera**](https://github.com/SimpleMobileTools/Simple-Camera) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.camera)]**</sup>
-
+- [**Photon Camera**](https://github.com/eszdman/PhotonCamera)
 
 ### • Clock & Time
 - [**Clock+**](https://github.com/philliphsu/ClockPlus) <sup>**[[F-Droid](https://f-droid.org/app/com.philliphsu.clock2)]**</sup>
@@ -109,19 +109,21 @@ Table of Contents
 
 
 ### • Community Clients
-- [**Slide**](https://github.com/ccrama/Slide) <sup>**[[F-Droid](https://f-droid.org/app/me.ccrama.redditslide)]**</sup>
-- [**Twire**](https://github.com/twireapp/Twire) <sup>**[[F-Droid](https://f-droid.org/app/com.perflyst.twire)]**</sup>
-- [**OctoDroid**](https://github.com/slapperwan/gh4a) <sup>**[[F-Droid](https://f-droid.org/app/com.gh4a)]**</sup>
-- [**Twidere**](https://github.com/TwidereProject/Twidere-Android) <sup>**[[F-Droid](https://f-droid.org/app/org.mariotaku.twidere)]**</sup>
-- [**Infinity for Reddit**](https://github.com/Docile-Alligator/Infinity-For-Reddit)
-- [**Barinsta**](https://barinsta.austinhuang.me) <sup>**[[F-Droid](https://f-droid.org/app/me.austinhuang.instagrabber)]**</sup>
-
+- [**Slide: Reddit**](https://github.com/ccrama/Slide) <sup>**[[F-Droid](https://f-droid.org/app/me.ccrama.redditslide)]**</sup>
+- [**Twire: Twitch**](https://github.com/twireapp/Twire) <sup>**[[F-Droid](https://f-droid.org/app/com.perflyst.twire)]**</sup>
+- [**OctoDroid: GitHub**](https://github.com/slapperwan/gh4a) <sup>**[[F-Droid](https://f-droid.org/app/com.gh4a)]**</sup>
+- [**Twidere: Twitch**](https://github.com/TwidereProject/Twidere-Android) <sup>**[[F-Droid](https://f-droid.org/app/org.mariotaku.twidere)]**</sup>
+- [**Infinity: Reddit**](https://github.com/Docile-Alligator/Infinity-For-Reddit)
+- [**Barinsta: Instagram**](https://barinsta.austinhuang.me) <sup>**[[F-Droid](https://f-droid.org/app/me.austinhuang.instagrabber)]**</sup>
+- [**NewPipe: YouTube**](https://github.com/TeamNewPipe/NewPipe)
+- [**NewPipe Sponserblock: YouTube**](https://github.com/polymorphicshade/NewPipe)
 
 ### • Contacts
 - [**Simple Contacts**](https://github.com/SimpleMobileTools/Simple-Contacts) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.contacts.pro)]**</sup>
 
 
 ### • Dialer
+- [**Koler**](https://github.com/Chooloo/koler)
 - [**Simple Dialer**](https://github.com/SimpleMobileTools/Simple-Dialer) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.dialer)]**</sup>
 
 
@@ -284,9 +286,10 @@ Table of Contents
 - [**KeePassDX**](https://github.com/Kunzisoft/KeePassDX) <sup>**[[F-Droid](https://f-droid.org/app/com.kunzisoft.keepass.libre)]**</sup>
 - [**Aegis**](https://getaegis.app/) <sup>**[[F-Droid](https://f-droid.org/app/com.beemdevelopment.aegis)]**</sup>
 - [**Bitwarden Mobile**](https://github.com/bitwarden/mobile)
-
+- [**Passwd**](https://github.com/passwdapp/passwd)
 
 ## • Podcast & Audio Book Player
+- [**AntennaPod**](https://github.com/AntennaPod/AntennaPod)
 - [**MaterialAudiobookPlayer**](https://github.com/PaulWoitaschek/MaterialAudiobookPlayer) <sup>**[[F-Droid](https://f-droid.org/app/de.ph1b.audiobook)]**</sup>
 - [**Audio Anchor**](https://github.com/flackbash/AudioAnchor) <sup>**[[F-Droid](https://f-droid.org/app/com.prangesoftwaresolutions.audioanchor)]**</sup>
 - [**Escapepod**](https://github.com/y20k/escapepod) <sup>**[[F-Droid](https://f-droid.org/app/org.y20k.escapepod)]**</sup>
