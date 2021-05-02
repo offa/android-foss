@@ -164,7 +164,7 @@ Table of Contents
 
 
 ### • Image Viewer & Gallery
-- [**LeafPic**](https://github.com/HoraApps/LeafPic) <sup>**[[F-Droid](https://f-droid.org/app/org.horaapps.leafpic)]**</sup>
+- [**LeafPic Revived**](https://github.com/apcro/leafpicrevived) <sup>**[[F-Droid](https://f-droid.org/app/com.alienpants.leafpicrevived)]**</sup>
 - [**Simple Gallery**](https://github.com/SimpleMobileTools/Simple-Gallery) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.gallery.pro)]**</sup>
 - [**Camera Roll**](https://github.com/kollerlukas/Camera-Roll-Android-App) <sup>**[[F-Droid](https://f-droid.org/app/us.koller.cameraroll)]**</sup>
 
