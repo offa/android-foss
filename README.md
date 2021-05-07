@@ -74,8 +74,11 @@ Table of Contents
 - [**DNS66**](https://github.com/julian-klode/dns66) <sup>**[[F-Droid](https://f-droid.org/app/org.jak_linux.dns66)]**</sup>
 - [**DNSFilter**](https://github.com/IngoZenz/personaldnsfilter) <sup>**[[F-Droid](https://f-droid.org/app/dnsfilter.android)]**</sup>
 
+
 ### • Automation
 - [**Easer**](https://github.com/renyuneyun/Easer) <sup>**[[F-Droid](https://f-droid.org/app/ryey.easer)]**</sup>
+- [**Automation**](https://git.server47.de/jens/Automation) <sup>**[[F-Droid](https://f-droid.org/app/com.jens.automation2)]**</sup>
+
 
 ### • Browser
 - [**Firefox**](https://www.mozilla.org/firefox/android/)
