@@ -117,7 +117,7 @@ Table of Contents
 - [**Twire**](https://github.com/twireapp/Twire) <sup>**[[F-Droid](https://f-droid.org/app/com.perflyst.twire)]**</sup>
 - [**OctoDroid**](https://github.com/slapperwan/gh4a) <sup>**[[F-Droid](https://f-droid.org/app/com.gh4a)]**</sup>
 - [**Twidere**](https://github.com/TwidereProject/Twidere-Android) <sup>**[[F-Droid](https://f-droid.org/app/org.mariotaku.twidere)]**</sup>
-- [**Infinity for Reddit**](https://github.com/Docile-Alligator/Infinity-For-Reddit)
+- [**Infinity for Reddit**](https://github.com/Docile-Alligator/Infinity-For-Reddit) <sup>**[[F-Droid](https://f-droid.org/app/ml.docilealligator.infinityforreddit)]**</sup>
 - [**Barinsta**](https://barinsta.austinhuang.me) <sup>**[[F-Droid](https://f-droid.org/app/me.austinhuang.instagrabber)]**</sup>
 
 
