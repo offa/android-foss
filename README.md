@@ -90,6 +90,7 @@ Table of Contents
 - [**Bromite**](https://www.bromite.org/)
 - [**DuckDuckGo Privacy Browser**](https://github.com/duckduckgo/Android) <sup>**[[F-Droid](https://f-droid.org/app/com.duckduckgo.mobile.android)]**</sup>
 - [**SmartCookieWeb**](https://github.com/CookieJarApps/SmartCookieWeb) <sup>**[[F-Droid](https://f-droid.org/app/com.cookiegames.smartcookie)]**</sup>
+- [**Privacy Browser**](https://gitweb.stoutner.com/?p=PrivacyBrowser.git) <sup>**[[F-Droid](https://f-droid.org/app/com.stoutner.privacybrowser.standard/)]**</sup>
 
 
 ### • Calculator
