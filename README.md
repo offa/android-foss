@@ -173,6 +173,7 @@ Table of Contents
 - [**LeafPic Revived**](https://github.com/apcro/leafpicrevived) <sup>**[[F-Droid](https://f-droid.org/app/com.alienpants.leafpicrevived)]**</sup>
 - [**Simple Gallery**](https://github.com/SimpleMobileTools/Simple-Gallery) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.gallery.pro)]**</sup>
 - [**Camera Roll**](https://github.com/kollerlukas/Camera-Roll-Android-App) <sup>**[[F-Droid](https://f-droid.org/app/us.koller.cameraroll)]**</sup>
+- [**Stingle Photos**](https://github.com/stingle/stingle-photos-android) <sup>**[[F-Droid](https://f-droid.org/app/org.stingle.photos/)]**</sup>
 
 
 ### • Keyboard
