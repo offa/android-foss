@@ -128,6 +128,7 @@ Table of Contents
 
 ### • Dialer
 - [**Simple Dialer**](https://github.com/SimpleMobileTools/Simple-Dialer) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.dialer)]**</sup>
+- [**Koler**](https://github.com/Chooloo/koler)
 
 
 ### • Document & PDF Viewer
