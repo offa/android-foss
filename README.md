@@ -109,7 +109,6 @@ Table of Contents
 
 
 ### • Clock & Time
-- [**Clock+**](https://github.com/philliphsu/ClockPlus) <sup>**[[F-Droid](https://f-droid.org/app/com.philliphsu.clock2)]**</sup>
 - [**Simple Clock**](https://github.com/SimpleMobileTools/Simple-Clock) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.clock)]**</sup>
 
 
