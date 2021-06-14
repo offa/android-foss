@@ -109,7 +109,6 @@ Table of Contents
 
 
 ### • Clock & Time
-- [**Clock+**](https://github.com/philliphsu/ClockPlus) <sup>**[[F-Droid](https://f-droid.org/app/com.philliphsu.clock2)]**</sup>
 - [**Simple Clock**](https://github.com/SimpleMobileTools/Simple-Clock) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.clock)]**</sup>
 
 
@@ -309,6 +308,7 @@ Table of Contents
 ### • Synchronisation
 - [**aCalDAV**](https://github.com/ennswi/AndroidCaldavSyncAdapater) <sup>**[[F-Droid](https://f-droid.org/app/de.we.acaldav)]**</sup>
 - [**DAVx⁵**](https://www.davx5.com/) <sup>**[[F-Droid](https://f-droid.org/app/at.bitfire.davdroid)]**</sup>
+- [**DecSync CC**](https://github.com/39aldo39/DecSyncCC) <sup>**[[F-Droid](https://f-droid.org/app/org.decsync.cc)]**</sup>
 - [**EteSync**](https://github.com/etesync/android) <sup>**[[F-Droid](https://f-droid.org/app/com.etesync.syncadapter)]**</sup>
 - [**Syncthing**](https://github.com/syncthing/syncthing-android) <sup>**[[F-Droid](https://f-droid.org/app/com.nutomic.syncthingandroid)]**</sup>
 - [**ownCloud**](https://github.com/owncloud/android) <sup>**[[F-Droid](https://f-droid.org/app/com.owncloud.android)]**</sup>
