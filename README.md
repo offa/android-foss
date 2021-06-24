@@ -63,7 +63,7 @@ Table of Contents
     - [**Fossdroid**](https://fossdroid.com/)
     - [**Foxy Droid**](https://github.com/kitsunyan/foxy-droid) <sup>**[[F-Droid](https://f-droid.org/app/nya.kitsunyan.foxydroid)]**</sup>
 - [**Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore) <sup>**[[F-Droid](https://f-droid.org/app/com.aurora.store)]**</sup>
-- [**Yalp Store**](https://github.com/yeriomin/YalpStore) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.github.yeriomin.yalpstore/)]**</sup>
+- [**Yalp Store**](https://github.com/yeriomin/YalpStore) <sup>**[[F-Droid](https://f-droid.org/app/com.github.yeriomin.yalpstore)]**</sup>
 
 ------------------------
 
