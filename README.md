@@ -107,6 +107,7 @@ Table of Contents
 ### • Camera
 - [**Open Camera**](http://opencamera.sourceforge.net/) <sup>**[[F-Droid](https://f-droid.org/app/net.sourceforge.opencamera)]**</sup>
 - [**Simple Camera**](https://github.com/SimpleMobileTools/Simple-Camera) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.camera)]**</sup>
+- [**Cryptocam**](https://gitlab.com/cryptocam/cryptocam) <sup>**[[F-Droid](https://f-droid.org/en/app/com.tnibler.cryptocam)]**</sup>
 
 
 ### • Clock & Time
