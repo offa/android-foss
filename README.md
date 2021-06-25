@@ -97,9 +97,7 @@ Table of Contents
 
 
 ### • Calculator
-- [**Calculator**](https://github.com/Xlythe/Calculator) <sup>**[[F-Droid](https://f-droid.org/app/com.xlythe.calculator.material)]**</sup>
 - [**Simple Calculator**](https://github.com/SimpleMobileTools/Simple-Calculator) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.calculator)]**</sup>
-- [**Stylish Calculator**](https://github.com/jchmrt/clean-calculator) <sup>**[[F-Droid](https://f-droid.org/app/home.jmstudios.calc)]**</sup>
 
 
 ### • Calendar
