@@ -251,6 +251,7 @@ Table of Contents
 - [**Trail Sense**](https://github.com/kylecorry31/Trail-Sense) <sup>**[[F-Droid](https://f-droid.org/app/com.kylecorry.trail_sense)]**</sup>
 - [**Loop Habit Tracker**](https://github.com/iSoron/uhabits) <sup>**[[F-Droid](https://f-droid.org/app/org.isoron.uhabits)]**</sup>
 - [**Editor**](https://github.com/billthefarmer/editor) <sup>**[[F-Droid](https://f-droid.org/app/org.billthefarmer.editor)]**</sup>
+- [**LibreTorrent**](https://github.com/proninyaroslav/libretorrent) <sup>**[[F-Droid](https://f-droid.org/app/org.proninyaroslav.libretorrent)]**</sup>
 
 
 ### • Music
