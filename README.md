@@ -240,6 +240,7 @@ Table of Contents
 - [**Element**](https://github.com/vector-im/element-android) <sup>**[[F-Droid](https://f-droid.org/app/im.vector.app)]**</sup>
 - [**Signal**](https://github.com/signalapp/Signal-Android)
 - [**Jitsi Meet**](https://github.com/jitsi/jitsi-meet) <sup>**[[F-Droid](https://f-droid.org/app/org.jitsi.meet)]**</sup>
+- [**blabber.im**](https://codeberg.org/kriztan/blabber.im) <sup>**[[F-Droid](https://f-droid.org/app/de.pixart.messenger)]**</sup>
 
 
 ### • Miscellaneous
