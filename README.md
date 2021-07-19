@@ -301,6 +301,7 @@ Table of Contents
 - [**KeePassDX**](https://github.com/Kunzisoft/KeePassDX) <sup>**[[F-Droid](https://f-droid.org/app/com.kunzisoft.keepass.libre)]**</sup>
 - [**Aegis**](https://getaegis.app/) <sup>**[[F-Droid](https://f-droid.org/app/com.beemdevelopment.aegis)]**</sup>
 - [**Bitwarden Mobile**](https://github.com/bitwarden/mobile)
+- [**AuthPass**](https://github.com/authpass/authpass) <sup>**[[F-Droid](https://f-droid.org/app/design.codeux.authpass.fdroid)]**</sup>
 
 
 ### • Podcast & Audio Book Player
