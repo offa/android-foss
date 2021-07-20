@@ -76,6 +76,7 @@ Table of Contents
 - [**DNSFilter**](https://github.com/IngoZenz/personaldnsfilter) <sup>**[[F-Droid](https://f-droid.org/app/dnsfilter.android)]**</sup>
 - [**RethinkDNS**](https://github.com/celzero/rethink-app) <sup>**[[F-Droid](https://f-droid.org/app/com.celzero.bravedns)]**</sup>
 - [**TrackerControl**](https://github.com/OxfordHCC/tracker-control-android) <sup>**[[F-Droid](https://f-droid.org/app/net.kollnig.missioncontrol.fdroid)]**</sup>
+- [**NoPhoneSpam**](https://gitlab.com/bitfireAT/NoPhoneSpam) <sup>**[[F-Droid](https://f-droid.org/app/at.bitfire.nophonespam)]**</sup>
 
 
 ### • Automation
