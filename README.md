@@ -284,6 +284,7 @@ Table of Contents
 - [**Markor**](https://github.com/gsantner/markor) <sup>**[[F-Droid](https://f-droid.org/app/net.gsantner.markor)]**</sup>
 - [**Notally**](https://github.com/OmGodse/Notally) <sup>**[[F-Droid](https://f-droid.org/app/com.omgodse.notally)]**</sup>
 - [**neutriNote**](https://github.com/appml/neutrinote) <sup>**[[F-Droid](https://f-droid.org/app/com.appmindlab.nano)]**</sup>
+- [**Simplenote**](https://github.com/Automattic/simplenote-android)
 
 
 ### • Office
