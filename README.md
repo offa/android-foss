@@ -160,6 +160,7 @@ Table of Contents
 
 ### • File Sharing
 - [**TrebleShot**](https://github.com/trebleshot/android) <sup>**[[F-Droid](https://f-droid.org/app/com.genonbeta.TrebleShot)]**</sup>
+- [**Sharik**](https://github.com/marchellodev/sharik) <sup>**[[F-Droid](https://f-droid.org/app/dev.marchello.sharik)]**</sup>
 
 
 ### • Firewall
