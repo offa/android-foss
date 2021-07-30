@@ -324,7 +324,6 @@ Table of Contents
 
 
 ### • System
-- [**OS Monitor**](https://github.com/eolwral/OSMonitor) <sup>**[[F-Droid](https://f-droid.org/app/com.eolwral.osmonitor)]**</sup>
 - [**BackgroundRestrictor**](https://github.com/MrBIMC/RunInBackgroundPermissionSetter) <sup>**[[F-Droid](https://f-droid.org/app/com.pavelsikun.runinbackgroundpermissionsetter)]**</sup>
 - [**Privacy Friendly Net Monitor**](https://github.com/SecUSo/privacy-friendly-netmonitor) <sup>**[[F-Droid](https://f-droid.org/app/org.secuso.privacyfriendlynetmonitor)]**</sup>
 - [**Shelter**](https://cgit.typeblog.net/Shelter) <sup>**[[F-Droid](https://f-droid.org/en/packages/net.typeblog.shelter)]**</sup>
