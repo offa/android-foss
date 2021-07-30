@@ -336,7 +336,6 @@ Table of Contents
 
 
 ### • ToDo Lists
-- [**Minimal-Todo**](https://github.com/rubenroy/Minimal-Todo) <sup>**[[F-Droid](https://f-droid.org/app/com.rubenroy.minimaltodo)]**</sup>
 - [**ToDoList**](https://github.com/Webierta/ToDoList) <sup>**[[F-Droid](https://f-droid.org/app/com.android.todolist)]**</sup>
 - [**1List**](https://github.com/lolo-io/OneList) <sup>**[[F-Droid](https://f-droid.org/app/com.lolo.io.onelist)]**</sup>
 - [**OpenTasks**](https://github.com/dmfs/opentasks) <sup>**[[F-Droid](https://f-droid.org/app/org.dmfs.tasks)]**</sup>
