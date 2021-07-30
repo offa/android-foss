@@ -201,7 +201,6 @@ Table of Contents
 - [**OpenLauncher**](https://github.com/BennyKok/OpenLauncher) <sup>**[[F-Droid](https://f-droid.org/app/com.benny.openlauncher)]**</sup>
 - [**Lawnchair**](https://github.com/LawnchairLauncher/Lawnchair)
 - [**KISS**](http://kisslauncher.com/) <sup>**[[F-Droid](https://f-droid.org/app/fr.neamar.kiss)]**</sup>
-- [**Silverfish**](https://github.com/stanipintjuk/Silverfish) <sup>**[[F-Droid](https://f-droid.org/app/com.launcher.silverfish)]**</sup>
 - [**Simple App Launcher**](https://github.com/SimpleMobileTools/Simple-App-Launcher) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.applauncher)]**</sup>
 - [**LaunchTime**](https://github.com/quaap/LaunchTime) <sup>**[[F-Droid](https://f-droid.org/app/com.quaap.launchtime)]**</sup>
 - [**PaperLaunch**](https://github.com/devmil/PaperLaunch) <sup>**[[F-Droid](https://f-droid.org/app/de.devmil.paperlaunch)]**</sup>
