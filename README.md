@@ -266,7 +266,6 @@ Table of Contents
     - [Headphone Detector](https://vanilla-music.github.io/) <sup>**[[F-Droid](https://f-droid.org/app/ch.blinkenlights.android.vanillaplug)]**</sup>
 - [**Simple Music Player**](https://github.com/SimpleMobileTools/Simple-Music-Player) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.musicplayer)]**</sup>
 - [**Phonograph**](https://github.com/kabouzeid/Phonograph) <sup>**[[F-Droid](https://f-droid.org/app/com.kabouzeid.gramophone)]**</sup>
-- [**Music-Player**](https://github.com/andremion/Music-Player)
 - [**Transistor**](https://github.com/y20k/transistor) <sup>**[[F-Droid](https://f-droid.org/app/org.y20k.transistor)]**</sup>
 - [**Vinyl Music Player**](https://github.com/AdrienPoupa/VinylMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/app/com.poupa.vinylmusicplayer)]**</sup>
 - [**Music Player GO**](https://github.com/enricocid/Music-Player-GO) <sup>**[[F-Droid](https://f-droid.org/app/com.iven.musicplayergo)]**</sup>
