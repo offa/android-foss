@@ -313,7 +313,6 @@ Table of Contents
 
 
 ### • Synchronisation
-- [**aCalDAV**](https://github.com/ennswi/AndroidCaldavSyncAdapater) <sup>**[[F-Droid](https://f-droid.org/app/de.we.acaldav)]**</sup>
 - [**DAVx⁵**](https://www.davx5.com/) <sup>**[[F-Droid](https://f-droid.org/app/at.bitfire.davdroid)]**</sup>
 - [**DecSync CC**](https://github.com/39aldo39/DecSyncCC) <sup>**[[F-Droid](https://f-droid.org/app/org.decsync.cc)]**</sup>
 - [**EteSync**](https://github.com/etesync/android) <sup>**[[F-Droid](https://f-droid.org/app/com.etesync.syncadapter)]**</sup>
