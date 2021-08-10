@@ -11,6 +11,7 @@ Table of Contents
 * [App Store](#-app-store-)
 * [Apps](#-apps-)
    * [Ad Blocker](#-ad-blocker)
+   * [Anime &amp; Manga](#-anime--manga)
    * [Automation](#-automation)
    * [Browser](#-browser)
    * [Calculator](#-calculator)
@@ -76,6 +77,11 @@ Table of Contents
 - [**DNS66**](https://github.com/julian-klode/dns66) <sup>**[[F-Droid](https://f-droid.org/app/org.jak_linux.dns66)]**</sup>
 - [**DNSFilter**](https://github.com/IngoZenz/personaldnsfilter) <sup>**[[F-Droid](https://f-droid.org/app/dnsfilter.android)]**</sup>
 - [**TrackerControl**](https://github.com/OxfordHCC/tracker-control-android) <sup>**[[F-Droid](https://f-droid.org/app/net.kollnig.missioncontrol.fdroid)]**</sup>
+
+
+### • Anime & Manga
+- [**Kotatsu**](https://github.com/nv95/Kotatsu) <sup>**[[F-Droid](https://f-droid.org/app/org.koitharu.kotatsu)]**</sup>
+- [**Nekome**](https://github.com/Chesire/Nekome) <sup>**[[F-Droid](https://f-droid.org/app/com.chesire.nekome)]**</sup>
 
 
 ### • Automation
