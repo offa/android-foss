@@ -16,6 +16,7 @@ Table of Contents
    * [Browser](#-browser)
    * [Calculator](#-calculator)
    * [Calendar](#-calendar)
+   * [Call Blocker and Spam Filter](#-Call-Blocker-and-Spam-Filter)
    * [Camera](#-camera)
    * [Clock &amp; Time](#-clock--time)
    * [Community Clients](#-community-clients)
