@@ -8,6 +8,6 @@ jobs:
     name: Check
     steps:
       - name: Checkout
-        uses: actions/checkout@master
+        uses: actions/checkout@main
       - name: Check
         run: ./check.sh
