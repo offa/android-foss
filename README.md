@@ -105,7 +105,7 @@ Table of Contents
 
 ### • Calculator
 - [**Simple Calculator**](https://github.com/SimpleMobileTools/Simple-Calculator) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.calculator)]**</sup>
-- [**Calculator++**](https://github.com/Bubu/android-calculatorpp) <sup>**[[F-Droid](https://f-droid.org/en/packages/org.solovyev.android.calculator/)]**</sup>
+- [**Calculator++**](https://github.com/Bubu/android-calculatorpp) <sup>**[[F-Droid](https://f-droid.org/app/org.solovyev.android.calculator)]**</sup>
 
 
 ### • Calendar
