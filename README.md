@@ -60,6 +60,7 @@ Table of Contents
 
 ## – App Store –
 - [**F-Droid**](https://f-droid.org/)
+    - [**Droid-ify**](https://github.com/Iamlooker/Droid-ify) <sup>**[[F-Droid](https://f-droid.org/app/com.looker.droidify)]**</sup>
     - [**G-Droid**](https://gitlab.com/gdroid/gdroidclient/) <sup>**[[F-Droid](https://f-droid.org/app/org.gdroid.gdroid)]**</sup>
     - [**M-Droid**](https://github.com/SkyzohKey/M-Droid) <sup>**[[F-Droid](https://f-droid.org/app/com.mdroid)]**</sup>
     - [**Aurora Droid**](https://gitlab.com/AuroraOSS/auroradroid) <sup>**[[F-Droid](https://f-droid.org/app/com.aurora.adroid)]**</sup>
