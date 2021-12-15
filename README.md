@@ -382,6 +382,7 @@ Table of Contents
 
 
 ### • Weather
+- [**Geometric Weather**](https://github.com/WangDaYeeeeee/GeometricWeather) <sup>**[[F-Droid](https://f-droid.org/app/wangdaye.com.geometricweather)]**</sup>
 - [**Privacy Friendly Weather**](https://github.com/SecUSo/privacy-friendly-weather) <sup>**[[F-Droid](https://f-droid.org/app/org.secuso.privacyfriendlyweather)]**</sup>
 - [**Forecastie**](https://github.com/martykan/forecastie) <sup>**[[F-Droid](https://f-droid.org/app/cz.martykan.forecastie)]**</sup>
 
