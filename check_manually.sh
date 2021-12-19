@@ -2,10 +2,8 @@
 
 SOURCE_FILE=README.md
 
-LINKS=$(grep "http" "$SOURCE_FILE" \
-| grep -oP "http.*" \
-| sed "s|)$||" \
-| sed "s|) .*||" \
+LINKS=$(grep -oP "http.*" "$SOURCE_FILE" \
+| sed -e "s|)$||" -e "s|) .*||" \
 | grep -v img.shields.io \
 | grep -v travis-ci.org)
 
@@ -48,4 +46,34 @@ then
     exit 1
 else
     echo "No false link was found"
+fi
+
+GITHUB_LINKS=$(grep -o "https://github.com/.*" README.md \
+    | sed 's|).*||')
+
+mapfile -t GITHUB_LINKS <<< "$GITHUB_LINKS"
+
+for link in "${GITHUB_LINKS[@]}"
+do
+    echo "Checking if repo $link is not deprecated"
+    DEPRECATED=$(curl "$link" -s | awk -v result='false' \
+        '/This repository has been archived by the owner. It is now read-only./ \
+	    {result="true"} END {print result}')
+    if [[ "$DEPRECATED" == "true" ]]
+    then
+        GITHUB_DEPRECATED_LINKS+=("$link")
+    fi
+done
+
+if [ -n "${GITHUB_DEPRECATED_LINKS[*]}" ]
+then
+    clear
+    echo "Deprecated Github Repos were found:"
+    for link in "${GITHUB_DEPRECATED_LINKS[@]}"
+    do
+        echo "$link"
+    done
+    exit 1
+else
+    echo "No deprecated repo was found"
 fi

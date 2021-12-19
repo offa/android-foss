@@ -201,15 +201,6 @@ Table of Contents
 
 ### • Keyboard
 - [**AnySoftKeyboard**](https://anysoftkeyboard.github.io/) <sup>**[[F-Droid](https://f-droid.org/app/com.menny.android.anysoftkeyboard)]**</sup>
-    - [French Language Pack](https://github.com/AnySoftKeyboard/LanguagePack) <sup>**[[F-Droid](https://f-droid.org/app/com.anysoftkeyboard.languagepack.french_xlarge)]**</sup>
-    - [German Language Pack](https://github.com/AnySoftKeyboard/LanguagePack) <sup>**[[F-Droid](https://f-droid.org/app/com.anysoftkeyboard.languagepack.german)]**</sup>
-    - [Danish Language Pack](https://github.com/AnySoftKeyboard/LanguagePack) <sup>**[[F-Droid](https://f-droid.org/app/com.anysoftkeyboard.languagepack.danish)]**</sup>
-    - [Italian Language Pack](https://github.com/AnySoftKeyboard/LanguagePack) <sup>**[[F-Droid](https://f-droid.org/app/com.anysoftkeyboard.languagepack.italian)]**</sup>
-    - [Norwegian Language Pack](https://github.com/AnySoftKeyboard/LanguagePack) <sup>**[[F-Droid](https://f-droid.org/app/com.anysoftkeyboard.languagepack.norwegian)]**</sup>
-    - [Spanish Language Pack](https://github.com/AnySoftKeyboard/LanguagePack) <sup>**[[F-Droid](https://f-droid.org/app/com.anysoftkeyboard.languagepack.spain)]**</sup>
-    - [Swedish Language Pack](https://github.com/AnySoftKeyboard/LanguagePack) <sup>**[[F-Droid](https://f-droid.org/app/com.anysoftkeyboard.languagepack.swedish)]**</sup>
-    - [Russian Language Pack](https://github.com/AnySoftKeyboard/LanguagePack) <sup>**[[F-Droid](https://f-droid.org/app/com.anysoftkeyboard.languagepack.russian2)]**</sup>
-    - ...
 - [**Hacker's Keyboard**](https://github.com/klausw/hackerskeyboard) <sup>**[[F-Droid](https://f-droid.org/app/org.pocketworkstation.pckeyboard)]**</sup>
 - [**BeHe Keyboard**](https://github.com/VladThodo/behe-keyboard) <sup>**[[F-Droid](https://f-droid.org/app/com.vlath.keyboard)]**</sup>
 - [**Trime**](https://github.com/osfans/trime) <sup>**[[F-Droid](https://f-droid.org/app/com.osfans.trime)]**</sup>
