@@ -178,7 +178,7 @@ Table of Contents
 
 
 ### • File Sharing
-- [**TrebleShot**](https://github.com/trebleshot/android) <sup>**[[F-Droid](https://f-droid.org/app/com.genonbeta.TrebleShot)]**</sup>
+- [**SnapShot**](https://github.com/fm-sys/snapdrop-android) <sup>**[[F-Droid](https://f-droid.org/app/com.fmsys.snapdrop)]**</sup>
 - [**Sharik**](https://github.com/marchellodev/sharik) <sup>**[[F-Droid](https://f-droid.org/app/dev.marchello.sharik)]**</sup>
 
 
@@ -289,6 +289,7 @@ Table of Contents
 
 
 ### • Notes
+- [**Joplin**](https://github.com/laurent22/joplin)
 - [**Omni-Notes**](https://federicoiosue.github.io/Omni-Notes/) <sup>**[[F-Droid](https://f-droid.org/app/it.feio.android.omninotes.foss)]**</sup>
 - [**Privacy Friendly Notes**](https://github.com/SecUSo/privacy-friendly-notes) <sup>**[[F-Droid](https://f-droid.org/app/org.secuso.privacyfriendlynotes)]**</sup>
 - [**Simple Notes**](https://github.com/SimpleMobileTools/Simple-Notes) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.notes.pro)]**</sup>
