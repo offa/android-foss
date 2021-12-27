@@ -2,78 +2,78 @@
 
 SOURCE_FILE=README.md
 
-LINKS=$(grep -oP "http.*" "$SOURCE_FILE" \
-| sed -e "s|)$||" -e "s|) .*||" \
-| grep -v img.shields.io \
-| grep -v travis-ci.org)
-
-mapfile -t LINKS <<< "$LINKS"
-
-for link in "${LINKS[@]}"
-do
-    echo "Testing $link"
-    STATUS_CODE="$(curl -LI "$link" -o /dev/null -w '%{http_code}\n' -s)"
-    if [[ "$STATUS_CODE" != "200" ]]
-    then
-        FALSE_LINKS+=("$link")
-    fi
-done
-
-FDROID_LINKS=$(grep -oP "https://f-droid.*" "$SOURCE_FILE" \
-| sed "s|)].*||" \
-| grep -v "https://f-droid.org/)")
-
-mapfile -t FDROID_LINKS <<< "$FDROID_LINKS"
-
-for link in "${FDROID_LINKS[@]}"
-do
-    echo "Testing $link"
-    STATUS_CODE="$(curl -LI "$link" -o /dev/null -w '%{http_code}\n' -s)"
-    if [[ "$STATUS_CODE" != "200" ]]
-    then
-        FALSE_LINKS+=("$link")
-    fi
-done
-
-if [ -n "${FALSE_LINKS[*]}" ]
-then
-    clear
-    echo "Some links weren't reachable."
-    for link in "${FALSE_LINKS[@]}"
-    do
-        echo "$link"
-    done
-    exit 1
-else
-    echo "No false link was found"
-fi
-
-GITHUB_LINKS=$(grep -o "https://github.com/.*" README.md \
+function check_deprecated_repos() {
+  GITHUB_LINKS=$(grep -o "https://github.com/.*" "$SOURCE_FILE" \
     | sed 's|).*||')
 
-mapfile -t GITHUB_LINKS <<< "$GITHUB_LINKS"
+  mapfile -t GITHUB_LINKS <<< "$GITHUB_LINKS"
 
-for link in "${GITHUB_LINKS[@]}"
-do
+  for link in "${GITHUB_LINKS[@]}"; do
     echo "Checking if repo $link is not deprecated"
-    DEPRECATED=$(curl "$link" -s | awk -v result='false' \
-        '/This repository has been archived by the owner. It is now read-only./ \
-	    {result="true"} END {print result}')
-    if [[ "$DEPRECATED" == "true" ]]
-    then
-        GITHUB_DEPRECATED_LINKS+=("$link")
+    DEPRECATED=$(curl "$link" -s | awk -v depr_repo_res='false' \
+      '/This repository has been archived by the owner. It is now read-only./ \
+        {depr_repo_res="true"} END {print depr_repo_res}')
+    if [[ "$DEPRECATED" == "true" ]]; then
+      deprecated_repos+=("$link")
     fi
-done
+  done
 
-if [ -n "${GITHUB_DEPRECATED_LINKS[*]}" ]
-then
-    clear
-    echo "Deprecated Github Repos were found:"
-    for link in "${GITHUB_DEPRECATED_LINKS[@]}"
-    do
-        echo "$link"
+  if [ -n "${deprecated_repos[*]}" ]; then
+    depr_repo_res=1
+  fi
+}
+
+function check_false_links() {
+  LINKS=$(grep -oP "http.*" "$SOURCE_FILE" \
+  | sed -e "s|)$||" -e "s|).*||" \
+  | grep -v img.shields.io \
+  | grep -v travis-ci.org)
+
+  mapfile -t LINKS <<< "$LINKS"
+
+  for link in "${LINKS[@]}"
+  do
+      echo "Checking $link"
+      STATUS_CODE="$(curl -LI "$link" -o /dev/null -w '%{http_code}\n' -s)"
+      if [[ "$STATUS_CODE" != "200" ]]
+      then
+          bad_links+=("$link")
+      fi
+  done
+
+  if [ -n "${bad_links[*]}" ]
+  then
+      link_res=1
+  fi
+}
+
+function check_links() {
+  local depr_repo_res=0
+  local deprecated_repos
+  check_deprecated_repos
+
+  local link_res=0
+  local bad_links
+  check_false_links
+
+  clear
+  if [[ link_res -eq "1" ]]; then
+    echo "Unreachable links were found:"
+    for link in "${bad_links[@]}"; do
+      echo "$link"
     done
-    exit 1
-else
-    echo "No deprecated repo was found"
-fi
+  fi
+
+  if [[ depr_repo_res -eq "1" ]]; then
+    echo "Deprecated repo were found:"
+    for link in "${deprecated_repos[@]}"; do
+      echo "$link"
+    done
+  fi
+
+  if [[ depr_repo_res -eq 0 && link_res -eq 0 ]]; then
+    echo "All links are validated!"
+  fi
+}
+
+check_links
