@@ -264,8 +264,8 @@ Table of Contents
 - [**Loop Habit Tracker**](https://github.com/iSoron/uhabits) <sup>**[[F-Droid](https://f-droid.org/app/org.isoron.uhabits)]**</sup>
 - [**Editor**](https://github.com/billthefarmer/editor) <sup>**[[F-Droid](https://f-droid.org/app/org.billthefarmer.editor)]**</sup>
 - [**LibreTorrent**](https://github.com/proninyaroslav/libretorrent) <sup>**[[F-Droid](https://f-droid.org/app/org.proninyaroslav.libretorrent)]**</sup>
-- [**Exodus**](https://github.com/Exodus-Privacy/exodus-android-app) <sup>**[[F-Droid](https://f-droid.org/en/packages/org.eu.exodus_privacy.exodusprivacy)]**</sup>
-- [**Privacy Indicator**](https://github.com/NitishGadangi/Privacy-Indicator-App) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.nitish.privacyindicator)]**</sup>
+- [**Exodus**](https://github.com/Exodus-Privacy/exodus-android-app) <sup>**[[F-Droid](https://f-droid.org/app/org.eu.exodus_privacy.exodusprivacy)]**</sup>
+- [**Privacy Indicator**](https://github.com/NitishGadangi/Privacy-Indicator-App) <sup>**[[F-Droid](https://f-droid.org/app/com.nitish.privacyindicator)]**</sup>
 
 
 ### • Music
