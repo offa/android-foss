@@ -84,6 +84,7 @@ Table of Contents
 ### • Anime & Manga
 - [**Kotatsu**](https://github.com/nv95/Kotatsu) <sup>**[[F-Droid](https://f-droid.org/app/org.koitharu.kotatsu)]**</sup>
 - [**Nekome**](https://github.com/Chesire/Nekome) <sup>**[[F-Droid](https://f-droid.org/app/com.chesire.nekome)]**</sup>
+- [**Tachiyomi**](https://github.com/tachiyomiorg/tachiyomi)
 
 
 ### • Automation
