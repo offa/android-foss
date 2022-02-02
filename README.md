@@ -147,7 +147,7 @@ Table of Contents
 
 ### • Dialer
 - [**Simple Dialer**](https://github.com/SimpleMobileTools/Simple-Dialer) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.dialer)]**</sup>
-- [**Koler**](https://github.com/Chooloo/koler)
+- [**Koler**](https://github.com/Chooloo/koler) <sup>**[[F-Droid](https://f-droid.org/app/com.chooloo.www.koler)]**</sup>
 
 
 ### • Document & PDF Viewer
