@@ -79,7 +79,7 @@ Table of Contents
 
 ### • Ad Blocker
 - [**AdAway**](https://github.com/AdAway/AdAway) <sup>**[[F-Droid](https://f-droid.org/app/org.adaway)]**</sup>
-- [**Blockada**](https://github.com/blokadaorg/blokada) <sup>**[[F-Droid](https://f-droid.org/en/app/org.blokada.fem.fdroid/)]**</sup>
+- [**Blockada**](https://github.com/blokadaorg/blokada) <sup>**[[F-Droid](https://f-droid.org/app/org.blokada.fem.fdroid)]**</sup>
 - [**DNS66**](https://github.com/julian-klode/dns66) <sup>**[[F-Droid](https://f-droid.org/app/org.jak_linux.dns66)]**</sup>
 - [**DNSFilter**](https://github.com/IngoZenz/personaldnsfilter) <sup>**[[F-Droid](https://f-droid.org/app/dnsfilter.android)]**</sup>
 - [**TrackerControl**](https://github.com/OxfordHCC/tracker-control-android) <sup>**[[F-Droid](https://f-droid.org/app/net.kollnig.missioncontrol.fdroid)]**</sup>
