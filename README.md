@@ -79,7 +79,7 @@ Table of Contents
 
 ### • Ad Blocker
 - [**AdAway**](https://github.com/AdAway/AdAway) <sup>**[[F-Droid](https://f-droid.org/app/org.adaway)]**</sup>
-- [**Blockada**](https://github.com/blokadaorg/blokada) <sup>**[[F-Droid](https://f-droid.org/app/org.blokada.alarm)]**</sup>
+- [**Blokada**](https://github.com/blokadaorg/blokada) <sup>**[[F-Droid](https://f-droid.org/app/org.blokada.fem.fdroid)]**</sup>
 - [**DNS66**](https://github.com/julian-klode/dns66) <sup>**[[F-Droid](https://f-droid.org/app/org.jak_linux.dns66)]**</sup>
 - [**DNSFilter**](https://github.com/IngoZenz/personaldnsfilter) <sup>**[[F-Droid](https://f-droid.org/app/dnsfilter.android)]**</sup>
 - [**TrackerControl**](https://github.com/OxfordHCC/tracker-control-android) <sup>**[[F-Droid](https://f-droid.org/app/net.kollnig.missioncontrol.fdroid)]**</sup>
@@ -126,12 +126,11 @@ Table of Contents
 
 ### • Camera
 - [**Open Camera**](http://opencamera.sourceforge.net/) <sup>**[[F-Droid](https://f-droid.org/app/net.sourceforge.opencamera)]**</sup>
-- [**Simple Camera**](https://github.com/SimpleMobileTools/Simple-Camera) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.camera)]**</sup>
 - [**Cryptocam**](https://gitlab.com/cryptocam/cryptocam) <sup>**[[F-Droid](https://f-droid.org/app/com.tnibler.cryptocam)]**</sup>
 
 
 ### • Clock & Time
-- [**Simple Clock**](https://github.com/SimpleMobileTools/Simple-Clock) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.clock)]**</sup>
+- [**Clock**](https://github.com/qw123wh/new-clock-fdroid) <sup>**[[F-Droid](https://f-droid.org/app/com.best.deskclock)]**</sup>
 - [**Simple Alarm Clock**](https://github.com/yuriykulikov/AlarmClock) <sup>**[[F-Droid](https://f-droid.org/app/com.better.alarm)]**</sup>
 
 
@@ -386,7 +385,6 @@ Table of Contents
 - [**Shelter**](https://cgit.typeblog.net/Shelter) <sup>**[[F-Droid](https://f-droid.org/app/net.typeblog.shelter)]**</sup>
 - [**Insular**](https://gitlab.com/secure-system/Insular) <sup>**[[F-Droid](https://f-droid.org/app/com.oasisfeng.island.fdroid)]**</sup>
 - [**SuperFreezZ**](https://gitlab.com/SuperFreezZ/SuperFreezZ) <sup>**[[F-Droid](https://f-droid.org/app/superfreeze.tool.android)]**</sup>
-- [**Blockada**](https://github.com/blokadaorg/blokada) <sup>**[[F-Droid](https://f-droid.org/app/org.blokada.alarm)]**</sup>
 - [**AppManager**](https://github.com/MuntashirAkon/AppManager) <sup>**[[F-Droid](https://f-droid.org/app/io.github.muntashirakon.AppManager)]**</sup>
 - [**CPU Info**](https://github.com/kamgurgul/cpu-info) <sup>**[[F-Droid](https://f-droid.org/app/com.kgurgul.cpuinfo)]**</sup>
 - [**BusyBox Installer**](https://github.com/SmartPack/BusyBox-Installer) <sup>**[[F-Droid](https://f-droid.org/app/com.smartpack.busyboxinstaller)]**</sup>
