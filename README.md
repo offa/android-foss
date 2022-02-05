@@ -427,11 +427,25 @@ Table of Contents
 
 ### • Board
 - [**lichess**](https://github.com/lichess-org/lichobile)
-- [**lidraughts**](hhttps://github.com/roepstoep/lidraughts)
+- [**lidraughts**](https://github.com/roepstoep/lidraughts)
 - [**DroidFish**](https://github.com/peterosterlund2/droidfishr) <sup>**[[F-Droid](https://f-droid.org/app/org.petero.droidfish)]**</sup>
 - [**Scid on the go**](https://github.com/gkalab/scidonthego) <sup>**[[F-Droid](https://f-droid.org/app/org.scid.android)]**</sup>
 - [**Open Chaos Chess**](https://github.com/CorruptedArk/open-chaos-chess) <sup>**[[F-Droid](https://f-droid.org/app/dev.corruptedark.openchaoschess)]**</sup>
 - [**Flang**](https://codeberg.org/jannis/FlangAndroid) <sup>**[[F-Droid](https://f-droid.org/app/de.tadris.flang)]**</sup>
+
+
+### • Puzzle
+- [**Open Sudoku**](https://github.com/ogarcia/opensudoku) <sup>**[[F-Droid](https://f-droid.org/app/org.moire.opensudoku)]**</sup>
+- [**Block Puzzle Stone Wars**](https://github.com/SoltauFintel/blockpuzzle) <sup>**[[F-Droid](https://f-droid.org/app/de.mwvb.blockpuzzle)]**</sup>
+
+
+### • Racing
+- [**Pixel Wheels**](https://github.com/agateau/pixelwheels) <sup>**[[F-Droid](https://f-droid.org/app/com.agateau.tinywheels.android)]**</sup>
+- [**SuperTuxKart**](https://github.com/supertuxkart/stk-code) <sup>**[[F-Droid](https://f-droid.org/app/org.supertuxkart.stk)]**</sup>
+
+
+### • Retro
+- [**Super Retro Mega Wars**](https://github.com/retrowars/retrowars) <sup>**[[F-Droid](https://f-droid.org/app/com.serwylo.retrowars)]**</sup>
 
 
 ------------------------
