@@ -355,6 +355,7 @@ Table of Contents
 - [**freeCodeCamp**](https://github.com/freeCodeCamp/mobile)
 - [**phyphox**](https://github.com/phyphox/phyphox-android) <sup>**[[F-Droid](https://f-droid.org/app/de.rwth_aachen.phyphox)]**</sup>
 
+
 ### • SMS
 - [**QKSMS**](https://github.com/moezbhatti/qksms) <sup>**[[F-Droid](https://f-droid.org/app/com.moez.QKSMS)]**</sup>
 - [**Simple SMS Messenger**](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.smsmessenger)]**</sup>
@@ -436,6 +437,10 @@ Table of Contents
 
 ### • Card
 - [**TriPeaks**](https://github.com/mimoguz/tripeaks-gdx) <sup>**[[F-Droid](https://f-droid.org/app/ogz.tripeaks)]**</sup>
+
+### • Music
+- [**CDLC Player**](https://github.com/tilk/cdlc_player) <sup>**[[F-Droid](https://f-droid.org/app/eu.tilk.cdlcplayer)]**</sup>
+- [**Beat Feet**](https://github.com/beat-game/beat-game) <sup>**[[F-Droid](https://f-droid.org/app/com.serwylo.beatgame)]**</sup>
 
 
 ### • Puzzle
