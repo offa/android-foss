@@ -353,7 +353,7 @@ Table of Contents
 
 ### • Science & Education
 - [**freeCodeCamp**](https://github.com/freeCodeCamp/mobile)
-
+- [**phyphox**](https://github.com/phyphox/phyphox-android) <sup>**[[F-Droid](https://f-droid.org/app/de.rwth_aachen.phyphox)]**</sup>
 
 ### • SMS
 - [**QKSMS**](https://github.com/moezbhatti/qksms) <sup>**[[F-Droid](https://f-droid.org/app/com.moez.QKSMS)]**</sup>
@@ -434,6 +434,10 @@ Table of Contents
 - [**Flang**](https://codeberg.org/jannis/FlangAndroid) <sup>**[[F-Droid](https://f-droid.org/app/de.tadris.flang)]**</sup>
 
 
+### • Card
+- [**TriPeaks**](https://github.com/mimoguz/tripeaks-gdx) <sup>**[[F-Droid](https://f-droid.org/app/ogz.tripeaks)]**</sup>
+
+
 ### • Puzzle
 - [**Open Sudoku**](https://github.com/ogarcia/opensudoku) <sup>**[[F-Droid](https://f-droid.org/app/org.moire.opensudoku)]**</sup>
 - [**Block Puzzle Stone Wars**](https://github.com/SoltauFintel/blockpuzzle) <sup>**[[F-Droid](https://f-droid.org/app/de.mwvb.blockpuzzle)]**</sup>
@@ -447,6 +451,9 @@ Table of Contents
 ### • Retro
 - [**Super Retro Mega Wars**](https://github.com/retrowars/retrowars) <sup>**[[F-Droid](https://f-droid.org/app/com.serwylo.retrowars)]**</sup>
 
+
+### • Word
+- [**Lexica**](https://github.com/lexica/lexica) <sup>**[[F-Droid](https://f-droid.org/app/com.serwylo.lexica)]**</sup>
 
 ------------------------
 
