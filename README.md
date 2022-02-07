@@ -16,7 +16,7 @@ Table of Contents
    * [Browser](#-browser)
    * [Calculator](#-calculator)
    * [Calendar](#-calendar)
-   * [Call Blocker and Spam Filter](#-call-blocker-and-spam-filter)
+   * [Call Blocker &amp; Spam Filter](#-call-blocker--spam-filter)
    * [Camera](#-camera)
    * [Clock &amp; Time](#-clock--time)
    * [Community Clients](#-community-clients)
@@ -118,7 +118,7 @@ Table of Contents
 - [**Simple Calendar**](https://github.com/SimpleMobileTools/Simple-Calendar) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.calendar.pro)]**</sup>
 
 
-### • Call Blocker and Spam Filter
+### • Call Blocker & Spam Filter
 - [**NoPhoneSpam**](https://gitlab.com/bitfireAT/NoPhoneSpam) <sup>**[[F-Droid](https://f-droid.org/app/at.bitfire.nophonespam)]**</sup>
 - [**Yet Another Call Blocker**](https://gitlab.com/xynngh/YetAnotherCallBlocker) <sup>**[[F-Droid](https://f-droid.org/app/dummydomain.yetanothercallblocker)]**</sup>
 - [**Silence**](https://github.com/x13a/Silence) <sup>**[[F-Droid](https://f-droid.org/app/me.lucky.silence)]**</sup>
