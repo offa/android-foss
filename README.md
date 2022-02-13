@@ -446,7 +446,7 @@ Table of Contents
 - [**Open Chaos Chess**](https://github.com/CorruptedArk/open-chaos-chess) <sup>**[[F-Droid](https://f-droid.org/app/dev.corruptedark.openchaoschess)]**</sup>
 - [**Flang**](https://codeberg.org/jannis/FlangAndroid) <sup>**[[F-Droid](https://f-droid.org/app/de.tadris.flang)]**</sup>
 - [**Freebloks**](https://github.com/shlusiak/Freebloks-Android) <sup>**[[F-Droid](https://f-droid.org/app/de.saschahlusiak.freebloks)]**</sup>
-- [**Mill**](https://github.com/calcitem/Sanmill) <sup>**[[F-Droid](https://f-droid.org/app/com.calcitem.sanmill/)]**</sup>
+- [**Mill**](https://github.com/calcitem/Sanmill) <sup>**[[F-Droid](https://f-droid.org/app/com.calcitem.sanmill)]**</sup>
 
 
 ### • Card
@@ -463,7 +463,7 @@ Table of Contents
 - [**Xeonjia**](https://gitlab.com/deepdaikon/Xeonjia) <sup>**[[F-Droid](https://f-droid.org/app/xyz.deepdaikon.xeonjia)]**</sup>
 - [**Minetest**](https://github.com/minetest/minetest) <sup>**[[F-Droid](https://f-droid.org/app/net.minetest.minetest)]**</sup>
 - [**Apple Flinger**](https://gitlab.com/ar-/apple-flinger) <sup>**[[F-Droid](https://f-droid.org/app/com.gitlab.ardash.appleflinger.android)]**</sup>
-- [**Quinb**](https://gitlab.com/deepdaikon/Quinb) <sup>**[[F-Droid](https://f-droid.org/app/xyz.deepdaikon.quinb/)]**</sup>
+- [**Quinb**](https://gitlab.com/deepdaikon/Quinb) <sup>**[[F-Droid](https://f-droid.org/app/xyz.deepdaikon.quinb)]**</sup>
 - [**DékaDico**](https://github.com/vivekthazhathattil/dekadico) <sup>**[[F-Droid](https://f-droid.org/app/com.example.spokennumbers)]**</sup>
 - [**WordleSolver**](https://github.com/billthefarmer/wordlesolver) <sup>**[[F-Droid](https://f-droid.org/app/org.billthefarmer.solver)]**</sup>
 
@@ -477,7 +477,7 @@ Table of Contents
 - [**Open Sudoku**](https://github.com/ogarcia/opensudoku) <sup>**[[F-Droid](https://f-droid.org/app/org.moire.opensudoku)]**</sup>
 - [**Simple Sudoku Game**](https://git.harrault.fr/android/org.benoitharrault.sudoku) <sup>**[[F-Droid](https://f-droid.org/app/org.benoitharrault.sudoku)]**</sup>
 - [**Block Puzzle Stone Wars**](https://github.com/SoltauFintel/blockpuzzle) <sup>**[[F-Droid](https://f-droid.org/app/de.mwvb.blockpuzzle)]**</sup>
-- [**Minesweeper - Antimine**](https://github.com/lucasnlm/antimine-android) <sup>**[[F-Droid](https://f-droid.org/app/dev.lucanlm.antimine/)]**</sup>
+- [**Minesweeper - Antimine**](https://github.com/lucasnlm/antimine-android) <sup>**[[F-Droid](https://f-droid.org/app/dev.lucanlm.antimine)]**</sup>
 
 
 ### • Racing
