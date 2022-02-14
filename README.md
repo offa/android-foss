@@ -439,7 +439,6 @@ Table of Contents
 ## – Games –
 
 ### • Board
-- [**lichess**](https://github.com/lichess-org/lichobile)
 - [**lidraughts**](https://github.com/roepstoep/lidraughts)
 - [**DroidFish**](https://github.com/peterosterlund2/droidfishr) <sup>**[[F-Droid](https://f-droid.org/app/org.petero.droidfish)]**</sup>
 - [**Scid on the go**](https://github.com/gkalab/scidonthego) <sup>**[[F-Droid](https://f-droid.org/app/org.scid.android)]**</sup>
