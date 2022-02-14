@@ -233,6 +233,12 @@ Table of Contents
 - [**Discreet Launcher**](https://github.com/falzonv/discreet-launcher) <sup>**[[F-Droid](https://f-droid.org/app/com.vincent_falzon.discreetlauncher)]**</sup>
 
 
+### • Live Wallpapers
+- [**Doodle**](https://github.com/patzly/doodle-android) <sup>**[[F-Droid](https://f-droid.org/app/xyz.zedler.patrick.doodle)]**</sup>
+- [**GIF Live Wallpaper**](https://github.com/redwarp/gif-wallpaper) <sup>**[[F-Droid](https://f-droid.org/app/net.redwarp.gifwallpaper)]**</sup>
+- [**Dark Mode Live Wallpaper**](https://github.com/cvzi/darkmodewallpaper) <sup>**[[F-Droid](https://f-droid.org/app/com.github.cvzi.darkmodewallpaper)]**</sup>
+
+
 ### • Mail
 - [**K-9 Mail**](https://github.com/k9mail/k-9) <sup>**[[F-Droid](https://f-droid.org/app/com.fsck.k9)]**</sup>
 - [**FairEmail**](https://github.com/M66B/open-source-email) <sup>**[[F-Droid](https://f-droid.org/app/eu.faircode.email)]**</sup>
@@ -283,6 +289,7 @@ Table of Contents
 - [**SpotiFlyer**](https://github.com/Shabinder/SpotiFlyer) <sup>**[[F-Droid](https://f-droid.org/app/com.shabinder.spotiflyer)]**</sup>
 - [**SubHub**](https://github.com/FunkyMuse/SubHub) <sup>**[[F-Droid](https://f-droid.org/app/com.crazylegend.subhub)]**</sup>
 - [**KDE Connect**](https://invent.kde.org/network/kdeconnect-android) <sup>**[[F-Droid](https://f-droid.org/app/org.kde.kdeconnect_tp)]**</sup>
+- [**Moonlight**](https://github.com/moonlight-stream/moonlight-android) <sup>**[[F-Droid](https://f-droid.org/app/com.limelight)]**</sup>
 
 
 ### • Music
@@ -307,6 +314,7 @@ Table of Contents
 - [**Auxio**](https://github.com/OxygenCobalt/Auxio) <sup>**[[F-Droid](https://f-droid.org/app/org.oxycblt.auxio)]**</sup>
 - [**BlackHole**](https://github.com/Sangwan5688/BlackHole) <sup>**[[F-Droid](https://f-droid.org/app/com.shadow.blackhole)]**</sup>
 - [**SongTube**](https://github.com/SongTube/SongTube-App)
+- [**raag**](https://github.com/raag-music/raag/) <sup>**[[F-Droid](https://f-droid.org/app/in.amfoss.raag)]**</sup>
 
 
 ### • Notes
@@ -326,6 +334,10 @@ Table of Contents
 ### • Office
 - [**Collabora Office**](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/)
 - [**OpenDocument**](https://github.com/opendocument-app/OpenDocument.droid) <sup>**[[F-Droid](https://f-droid.org/app/at.tomtasche.reader)]**</sup>
+
+
+### • Painting
+- [**Krita**](https://invent.kde.org/graphics/krita) <sup>**[[F-Droid](https://f-droid.org/app/org.krita)]**</sup>
 
 
 ### • Password & Authentication
@@ -352,6 +364,7 @@ Table of Contents
 
 ### • Science & Education
 - [**freeCodeCamp**](https://github.com/freeCodeCamp/mobile)
+- [**phyphox**](https://github.com/phyphox/phyphox-android) <sup>**[[F-Droid](https://f-droid.org/app/de.rwth_aachen.phyphox)]**</sup>
 
 
 ### • SMS
@@ -418,6 +431,69 @@ Table of Contents
 - [**Privacy Friendly Weather**](https://github.com/SecUSo/privacy-friendly-weather) <sup>**[[F-Droid](https://f-droid.org/app/org.secuso.privacyfriendlyweather)]**</sup>
 - [**Forecastie**](https://github.com/martykan/forecastie) <sup>**[[F-Droid](https://f-droid.org/app/cz.martykan.forecastie)]**</sup>
 
+
+------------------------
+
+
+## – Games –
+
+### • Board
+- [**lidraughts**](https://github.com/roepstoep/lidraughts)
+- [**DroidFish**](https://github.com/peterosterlund2/droidfish) <sup>**[[F-Droid](https://f-droid.org/app/org.petero.droidfish)]**</sup>
+- [**Scid on the go**](https://github.com/gkalab/scidonthego) <sup>**[[F-Droid](https://f-droid.org/app/org.scid.android)]**</sup>
+- [**Open Chaos Chess**](https://github.com/CorruptedArk/open-chaos-chess) <sup>**[[F-Droid](https://f-droid.org/app/dev.corruptedark.openchaoschess)]**</sup>
+- [**Flang**](https://codeberg.org/jannis/FlangAndroid) <sup>**[[F-Droid](https://f-droid.org/app/de.tadris.flang)]**</sup>
+- [**Freebloks**](https://github.com/shlusiak/Freebloks-Android) <sup>**[[F-Droid](https://f-droid.org/app/de.saschahlusiak.freebloks)]**</sup>
+- [**Mill**](https://github.com/calcitem/Sanmill) <sup>**[[F-Droid](https://f-droid.org/app/com.calcitem.sanmill)]**</sup>
+
+
+### • Card
+- [**TriPeaks**](https://github.com/mimoguz/tripeaks-gdx) <sup>**[[F-Droid](https://f-droid.org/app/ogz.tripeaks)]**</sup>
+- [**MTG Familiar**](https://github.com/AEFeinstein/mtg-familiar) <sup>**[[F-Droid](https://f-droid.org/app/com.gelakinetic.mtgfam)]**</sup>
+
+
+### • Educational
+- [**GCompris**](https://invent.kde.org/education/gcompris.git) <sup>**[[F-Droid](https://f-droid.org/app/net.gcompris.full)]**</sup>
+
+
+### • Miscellaneous
+- [**Zoysii**](https://gitlab.com/deepdaikon/Zoysii) <sup>**[[F-Droid](https://f-droid.org/app/xyz.deepdaikon.zoysii)]**</sup>
+- [**Xeonjia**](https://gitlab.com/deepdaikon/Xeonjia) <sup>**[[F-Droid](https://f-droid.org/app/xyz.deepdaikon.xeonjia)]**</sup>
+- [**Minetest**](https://github.com/minetest/minetest) <sup>**[[F-Droid](https://f-droid.org/app/net.minetest.minetest)]**</sup>
+- [**Apple Flinger**](https://gitlab.com/ar-/apple-flinger) <sup>**[[F-Droid](https://f-droid.org/app/com.gitlab.ardash.appleflinger.android)]**</sup>
+- [**Quinb**](https://gitlab.com/deepdaikon/Quinb) <sup>**[[F-Droid](https://f-droid.org/app/xyz.deepdaikon.quinb)]**</sup>
+- [**DékaDico**](https://github.com/vivekthazhathattil/dekadico) <sup>**[[F-Droid](https://f-droid.org/app/com.example.spokennumbers)]**</sup>
+- [**WordleSolver**](https://github.com/billthefarmer/wordlesolver) <sup>**[[F-Droid](https://f-droid.org/app/org.billthefarmer.solver)]**</sup>
+
+
+### • Music
+- [**CDLC Player**](https://github.com/tilk/cdlc_player) <sup>**[[F-Droid](https://f-droid.org/app/eu.tilk.cdlcplayer)]**</sup>
+- [**Beat Feet**](https://github.com/beat-game/beat-game) <sup>**[[F-Droid](https://f-droid.org/app/com.serwylo.beatgame)]**</sup>
+
+
+### • Puzzle
+- [**Open Sudoku**](https://github.com/ogarcia/opensudoku) <sup>**[[F-Droid](https://f-droid.org/app/org.moire.opensudoku)]**</sup>
+- [**Simple Sudoku Game**](https://git.harrault.fr/android/org.benoitharrault.sudoku) <sup>**[[F-Droid](https://f-droid.org/app/org.benoitharrault.sudoku)]**</sup>
+- [**Block Puzzle Stone Wars**](https://github.com/SoltauFintel/blockpuzzle) <sup>**[[F-Droid](https://f-droid.org/app/de.mwvb.blockpuzzle)]**</sup>
+- [**Minesweeper - Antimine**](https://github.com/lucasnlm/antimine-android) <sup>**[[F-Droid](https://f-droid.org/app/dev.lucanlm.antimine)]**</sup>
+
+
+### • Racing
+- [**Pixel Wheels**](https://github.com/agateau/pixelwheels) <sup>**[[F-Droid](https://f-droid.org/app/com.agateau.tinywheels.android)]**</sup>
+- [**SuperTuxKart**](https://github.com/supertuxkart/stk-code) <sup>**[[F-Droid](https://f-droid.org/app/org.supertuxkart.stk)]**</sup>
+
+
+### • Retro
+- [**Super Retro Mega Wars**](https://github.com/retrowars/retrowars) <sup>**[[F-Droid](https://f-droid.org/app/com.serwylo.retrowars)]**</sup>
+
+
+### • Strategy
+- [**UnCiv**](https://github.com/yairm210/UnCiv) <sup>**[[F-Droid](https://f-droid.org/app/com.unciv.app)]**</sup>
+
+
+### • Word
+- [**Lexica**](https://github.com/lexica/lexica) <sup>**[[F-Droid](https://f-droid.org/app/com.serwylo.lexica)]**</sup>
+- [**Gurgle**](https://github.com/billthefarmer/gurgle) <sup>**[[F-Droid](https://f-droid.org/app/org.billthefarmer.gurgle)]**</sup>
 
 ------------------------
 
