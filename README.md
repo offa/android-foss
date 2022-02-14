@@ -34,6 +34,7 @@ Table of Contents
    * [Image Viewer &amp; Gallery](#-image-viewer--gallery)
    * [Keyboard](#-keyboard)
    * [Launcher &amp; Desktop](#-launcher--desktop)
+   * [Live Wallpapers](#-live-wallpapers)
    * [Mail](#-mail)
    * [Maps &amp; Navigation](#-maps--navigation)
    * [Media Frontends](#-media-frontends)
@@ -43,6 +44,7 @@ Table of Contents
    * [Music &amp; Audio Player](#-music--audio-player)
    * [Notes](#-notes)
    * [Office](#-office)
+   * [Painting](#-painting)
    * [Password &amp; Authentication](#-password--authentication)
    * [Podcast &amp; Audio Book Player](#-podcast--audio-book-player)
    * [RSS Readers](#-rss-readers)
@@ -55,6 +57,17 @@ Table of Contents
    * [Utilities](#-utilities)
    * [Video Player](#-video-player)
    * [Weather](#-weather)
+* [Games](#-games-)
+   * [Board](#-board)
+   * [Card](#-card)
+   * [Educational](#-educational)
+   * [Miscellaneous](#-miscellaneous-1)
+   * [Music](#-music-1)
+   * [Puzzle](#-puzzle)
+   * [Racing](#-racing)
+   * [Retro](#-retro)
+   * [Strategy](#-strategy)
+   * [Word](#-word)
 * [Rooting and Recovery](#-rooting-and-recovery-)
 * [Tutorials and Guides](#-tutorials-and-guides-)
 * [Getting more …](#-getting-more--)
@@ -161,8 +174,10 @@ Table of Contents
 - [**Librera Reader**](https://github.com/foobnix/LibreraReader) <sup>**[[F-Droid](https://f-droid.org/app/com.foobnix.pro.pdf.reader)]**</sup>
 - [**KOReader**](https://github.com/koreader/koreader) <sup>**[[F-Droid](https://f-droid.org/app/org.koreader.launcher)]**</sup>
 
+
 ### • Document Scanner
 - [**OpenNoteScanner**](https://github.com/ctodobom/OpenNoteScanner) <sup>**[[F-Droid](https://f-droid.org/app/com.todobom.opennotescanner)]**</sup>
+
 
 ### • Download Manager
 - [**Aria2App**](https://github.com/devgianlu/Aria2App) <sup>**[[F-Droid](https://f-droid.org/app/com.gianlu.aria2app)]**</sup>
@@ -196,6 +211,7 @@ Table of Contents
     - [Anki Image Occlusion](https://github.com/infinyte7/Anki-Occlusion) <sup>**[[F-Droid](https://f-droid.org/app/io.infinyte7.ankiimageocclusion)]**</sup>
     - [AnkiEditor](https://github.com/jkennethcarino/AnkiEditor) <sup>**[[F-Droid](https://f-droid.org/app/com.jkcarino.ankieditor)]**</sup>
 - [**ForgetMeNot**](https://github.com/tema6120/ForgetMeNot) <sup>**[[F-Droid](https://f-droid.org/app/com.odnovolov.forgetmenot)]**</sup>
+
 
 ### • Flashlight
 - [**Simple Flashlight**](https://github.com/SimpleMobileTools/Simple-Flashlight) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.flashlight)]**</sup>
