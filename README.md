@@ -458,7 +458,7 @@ Table of Contents
 
 
 ### • Miscellaneous
-- [**Zoysii**](hhttps://gitlab.com/deepdaikon/Zoysii) <sup>**[[F-Droid](https://f-droid.org/app/xyz.deepdaikon.zoysii)]**</sup>
+- [**Zoysii**](https://gitlab.com/deepdaikon/Zoysii) <sup>**[[F-Droid](https://f-droid.org/app/xyz.deepdaikon.zoysii)]**</sup>
 - [**Xeonjia**](https://gitlab.com/deepdaikon/Xeonjia) <sup>**[[F-Droid](https://f-droid.org/app/xyz.deepdaikon.xeonjia)]**</sup>
 - [**Minetest**](https://github.com/minetest/minetest) <sup>**[[F-Droid](https://f-droid.org/app/net.minetest.minetest)]**</sup>
 - [**Apple Flinger**](https://gitlab.com/ar-/apple-flinger) <sup>**[[F-Droid](https://f-droid.org/app/com.gitlab.ardash.appleflinger.android)]**</sup>
