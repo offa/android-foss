@@ -168,6 +168,7 @@ Table of Contents
 - [**Simple Dialer**](https://github.com/SimpleMobileTools/Simple-Dialer) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.dialer)]**</sup>
 - [**Koler**](https://github.com/Chooloo/koler) <sup>**[[F-Droid](https://f-droid.org/app/com.chooloo.www.koler)]**</sup>
 
+
 ### • Dictionary
 - [**Collins Dictionary**](https://github.com/Konyaco/CollinsDictionary)
 - [**QDict**](https://github.com/marmistrz/QDict) <sup>**[[F-Droid](https://f-droid.org/app/com.annie.dictionary.fork)]**</sup>
@@ -208,6 +209,7 @@ Table of Contents
 - [**SnapShot**](https://github.com/fm-sys/snapdrop-android) <sup>**[[F-Droid](https://f-droid.org/app/com.fmsys.snapdrop)]**</sup>
 - [**Sharik**](https://github.com/marchellodev/sharik) <sup>**[[F-Droid](https://f-droid.org/app/dev.marchello.sharik)]**</sup>
 
+
 ### • Firewall
 - [**AFWall+**](https://github.com/ukanth/afwall) <sup>**[[F-Droid](https://f-droid.org/app/dev.ukanth.ufirewall)]**</sup>
 - [**NetGuard**](https://github.com/M66B/NetGuard) <sup>**[[F-Droid](https://f-droid.org/app/eu.faircode.netguard)]**</sup>
@@ -243,6 +245,7 @@ Table of Contents
 - [**FlorisBoard**](https://github.com/florisboard/florisboard) <sup>**[[F-Droid](https://f-droid.org/app/dev.patrickgold.florisboard)]**</sup>
 - [**8VIM**](https://github.com/flide/8VIM) <sup>**[[F-Droid](https://f-droid.org/app/inc.flide.vi8)]**</sup>
 - [**Unexpected Keyboard**](https://github.com/Julow/Unexpected-Keyboard) <sup>**[[F-Droid](https://f-droid.org/app/juloo.keyboard2)]**</sup>
+
 
 ### • Launcher & Desktop
 - [**OpenLauncher**](https://github.com/BennyKok/OpenLauncher) <sup>**[[F-Droid](https://f-droid.org/app/com.benny.openlauncher)]**</sup>
@@ -463,7 +466,8 @@ Table of Contents
 - [**Just (Video) Player**](https://github.com/moneytoo/Player) <sup>**[[F-Droid](https://f-droid.org/app/com.brouken.player)]**</sup>
 - [**Fermata Media Player**](https://github.com/AndreyPavlenko/Fermata)
 - [**Kodi**](https://github.com/xbmc/xbmc) <sup>**[[F-Droid](https://f-droid.org/app/org.xbmc.kodi)]**</sup>
-  -[**Kore**](https://github.com/xbmc/Kore) <sup>**[[F-Droid](https://f-droid.org/app/org.xbmc.kore)]**</sup>
+- [**Kore**](https://github.com/xbmc/Kore) <sup>**[[F-Droid](https://f-droid.org/app/org.xbmc.kore)]**</sup>
+
 
 ### • VPN
 - [**WireGuard**](https://git.zx2c4.com/wireguard-android) <sup>**[[F-Droid](https://f-droid.org/app/com.wireguard.android)]**</sup>
