@@ -108,6 +108,10 @@ Table of Contents
 - [**Easer**](https://github.com/renyuneyun/Easer) <sup>**[[F-Droid](https://f-droid.org/app/ryey.easer)]**</sup>
 - [**Automation**](https://git.server47.de/jens/Automation) <sup>**[[F-Droid](https://f-droid.org/app/com.jens.automation2)]**</sup>
 
+### • Barcode Scanner
+- [**Binary Eye**](https://github.com/markusfisch/BinaryEye) <sup>**[[F-Droid](https://f-droid.org/app/de.markusfisch.android.binaryeye)]**</sup>
+- [**QR & Barcode Scanner**](https://github.com/wewewe718/QrAndBarcodeScanner) <sup>**[[F-Droid](https://f-droid.org/app/com.example.barcodescanner)]**</sup>
+
 
 ### • Browser
 - [**Fennec**](https://hg.mozilla.org/releases/mozilla-esr68/) <sup>**[[F-Droid](https://f-droid.org/app/org.mozilla.fennec_fdroid)]**</sup>
@@ -149,7 +153,6 @@ Table of Contents
 
 ### • Community Clients
 - [**Slide**](https://github.com/ccrama/Slide) <sup>**[[F-Droid](https://f-droid.org/app/me.ccrama.redditslide)]**</sup>
-- [**Twire**](https://github.com/twireapp/Twire) <sup>**[[F-Droid](https://f-droid.org/app/com.perflyst.twire)]**</sup>
 - [**OctoDroid**](https://github.com/slapperwan/gh4a) <sup>**[[F-Droid](https://f-droid.org/app/com.gh4a)]**</sup>
 - [**Twidere**](https://github.com/TwidereProject/Twidere-Android) <sup>**[[F-Droid](https://f-droid.org/app/org.mariotaku.twidere)]**</sup>
 - [**Infinity for Reddit**](https://github.com/Docile-Alligator/Infinity-For-Reddit) <sup>**[[F-Droid](https://f-droid.org/app/ml.docilealligator.infinityforreddit)]**</sup>
@@ -164,6 +167,12 @@ Table of Contents
 ### • Dialer
 - [**Simple Dialer**](https://github.com/SimpleMobileTools/Simple-Dialer) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.dialer)]**</sup>
 - [**Koler**](https://github.com/Chooloo/koler) <sup>**[[F-Droid](https://f-droid.org/app/com.chooloo.www.koler)]**</sup>
+
+### • Dictionary
+- [**Collins Dictionary**](https://github.com/Konyaco/CollinsDictionary)
+- [**QDict**](https://github.com/marmistrz/QDict) <sup>**[[F-Droid](https://f-droid.org/app/com.annie.dictionary.fork)]**</sup>
+- [**Aard 2**](https://github.com/itkach/aard2-android) <sup>**[[F-Droid](https://f-droid.org/app/itkach.aard2)]**</sup>
+- [**Notification Dictionary**](https://github.com/tirkarthi/NotificationDictionary) <sup>**[[F-Droid](https://f-droid.org/app/com.xtreak.notificationdictionary)]**</sup>
 
 
 ### • Document & PDF Viewer
@@ -198,12 +207,13 @@ Table of Contents
 ### • File Sharing
 - [**SnapShot**](https://github.com/fm-sys/snapdrop-android) <sup>**[[F-Droid](https://f-droid.org/app/com.fmsys.snapdrop)]**</sup>
 - [**Sharik**](https://github.com/marchellodev/sharik) <sup>**[[F-Droid](https://f-droid.org/app/dev.marchello.sharik)]**</sup>
+- [**Sharik**](https://github.com/marchellodev/sharik) <sup>**[[F-Droid](https://f-droid.org/app/dev.marchello.sharik)]**</sup>
 
 
 ### • Firewall
 - [**AFWall+**](https://github.com/ukanth/afwall) <sup>**[[F-Droid](https://f-droid.org/app/dev.ukanth.ufirewall)]**</sup>
 - [**NetGuard**](https://github.com/M66B/NetGuard) <sup>**[[F-Droid](https://f-droid.org/app/eu.faircode.netguard)]**</sup>
-- [**Rethink DNS + Firewall**](https://github.com/celzero/rethink-app) <sup>**[[F-Droid](https://f-droid.org/app/com.celzero.bravedns)]**</sup>
+- [**Snapdrop for Android**](https://github.com/fm-sys/snapdrop-android) <sup>**[[F-Droid](https://f-droid.org/app/com.fmsys.snapdrop/)]**</sup>
 
 
 ### • Flashcard
@@ -234,6 +244,7 @@ Table of Contents
 - [**Indic Keyboard**](https://gitlab.com/indicproject/indic-keyboard) <sup>**[[F-Droid](https://f-droid.org/app/org.smc.inputmethod.indic)]**</sup>
 - [**FlorisBoard**](https://github.com/florisboard/florisboard) <sup>**[[F-Droid](https://f-droid.org/app/dev.patrickgold.florisboard)]**</sup>
 - [**8VIM**](https://github.com/flide/8VIM) <sup>**[[F-Droid](https://f-droid.org/app/inc.flide.vi8)]**</sup>
+- [**Unexpected Keyboard**](https://github.com/Julow/Unexpected-Keyboard) <sup>**[[F-Droid](https://f-droid.org/app/juloo.keyboard2)]**</sup>
 
 ### • Launcher & Desktop
 - [**OpenLauncher**](https://github.com/BennyKok/OpenLauncher) <sup>**[[F-Droid](https://f-droid.org/app/com.benny.openlauncher)]**</sup>
@@ -258,6 +269,7 @@ Table of Contents
 ### • Mail
 - [**K-9 Mail**](https://github.com/k9mail/k-9) <sup>**[[F-Droid](https://f-droid.org/app/com.fsck.k9)]**</sup>
 - [**FairEmail**](https://github.com/M66B/open-source-email) <sup>**[[F-Droid](https://f-droid.org/app/eu.faircode.email)]**</sup>
+- [**Tutanota**](https://github.com/tutao/tutanota) <sup>**[[F-Droid](https://f-droid.org/app/de.tutao.tutanota)]**</sup>
 
 
 ### • Maps & Navigation
@@ -286,6 +298,9 @@ Table of Contents
 - [**Signal**](https://github.com/signalapp/Signal-Android)
 - [**Jitsi Meet**](https://github.com/jitsi/jitsi-meet) <sup>**[[F-Droid](https://f-droid.org/app/org.jitsi.meet)]**</sup>
 - [**blabber.im**](https://codeberg.org/kriztan/blabber.im) <sup>**[[F-Droid](https://f-droid.org/app/de.pixart.messenger)]**</sup>
+- [**Manyverse**](https://gitlab.com/staltz/manyverse) <sup>**[[F-Droid](https://f-droid.org/app/se.manyver)]**</sup>
+- [**Wire**](https://github.com/wireapp/wire-android) <sup>**[[F-Droid](https://f-droid.org/app/com.wire)]**</sup>
+- [**Briar**](https://code.briarproject.org/briar/briar) <sup>**[[F-Droid](https://f-droid.org/app/org.briarproject.briar.android)]**</sup>
 
 
 ### • Miscellaneous
@@ -306,6 +321,10 @@ Table of Contents
 - [**SubHub**](https://github.com/FunkyMuse/SubHub) <sup>**[[F-Droid](https://f-droid.org/app/com.crazylegend.subhub)]**</sup>
 - [**KDE Connect**](https://invent.kde.org/network/kdeconnect-android) <sup>**[[F-Droid](https://f-droid.org/app/org.kde.kdeconnect_tp)]**</sup>
 - [**Moonlight**](https://github.com/moonlight-stream/moonlight-android) <sup>**[[F-Droid](https://f-droid.org/app/com.limelight)]**</sup>
+- [**Noice**](https://github.com/ashutoshgngwr/noice) <sup>**[[F-Droid](https://f-droid.org/app/com.github.ashutoshgngwr.noice)]**</sup>
+- [**xBrowserSync**](https://github.com/xbrowsersync/app) <sup>**[[F-Droid](https://f-droid.org/app/com.xBrowserSync.android)]**</sup>
+- [**Anchr for Android**](https://github.com/muety/anchr-android) <sup>**[[F-Droid](https://f-droid.org/app/io.muetsch.anchrandroid)]**</sup>
+- [**UntrackMe**](https://framagit.org/tom79/nitterizeme) <sup>**[[F-Droid](https://f-droid.org/app/app.fedilab.nitterizeme)]**</sup>
 
 
 ### • Music
@@ -393,6 +412,10 @@ Table of Contents
 - [**HeartBeat**](https://github.com/berdosi/HeartBeat) <sup>**[[F-Droid](https://f-droid.org/app/eu.berdosi.app.heartbeat)]**</sup>
 - [**Feeel**](https://gitlab.com/enjoyingfoss/feeel) <sup>**[[F-Droid](https://f-droid.org/app/com.enjoyingfoss.feeel)]**</sup>
 - [**Paseo**](https://gitlab.com/pardomi/paseo/tree/HEAD) <sup>**[[F-Droid](https://f-droid.org/app/ca.chancehorizon.paseo)]**</sup>
+- [**hEARtest**](https://github.com/woheller69/audiometry) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.audiometry)]**</sup>
+- [**LibreHealth**](https://gitlab.com/librehealth)
+  - [**ECEB**](https://gitlab.com/librehealth/incubating-projects/mhbs/lh-mhbs-eceb) <sup>**[[F-Droid](https://f-droid.org/app/io.librehealth.mhbs.essential_care_for_every_baby)]**</sup>
+  - [**CCF**](https://gitlab.com/librehealth/toolkit/cost-of-care/lh-toolkit-cost-of-care-app) <sup>**[[F-Droid](https://f-droid.org/app/io.librehealth.toolkit.cost_of_care)]**</sup>
 
 
 ### • Synchronisation
@@ -412,6 +435,7 @@ Table of Contents
 - [**Shelter**](https://cgit.typeblog.net/Shelter) <sup>**[[F-Droid](https://f-droid.org/app/net.typeblog.shelter)]**</sup>
 - [**Insular**](https://gitlab.com/secure-system/Insular) <sup>**[[F-Droid](https://f-droid.org/app/com.oasisfeng.island.fdroid)]**</sup>
 - [**SuperFreezZ**](https://gitlab.com/SuperFreezZ/SuperFreezZ) <sup>**[[F-Droid](https://f-droid.org/app/superfreeze.tool.android)]**</sup>
+- [**Battery Tool**](https://github.com/Domi04151309/BatteryTool) <sup>**[[F-Droid](https://f-droid.org/app/io.github.domi04151309.batterytool)]**</sup>
 - [**AppManager**](https://github.com/MuntashirAkon/AppManager) <sup>**[[F-Droid](https://f-droid.org/app/io.github.muntashirakon.AppManager)]**</sup>
 - [**CPU Info**](https://github.com/kamgurgul/cpu-info) <sup>**[[F-Droid](https://f-droid.org/app/com.kgurgul.cpuinfo)]**</sup>
 - [**BusyBox Installer**](https://github.com/SmartPack/BusyBox-Installer) <sup>**[[F-Droid](https://f-droid.org/app/com.smartpack.busyboxinstaller)]**</sup>
@@ -440,12 +464,24 @@ Table of Contents
 - [**Nova Video Player**](https://github.com/nova-video-player/aos-AVP) <sup>**[[F-Droid](https://f-droid.org/app/org.courville.nova)]**</sup>
 - [**Just (Video) Player**](https://github.com/moneytoo/Player) <sup>**[[F-Droid](https://f-droid.org/app/com.brouken.player)]**</sup>
 - [**Fermata Media Player**](https://github.com/AndreyPavlenko/Fermata)
+- [**Kodi**](https://github.com/xbmc/xbmc) <sup>**[[F-Droid](https://f-droid.org/app/org.xbmc.kodi)]**</sup>
+  -[**Kore**](https://github.com/xbmc/Kore) <sup>**[[F-Droid](https://f-droid.org/app/org.xbmc.kore)]**</sup>
+
+### • VPN
+- [**WireGuard**](https://git.zx2c4.com/wireguard-android) <sup>**[[F-Droid](https://f-droid.org/app/com.wireguard.android)]**</sup>
+- [**Mullvad**](https://github.com/mullvad/mullvadvpn-app) <sup>**[[F-Droid](https://f-droid.org/app/net.mullvad.mullvadvpn)]**</sup>
+- [**ProtonVPN**](https://github.com/ProtonVPN/android-app) <sup>**[[F-Droid](https://f-droid.org/app/ch.protonvpn.android)]**</sup>
+- [**IVPN**](https://github.com/ivpn/android-app) <sup>**[[F-Droid](https://f-droid.org/app/net.ivpn.client)]**</sup>
+- [**Calyx VPN **](https://gitlab.com/CalyxOS/bitmask_android) <sup>**[[F-Droid](https://f-droid.org/app/org.calyxinstitute.vpn)]**</sup>
+- [**Riseup VPN**](https://0xacab.org/leap/bitmask_android) <sup>**[[F-Droid](https://f-droid.org/app/se.leap.riseupvpn)]**</sup>
+- [**Tailscale**](https://github.com/tailscale/tailscale-android) <sup>**[[F-Droid](https://f-droid.org/app/com.tailscale.ipn)]**</sup>
 
 
 ### • Weather
 - [**Geometric Weather**](https://github.com/WangDaYeeeeee/GeometricWeather) <sup>**[[F-Droid](https://f-droid.org/app/wangdaye.com.geometricweather)]**</sup>
 - [**Privacy Friendly Weather**](https://github.com/SecUSo/privacy-friendly-weather) <sup>**[[F-Droid](https://f-droid.org/app/org.secuso.privacyfriendlyweather)]**</sup>
 - [**Forecastie**](https://github.com/martykan/forecastie) <sup>**[[F-Droid](https://f-droid.org/app/cz.martykan.forecastie)]**</sup>
+- [**RadarWeather**](https://github.com/woheller69/weather) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.weather/)]**</sup>
 
 
 ------------------------
@@ -470,6 +506,7 @@ Table of Contents
 
 ### • Educational
 - [**GCompris**](https://invent.kde.org/education/gcompris.git) <sup>**[[F-Droid](https://f-droid.org/app/net.gcompris.full)]**</sup>
+- [**Learning Memory**](https://github.com/niccokunzmann/app.memory.quelltext.eu) <sup>**[[F-Droid](https://f-droid.org/app/eu.quelltext.memory/)]**</sup>
 
 
 ### • Miscellaneous
@@ -485,6 +522,7 @@ Table of Contents
 ### • Music
 - [**CDLC Player**](https://github.com/tilk/cdlc_player) <sup>**[[F-Droid](https://f-droid.org/app/eu.tilk.cdlcplayer)]**</sup>
 - [**Beat Feet**](https://github.com/beat-game/beat-game) <sup>**[[F-Droid](https://f-droid.org/app/com.serwylo.beatgame)]**</sup>
+- [**PianOli**](https://github.com/nicolasbrailo/PianOli) <sup>**[[F-Droid](https://f-droid.org/app/com.nicobrailo.pianoli)]**</sup>
 
 
 ### • Puzzle
