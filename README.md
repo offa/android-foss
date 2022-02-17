@@ -208,7 +208,7 @@ Table of Contents
 - [**SnapShot**](https://github.com/fm-sys/snapdrop-android) <sup>**[[F-Droid](https://f-droid.org/app/com.fmsys.snapdrop)]**</sup>
 - [**Sharik**](https://github.com/marchellodev/sharik) <sup>**[[F-Droid](https://f-droid.org/app/dev.marchello.sharik)]**</sup>
 - [**Sharik**](https://github.com/marchellodev/sharik) <sup>**[[F-Droid](https://f-droid.org/app/dev.marchello.sharik)]**</sup>
-- [**Snapdrop for Android**](https://github.com/fm-sys/snapdrop-android) <sup>**[[F-Droid](https://f-droid.org/app/com.fmsys.snapdrop/)]**</sup>
+- [**Snapdrop for Android**](https://github.com/fm-sys/snapdrop-android) <sup>**[[F-Droid](https://f-droid.org/app/com.fmsys.snapdrop)]**</sup>
 
 
 ### • Firewall
@@ -482,7 +482,7 @@ Table of Contents
 - [**Geometric Weather**](https://github.com/WangDaYeeeeee/GeometricWeather) <sup>**[[F-Droid](https://f-droid.org/app/wangdaye.com.geometricweather)]**</sup>
 - [**Privacy Friendly Weather**](https://github.com/SecUSo/privacy-friendly-weather) <sup>**[[F-Droid](https://f-droid.org/app/org.secuso.privacyfriendlyweather)]**</sup>
 - [**Forecastie**](https://github.com/martykan/forecastie) <sup>**[[F-Droid](https://f-droid.org/app/cz.martykan.forecastie)]**</sup>
-- [**RadarWeather**](https://github.com/woheller69/weather) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.weather/)]**</sup>
+- [**RadarWeather**](https://github.com/woheller69/weather) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.weather)]**</sup>
 
 
 ------------------------
@@ -507,7 +507,7 @@ Table of Contents
 
 ### • Educational
 - [**GCompris**](https://invent.kde.org/education/gcompris.git) <sup>**[[F-Droid](https://f-droid.org/app/net.gcompris.full)]**</sup>
-- [**Learning Memory**](https://github.com/niccokunzmann/app.memory.quelltext.eu) <sup>**[[F-Droid](https://f-droid.org/app/eu.quelltext.memory/)]**</sup>
+- [**Learning Memory**](https://github.com/niccokunzmann/app.memory.quelltext.eu) <sup>**[[F-Droid](https://f-droid.org/app/eu.quelltext.memory)]**</sup>
 
 
 ### • Miscellaneous
