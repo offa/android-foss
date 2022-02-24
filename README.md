@@ -263,6 +263,7 @@ Table of Contents
 - [**BlissLauncher**](https://gitlab.e.foundation/e/apps/BlissLauncher) <sup>**[[F-Droid](https://f-droid.org/app/foundation.e.blisslauncher)]**</sup>
 - [**Posidon Launcher**](https://github.com/leoxshn/posidonLauncher) <sup>**[[F-Droid](https://f-droid.org/app/posidon.launcher)]**</sup>
 - [**Discreet Launcher**](https://github.com/falzonv/discreet-launcher) <sup>**[[F-Droid](https://f-droid.org/app/com.vincent_falzon.discreetlauncher)]**</sup>
+- [**Olauncher**](https://github.com/tanujnotes/Olauncher) <sup>**[[F-Droid](https://f-droid.org/app/app.olauncher)]**</sup>
 
 
 ### • Live Wallpapers
