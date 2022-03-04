@@ -114,6 +114,7 @@ Table of Contents
 ### • Barcode Scanner
 - [**Binary Eye**](https://github.com/markusfisch/BinaryEye) <sup>**[[F-Droid](https://f-droid.org/app/de.markusfisch.android.binaryeye)]**</sup>
 - [**QR & Barcode Scanner**](https://github.com/wewewe718/QrAndBarcodeScanner) <sup>**[[F-Droid](https://f-droid.org/app/com.example.barcodescanner)]**</sup>
+- [**Catima**](https://github.com/CatimaLoyalty/Android) <sup>**[[F-Droid](https://f-droid.org/app/me.hackerchick.catima)]**</sup>
 
 
 ### • Browser
@@ -359,7 +360,7 @@ Table of Contents
 
 
 ### • Notes
-- [**Joplin**](https://github.com/laurent22/joplin)
+- [**Joplin**](https://github.com/laurent22/joplin) <sup>**[[F-Droid](https://f-droid.org/app/net.cozic.joplin)]**</sup>
 - [**Quillnote**](https://github.com/msoultanidis/quillnote) <sup>**[[F-Droid](https://f-droid.org/app/org.qosp.notes)]**</sup>
 - [**Omni-Notes**](https://federicoiosue.github.io/Omni-Notes/) <sup>**[[F-Droid](https://f-droid.org/app/it.feio.android.omninotes.foss)]**</sup>
 - [**Privacy Friendly Notes**](https://github.com/SecUSo/privacy-friendly-notes) <sup>**[[F-Droid](https://f-droid.org/app/org.secuso.privacyfriendlynotes)]**</sup>
