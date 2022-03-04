@@ -359,7 +359,7 @@ Table of Contents
 
 
 ### • Notes
-- [**Joplin**](https://github.com/laurent22/joplin)
+- [**Joplin**](https://github.com/laurent22/joplin) <sup>**[[F-Droid](https://f-droid.org/app/net.cozic.joplin)]**</sup>
 - [**Quillnote**](https://github.com/msoultanidis/quillnote) <sup>**[[F-Droid](https://f-droid.org/app/org.qosp.notes)]**</sup>
 - [**Omni-Notes**](https://federicoiosue.github.io/Omni-Notes/) <sup>**[[F-Droid](https://f-droid.org/app/it.feio.android.omninotes.foss)]**</sup>
 - [**Privacy Friendly Notes**](https://github.com/SecUSo/privacy-friendly-notes) <sup>**[[F-Droid](https://f-droid.org/app/org.secuso.privacyfriendlynotes)]**</sup>
