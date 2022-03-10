@@ -88,6 +88,10 @@ Table of Contents
     - [**Foxy Droid**](https://github.com/kitsunyan/foxy-droid) <sup>**[[F-Droid](https://f-droid.org/app/nya.kitsunyan.foxydroid)]**</sup>
 - [**Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore) <sup>**[[F-Droid](https://f-droid.org/app/com.aurora.store)]**</sup>
 - [**Yalp Store**](https://github.com/yeriomin/YalpStore) <sup>**[[F-Droid](https://f-droid.org/app/com.github.yeriomin.yalpstore)]**</sup>
+- [**Sky Droid**](https://github.com/redsolver/skydroid)
+- [**Appteka**](https://github.com/solkin/appteka-android)
+- [**IzzyOnDroid**](https://gitlab.com/sunilpaulmathew/izzyondroid) <sup>**[[F-Droid](https://f-droid.org/app/in.sunilpaulmathew.izzyondroid)]**</sup>
+- [**NetHunter Store**](https://gitlab.com/kalilinux/nethunter/store/nethunter-store-client)
 
 ------------------------
 
