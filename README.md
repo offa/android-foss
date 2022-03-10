@@ -90,6 +90,8 @@ Table of Contents
 - [**Yalp Store**](https://github.com/yeriomin/YalpStore) <sup>**[[F-Droid](https://f-droid.org/app/com.github.yeriomin.yalpstore)]**</sup>
 - [**Sky Droid**](https://github.com/redsolver/skydroid)
 - [**Appteka**](https://github.com/solkin/appteka-android)
+- [**IzzyOnDroid**](https://gitlab.com/sunilpaulmathew/izzyondroid) <sup>**[[F-Droid](https://f-droid.org/app/in.sunilpaulmathew.izzyondroid)]**</sup>
+- [**NetHunter Store**](https://gitlab.com/kalilinux/nethunter/store/nethunter-store-client)
 
 ------------------------
 
