@@ -123,6 +123,7 @@ Table of Contents
 
 ### • Browser
 - [**Fennec**](https://hg.mozilla.org/releases/mozilla-esr68/) <sup>**[[F-Droid](https://f-droid.org/app/org.mozilla.fennec_fdroid)]**</sup>
+- [**Mull**](https://gitlab.com/divested-mobile/mull-fenix) <sup>**[[F-Droid](https://www.f-droid.org/app/us.spotco.fennec_dos)]**</sup>
 - [**FFUpdater**](https://notabug.org/Tobiwan/ffupdater) <sup>**[[F-Droid](https://f-droid.org/app/de.marmaro.krt.ffupdater)]**</sup>
 - [**Chromium SWE Updater**](https://forum.xda-developers.com/android/apps-games/app-code-aurora-s-chromium-swe-browser-t3603932) <sup>**[[F-Droid](https://f-droid.org/app/chromiumupdater.bamless.com.chromiumsweupdater)]**</sup>
 - [**Lightning**](http://acrdevelopment.org/) <sup>**[[F-Droid](https://f-droid.org/app/acr.browser.lightning)]**</sup>
@@ -178,7 +179,7 @@ Table of Contents
 
 
 ### • Dictionary
-- [**Collins Dictionary**](https://github.com/Konyaco/CollinsDictionary)
+- [**Collins Dictionary**](https://github.com/Konyaco/CollinsDictionary) <sup>**[[F-Droid](https://www.f-droid.org/app/me.konyaco.collinsdictionary)]**</sup>
 - [**QDict**](https://github.com/marmistrz/QDict) <sup>**[[F-Droid](https://f-droid.org/app/com.annie.dictionary.fork)]**</sup>
 - [**Aard 2**](https://github.com/itkach/aard2-android) <sup>**[[F-Droid](https://f-droid.org/app/itkach.aard2)]**</sup>
 - [**Notification Dictionary**](https://github.com/tirkarthi/NotificationDictionary) <sup>**[[F-Droid](https://f-droid.org/app/com.xtreak.notificationdictionary)]**</sup>
