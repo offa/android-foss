@@ -4,21 +4,18 @@ The installation of ***OTA*** updates often fails if the device has been **roote
 
 ***WARNING:** Before you start **backup** everything that's important! Proceed at own risk!*
 
+## Table of Contents
 
-Table of Contents
------------------
-
-   * [Prerequisite](#-prerequisite-)
-   * [Short Version](#-short-version-)
-   * [Long Version](#-long-version-)
-      * [Step 1 – Preparation](#step-1--preparation)
-      * [Step 2 – Flash System Images](#step-2--flash-system-images)
-      * [Step 3 – Install <em>OTA</em>](#step-3--install-ota)
-      * [Step 4 – Install <em>TWRP</em>](#step-4--install-twrp)
-      * [Step 5 – Install <em>Magisk</em>](#step-5--install-magisk)
-      * [Step 6 – Done](#step-6--done)
-   * [Further information](#-further-information-)
-
+* [Prerequisite](#-prerequisite-)
+* [Short Version](#-short-version-)
+* [Long Version](#-long-version-)
+    * [Step 1 – Preparation](#step-1--preparation)
+    * [Step 2 – Flash System Images](#step-2--flash-system-images)
+    * [Step 3 – Install *OTA*](#step-3--install-ota)
+    * [Step 4 – Install *TWRP*](#step-4--install-twrp)
+    * [Step 5 – Install *Magisk*](#step-5--install-magisk)
+    * [Step 6 – Done](#step-6--done)
+* [Further information](#-further-information-)
 
 -------------------------------------
 
@@ -48,31 +45,27 @@ Doing the update isn't that difficult: Reset some system partitions, install ***
 1. Install ***Magisk***
 1. Reboot
 
-
 -------------------------------------
 
 ## – Long Version –
 
 At first double check your backups and the prerequisites listed above.
 
-
 ### Step 1 – Preparation
 
-##### Copy *Magisk* to your device
+#### Copy *Magisk* to your device
 
 Copy (or download) ***Magisk*** Zip to your device. It doesn't matter if it's on the internal or SD memory, just place it somewhere you can find it again later. You can do this step at any later time too.
 
-
-##### Stock files of current running version
+#### Stock files of current running version
 
 Download the update file for the version already running on your device – *not* the version you want to install. Given you are running on v1.2.3 and want to update to v1.2.4, you need the v1.2.3 file.
 
 Unpack the downloaded file, you need: `recovery.img`, `system.img` and `boot.img`.
 
-##### Enable USB Debugging
+#### Enable USB Debugging
 
 Connect the device to your computer through USB and enable *USB Debugging* on the device.
-
 
 ### Step 2 – Flash System Images
 
@@ -105,7 +98,6 @@ Open a terminal and use these commands to flash the necessary partitions (don't 
 
 Install the ***OTA*** as usual on the device. The update will reboot automatically. Once this is done check that the installed version is correct and your system is up to date.
 
-
 ### Step 4 – Install *TWRP*
 
 Flash ***TWRP*** using ***ADB***. The image typically has a device specific name (eg. `twrp-[version]-[device].img`), for simplification `TWRP.img` is used here.
@@ -127,17 +119,15 @@ Flash ***TWRP*** using ***ADB***. The image typically has a device specific name
 > fastboot reboot
 ```
 
-##### Boot into *TWRP*
+#### Boot into *TWRP*
 
 When the last command restarts the device, use the *Volume Keys* to navigate. Select boot into *"Recovery"*. ***TWRP*** will show up then.
-
 
 ### Step 5 – Install *Magisk*
 
 From the ***TWRP*** menu select *"Install"* and install the ***Magisk*** Zip. Reboot afterwards.
 
-**Note:** *It's a good chance to clear the *Dalvik-Cache* at this point – but that's fully optional.*
-
+**Note:** *It's a good chance to clear the Dalvik-Cache at this point – but that's fully optional.*
 
 ### Step 6 – Done
 
@@ -145,10 +135,9 @@ Once back in your system make sure everything works fine, you are running the la
 
 That's it!
 
-
 -------------------------------------
 
 ## – Further information –
 
-- [Magisk – OTA Upgrade Guide](https://topjohnwu.github.io/Magisk/ota.html)
-- [A manual OTA for rooted hammerheads, quasi](https://gist.github.com/eyecatchup/ec0a852428c19705380e)
+* [Magisk – OTA Upgrade Guide](https://topjohnwu.github.io/Magisk/ota.html)
+* [A manual OTA for rooted hammerheads, quasi](https://gist.github.com/eyecatchup/ec0a852428c19705380e)
