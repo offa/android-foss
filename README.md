@@ -308,8 +308,7 @@ Table of Contents
 - [**Silence**](https://github.com/SilenceIM/Silence) <sup>**[[F-Droid](https://f-droid.org/app/org.smssecure.smssecure)]**</sup>
 - [**Ring**](https://ring.cx/) <sup>**[[F-Droid](https://f-droid.org/app/cx.ring)]**</sup>
 - [**Kontalk**](https://github.com/kontalk/androidclient) <sup>**[[F-Droid](https://f-droid.org/app/org.kontalk)]**</sup>
-- [**Telegram**](https://github.com/DrKLO/Telegram)
-  - [**Telegram-FOSS**](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) <sup>**[[F-Droid](https://f-droid.org/app/org.telegram.messenger)]**</sup>
+- [**Telegram-FOSS**](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) <sup>**[[F-Droid](https://f-droid.org/app/org.telegram.messenger)]**</sup>
   - [**Nekogram X**](https://github.com/NekoX-Dev/NekoX) <sup>**[[F-Droid](https://f-droid.org/app/nekox.messenger)]**</sup>
   - [**Forkgram**](https://github.com/Forkgram/TelegramAndroid) <sup>**[[F-Droid](https://f-droid.org/app/org.forkgram.messenger)]**</sup>
 - [**Element**](https://github.com/vector-im/element-android) <sup>**[[F-Droid](https://f-droid.org/app/im.vector.app)]**</sup>
