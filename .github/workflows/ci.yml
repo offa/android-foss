@@ -11,3 +11,15 @@ jobs:
         uses: actions/checkout@main
       - name: Check
         run: ./check.sh
+
+  markdownlint:
+    runs-on: ubuntu-latest
+    name: Markdownlint
+    steps:
+      - name: Checkout
+        uses: actions/checkout@main
+      - name: Markdownlint
+        uses: nosborn/github-action-markdown-cli@master
+        with:
+          files: "*.md"
+          config_file: .markdownlint.json
