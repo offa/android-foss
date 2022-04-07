@@ -563,7 +563,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Retro
 
 * [**Super Retro Mega Wars**](https://github.com/retrowars/retrowars) <sup>**[[F-Droid](https://f-droid.org/app/com.serwylo.retrowars)]**</sup>
-
+* [**Lemuroid**](https://github.com/Swordfish90/Lemuroid) <sup>**[[F-Droid](https://f-droid.org/packages/com.swordfish.lemuroid/)]**</sup>
 ### • Strategy
 
 * [**UnCiv**](https://github.com/yairm210/UnCiv) <sup>**[[F-Droid](https://f-droid.org/app/com.unciv.app)]**</sup>
