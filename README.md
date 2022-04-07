@@ -473,6 +473,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Tasks.org**](https://github.com/tasks/tasks) <sup>**[[F-Droid](https://f-droid.org/app/org.tasks)]**</sup>
 
 ### • Utilities
+
 * [**PDF Converter**](https://swati4star.github.io/Images-to-PDF/) <sup>**[[F-Droid](https://f-droid.org/app/swati4star.createpdf)]**</sup>
 * [**Photok**](https://github.com/leonlatsch/Photok) <sup>**[[F-Droid](https://f-droid.org/app/dev.leonlatsch.photok)]**</sup>
 * [**Easy Watermark**](https://github.com/rosuH/EasyWatermark) <sup>**[[F-Droid](https://f-droid.org/app/me.rosuh.easywatermark)]**</sup>
@@ -561,8 +562,10 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**SuperTuxKart**](https://github.com/supertuxkart/stk-code) <sup>**[[F-Droid](https://f-droid.org/app/org.supertuxkart.stk)]**</sup>
 
 ### • Retro
+
 * [**Lemuroid**](https://github.com/Swordfish90/Lemuroid) <sup>**[[F-Droid](https://f-droid.org/app/com.swordfish.lemuroid)]**</sup>
 * [**Super Retro Mega Wars**](https://github.com/retrowars/retrowars) <sup>**[[F-Droid](https://f-droid.org/app/com.serwylo.retrowars)]**</sup>
+
 ### • Strategy
 
 * [**UnCiv**](https://github.com/yairm210/UnCiv) <sup>**[[F-Droid](https://f-droid.org/app/com.unciv.app)]**</sup>
