@@ -292,6 +292,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**OsmAnd~**](http://osmand.net/) <sup>**[[F-Droid](https://f-droid.org/app/net.osmand.plus)]**</sup>
     * [Contour Lines and Hillshade](http://osmand.net/features?id=contour-lines-plugin) <sup>**[[F-Droid](https://f-droid.org/app/net.osmand.srtmPlugin.paid)]**</sup>
     * [Parking Spot](http://osmand.net/features?id=parking-plugin) <sup>**[[F-Droid](https://f-droid.org/app/net.osmand.parkingPlugin)]**</sup>
+* [**Trail Sense**](https://kylecorry.com/app/maker/subnautica/2020/05/14/trail-sense.html) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.kylecorry.trail_sense/)]**</sup>
 * [**Transportr**](https://github.com/grote/transportr) <sup>**[[F-Droid](https://f-droid.org/app/de.grobox.liberario)]**</sup>
 * [**Private Location**](https://github.com/wesaphzt/privatelocation) <sup>**[[F-Droid](https://f-droid.org/app/com.wesaphzt.privatelocation)]**</sup>
 * [**Organic Maps**](https://github.com/organicmaps/organicmaps) <sup>**[[F-Droid](https://f-droid.org/app/app.organicmaps)]**</sup>
@@ -473,7 +474,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Tasks.org**](https://github.com/tasks/tasks) <sup>**[[F-Droid](https://f-droid.org/app/org.tasks)]**</sup>
 
 ### • Utilities
-
+* [**PDF Converter**](https://swati4star.github.io/Images-to-PDF/) <sup>**[[F-Droid](https://f-droid.org/packages/swati4star.createpdf/)]**</sup>
 * [**Photok**](https://github.com/leonlatsch/Photok) <sup>**[[F-Droid](https://f-droid.org/app/dev.leonlatsch.photok)]**</sup>
 * [**Easy Watermark**](https://github.com/rosuH/EasyWatermark) <sup>**[[F-Droid](https://f-droid.org/app/me.rosuh.easywatermark)]**</sup>
 * [**InviZible Pro**](https://invizible.net) <sup>**[[F-Droid](https://f-droid.org/app/pan.alexander.tordnscrypt.stable)]**</sup>
@@ -561,9 +562,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**SuperTuxKart**](https://github.com/supertuxkart/stk-code) <sup>**[[F-Droid](https://f-droid.org/app/org.supertuxkart.stk)]**</sup>
 
 ### • Retro
-
-* [**Super Retro Mega Wars**](https://github.com/retrowars/retrowars) <sup>**[[F-Droid](https://f-droid.org/app/com.serwylo.retrowars)]**</sup>
 * [**Lemuroid**](https://github.com/Swordfish90/Lemuroid) <sup>**[[F-Droid](https://f-droid.org/packages/com.swordfish.lemuroid/)]**</sup>
+* [**Super Retro Mega Wars**](https://github.com/retrowars/retrowars) <sup>**[[F-Droid](https://f-droid.org/app/com.serwylo.retrowars)]**</sup>
 ### • Strategy
 
 * [**UnCiv**](https://github.com/yairm210/UnCiv) <sup>**[[F-Droid](https://f-droid.org/app/com.unciv.app)]**</sup>
