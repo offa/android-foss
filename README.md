@@ -259,6 +259,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**8VIM**](https://github.com/flide/8VIM) <sup>**[[F-Droid](https://f-droid.org/app/inc.flide.vi8)]**</sup>
 * [**Unexpected Keyboard**](https://github.com/Julow/Unexpected-Keyboard) <sup>**[[F-Droid](https://f-droid.org/app/juloo.keyboard2)]**</sup>
 * [**Stroke Input Method (筆畫輸入法)**](https://github.com/stroke-input/stroke-input-android) <sup>**[[F-Droid](https://f-droid.org/app/io.github.yawnoc.strokeinput)]**</sup>
+* [**nicoWnnG**](https://bitbucket-archive.softwareheritage.org/projects/da/dalb8/nicownng.html) <sup>**[[F-Droid](https://f-droid.org/app/net.gorry.android.input.nicownng)]**</sup>
 
 ### • Launcher & Desktop
 
