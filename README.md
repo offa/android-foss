@@ -209,6 +209,10 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Simple Draw**](https://github.com/SimpleMobileTools/Simple-Draw) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.draw.pro)]**</sup>
 
+### • Emulator
+
+* [**Limbo x86 PC Emulator**](https://github.com/limboemu/limbo) <sup>**[[F-Droid](https://f-droid.org/app/com.limbo.emu.main)]**</sup>
+
 ### • File Manager
 
 * [**Amaze**](https://github.com/TeamAmaze/AmazeFileManager)
@@ -297,6 +301,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Transportr**](https://github.com/grote/transportr) <sup>**[[F-Droid](https://f-droid.org/app/de.grobox.liberario)]**</sup>
 * [**Private Location**](https://github.com/wesaphzt/privatelocation) <sup>**[[F-Droid](https://f-droid.org/app/com.wesaphzt.privatelocation)]**</sup>
 * [**Organic Maps**](https://github.com/organicmaps/organicmaps) <sup>**[[F-Droid](https://f-droid.org/app/app.organicmaps)]**</sup>
+* [**GMaps WV**](https://gitlab.com/divested-mobile/maps) <sup>**[[F-Droid](https://www.f-droid.org/app/us.spotco.maps)]**</sup>
 
 ### • Media Frontends
 
@@ -322,6 +327,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Manyverse**](https://gitlab.com/staltz/manyverse) <sup>**[[F-Droid](https://f-droid.org/app/se.manyver)]**</sup>
 * [**Wire**](https://github.com/wireapp/wire-android) <sup>**[[F-Droid](https://f-droid.org/app/com.wire)]**</sup>
 * [**Briar**](https://code.briarproject.org/briar/briar) <sup>**[[F-Droid](https://f-droid.org/app/org.briarproject.briar.android)]**</sup>
+* [**Mastodon**](https://github.com/mastodon/mastodon-android)
 
 ### • Miscellaneous
 
@@ -346,11 +352,12 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Anchr for Android**](https://github.com/muety/anchr-android) <sup>**[[F-Droid](https://f-droid.org/app/io.muetsch.anchrandroid)]**</sup>
 * [**UntrackMe**](https://framagit.org/tom79/nitterizeme) <sup>**[[F-Droid](https://f-droid.org/app/app.fedilab.nitterizeme)]**</sup>
 * [**AirGuard - AirTag tracking protection**](https://github.com/seemoo-lab/AirGuard) <sup>**[[F-Droid](https://f-droid.org/app/de.seemoo.at_tracking_detection)]**</sup>
+* [**WordPress**](https://github.com/wordpress-mobile/WordPress-Android)
 
 ### • Music
 
 * [**Metronome**](https://github.com/thetwom/toc2) <sup>**[[F-Droid](https://f-droid.org/app/de.moekadu.metronome)]**</sup>
-
+* [**Noten Learner**](https://github.com/MelvilQ/noten-lernen)
 ### • Music & Audio Player
 
 * [**Odyssey**](https://github.com/gateship-one/odyssey) <sup>**[[F-Droid](https://f-droid.org/app/org.gateshipone.odyssey)]**</sup>
@@ -362,6 +369,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Simple Music Player**](https://github.com/SimpleMobileTools/Simple-Music-Player) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.musicplayer)]**</sup>
 * [**Dialog Music Player**](https://github.com/VishnuSanal/DialogMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/app/phone.vishnu.dialogmusicplayer)]**</sup>
 * [**Phonograph**](https://github.com/kabouzeid/Phonograph) <sup>**[[F-Droid](https://f-droid.org/app/com.kabouzeid.gramophone)]**</sup>
+* [**Phonograph Plus**](https://github.com/chr56/Phonograph_Plus)
 * [**Transistor**](https://github.com/y20k/transistor) <sup>**[[F-Droid](https://f-droid.org/app/org.y20k.transistor)]**</sup>
 * [**Vinyl Music Player**](https://github.com/AdrienPoupa/VinylMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/app/com.poupa.vinylmusicplayer)]**</sup>
 * [**Music Player GO**](https://github.com/enricocid/Music-Player-GO) <sup>**[[F-Droid](https://f-droid.org/app/com.iven.musicplayergo)]**</sup>
@@ -370,7 +378,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Auxio**](https://github.com/OxygenCobalt/Auxio) <sup>**[[F-Droid](https://f-droid.org/app/org.oxycblt.auxio)]**</sup>
 * [**BlackHole**](https://github.com/Sangwan5688/BlackHole) <sup>**[[F-Droid](https://f-droid.org/app/com.shadow.blackhole)]**</sup>
 * [**SongTube**](https://github.com/SongTube/SongTube-App)
-* [**raag**](https://github.com/raag-music/raag/) <sup>**[[F-Droid](https://f-droid.org/app/in.amfoss.raag)]**</sup>
+* [**raag**](https://github.com/raag-music/raag) <sup>**[[F-Droid](https://f-droid.org/app/in.amfoss.raag)]**</sup>
+* [**Music**](https://github.com/z-huang/music)
 
 ### • Notes
 
@@ -415,13 +424,14 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • RSS Readers
 
 * [**Feeder**](https://gitlab.com/spacecowboy/Feeder) <sup>**[[F-Droid](https://f-droid.org/app/com.nononsenseapps.feeder)]**</sup>
-* [**NewsBlur**](https://github.com/samuelclay/NewsBlur) <sup>**[[F-Droid](https://f-droid.org/en/app/com.newsblur)]**</sup>
+* [**NewsBlur**](https://github.com/samuelclay/NewsBlur) <sup>**[[F-Droid](https://f-droid.org/app/com.newsblur)]**</sup>
+* [**Thud**](https://github.com/aerotoad/Thud)
 
 ### • Science & Education
 
 * [**freeCodeCamp**](https://github.com/freeCodeCamp/mobile)
 * [**phyphox**](https://github.com/phyphox/phyphox-android) <sup>**[[F-Droid](https://f-droid.org/app/de.rwth_aachen.phyphox)]**</sup>
-* [**Brainf**](https://github.com/fredhappyface/android.brainf) <sup>**[[F-Droid](https://www.f-droid.org/app/com.fredhappyface.brainf)]**</sup>
+* [**Brainf**](https://github.com/fredhappyface/android.brainf) <sup>**[[F-Droid](https://f-droid.org/app/com.fredhappyface.brainf)]**</sup>
 
 ### • SMS
 
@@ -508,6 +518,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Forecastie**](https://github.com/martykan/forecastie) <sup>**[[F-Droid](https://f-droid.org/app/cz.martykan.forecastie)]**</sup>
 * [**RadarWeather**](https://github.com/woheller69/weather) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.weather)]**</sup>
 * [**Clima**](https://github.com/Lacerte/clima) <sup>**[[F-Droid](https://www.f-droid.org/app/co.prestosole.clima)]**</sup>
+* [**Weather**](https://codeberg.org/Beowulf/Weather) <sup>**[[F-Droid](https://www.f-droid.org/app/de.beowulf.wetter)]**</sup>
 
 ------------------------
 
@@ -532,6 +543,13 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**GCompris**](https://invent.kde.org/education/gcompris.git) <sup>**[[F-Droid](https://f-droid.org/app/net.gcompris.full)]**</sup>
 * [**Learning Memory**](https://github.com/niccokunzmann/app.memory.quelltext.eu) <sup>**[[F-Droid](https://f-droid.org/app/eu.quelltext.memory)]**</sup>
+
+### • Emulator
+
+* [**Lemuroid**](https://github.com/Swordfish90/Lemuroid) <sup>**[[F-Droid](https://f-droid.org/app/com.swordfish.lemuroid)]**</sup>
+* [**Dolphin**](https://github.com/dolphin-emu/dolphin) <sup>**[[F-Droid](https://f-droid.org/app/org.dolphinemu.dolphinemu)]**</sup>
+* [**J2ME Loader**](https://github.com/nikita36078/J2ME-Loader) <sup>**[[F-Droid](https://f-droid.org/app/ru.playsoftware.j2meloader)]**</sup>
+* [**RetroArch**](https://github.com/libretro/RetroArch)
 
 ### • Miscellaneous
 
@@ -564,7 +582,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Retro
 
-* [**Lemuroid**](https://github.com/Swordfish90/Lemuroid) <sup>**[[F-Droid](https://f-droid.org/app/com.swordfish.lemuroid)]**</sup>
 * [**Super Retro Mega Wars**](https://github.com/retrowars/retrowars) <sup>**[[F-Droid](https://f-droid.org/app/com.serwylo.retrowars)]**</sup>
 
 ### • Strategy
