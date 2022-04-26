@@ -356,6 +356,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Metronome**](https://github.com/thetwom/toc2) <sup>**[[F-Droid](https://f-droid.org/app/de.moekadu.metronome)]**</sup>
 * [**Noten Learner**](https://github.com/MelvilQ/noten-lernen)
+* [**Tuner**](https://github.com/thetwom/Tuner) <sup>**[[F-Droid](https://www.f-droid.org/app/de.moekadu.tuner)]**</sup>
 
 ### • Music & Audio Player
 
@@ -402,6 +403,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Painting
 
 * [**Krita**](https://invent.kde.org/graphics/krita) <sup>**[[F-Droid](https://f-droid.org/app/org.krita)]**</sup>
+* [**Pocket Paint**](https://github.com/Catrobat/Paintroid) <sup>**[[F-Droid](https://www.f-droid.org/app/org.catrobat.paintroid)]**</sup>
 
 ### • Password & Authentication
 
@@ -489,6 +491,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Easy Watermark**](https://github.com/rosuH/EasyWatermark) <sup>**[[F-Droid](https://f-droid.org/app/me.rosuh.easywatermark)]**</sup>
 * [**InviZible Pro**](https://invizible.net) <sup>**[[F-Droid](https://f-droid.org/app/pan.alexander.tordnscrypt.stable)]**</sup>
 * [**LTE Cleaner**](https://github.com/TheRedSpy15/LTECleanerFOSS) <sup>**[[F-Droid](https://f-droid.org/app/theredspy15.ltecleanerfoss)]**</sup>
+* [**DeadHash**](https://github.com/CodeDead/DeadHash-android) <sup>**[[F-Droid](https://www.f-droid.org/app/com.codedead.deadhash)]**</sup>
 
 ### • Video Player
 
