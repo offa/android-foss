@@ -156,6 +156,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Open Camera**](http://opencamera.sourceforge.net/) <sup>**[[F-Droid](https://f-droid.org/app/net.sourceforge.opencamera)]**</sup>
 * [**Cryptocam**](https://gitlab.com/cryptocam/cryptocam) <sup>**[[F-Droid](https://f-droid.org/app/com.tnibler.cryptocam)]**</sup>
 * [**FreeDcam**](https://github.com/KillerInk/FreeDcam) <sup>**[[F-Droid](https://www.f-droid.org/app/troop.com.freedcam)]**</sup>
+* [**Secure Camera**](https://github.com/GrapheneOS/Camera)
 
 ### • Clock & Time
 
@@ -195,6 +196,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Pdf Viewer Plus**](https://github.com/JavaCafe01/PdfViewer) <sup>**[[F-Droid](https://f-droid.org/app/com.gsnathan.pdfviewer)]**</sup>
 * [**Librera Reader**](https://github.com/foobnix/LibreraReader) <sup>**[[F-Droid](https://f-droid.org/app/com.foobnix.pro.pdf.reader)]**</sup>
 * [**KOReader**](https://github.com/koreader/koreader) <sup>**[[F-Droid](https://f-droid.org/app/org.koreader.launcher)]**</sup>
+* [**Secure PDF Viewer**](https://github.com/GrapheneOS/PdfViewer)
 
 ### • Document Scanner
 
@@ -476,6 +478,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Battery Tool**](https://github.com/Domi04151309/BatteryTool) <sup>**[[F-Droid](https://f-droid.org/app/io.github.domi04151309.batterytool)]**</sup>
 * [**Scoop**](https://github.com/TacoTheDank/Scoop) <sup>**[[F-Droid](https://f-droid.org/app/taco.scoop)]**</sup>
 * [**Termux**](https://github.com/termux/termux-app) <sup>**[[F-Droid](https://f-droid.org/app/com.termux)]**</sup>
+* [**Auditor**](https://github.com/GrapheneOS/Auditor)
 
 ### • ToDo Lists
 
