@@ -154,7 +154,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Camera
 
 * [**Open Camera**](http://opencamera.sourceforge.net/) <sup>**[[F-Droid](https://f-droid.org/app/net.sourceforge.opencamera)]**</sup>
-  * [**OpenCamera Sensors**](https://github.com/MobileRoboticsSkoltech/OpenCamera-Sensors)
+    * [**OpenCamera Sensors**](https://github.com/MobileRoboticsSkoltech/OpenCamera-Sensors)
 * [**Cryptocam**](https://gitlab.com/cryptocam/cryptocam) <sup>**[[F-Droid](https://f-droid.org/app/com.tnibler.cryptocam)]**</sup>
 * [**FreeDcam**](https://github.com/KillerInk/FreeDcam) <sup>**[[F-Droid](https://www.f-droid.org/app/troop.com.freedcam)]**</sup>
 * [**Secure Camera**](https://github.com/GrapheneOS/Camera)
