@@ -439,6 +439,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Feeder**](https://gitlab.com/spacecowboy/Feeder) <sup>**[[F-Droid](https://f-droid.org/app/com.nononsenseapps.feeder)]**</sup>
 * [**NewsBlur**](https://github.com/samuelclay/NewsBlur) <sup>**[[F-Droid](https://f-droid.org/app/com.newsblur)]**</sup>
 * [**Thud**](https://github.com/aerotoad/Thud)
+* [**ReadYou**](https://github.com/Ashinch/ReadYou)
 
 ### • Science & Education
 
