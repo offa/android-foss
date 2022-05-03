@@ -80,12 +80,12 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ## – App Store –
 
-* [**F-Droid**](https://f-droid.org/)
+* [**F-Droid**](https://f-droid.org)
     * [**Droid-ify**](https://github.com/Iamlooker/Droid-ify) <sup>**[[F-Droid](https://f-droid.org/app/com.looker.droidify)]**</sup>
-    * [**G-Droid**](https://gitlab.com/gdroid/gdroidclient/) <sup>**[[F-Droid](https://f-droid.org/app/org.gdroid.gdroid)]**</sup>
+    * [**G-Droid**](https://gitlab.com/gdroid/gdroidclient) <sup>**[[F-Droid](https://f-droid.org/app/org.gdroid.gdroid)]**</sup>
     * [**M-Droid**](https://github.com/SkyzohKey/M-Droid) <sup>**[[F-Droid](https://f-droid.org/app/com.mdroid)]**</sup>
     * [**Aurora Droid**](https://gitlab.com/AuroraOSS/auroradroid) <sup>**[[F-Droid](https://f-droid.org/app/com.aurora.adroid)]**</sup>
-    * [**Fossdroid**](https://fossdroid.com/)
+    * [**Fossdroid**](https://fossdroid.com)
     * [**Foxy Droid**](https://github.com/kitsunyan/foxy-droid) <sup>**[[F-Droid](https://f-droid.org/app/nya.kitsunyan.foxydroid)]**</sup>
 * [**Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore) <sup>**[[F-Droid](https://f-droid.org/app/com.aurora.store)]**</sup>
 * [**Yalp Store**](https://github.com/yeriomin/YalpStore) <sup>**[[F-Droid](https://f-droid.org/app/com.github.yeriomin.yalpstore)]**</sup>
@@ -126,12 +126,12 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Browser
 
-* [**Fennec**](https://hg.mozilla.org/releases/mozilla-esr68/) <sup>**[[F-Droid](https://f-droid.org/app/org.mozilla.fennec_fdroid)]**</sup>
+* [**Fennec**](https://hg.mozilla.org/releases/mozilla-esr68) <sup>**[[F-Droid](https://f-droid.org/app/org.mozilla.fennec_fdroid)]**</sup>
 * [**Mull**](https://gitlab.com/divested-mobile/mull-fenix) <sup>**[[F-Droid](https://www.f-droid.org/app/us.spotco.fennec_dos)]**</sup>
 * [**FFUpdater**](https://notabug.org/Tobiwan/ffupdater) <sup>**[[F-Droid](https://f-droid.org/app/de.marmaro.krt.ffupdater)]**</sup>
 * [**Chromium SWE Updater**](https://forum.xda-developers.com/android/apps-games/app-code-aurora-s-chromium-swe-browser-t3603932) <sup>**[[F-Droid](https://f-droid.org/app/chromiumupdater.bamless.com.chromiumsweupdater)]**</sup>
 * [**Lightning**](http://acrdevelopment.org/) <sup>**[[F-Droid](https://f-droid.org/app/acr.browser.lightning)]**</sup>
-* [**Bromite**](https://www.bromite.org/)
+* [**Bromite**](https://www.bromite.org)
 * [**DuckDuckGo Privacy Browser**](https://github.com/duckduckgo/Android) <sup>**[[F-Droid](https://f-droid.org/app/com.duckduckgo.mobile.android)]**</sup>
 * [**SmartCookieWeb**](https://github.com/CookieJarApps/SmartCookieWeb) <sup>**[[F-Droid](https://f-droid.org/app/com.cookiegames.smartcookie)]**</sup>
 * [**Privacy Browser**](https://gitweb.stoutner.com/?p=PrivacyBrowser.git) <sup>**[[F-Droid](https://f-droid.org/app/com.stoutner.privacybrowser.standard)]**</sup>
@@ -362,6 +362,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**AirGuard - AirTag tracking protection**](https://github.com/seemoo-lab/AirGuard) <sup>**[[F-Droid](https://f-droid.org/app/de.seemoo.at_tracking_detection)]**</sup>
 * [**DeepL**](https://github.com/sakusaku3939/DeepLAndroid) <sup>**[[F-Droid](https://f-droid.org/app/com.example.deeplviewer)]**</sup>
 * [**WiFi Walkie Talkie**](https://github.com/js-labs/WalkieTalkie) <sup>**[[F-Droid](https://f-droid.org/app/org.jsl.wfwt)]**</sup>
+* [**Coffee**](https://github.com/mueller-ma/Coffee) <sup>**[[F-Droid](https://www.f-droid.org/app/com.github.muellerma.coffee)]**</sup>
 
 ### • Music
 
@@ -463,6 +464,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**LibreHealth**](https://gitlab.com/librehealth)
     * [**ECEB**](https://gitlab.com/librehealth/incubating-projects/mhbs/lh-mhbs-eceb) <sup>**[[F-Droid](https://f-droid.org/app/io.librehealth.mhbs.essential_care_for_every_baby)]**</sup>
     * [**CCF**](https://gitlab.com/librehealth/toolkit/cost-of-care/lh-toolkit-cost-of-care-app) <sup>**[[F-Droid](https://f-droid.org/app/io.librehealth.toolkit.cost_of_care)]**</sup>
+* [**FitoTrack**](https://codeberg.org/jannis/FitoTrack) <sup>**[[F-Droid](https://www.f-droid.org/app/de.tadris.fitness)]**</sup>
 
 ### • Synchronisation
 
@@ -491,6 +493,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Scoop**](https://github.com/TacoTheDank/Scoop) <sup>**[[F-Droid](https://f-droid.org/app/taco.scoop)]**</sup>
 * [**Termux**](https://github.com/termux/termux-app) <sup>**[[F-Droid](https://f-droid.org/app/com.termux)]**</sup>
 * [**Auditor**](https://github.com/GrapheneOS/Auditor)
+* [**Extirpater**](https://gitlab.com/divested-mobile/extirpater) <sup>**[[F-Droid](https://www.f-droid.org/app/us.spotco.extirpater)]**</sup>
 
 ### • ToDo Lists
 
@@ -611,13 +614,14 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Lexica**](https://github.com/lexica/lexica) <sup>**[[F-Droid](https://f-droid.org/app/com.serwylo.lexica)]**</sup>
 * [**Gurgle**](https://github.com/billthefarmer/gurgle) <sup>**[[F-Droid](https://f-droid.org/app/org.billthefarmer.gurgle)]**</sup>
+* [**CrossWords**](http://xwords.sourceforge.net/source.php) <sup>**[[F-Droid](https://www.f-droid.org/app/org.eehouse.android.xw4)]**</sup>
 
 ------------------------
 
 ## – Rooting and Recovery –
 
 * [**Magisk**](https://github.com/topjohnwu/Magisk)
-* [**TWRP**](https://twrp.me/)
+* [**TWRP**](https://twrp.me)
 
 ------------------------
 
@@ -629,9 +633,9 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ## – Getting more … –
 
-* [**F-Droid**](https://f-droid.org/)
-* [**Fossdroid**](https://fossdroid.com/)
-* [**Guardian Project**](https://guardianproject.info/)
+* [**F-Droid**](https://f-droid.org)
+* [**Fossdroid**](https://fossdroid.com)
+* [**Guardian Project**](https://guardianproject.info)
 * [**CellularPrivacy – Recommendations**](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Recommendations)
 * [**Awesome Android**](https://github.com/TheEvilSkeleton/awesome-android)
 * [**List of free and open-source Android applications**](https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications)
