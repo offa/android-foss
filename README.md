@@ -252,18 +252,17 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Simple Flashlight**](https://github.com/SimpleMobileTools/Simple-Flashlight) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.flashlight)]**</sup>
 * [**Flashy**](https://github.com/Crazy-Marvin/Flashy) <sup>**[[F-Droid](https://f-droid.org/app/rocks.poopjournal.flashy)]**</sup>
 
-### • Image Viewer & Gallery
-
-* [**LeafPic Revived**](https://github.com/apcro/leafpicrevived) <sup>**[[F-Droid](https://f-droid.org/app/com.alienpants.leafpicrevived)]**</sup>
-* [**Simple Gallery**](https://github.com/SimpleMobileTools/Simple-Gallery) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.gallery.pro)]**</sup>
-* [**Stingle Photos**](https://github.com/stingle/stingle-photos-android) <sup>**[[F-Droid](https://f-droid.org/app/org.stingle.photos)]**</sup>
-
 ### • Image Manipulation
 
 * [**ImagePipe**](https://codeberg.org/Starfish/Imagepipe) <sup>**[[F-Droid](https://f-droid.org/app/de.kaffeemitkoffein.imagepipe)]**</sup>
 * [**PrivacyBlur**](https://github.com/MATHEMA-GmbH/privacyblur) <sup>**[[F-Droid](https://www.f-droid.org/app/de.mathema.privacyblur)]**</sup>
 * [**Easy Watermark**](https://github.com/rosuH/EasyWatermark) <sup>**[[F-Droid](https://f-droid.org/app/me.rosuh.easywatermark)]**</sup>
-* 
+
+### • Image Viewer & Gallery
+
+* [**LeafPic Revived**](https://github.com/apcro/leafpicrevived) <sup>**[[F-Droid](https://f-droid.org/app/com.alienpants.leafpicrevived)]**</sup>
+* [**Simple Gallery**](https://github.com/SimpleMobileTools/Simple-Gallery) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.gallery.pro)]**</sup>
+* [**Stingle Photos**](https://github.com/stingle/stingle-photos-android) <sup>**[[F-Droid](https://f-droid.org/app/org.stingle.photos)]**</sup>
 
 ### • Keyboard
 
