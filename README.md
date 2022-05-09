@@ -175,6 +175,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Infinity for Reddit**](https://github.com/Docile-Alligator/Infinity-For-Reddit) <sup>**[[F-Droid](https://f-droid.org/app/ml.docilealligator.infinityforreddit)]**</sup>
 * [**Fritter**](https://github.com/jonjomckay/fritter) <sup>**[[F-Droid](https://f-droid.org/app/com.jonjomckay.fritter)]**</sup>
 * [**Stealth**](https://gitlab.com/cosmosapps/stealth) <sup>**[[F-Droid](https://f-droid.org/app/com.cosmos.unreddit)]**</sup>
+* [**PixelDroid**](https://gitlab.shinice.net/pixeldroid/PixelDroid) <sup>**[[F-Droid](https://www.f-droid.org/app/org.pixeldroid.app)]**</sup>
 
 ### • Contacts
 
@@ -214,6 +215,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Drawing
 
 * [**Simple Draw**](https://github.com/SimpleMobileTools/Simple-Draw) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.draw.pro)]**</sup>
+* [**PxerStudio**](https://github.com/BennyKok/PxerStudio) <sup>**[[F-Droid](https://www.f-droid.org/app/com.benny.pxerstudio)]**</sup>
 
 ### • Emulator
 
@@ -249,6 +251,14 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Simple Flashlight**](https://github.com/SimpleMobileTools/Simple-Flashlight) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.flashlight)]**</sup>
 * [**Flashy**](https://github.com/Crazy-Marvin/Flashy) <sup>**[[F-Droid](https://f-droid.org/app/rocks.poopjournal.flashy)]**</sup>
+
+### • Image Manipulation
+
+* [**ImagePipe**](https://codeberg.org/Starfish/Imagepipe) <sup>**[[F-Droid](https://f-droid.org/app/de.kaffeemitkoffein.imagepipe)]**</sup>
+* [**PrivacyBlur**](https://github.com/MATHEMA-GmbH/privacyblur) <sup>**[[F-Droid](https://www.f-droid.org/app/de.mathema.privacyblur)]**</sup>
+* [**Easy Watermark**](https://github.com/rosuH/EasyWatermark) <sup>**[[F-Droid](https://f-droid.org/app/me.rosuh.easywatermark)]**</sup>
+* [**Scrambled Exif**](https://gitlab.com/juanitobananas/scrambled-exif) <sup>**[[F-Droid](https://f-droid.org/app/com.jarsilio.android.scrambledeggsif)]**</sup>
+* [**Exif Thumbnail Adder**](https://github.com/tenzap/exif-thumbnail-adder) <sup>**[[F-Droid](https://www.f-droid.org/app/com.exifthumbnailadder.app)]**</sup>
 
 ### • Image Viewer & Gallery
 
@@ -341,8 +351,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Simple Voice Recorder**](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.voicerecorder)]**</sup>
 * [**KouChat**](https://github.com/blurpy/kouchat-android) <sup>**[[F-Droid](https://f-droid.org/app/net.usikkert.kouchat.android)]**</sup>
-* [**Scrambled Exif**](https://gitlab.com/juanitobananas/scrambled-exif) <sup>**[[F-Droid](https://f-droid.org/app/com.jarsilio.android.scrambledeggsif)]**</sup>
-* [**ImagePipe**](https://codeberg.org/Starfish/Imagepipe) <sup>**[[F-Droid](https://f-droid.org/app/de.kaffeemitkoffein.imagepipe)]**</sup>
 * [**Loop Habit Tracker**](https://github.com/iSoron/uhabits) <sup>**[[F-Droid](https://f-droid.org/app/org.isoron.uhabits)]**</sup>
 * [**Goodtime**](https://github.com/goodtime-productivity/Goodtime) <sup>**[[F-Droid](https://f-droid.org/app/com.apps.adrcotfas.goodtime)]**</sup>
 * [**Editor**](https://github.com/billthefarmer/editor) <sup>**[[F-Droid](https://f-droid.org/app/org.billthefarmer.editor)]**</sup>
@@ -506,7 +514,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**PDF Converter**](https://swati4star.github.io/Images-to-PDF) <sup>**[[F-Droid](https://f-droid.org/app/swati4star.createpdf)]**</sup>
 * [**Photok**](https://github.com/leonlatsch/Photok) <sup>**[[F-Droid](https://f-droid.org/app/dev.leonlatsch.photok)]**</sup>
-* [**Easy Watermark**](https://github.com/rosuH/EasyWatermark) <sup>**[[F-Droid](https://f-droid.org/app/me.rosuh.easywatermark)]**</sup>
 * [**InviZible Pro**](https://invizible.net) <sup>**[[F-Droid](https://f-droid.org/app/pan.alexander.tordnscrypt.stable)]**</sup>
 * [**LTE Cleaner**](https://github.com/TheRedSpy15/LTECleanerFOSS) <sup>**[[F-Droid](https://f-droid.org/app/theredspy15.ltecleanerfoss)]**</sup>
 * [**DeadHash**](https://github.com/CodeDead/DeadHash-android) <sup>**[[F-Droid](https://www.f-droid.org/app/com.codedead.deadhash)]**</sup>
@@ -596,6 +603,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Simple Sudoku Game**](https://git.harrault.fr/android/org.benoitharrault.sudoku) <sup>**[[F-Droid](https://f-droid.org/app/org.benoitharrault.sudoku)]**</sup>
 * [**Block Puzzle Stone Wars**](https://github.com/SoltauFintel/blockpuzzle) <sup>**[[F-Droid](https://f-droid.org/app/de.mwvb.blockpuzzle)]**</sup>
 * [**Minesweeper - Antimine**](https://github.com/lucasnlm/antimine-android) <sup>**[[F-Droid](https://f-droid.org/app/dev.lucanlm.antimine)]**</sup>
+* [**Simon Tatham's Puzzles**](https://github.com/chrisboyle/sgtpuzzles) <sup>**[[F-Droid](https://www.f-droid.org/app/name.boyle.chris.sgtpuzzles)]**</sup>
 
 ### • Racing
 
