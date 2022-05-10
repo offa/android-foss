@@ -487,7 +487,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • System
 
-* [**BackgroundRestrictor**](https://github.com/MrBIMC/RunInBackgroundPermissionSetter) <sup>**[[F-Droid](https://f-droid.org/app/com.pavelsikun.runinbackgroundpermissionsetter)]**</sup>
 * [**Privacy Friendly Net Monitor**](https://github.com/SecUSo/privacy-friendly-netmonitor) <sup>**[[F-Droid](https://f-droid.org/app/org.secuso.privacyfriendlynetmonitor)]**</sup>
 * [**Shelter**](https://cgit.typeblog.net/Shelter) <sup>**[[F-Droid](https://f-droid.org/app/net.typeblog.shelter)]**</sup>
 * [**Insular**](https://gitlab.com/secure-system/Insular) <sup>**[[F-Droid](https://f-droid.org/app/com.oasisfeng.island.fdroid)]**</sup>
