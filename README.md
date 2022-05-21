@@ -176,6 +176,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Fritter**](https://github.com/jonjomckay/fritter) <sup>**[[F-Droid](https://f-droid.org/app/com.jonjomckay.fritter)]**</sup>
 * [**Stealth**](https://gitlab.com/cosmosapps/stealth) <sup>**[[F-Droid](https://f-droid.org/app/com.cosmos.unreddit)]**</sup>
 * [**PixelDroid**](https://gitlab.shinice.net/pixeldroid/PixelDroid) <sup>**[[F-Droid](https://www.f-droid.org/app/org.pixeldroid.app)]**</sup>
+* [**Odysee**](https://github.com/OdyseeTeam/odysee-android-floss) <sup>**[[F-Droid](https://www.f-droid.org/app/com.odysee.floss)]**</sup>
 
 ### • Contacts
 
@@ -390,7 +391,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Simple Music Player**](https://github.com/SimpleMobileTools/Simple-Music-Player) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.musicplayer)]**</sup>
 * [**Dialog Music Player**](https://github.com/VishnuSanal/DialogMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/app/phone.vishnu.dialogmusicplayer)]**</sup>
 * [**Phonograph**](https://github.com/kabouzeid/Phonograph) <sup>**[[F-Droid](https://f-droid.org/app/com.kabouzeid.gramophone)]**</sup>
-* [**Phonograph Plus**](https://github.com/chr56/Phonograph_Plus)
+    * [**Phonograph Plus**](https://github.com/chr56/Phonograph_Plus)
 * [**Transistor**](https://github.com/y20k/transistor) <sup>**[[F-Droid](https://f-droid.org/app/org.y20k.transistor)]**</sup>
 * [**Vinyl Music Player**](https://github.com/AdrienPoupa/VinylMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/app/com.poupa.vinylmusicplayer)]**</sup>
 * [**Music Player GO**](https://github.com/enricocid/Music-Player-GO) <sup>**[[F-Droid](https://f-droid.org/app/com.iven.musicplayergo)]**</sup>
@@ -456,6 +457,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**freeCodeCamp**](https://github.com/freeCodeCamp/mobile)
 * [**phyphox**](https://github.com/phyphox/phyphox-android) <sup>**[[F-Droid](https://f-droid.org/app/de.rwth_aachen.phyphox)]**</sup>
 * [**Brainf**](https://github.com/fredhappyface/android.brainf) <sup>**[[F-Droid](https://f-droid.org/app/com.fredhappyface.brainf)]**</sup>
+* [**Atomic - Periodic Table**](https://github.com/JLindemann42/Atomic-Periodic-Table.Android)
 
 ### • SMS
 
@@ -465,6 +467,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Sports & Health
 
 * [**Red Moon**](https://github.com/LibreShift/red-moon) <sup>**[[F-Droid](https://f-droid.org/app/com.jmstudios.redmoon)]**</sup>
+* [**Monochromatic**](https://github.com/RichyHBM/Monochromatic) <sup>**[[F-Droid](https://www.f-droid.org/app/uk.co.richyhbm.monochromatic)]**</sup>
 * [**HeartBeat**](https://github.com/berdosi/HeartBeat) <sup>**[[F-Droid](https://f-droid.org/app/eu.berdosi.app.heartbeat)]**</sup>
 * [**Feeel**](https://gitlab.com/enjoyingfoss/feeel) <sup>**[[F-Droid](https://f-droid.org/app/com.enjoyingfoss.feeel)]**</sup>
 * [**Paseo**](https://gitlab.com/pardomi/paseo/tree/HEAD) <sup>**[[F-Droid](https://f-droid.org/app/ca.chancehorizon.paseo)]**</sup>
@@ -517,6 +520,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**DeadHash**](https://github.com/CodeDead/DeadHash-android) <sup>**[[F-Droid](https://www.f-droid.org/app/com.codedead.deadhash)]**</sup>
 * [**HexViewer**](https://github.com/Keidan/HexViewer) <sup>**[[F-Droid](https://f-droid.org/app/fr.ralala.hexviewer)]**</sup>
 * [**SMS Import / Export**](https://github.com/tmo1/sms-ie) <sup>**[[F-Droid](https://f-droid.org/app/com.github.tmo1.sms_ie)]**</sup>
+* [**Cams**](https://github.com/vladpen/cams) <sup>**[[F-Droid](https://www.f-droid.org/app/com.vladpen.cams)]**</sup>
 
 ### • Video Player
 
