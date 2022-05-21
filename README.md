@@ -33,6 +33,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Firewall](#-firewall)
     * [Flashcard](#-flashcard)
     * [Flashlight](#-flashlight)
+    * [Image Manipulation](#-image-manipulation)
     * [Image Viewer &amp; Gallery](#-image-viewer--gallery)
     * [Keyboard](#-keyboard)
     * [Launcher &amp; Desktop](#-launcher--desktop)
