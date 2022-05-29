@@ -226,7 +226,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • File Manager
 
-* [**Amaze File Manager**](https://github.com/TeamAmaze/AmazeFileManager) <sup>**[[F-Droid](https://f-droid.org/packages/com.amaze.filemanager/)]**</sup>
 * [**Simple File Manager**](https://github.com/SimpleMobileTools/Simple-File-Manager) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.filemanager.pro)]**</sup>
 * [**Material Files**](https://github.com/zhanghai/MaterialFiles) <sup>**[[F-Droid](https://f-droid.org/app/me.zhanghai.android.files)]**</sup>
 * [**Ghost Commander**](https://sourceforge.net/p/ghostcommander/svn/HEAD/tree) <sup>**[[F-Droid](https://f-droid.org/app/com.ghostsq.commander)]**</sup>
@@ -423,7 +422,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Office
 
 * [**Collabora Office**](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/)
-* [**ONLYOFFICE Documents**](https://www.onlyoffice.com/office-for-android.aspx)
 * [**OpenDocument**](https://github.com/opendocument-app/OpenDocument.droid) <sup>**[[F-Droid](https://f-droid.org/app/at.tomtasche.reader)]**</sup>
 
 ### • Painting
