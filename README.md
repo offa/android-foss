@@ -56,6 +56,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Sports &amp; Health](#-sports--health)
     * [Synchronisation](#-synchronisation)
     * [System](#-system)
+    * [Text Editors](#-text-editors)
     * [ToDo Lists](#-todo-lists)
     * [Utilities](#-utilities)
     * [Video Player](#-video-player)
@@ -355,7 +356,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**KouChat**](https://github.com/blurpy/kouchat-android) <sup>**[[F-Droid](https://f-droid.org/app/net.usikkert.kouchat.android)]**</sup>
 * [**Loop Habit Tracker**](https://github.com/iSoron/uhabits) <sup>**[[F-Droid](https://f-droid.org/app/org.isoron.uhabits)]**</sup>
 * [**Goodtime**](https://github.com/goodtime-productivity/Goodtime) <sup>**[[F-Droid](https://f-droid.org/app/com.apps.adrcotfas.goodtime)]**</sup>
-* [**Editor**](https://github.com/billthefarmer/editor) <sup>**[[F-Droid](https://f-droid.org/app/org.billthefarmer.editor)]**</sup>
 * [**LibreTorrent**](https://github.com/proninyaroslav/libretorrent) <sup>**[[F-Droid](https://f-droid.org/app/org.proninyaroslav.libretorrent)]**</sup>
 * [**Exodus**](https://github.com/Exodus-Privacy/exodus-android-app) <sup>**[[F-Droid](https://f-droid.org/app/org.eu.exodus_privacy.exodusprivacy)]**</sup>
 * [**Privacy Indicator**](https://github.com/NitishGadangi/Privacy-Indicator-App) <sup>**[[F-Droid](https://f-droid.org/app/com.nitish.privacyindicator)]**</sup>
@@ -505,6 +505,11 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Termux**](https://github.com/termux/termux-app) <sup>**[[F-Droid](https://f-droid.org/app/com.termux)]**</sup>
 * [**Auditor**](https://github.com/GrapheneOS/Auditor)
 * [**Extirpater**](https://gitlab.com/divested-mobile/extirpater) <sup>**[[F-Droid](https://www.f-droid.org/app/us.spotco.extirpater)]**</sup>
+
+### • Text Editors
+
+* [**Acode**](https://acode.foxdebug.com/) <sup>**[[F-Droid](https://f-droid.org/app/com.foxdebug.acode)]**</sup>
+* [**Editor**](https://github.com/billthefarmer/editor) <sup>**[[F-Droid](https://f-droid.org/app/org.billthefarmer.editor)]**</sup>
 
 ### • ToDo Lists
 
