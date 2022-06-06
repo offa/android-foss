@@ -335,9 +335,9 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Jellyfin**](https://github.com/jellyfin/jellyfin-android) <sup>**[[F-Droid](https://f-droid.org/app/org.jellyfin.mobile)]**</sup>
 * [**Twire**](https://github.com/twireapp/Twire) <sup>**[[F-Droid](https://f-droid.org/app/com.perflyst.twire)]**</sup>
 * [**LibreTube**](https://github.com/libre-tube/LibreTube) <sup>**[[F-Droid](https://f-droid.org/app/com.github.libretube)]**</sup>
-* [**VueTube**](https://github.com/VueTubeApp/VueTube) 
-* [**SmartTubeNext**](https://github.com/yuliskov/SmartTubeNext) 
-* [**PsTube**](https://github.com/prateekmedia/pstube) 
+* [**VueTube**](https://github.com/VueTubeApp/VueTube)
+* [**SmartTubeNext**](https://github.com/yuliskov/SmartTubeNext)
+* [**PsTube**](https://github.com/prateekmedia/pstube)
 
 ### • Messaging
 
