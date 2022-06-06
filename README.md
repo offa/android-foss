@@ -113,6 +113,10 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Kotatsu**](https://github.com/nv95/Kotatsu) <sup>**[[F-Droid](https://f-droid.org/app/org.koitharu.kotatsu)]**</sup>
 * [**Nekome**](https://github.com/Chesire/Nekome) <sup>**[[F-Droid](https://f-droid.org/app/com.chesire.nekome)]**</sup>
 * [**Tachiyomi**](https://github.com/tachiyomiorg/tachiyomi)
+* [**Kayuri**](https://github.com/Killerpac/Kayuri)
+* [**Animity**](https://github.com/kl3jvi/animity)
+* [**Saikou**](https://github.com/saikou-app/saikou)
+* [**Kotatsu**](https://github.com/nv95/Kotatsu)
 
 ### • Automation
 
@@ -331,6 +335,9 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Jellyfin**](https://github.com/jellyfin/jellyfin-android) <sup>**[[F-Droid](https://f-droid.org/app/org.jellyfin.mobile)]**</sup>
 * [**Twire**](https://github.com/twireapp/Twire) <sup>**[[F-Droid](https://f-droid.org/app/com.perflyst.twire)]**</sup>
 * [**LibreTube**](https://github.com/libre-tube/LibreTube) <sup>**[[F-Droid](https://f-droid.org/app/com.github.libretube)]**</sup>
+* [**VueTube**](https://github.com/VueTubeApp/VueTube) 
+* [**SmartTubeNext**](https://github.com/yuliskov/SmartTubeNext) 
+* [**PsTube**](https://github.com/prateekmedia/pstube) 
 
 ### • Messaging
 
@@ -373,6 +380,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**DeepL**](https://github.com/sakusaku3939/DeepLAndroid) <sup>**[[F-Droid](https://f-droid.org/app/com.example.deeplviewer)]**</sup>
 * [**WiFi Walkie Talkie**](https://github.com/js-labs/WalkieTalkie) <sup>**[[F-Droid](https://f-droid.org/app/org.jsl.wfwt)]**</sup>
 * [**Coffee**](https://github.com/mueller-ma/Coffee) <sup>**[[F-Droid](https://www.f-droid.org/app/com.github.muellerma.coffee)]**</sup>
+* [**CloudStream-3**](https://github.com/LagradOst/CloudStream-3)
 
 ### • Music
 
@@ -404,6 +412,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**SongTube**](https://github.com/SongTube/SongTube-App)
 * [**raag**](https://github.com/raag-music/raag) <sup>**[[F-Droid](https://f-droid.org/app/in.amfoss.raag)]**</sup>
 * [**Music**](https://github.com/z-huang/music)
+* [**ViMusic**](https://github.com/vfsfitvnm/ViMusic)
 
 ### • Notes
 
@@ -638,12 +647,15 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Magisk**](https://github.com/topjohnwu/Magisk)
 * [**TWRP**](https://twrp.me)
+* [**OrangeFox**](https://orangefox.download)
+* [**PitchBlackRecovery**](https://pitchblackrecovery.com)
 
 ------------------------
 
 ## – Tutorials and Guides –
 
 * [**OTA on Rooted Device**](tutorials/Install-Rooted-OTA.md)
+* [**Reverse Engineering**](https://github.com/OshekharO/Reverse-Engineering/wiki)
 
 ------------------------
 
@@ -655,3 +667,4 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**CellularPrivacy – Recommendations**](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Recommendations)
 * [**Awesome Android**](https://github.com/TheEvilSkeleton/awesome-android)
 * [**List of free and open-source Android applications**](https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications)
+* [**Cloudflare Reverse Proxy**](https://github.com/OshekharO/CF-REVERSE-PROXY)
