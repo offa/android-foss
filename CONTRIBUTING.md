@@ -11,6 +11,8 @@ Each listed software has to meet following criteria:
 1. Documentation available (Project website etc.)
 1. Free of charge
 
-If the packages is available on [**F-Droid**](https://f-droid.org/) it can be linked using the `https://f-droid.org/app/<APP>` url. If not yet, it's a good idea to promote this to the projects developer.
+F-Droid provides good [guidance](https://f-droid.org/docs/Anti-Features/) on *Anti-Features*.
 
-Please do not submit third party repositories.
+If the packages is available on [**F-Droid**](https://f-droid.org/) it can be linked using the `https://f-droid.org/app/<APP>` URL. If not yet, it's a good idea to promote this to the projects developer.
+
+Please do not submit third party F-Droid repositories.
