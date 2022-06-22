@@ -168,6 +168,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Clock**](https://github.com/qw123wh/new-clock-fdroid) <sup>**[[F-Droid](https://f-droid.org/app/com.best.deskclock)]**</sup>
 * [**Simple Alarm Clock**](https://github.com/yuriykulikov/AlarmClock) <sup>**[[F-Droid](https://f-droid.org/app/com.better.alarm)]**</sup>
+* [**Simple Clock**](https://github.com/SimpleMobileTools/Simple-Clock) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.clock)]**</sup>
 
 ### • Community Clients
 
@@ -235,6 +236,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**SnapShot**](https://github.com/fm-sys/snapdrop-android) <sup>**[[F-Droid](https://f-droid.org/app/com.fmsys.snapdrop)]**</sup>
 * [**Sharik**](https://github.com/marchellodev/sharik) <sup>**[[F-Droid](https://f-droid.org/app/dev.marchello.sharik)]**</sup>
 * [**Warpinator**](https://github.com/slowscript/warpinator-android) <sup>**[[F-Droid](https://f-droid.org/app/slowscript.warpinator)]**</sup>
+* [**Filester**](https://github.com/rouzbehzarei/filester) <sup>**[[F-Droid](https://f-droid.org/app/com.rouzbehzarei.filester)]**</sup>
 
 ### • Firewall
 
@@ -373,6 +375,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**DeepL**](https://github.com/sakusaku3939/DeepLAndroid) <sup>**[[F-Droid](https://f-droid.org/app/com.example.deeplviewer)]**</sup>
 * [**WiFi Walkie Talkie**](https://github.com/js-labs/WalkieTalkie) <sup>**[[F-Droid](https://f-droid.org/app/org.jsl.wfwt)]**</sup>
 * [**Coffee**](https://github.com/mueller-ma/Coffee) <sup>**[[F-Droid](https://www.f-droid.org/app/com.github.muellerma.coffee)]**</sup>
+* [**LinkHub**](https://github.com/AmrDeveloper/LinkHub) <sup>**[[F-Droid](https://f-droid.org/en/app/com.amrdeveloper.linkhub)]**</sup>
 
 ### • Music
 
@@ -397,17 +400,18 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Vinyl Music Player**](https://github.com/AdrienPoupa/VinylMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/app/com.poupa.vinylmusicplayer)]**</sup>
 * [**Music Player GO**](https://github.com/enricocid/Music-Player-GO) <sup>**[[F-Droid](https://f-droid.org/app/com.iven.musicplayergo)]**</sup>
 * [**Odeon**](https://github.com/thibseisel/android-odeon) <sup>**[[F-Droid](https://f-droid.org/app/fr.nihilus.music)]**</sup>
-* [**Metro**](https://github.com/MuntashirAkon/Metro) <sup>**[[F-Droid](https://f-droid.org/app/io.github.muntashirakon.Music)]**</sup>
+* [**Retro Music Player**](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
+    *  [**Metro**](https://github.com/MuntashirAkon/Metro) <sup>**[[F-Droid](https://f-droid.org/app/io.github.muntashirakon.Music)]**</sup>
 * [**Auxio**](https://github.com/OxygenCobalt/Auxio) <sup>**[[F-Droid](https://f-droid.org/app/org.oxycblt.auxio)]**</sup>
 * [**BlackHole**](https://github.com/Sangwan5688/BlackHole) <sup>**[[F-Droid](https://f-droid.org/app/com.shadow.blackhole)]**</sup>
-* [**Spotube**](https://github.com/KRTirtho/spotube)
+* [**Spotube**](https://github.com/KRTirtho/spotube) <sup>**[[F-Droid](https://f-droid.org/app/oss.krtirtho.spotube)]**</sup>
 * [**SongTube**](https://github.com/SongTube/SongTube-App)
 * [**raag**](https://github.com/raag-music/raag) <sup>**[[F-Droid](https://f-droid.org/app/in.amfoss.raag)]**</sup>
 * [**Music**](https://github.com/z-huang/music)
 
 ### • Notes
 
-* [**Joplin**](https://github.com/laurent22/joplin) <sup>**[[F-Droid](https://f-droid.org/app/net.cozic.joplin)]**</sup>
+* [**Joplin**](https://github.com/laurent22/joplin)
 * [**Quillnote**](https://github.com/msoultanidis/quillnote) <sup>**[[F-Droid](https://f-droid.org/app/org.qosp.notes)]**</sup>
 * [**Omni-Notes**](https://federicoiosue.github.io/Omni-Notes/) <sup>**[[F-Droid](https://f-droid.org/app/it.feio.android.omninotes.foss)]**</sup>
 * [**Privacy Friendly Notes**](https://github.com/SecUSo/privacy-friendly-notes) <sup>**[[F-Droid](https://f-droid.org/app/org.secuso.privacyfriendlynotes)]**</sup>
@@ -451,7 +455,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Feeder**](https://gitlab.com/spacecowboy/Feeder) <sup>**[[F-Droid](https://f-droid.org/app/com.nononsenseapps.feeder)]**</sup>
 * [**NewsBlur**](https://github.com/samuelclay/NewsBlur) <sup>**[[F-Droid](https://f-droid.org/app/com.newsblur)]**</sup>
 * [**Thud**](https://github.com/aerotoad/Thud)
-* [**ReadYou**](https://github.com/Ashinch/ReadYou)
+* [**ReadYou**](https://github.com/Ashinch/ReadYou) <sup>**[[F-Droid](https://f-droid.org/app/me.ash.reader)]**</sup>
 
 ### • Science & Education
 
@@ -477,6 +481,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [**ECEB**](https://gitlab.com/librehealth/incubating-projects/mhbs/lh-mhbs-eceb) <sup>**[[F-Droid](https://f-droid.org/app/io.librehealth.mhbs.essential_care_for_every_baby)]**</sup>
     * [**CCF**](https://gitlab.com/librehealth/toolkit/cost-of-care/lh-toolkit-cost-of-care-app) <sup>**[[F-Droid](https://f-droid.org/app/io.librehealth.toolkit.cost_of_care)]**</sup>
 * [**FitoTrack**](https://codeberg.org/jannis/FitoTrack) <sup>**[[F-Droid](https://www.f-droid.org/app/de.tadris.fitness)]**</sup>
+* [**OpenTracks**](https://github.com/OpenTracksApp/OpenTracks) <sup>**[[F-Droid](https://f-droid.org/app/de.dennisguse.opentracks)]**</sup>
 
 ### • Synchronisation
 
@@ -600,6 +605,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**DékaDico**](https://github.com/vivekthazhathattil/dekadico) <sup>**[[F-Droid](https://f-droid.org/app/com.example.spokennumbers)]**</sup>
 * [**WordleSolver**](https://github.com/billthefarmer/wordlesolver) <sup>**[[F-Droid](https://f-droid.org/app/org.billthefarmer.solver)]**</sup>
 * [**Destination Sol**](https://github.com/MovingBlocks/DestinationSol) <sup>**[[F-Droid](https://www.f-droid.org/app/com.miloshpetrov.sol2.android)]**</sup>
+* [**Open Golf**](https://github.com/mgerdes/Open-Golf) <sup>**[[F-Droid](https://f-droid.org/en/app/me.mgerdes.open_golf)]**</sup>
 
 ### • Music
 
