@@ -83,7 +83,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ## – App Store –
 
 * [**F-Droid**](https://f-droid.org)
-    * [**Droid-ify**](https://github.com/Iamlooker/Droid-ify) <sup>**[[F-Droid](https://f-droid.org/app/com.looker.droidify)]**</sup>
+    * [**Neo-Store**](https://github.com/NeoApplications/Neo-Store) <sup>**[[F-Droid](https://f-droid.org/app/com.looker.droidify)]**</sup>
     * [**G-Droid**](https://gitlab.com/gdroid/gdroidclient) <sup>**[[F-Droid](https://f-droid.org/app/org.gdroid.gdroid)]**</sup>
     * [**M-Droid**](https://github.com/SkyzohKey/M-Droid) <sup>**[[F-Droid](https://f-droid.org/app/com.mdroid)]**</sup>
     * [**Aurora Droid**](https://gitlab.com/AuroraOSS/auroradroid) <sup>**[[F-Droid](https://f-droid.org/app/com.aurora.adroid)]**</sup>
@@ -119,6 +119,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Easer**](https://github.com/renyuneyun/Easer) <sup>**[[F-Droid](https://f-droid.org/app/ryey.easer)]**</sup>
 * [**Automation**](https://git.server47.de/jens/Automation) <sup>**[[F-Droid](https://f-droid.org/app/com.jens.automation2)]**</sup>
 * [**Smart AutoClicker**](https://github.com/Nain57/Smart-AutoClicker) <sup>**[[F-Droid](https://f-droid.org/app/com.buzbuz.smartautoclicker)]**</sup>
+* [**Home Assistant**](https://github.com/home-assistant/android) <sup>**[[F-Droid](https://www.f-droid.org/app/io.homeassistant.companion.android.minimal)]**</sup>
 
 ### • Barcode Scanner
 
@@ -163,6 +164,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Cryptocam**](https://gitlab.com/cryptocam/cryptocam) <sup>**[[F-Droid](https://f-droid.org/app/com.tnibler.cryptocam)]**</sup>
 * [**FreeDcam**](https://github.com/KillerInk/FreeDcam) <sup>**[[F-Droid](https://www.f-droid.org/app/troop.com.freedcam)]**</sup>
 * [**Secure Camera**](https://github.com/GrapheneOS/Camera)
+* [**ObscuraCam**](https://github.com/guardianproject/ObscuraCam) <sup>**[[F-Droid](https://www.f-droid.org/app/org.witness.sscphase1)]**</sup>
 
 ### • Clock & Time
 
@@ -309,7 +311,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Mail
 
-* [**K-9 Mail**](https://github.com/k9mail/k-9) <sup>**[[F-Droid](https://f-droid.org/app/com.fsck.k9)]**</sup>
+* [**K-9 Mail**](https://github.com/thundernest/k-9) <sup>**[[F-Droid](https://f-droid.org/app/com.fsck.k9)]**</sup>
 * [**FairEmail**](https://github.com/M66B/open-source-email) <sup>**[[F-Droid](https://f-droid.org/app/eu.faircode.email)]**</sup>
 * [**Tutanota**](https://github.com/tutao/tutanota) <sup>**[[F-Droid](https://f-droid.org/app/de.tutao.tutanota)]**</sup>
 * [**CTemplar**](https://github.com/CTemplar/android/tree/fdroid) <sup>**[[F-Droid](https://f-droid.org/app/com.ctemplar.app.fdroid)]**</sup>
@@ -345,6 +347,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [**Forkgram**](https://github.com/Forkgram/TelegramAndroid) <sup>**[[F-Droid](https://f-droid.org/app/org.forkgram.messenger)]**</sup>
 * [**Element**](https://github.com/vector-im/element-android) <sup>**[[F-Droid](https://f-droid.org/app/im.vector.app)]**</sup>
 * [**Signal**](https://github.com/signalapp/Signal-Android)
+    * [**Molly**](https://github.com/mollyim/mollyim-android)
 * [**Jitsi Meet**](https://github.com/jitsi/jitsi-meet) <sup>**[[F-Droid](https://f-droid.org/app/org.jitsi.meet)]**</sup>
 * [**blabber.im**](https://codeberg.org/kriztan/blabber.im) <sup>**[[F-Droid](https://f-droid.org/app/de.pixart.messenger)]**</sup>
 * [**Manyverse**](https://gitlab.com/staltz/manyverse) <sup>**[[F-Droid](https://f-droid.org/app/se.manyver)]**</sup>
@@ -385,6 +388,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Noten Learner**](https://github.com/MelvilQ/noten-lernen)
 * [**Tuner**](https://github.com/thetwom/Tuner) <sup>**[[F-Droid](https://www.f-droid.org/app/de.moekadu.tuner)]**</sup>
 * [**Hexpress**](https://github.com/jmiskovic/hexpress)
+* [**Audio Spectrum Analyzer**](https://github.com/woheller69/audio-analyzer-for-android) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.audio_analyzer_for_android)]**</sup>
+* [**Liedgutverzeichnis**](https://gitlab.com/liedgutdatenbank/Liedgutverzeichnis) <sup>**[[F-Droid](https://www.f-droid.org/app/de.thefeiter.liedgutverzeichnis)]**</sup>
 
 ### • Music & Audio Player
 
@@ -433,6 +438,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Krita**](https://invent.kde.org/graphics/krita) <sup>**[[F-Droid](https://f-droid.org/app/org.krita)]**</sup>
 * [**Pocket Paint**](https://github.com/Catrobat/Paintroid) <sup>**[[F-Droid](https://www.f-droid.org/app/org.catrobat.paintroid)]**</sup>
+* [**Tux Paint**](https://github.com/tux4kids/Tuxpaint-Android) <sup>**[[F-Droid](https://www.f-droid.org/app/org.tuxpaint)]**</sup>
 
 ### • Password & Authentication
 
@@ -440,8 +446,9 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**andOTP**](https://github.com/andOTP/andOTP) <sup>**[[F-Droid](https://f-droid.org/app/org.shadowice.flocke.andotp)]**</sup>
 * [**KeePassDX**](https://github.com/Kunzisoft/KeePassDX) <sup>**[[F-Droid](https://f-droid.org/app/com.kunzisoft.keepass.libre)]**</sup>
 * [**Aegis**](https://getaegis.app/) <sup>**[[F-Droid](https://f-droid.org/app/com.beemdevelopment.aegis)]**</sup>
-* [**Bitwarden Mobile**](https://github.com/bitwarden/mobile)
+* [**Bitwarden**](https://github.com/bitwarden/mobile)
 * [**AuthPass**](https://github.com/authpass/authpass) <sup>**[[F-Droid](https://f-droid.org/app/design.codeux.authpass.fdroid)]**</sup>
+* [**OpenKeychain**](https://github.com/open-keychain/open-keychain) <sup>**[[F-Droid](https://www.f-droid.org/app/org.sufficientlysecure.keychain)]**</sup>
 
 ### • Podcast & Audio Book Player
 
