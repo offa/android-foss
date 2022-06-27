@@ -314,7 +314,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**K-9 Mail**](https://github.com/thundernest/k-9) <sup>**[[F-Droid](https://f-droid.org/app/com.fsck.k9)]**</sup>
 * [**FairEmail**](https://github.com/M66B/open-source-email) <sup>**[[F-Droid](https://f-droid.org/app/eu.faircode.email)]**</sup>
 * [**Tutanota**](https://github.com/tutao/tutanota) <sup>**[[F-Droid](https://f-droid.org/app/de.tutao.tutanota)]**</sup>
-* [**CTemplar**](https://github.com/CTemplar/android/tree/fdroid) <sup>**[[F-Droid](https://f-droid.org/app/com.ctemplar.app.fdroid)]**</sup>
 
 ### • Maps & Navigation
 
