@@ -333,6 +333,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**SkyTube**](https://github.com/ram-on/SkyTube) <sup>**[[F-Droid](https://f-droid.org/app/free.rm.skytube.oss)]**</sup>
 * [**Jellyfin**](https://github.com/jellyfin/jellyfin-android) <sup>**[[F-Droid](https://f-droid.org/app/org.jellyfin.mobile)]**</sup>
 * [**Twire**](https://github.com/twireapp/Twire) <sup>**[[F-Droid](https://f-droid.org/app/com.perflyst.twire)]**</sup>
+* [**Xtra**](https://github.com/crackededed/Xtra) <sup>**[[F-Droid](https://www.f-droid.org/app/com.github.andreyasadchy.xtra)]**</sup>
 * [**LibreTube**](https://github.com/libre-tube/LibreTube) <sup>**[[F-Droid](https://f-droid.org/app/com.github.libretube)]**</sup>
 
 ### • Messaging
@@ -374,7 +375,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Anchr for Android**](https://github.com/muety/anchr-android) <sup>**[[F-Droid](https://f-droid.org/app/io.muetsch.anchrandroid)]**</sup>
 * [**UntrackMe**](https://framagit.org/tom79/nitterizeme) <sup>**[[F-Droid](https://f-droid.org/app/app.fedilab.nitterizeme)]**</sup>
 * [**AirGuard - AirTag tracking protection**](https://github.com/seemoo-lab/AirGuard) <sup>**[[F-Droid](https://f-droid.org/app/de.seemoo.at_tracking_detection)]**</sup>
-* [**DeepL**](https://github.com/sakusaku3939/DeepLAndroid) <sup>**[[F-Droid](https://f-droid.org/app/com.example.deeplviewer)]**</sup>
 * [**WiFi Walkie Talkie**](https://github.com/js-labs/WalkieTalkie) <sup>**[[F-Droid](https://f-droid.org/app/org.jsl.wfwt)]**</sup>
 * [**Coffee**](https://github.com/mueller-ma/Coffee) <sup>**[[F-Droid](https://www.f-droid.org/app/com.github.muellerma.coffee)]**</sup>
 * [**LinkHub**](https://github.com/AmrDeveloper/LinkHub) <sup>**[[F-Droid](https://f-droid.org/app/com.amrdeveloper.linkhub)]**</sup>
@@ -532,6 +532,14 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**OpenTasks**](https://github.com/dmfs/opentasks) <sup>**[[F-Droid](https://f-droid.org/app/org.dmfs.tasks)]**</sup>
 * [**Tasks.org**](https://github.com/tasks/tasks) <sup>**[[F-Droid](https://f-droid.org/app/org.tasks)]**</sup>
 
+### • Translation
+
+* [**DeepL**](https://github.com/sakusaku3939/DeepLAndroid) <sup>**[[F-Droid](https://f-droid.org/app/com.example.deeplviewer)]**</sup>
+* [**The Translator**](https://github.com/sunilpaulmathew/Translator) <sup>**[[F-Droid](https://www.f-droid.org/app/com.sunilpaulmathew.translator)]**</sup>
+* [**SimplyTranslate Mobile**](https://github.com/ManeraKai/simplytranslate_mobile) <sup>**[[F-Droid](https://www.f-droid.org/app/com.simplytranslate_mobile)]**</sup>
+* [**LibreTranslator**](https://codeberg.org/BeoCode/LibreTranslator) <sup>**[[F-Droid](https://www.f-droid.org/app/de.beowulf.libretranslater)]**</sup>
+* [**Arna Translate**](https://github.com/MahanRahmati/translate)
+
 ### • Utilities
 
 * [**PDF Converter**](https://github.com/Swati4star/Images-to-PDF) <sup>**[[F-Droid](https://f-droid.org/app/swati4star.createpdf)]**</sup>
@@ -541,6 +549,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**HexViewer**](https://github.com/Keidan/HexViewer) <sup>**[[F-Droid](https://f-droid.org/app/fr.ralala.hexviewer)]**</sup>
 * [**SMS Import / Export**](https://github.com/tmo1/sms-ie) <sup>**[[F-Droid](https://f-droid.org/app/com.github.tmo1.sms_ie)]**</sup>
 * [**Cams**](https://github.com/vladpen/cams) <sup>**[[F-Droid](https://www.f-droid.org/app/com.vladpen.cams)]**</sup>
+* [**Volta**](https://github.com/x13a/Volta) <sup>**[[F-Droid](https://www.f-droid.org/app/me.lucky.volta)]**</sup>
 
 ### • Video Player
 
