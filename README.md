@@ -229,6 +229,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Emulator
 
 * [**Limbo x86 PC Emulator**](https://github.com/limboemu/limbo) <sup>**[[F-Droid](https://f-droid.org/app/com.limbo.emu.main)]**</sup>
+* [**Skyline**](https://github.com/skyline-emu/skyline)
 
 ### • File Manager
 
