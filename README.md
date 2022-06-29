@@ -229,7 +229,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Emulator
 
 * [**Limbo x86 PC Emulator**](https://github.com/limboemu/limbo) <sup>**[[F-Droid](https://f-droid.org/app/com.limbo.emu.main)]**</sup>
-* [**Skyline**](https://github.com/skyline-emu/skyline)
 
 ### • File Manager
 
@@ -622,6 +621,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Dolphin**](https://github.com/dolphin-emu/dolphin) <sup>**[[F-Droid](https://f-droid.org/app/org.dolphinemu.dolphinemu)]**</sup>
 * [**J2ME Loader**](https://github.com/nikita36078/J2ME-Loader) <sup>**[[F-Droid](https://f-droid.org/app/ru.playsoftware.j2meloader)]**</sup>
 * [**RetroArch**](https://github.com/libretro/RetroArch)
+* [**Skyline**](https://github.com/skyline-emu/skyline)
 
 ### • Miscellaneous
 
