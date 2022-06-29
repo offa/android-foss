@@ -58,6 +58,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [System](#-system)
     * [Text Editors](#-text-editors)
     * [ToDo Lists](#-todo-lists)
+    * [Translation](#-translation)
     * [Utilities](#-utilities)
     * [Video Player](#-video-player)
     * [VPN](#-vpn)
