@@ -113,6 +113,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Kotatsu**](https://github.com/nv95/Kotatsu) <sup>**[[F-Droid](https://f-droid.org/app/org.koitharu.kotatsu)]**</sup>
 * [**Nekome**](https://github.com/Chesire/Nekome) <sup>**[[F-Droid](https://f-droid.org/app/com.chesire.nekome)]**</sup>
+* [**Bangumi**](https://github.com/czy0729/Bangumi) <sup>**[[F-Droid](https://www.f-droid.org/app/com.czy0729.bangumi)]**</sup>
 * [**Tachiyomi**](https://github.com/tachiyomiorg/tachiyomi)
 
 ### • Automation
@@ -352,6 +353,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Element**](https://github.com/vector-im/element-android) <sup>**[[F-Droid](https://f-droid.org/app/im.vector.app)]**</sup>
 * [**Signal**](https://github.com/signalapp/Signal-Android)
     * [**Molly**](https://github.com/mollyim/mollyim-android)
+* [**Session F-Droid**](https://github.com/oxen-io/session-android) <sup>**[[F-Droid](https://www.f-droid.org/app/network.loki.messenger.fdroid)]**</sup>
 * [**Jitsi Meet**](https://github.com/jitsi/jitsi-meet) <sup>**[[F-Droid](https://f-droid.org/app/org.jitsi.meet)]**</sup>
 * [**blabber.im**](https://codeberg.org/kriztan/blabber.im) <sup>**[[F-Droid](https://f-droid.org/app/de.pixart.messenger)]**</sup>
 * [**Manyverse**](https://gitlab.com/staltz/manyverse) <sup>**[[F-Droid](https://f-droid.org/app/se.manyver)]**</sup>
@@ -397,6 +399,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Hexpress**](https://github.com/jmiskovic/hexpress)
 * [**Audio Spectrum Analyzer**](https://github.com/woheller69/audio-analyzer-for-android) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.audio_analyzer_for_android)]**</sup>
 * [**Liedgutverzeichnis**](https://gitlab.com/liedgutdatenbank/Liedgutverzeichnis) <sup>**[[F-Droid](https://www.f-droid.org/app/de.thefeiter.liedgutverzeichnis)]**</sup>
+* [**ChordReader 2**](https://github.com/AndInTheClouds/chordreader2) <sup>**[[F-Droid](https://www.f-droid.org/app/org.hollowbamboo.chordreader2)]**</sup>
 
 ### • Music & Audio Player
 
@@ -421,6 +424,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**SongTube**](https://github.com/SongTube/SongTube-App)
 * [**raag**](https://github.com/raag-music/raag) <sup>**[[F-Droid](https://f-droid.org/app/in.amfoss.raag)]**</sup>
 * [**Music**](https://github.com/z-huang/music)
+* [**little music player**](https://github.com/martinmimigames/little-music-player) <sup>**[[F-Droid](https://www.f-droid.org/app/com.martinmimigames.littlemusicplayer)]**</sup>
 
 ### • Notes
 
@@ -613,6 +617,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Educational
 
 * [**GCompris**](https://invent.kde.org/education/gcompris.git) <sup>**[[F-Droid](https://f-droid.org/app/net.gcompris.full)]**</sup>
+* [**Geoperion**](https://github.com/vulnerabbity/Geoperion) <sup>**[[F-Droid](https://www.f-droid.org/app/com.vulnerabbity.geoperion)]**</sup>
 * [**Learning Memory**](https://github.com/niccokunzmann/app.memory.quelltext.eu) <sup>**[[F-Droid](https://f-droid.org/app/eu.quelltext.memory)]**</sup>
 
 ### • Emulator
@@ -661,6 +666,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Strategy
 
 * [**UnCiv**](https://github.com/yairm210/UnCiv) <sup>**[[F-Droid](https://f-droid.org/app/com.unciv.app)]**</sup>
+* [**OpenTTD**](https://github.com/n-ice-community/commandergenius) <sup>**[[F-Droid](https://www.f-droid.org/app/org.openttd.fdroid)]**</sup>
 
 ### • Word
 
