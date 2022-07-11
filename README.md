@@ -482,6 +482,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**phyphox**](https://github.com/phyphox/phyphox-android) <sup>**[[F-Droid](https://f-droid.org/app/de.rwth_aachen.phyphox)]**</sup>
 * [**Brainf**](https://github.com/fredhappyface/android.brainf) <sup>**[[F-Droid](https://f-droid.org/app/com.fredhappyface.brainf)]**</sup>
 * [**Atomic - Periodic Table**](https://github.com/JLindemann42/Atomic-Periodic-Table.Android)
+* [**Wikipedia app**](https://github.com/wikimedia/apps-android-wikipedia) <sup>**[[F-Droid](https://f-droid.org/app/org.wikipedia)]**</sup>
 
 ### • SMS
 
