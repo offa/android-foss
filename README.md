@@ -217,10 +217,16 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**OpenNoteScanner**](https://github.com/ctodobom/OpenNoteScanner) <sup>**[[F-Droid](https://f-droid.org/app/com.todobom.opennotescanner)]**</sup>
 
-### • Download Manager
+### • Downloader & Manager
 
 * [**Aria2App**](https://github.com/devgianlu/Aria2App) <sup>**[[F-Droid](https://f-droid.org/app/com.gianlu.aria2app)]**</sup>
 * [**Download Navi**](https://github.com/TachibanaGeneralLaboratories/download-navi) <sup>**[[F-Droid](https://f-droid.org/app/com.tachibana.downloader)]**</sup>
+* [**LibreTorrent**](https://github.com/proninyaroslav/libretorrent) <sup>**[[F-Droid](https://f-droid.org/app/org.proninyaroslav.libretorrent)]**</sup>
+* [**dvd**](https://github.com/yausername/dvd) <sup>**[[F-Droid](https://f-droid.org/app/org.yausername.dvd)]**</sup>
+* [**Torrent Client**](https://gitlab.com/axet/android-torrent-client) <sup>**[[F-Droid](https://f-droid.org/app/com.github.axet.torrentclient)]**</sup>
+* [**Seal**](https://github.com/JunkFood02/Seal)
+* [**SpotiFlyer**](https://github.com/Shabinder/SpotiFlyer) <sup>**[[F-Droid](https://f-droid.org/app/com.shabinder.spotiflyer)]**</sup>
+* [**SubHub**](https://github.com/FunkyMuse/SubHub) <sup>**[[F-Droid](https://f-droid.org/app/com.crazylegend.subhub)]**</sup>
 
 ### • Drawing
 
@@ -368,13 +374,9 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**KouChat**](https://github.com/blurpy/kouchat-android) <sup>**[[F-Droid](https://f-droid.org/app/net.usikkert.kouchat.android)]**</sup>
 * [**Loop Habit Tracker**](https://github.com/iSoron/uhabits) <sup>**[[F-Droid](https://f-droid.org/app/org.isoron.uhabits)]**</sup>
 * [**Goodtime**](https://github.com/goodtime-productivity/Goodtime) <sup>**[[F-Droid](https://f-droid.org/app/com.apps.adrcotfas.goodtime)]**</sup>
-* [**LibreTorrent**](https://github.com/proninyaroslav/libretorrent) <sup>**[[F-Droid](https://f-droid.org/app/org.proninyaroslav.libretorrent)]**</sup>
 * [**Exodus**](https://github.com/Exodus-Privacy/exodus-android-app) <sup>**[[F-Droid](https://f-droid.org/app/org.eu.exodus_privacy.exodusprivacy)]**</sup>
 * [**Privacy Indicator**](https://github.com/NitishGadangi/Privacy-Indicator-App) <sup>**[[F-Droid](https://f-droid.org/app/com.nitish.privacyindicator)]**</sup>
 * [**Vigilante**](https://github.com/FunkyMuse/Vigilante) <sup>**[[F-Droid](https://f-droid.org/app/com.crazylegend.vigilante)]**</sup>
-* [**dvd**](https://github.com/yausername/dvd) <sup>**[[F-Droid](https://f-droid.org/app/org.yausername.dvd)]**</sup>
-* [**SpotiFlyer**](https://github.com/Shabinder/SpotiFlyer) <sup>**[[F-Droid](https://f-droid.org/app/com.shabinder.spotiflyer)]**</sup>
-* [**SubHub**](https://github.com/FunkyMuse/SubHub) <sup>**[[F-Droid](https://f-droid.org/app/com.crazylegend.subhub)]**</sup>
 * [**KDE Connect**](https://invent.kde.org/network/kdeconnect-android) <sup>**[[F-Droid](https://f-droid.org/app/org.kde.kdeconnect_tp)]**</sup>
 * [**Moonlight**](https://github.com/moonlight-stream/moonlight-android) <sup>**[[F-Droid](https://f-droid.org/app/com.limelight)]**</sup>
 * [**Noice**](https://github.com/ashutoshgngwr/noice) <sup>**[[F-Droid](https://f-droid.org/app/com.github.ashutoshgngwr.noice)]**</sup>
@@ -482,7 +484,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**phyphox**](https://github.com/phyphox/phyphox-android) <sup>**[[F-Droid](https://f-droid.org/app/de.rwth_aachen.phyphox)]**</sup>
 * [**Brainf**](https://github.com/fredhappyface/android.brainf) <sup>**[[F-Droid](https://f-droid.org/app/com.fredhappyface.brainf)]**</sup>
 * [**Atomic - Periodic Table**](https://github.com/JLindemann42/Atomic-Periodic-Table.Android)
-* [**Wikipedia app**](https://github.com/wikimedia/apps-android-wikipedia) <sup>**[[F-Droid](https://f-droid.org/app/org.wikipedia)]**</sup>
+* [**Wikipedia**](https://github.com/wikimedia/apps-android-wikipedia) <sup>**[[F-Droid](https://f-droid.org/app/org.wikipedia)]**</sup>
 
 ### • SMS
 
