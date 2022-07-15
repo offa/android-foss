@@ -25,7 +25,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Dictionary](#-dictionary)
     * [Document &amp; PDF Viewer](#-document--pdf-viewer)
     * [Document Scanner](#-document-scanner)
-    * [Download Manager](#-download-manager)
+    * [Downloader &amp; Manager](#-downloader--manager)
     * [Drawing](#-drawing)
     * [Emulator](#-emulator)
     * [File Manager](#-file-manager)
