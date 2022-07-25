@@ -140,8 +140,11 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**DuckDuckGo Privacy Browser**](https://github.com/duckduckgo/Android) <sup>**[[F-Droid](https://f-droid.org/app/com.duckduckgo.mobile.android)]**</sup>
 * [**SmartCookieWeb**](https://github.com/CookieJarApps/SmartCookieWeb) <sup>**[[F-Droid](https://f-droid.org/app/com.cookiegames.smartcookie)]**</sup>
 * [**Privacy Browser**](https://gitweb.stoutner.com/?p=PrivacyBrowser.git) <sup>**[[F-Droid](https://f-droid.org/app/com.stoutner.privacybrowser.standard)]**</sup>
+* [**FOSS Browser**](https://github.com/scoute-dich/browser) <sup>**[[F-Droid](https://www.f-droid.org/app/de.baumann.browser)]**</sup>
 * [**Monocles Browser**](https://codeberg.org/Arne/monocles_browser) <sup>**[[F-Droid](https://f-droid.org/app/de.monocles.browser)]**</sup>
 * [**EinkBro**](https://github.com/plateaukao/browser) <sup>**[[F-Droid](https://www.f-droid.org/app/info.plateaukao.einkbro)]**</sup>
+* [**Fulguris Web Browser**](https://github.com/Slion/Fulguris) <sup>**[[F-Droid](https://www.f-droid.org/app/net.slions.fulguris.full.fdroid)]**</sup>
+* [**IdiomReplaceX Browser App**](https://github.com/idiomReplaceX/IdiomReplaceX-app) <sup>**[[F-Droid](https://www.f-droid.org/app/de.idiomreplacex.browser_app)]**</sup>
 
 ### • Calculator
 
@@ -178,7 +181,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Slide**](https://github.com/ccrama/Slide) <sup>**[[F-Droid](https://f-droid.org/app/me.ccrama.redditslide)]**</sup>
 * [**OctoDroid**](https://github.com/slapperwan/gh4a) <sup>**[[F-Droid](https://www.f-droid.org/app/com.gh4a)]**</sup>
-* [**OctoDroid**](https://github.com/slapperwan/gh4a) <sup>**[[F-Droid](https://f-droid.org/app/com.gh4a)]**</sup>
 * [**Twidere**](https://github.com/TwidereProject/Twidere-Android) <sup>**[[F-Droid](https://f-droid.org/app/org.mariotaku.twidere)]**</sup>
     * [**Twidere X**](https://github.com/TwidereProject/TwidereX-Android) <sup>**[[F-Droid](https://www.f-droid.org/app/com.twidere.twiderex)]**</sup>
 * [**Infinity for Reddit**](https://github.com/Docile-Alligator/Infinity-For-Reddit) <sup>**[[F-Droid](https://f-droid.org/app/ml.docilealligator.infinityforreddit)]**</sup>
@@ -244,6 +246,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Simple File Manager**](https://github.com/SimpleMobileTools/Simple-File-Manager) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.filemanager.pro)]**</sup>
 * [**Material Files**](https://github.com/zhanghai/MaterialFiles) <sup>**[[F-Droid](https://f-droid.org/app/me.zhanghai.android.files)]**</sup>
+* [**File Manager**](https://gitlab.com/axet/android-file-manager) <sup>**[[F-Droid](https://www.f-droid.org/app/com.github.axet.filemanager)]**</sup>
 * [**Ghost Commander**](https://sourceforge.net/p/ghostcommander/svn/HEAD/tree) <sup>**[[F-Droid](https://f-droid.org/app/com.ghostsq.commander)]**</sup>
 
 ### • File Sharing
@@ -575,6 +578,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Cams**](https://github.com/vladpen/cams) <sup>**[[F-Droid](https://www.f-droid.org/app/com.vladpen.cams)]**</sup>
 * [**Volta**](https://github.com/x13a/Volta) <sup>**[[F-Droid](https://www.f-droid.org/app/me.lucky.volta)]**</sup>
 * [**Key Mapper**](https://github.com/keymapperorg/KeyMapper) <sup>**[[F-Droid](https://www.f-droid.org/app/io.github.sds100.keymapper)]**</sup>
+* [**OONI Probe**](https://github.com/ooni/probe-android) <sup>**[[F-Droid](https://www.f-droid.org/app/org.openobservatory.ooniprobe)]**</sup>
 
 ### • Video Player
 
@@ -614,6 +618,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**lidraughts**](https://github.com/roepstoep/lidraughts)
 * [**Chess**](https://github.com/jcarolus/android-chess) <sup>**[[F-Droid](https://www.f-droid.org/app/jwtc.android.chess)]**</sup>
 * [**Chess Clock**](https://github.com/ChessCom/android-chessclock) <sup>**[[F-Droid](https://www.f-droid.org/app/com.chess.clock)]**</sup>
+* [**Simple Chess Clock**](https://github.com/simenheg/simple-chess-clock) <sup>**[[F-Droid](https://www.f-droid.org/app/com.chessclock.android)]**</sup>
 * [**DroidFish**](https://github.com/peterosterlund2/droidfish) <sup>**[[F-Droid](https://f-droid.org/app/org.petero.droidfish)]**</sup>
 * [**Scid on the go**](https://github.com/gkalab/scidonthego) <sup>**[[F-Droid](https://f-droid.org/app/org.scid.android)]**</sup>
 * [**Open Chaos Chess**](https://github.com/CorruptedArk/open-chaos-chess) <sup>**[[F-Droid](https://f-droid.org/app/dev.corruptedark.openchaoschess)]**</sup>
