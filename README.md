@@ -452,6 +452,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Notally**](https://github.com/OmGodse/Notally) <sup>**[[F-Droid](https://f-droid.org/app/com.omgodse.notally)]**</sup>
 * [**neutriNote**](https://github.com/appml/neutrinote) <sup>**[[F-Droid](https://f-droid.org/app/com.appmindlab.nano)]**</sup>
 * [**Linwood Butterfly**](https://github.com/LinwoodCloud/butterfly) <sup>**[[F-Droid](https://f-droid.org/app/dev.linwood.butterfly.nightly)]**</sup>
+* [**Orgzly**](https://github.com/orgzly/orgzly-android) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.orgzly)]**</sup>
 
 ### • Office
 
@@ -522,6 +523,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**DecSync CC**](https://github.com/39aldo39/DecSyncCC) <sup>**[[F-Droid](https://f-droid.org/app/org.decsync.cc)]**</sup>
 * [**EteSync**](https://github.com/etesync/android) <sup>**[[F-Droid](https://f-droid.org/app/com.etesync.syncadapter)]**</sup>
 * [**Syncthing**](https://github.com/syncthing/syncthing-android) <sup>**[[F-Droid](https://f-droid.org/app/com.nutomic.syncthingandroid)]**</sup>
+* [**Syncthing-Fork**](https://github.com/Catfriend1/syncthing-android) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid)]**</sup>
 * [**ownCloud**](https://github.com/owncloud/android) <sup>**[[F-Droid](https://f-droid.org/app/com.owncloud.android)]**</sup>
 * [**Seafile**](https://github.com/haiwen/seadroid) <sup>**[[F-Droid](https://f-droid.org/app/com.seafile.seadroid2)]**</sup>
 * [**Syncopoli**](https://gitlab.com/fengshaun/syncopoli) <sup>**[[F-Droid](https://f-droid.org/app/org.amoradi.syncopoli)]**</sup>
@@ -558,6 +560,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**1List**](https://github.com/lolo-io/OneList) <sup>**[[F-Droid](https://f-droid.org/app/com.lolo.io.onelist)]**</sup>
 * [**OpenTasks**](https://github.com/dmfs/opentasks) <sup>**[[F-Droid](https://f-droid.org/app/org.dmfs.tasks)]**</sup>
 * [**Tasks.org**](https://github.com/tasks/tasks) <sup>**[[F-Droid](https://f-droid.org/app/org.tasks)]**</sup>
+* [**Orgzly**](https://github.com/orgzly/orgzly-android) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.orgzly)]**</sup>
 
 ### • Translation
 
