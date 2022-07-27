@@ -560,7 +560,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**1List**](https://github.com/lolo-io/OneList) <sup>**[[F-Droid](https://f-droid.org/app/com.lolo.io.onelist)]**</sup>
 * [**OpenTasks**](https://github.com/dmfs/opentasks) <sup>**[[F-Droid](https://f-droid.org/app/org.dmfs.tasks)]**</sup>
 * [**Tasks.org**](https://github.com/tasks/tasks) <sup>**[[F-Droid](https://f-droid.org/app/org.tasks)]**</sup>
-* [**Orgzly**](https://github.com/orgzly/orgzly-android) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.orgzly)]**</sup>
 
 ### • Translation
 
