@@ -473,6 +473,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Bitwarden**](https://github.com/bitwarden/mobile)
 * [**AuthPass**](https://github.com/authpass/authpass) <sup>**[[F-Droid](https://f-droid.org/app/design.codeux.authpass.fdroid)]**</sup>
 * [**OpenKeychain**](https://github.com/open-keychain/open-keychain) <sup>**[[F-Droid](https://www.f-droid.org/app/org.sufficientlysecure.keychain)]**</sup>
+* [**Keyoxide**](https://codeberg.org/keyoxide/keyoxide-flutter) <sup>**[[F-Droid](https://f-droid.org/app/org.keyoxide.keyoxide)]**</sup>
 
 ### • Podcast & Audio Book Player
 
