@@ -86,6 +86,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**F-Droid**](https://f-droid.org)
     * [**Neo-Store**](https://github.com/NeoApplications/Neo-Store) <sup>**[[F-Droid](https://f-droid.org/app/com.looker.droidify)]**</sup>
     * [**Droid-ify**](https://github.com/Iamlooker/Droid-ify) <sup>**[[F-Droid](https://f-droid.org/app/com.looker.droidify)]**</sup>
+    * [**F-Droid Classic**](https://git.bubu1.eu/Bubu/fdroidclassic) <sup>**[[F-Droid](https://f-droid.org/app/eu.bubu1.fdroidclassic)]**</sup>
     * [**G-Droid**](https://gitlab.com/gdroid/gdroidclient) <sup>**[[F-Droid](https://f-droid.org/app/org.gdroid.gdroid)]**</sup>
     * [**M-Droid**](https://github.com/SkyzohKey/M-Droid) <sup>**[[F-Droid](https://f-droid.org/app/com.mdroid)]**</sup>
     * [**Aurora Droid**](https://gitlab.com/AuroraOSS/auroradroid) <sup>**[[F-Droid](https://f-droid.org/app/com.aurora.adroid)]**</sup>
@@ -150,6 +151,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Simple Calculator**](https://github.com/SimpleMobileTools/Simple-Calculator) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.calculator)]**</sup>
 * [**Calculator++**](https://github.com/Bubu/android-calculatorpp) <sup>**[[F-Droid](https://f-droid.org/app/org.solovyev.android.calculator)]**</sup>
+* [**OpenCalc**](https://github.com/Darkempire78/OpenCalc) <sup>**[[F-Droid](https://f-droid.org/app/com.darkempire78.opencalculator)]**</sup>
 
 ### • Calendar
 
@@ -191,6 +193,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Tusky**](https://github.com/tuskyapp/Tusky) <sup>**[[F-Droid](https://www.f-droid.org/app/com.keylesspalace.tusky)]**</sup>
 * [**Husky**](https://git.sr.ht/~captainepoch/husky) <sup>**[[F-Droid](https://www.f-droid.org/app/su.xash.husky)]**</sup>
 * [**monocles social**](https://codeberg.org/Arne/monocles_social) <sup>**[[F-Droid](https://www.f-droid.org/app/de.monocles.social)]**</sup>
+* [**Fedilab**](https://codeberg.org/tom79/Fedilab) <sup>**[[F-Droid](https://f-droid.org/app/fr.gouv.etalab.mastodon)]**</sup>
 
 ### • Contacts
 
@@ -229,7 +232,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**LibreTorrent**](https://github.com/proninyaroslav/libretorrent) <sup>**[[F-Droid](https://f-droid.org/app/org.proninyaroslav.libretorrent)]**</sup>
 * [**dvd**](https://github.com/yausername/dvd) <sup>**[[F-Droid](https://f-droid.org/app/org.yausername.dvd)]**</sup>
 * [**Torrent Client**](https://gitlab.com/axet/android-torrent-client) <sup>**[[F-Droid](https://f-droid.org/app/com.github.axet.torrentclient)]**</sup>
-* [**Seal**](https://github.com/JunkFood02/Seal)
+* [**Seal**](https://github.com/JunkFood02/Seal) <sup>**[[F-Droid](https://f-droid.org/app/com.junkfood.seal)]**</sup>
 * [**SpotiFlyer**](https://github.com/Shabinder/SpotiFlyer) <sup>**[[F-Droid](https://f-droid.org/app/com.shabinder.spotiflyer)]**</sup>
 * [**SubHub**](https://github.com/FunkyMuse/SubHub) <sup>**[[F-Droid](https://f-droid.org/app/com.crazylegend.subhub)]**</sup>
 
@@ -523,7 +526,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**DecSync CC**](https://github.com/39aldo39/DecSyncCC) <sup>**[[F-Droid](https://f-droid.org/app/org.decsync.cc)]**</sup>
 * [**EteSync**](https://github.com/etesync/android) <sup>**[[F-Droid](https://f-droid.org/app/com.etesync.syncadapter)]**</sup>
 * [**Syncthing**](https://github.com/syncthing/syncthing-android) <sup>**[[F-Droid](https://f-droid.org/app/com.nutomic.syncthingandroid)]**</sup>
-* [**Syncthing-Fork**](https://github.com/Catfriend1/syncthing-android) <sup>**[[F-Droid](https://f-droid.org/app/com.github.catfriend1.syncthingandroid)]**</sup>
+    * [**Syncthing-Fork**](https://github.com/Catfriend1/syncthing-android) <sup>**[[F-Droid](https://f-droid.org/app/com.github.catfriend1.syncthingandroid)]**</sup>
 * [**ownCloud**](https://github.com/owncloud/android) <sup>**[[F-Droid](https://f-droid.org/app/com.owncloud.android)]**</sup>
 * [**Seafile**](https://github.com/haiwen/seadroid) <sup>**[[F-Droid](https://f-droid.org/app/com.seafile.seadroid2)]**</sup>
 * [**Syncopoli**](https://gitlab.com/fengshaun/syncopoli) <sup>**[[F-Droid](https://f-droid.org/app/org.amoradi.syncopoli)]**</sup>
@@ -561,6 +564,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**OpenTasks**](https://github.com/dmfs/opentasks) <sup>**[[F-Droid](https://f-droid.org/app/org.dmfs.tasks)]**</sup>
 * [**Tasks.org**](https://github.com/tasks/tasks) <sup>**[[F-Droid](https://f-droid.org/app/org.tasks)]**</sup>
 * [**Orgzly**](https://github.com/orgzly/orgzly-android) <sup>**[[F-Droid](https://f-droid.org/app/com.orgzly)]**</sup>
+* [**Everyday Tasks**](https://github.com/jenspfahl/EverydayTasks) <sup>**[[F-Droid](https://f-droid.org/app/de.jepfa.personaltasklogger)]**</sup>
 
 ### • Translation
 
@@ -591,7 +595,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Just (Video) Player**](https://github.com/moneytoo/Player) <sup>**[[F-Droid](https://f-droid.org/app/com.brouken.player)]**</sup>
 * [**Fermata Media Player**](https://github.com/AndreyPavlenko/Fermata)
 * [**Kodi**](https://github.com/xbmc/xbmc) <sup>**[[F-Droid](https://f-droid.org/app/org.xbmc.kodi)]**</sup>
-* [**Kore**](https://github.com/xbmc/Kore) <sup>**[[F-Droid](https://f-droid.org/app/org.xbmc.kore)]**</sup>
+    * [**Kore**](https://github.com/xbmc/Kore) <sup>**[[F-Droid](https://f-droid.org/app/org.xbmc.kore)]**</sup>
 
 ### • VPN
 
@@ -688,12 +692,14 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**UnCiv**](https://github.com/yairm210/UnCiv) <sup>**[[F-Droid](https://f-droid.org/app/com.unciv.app)]**</sup>
 * [**OpenTTD**](https://github.com/n-ice-community/commandergenius) <sup>**[[F-Droid](https://www.f-droid.org/app/org.openttd.fdroid)]**</sup>
+* [**Shattered Pixel Dungeon**](https://github.com/00-Evan/shattered-pixel-dungeon) <sup>**[[F-Droid](https://f-droid.org/app/com.shatteredpixel.shatteredpixeldungeon)]**</sup>
 
 ### • Word
 
 * [**Lexica**](https://github.com/lexica/lexica) <sup>**[[F-Droid](https://f-droid.org/app/com.serwylo.lexica)]**</sup>
 * [**Gurgle**](https://github.com/billthefarmer/gurgle) <sup>**[[F-Droid](https://f-droid.org/app/org.billthefarmer.gurgle)]**</sup>
 * [**CrossWords**](http://xwords.sourceforge.net/source.php) <sup>**[[F-Droid](https://www.f-droid.org/app/org.eehouse.android.xw4)]**</sup>
+* [**Forkyz*](https://github.com/yourealwaysbe/forkyz) <sup>**[[F-Droid](https://f-droid.org/app/app.crossword.yourealwaysbe.forkyz)]**</sup>
 
 ------------------------
 
