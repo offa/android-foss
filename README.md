@@ -330,7 +330,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Doodle**](https://github.com/patzly/doodle-android) <sup>**[[F-Droid](https://f-droid.org/app/xyz.zedler.patrick.doodle)]**</sup>
 * [**GIF Live Wallpaper**](https://github.com/redwarp/gif-wallpaper) <sup>**[[F-Droid](https://f-droid.org/app/net.redwarp.gifwallpaper)]**</sup>
 * [**Dark Mode Live Wallpaper**](https://github.com/cvzi/darkmodewallpaper) <sup>**[[F-Droid](https://f-droid.org/app/com.github.cvzi.darkmodewallpaper)]**</sup>
-* [**Palette-Cycle*](https://github.com/ManApart/palette-cycle) <sup>**[[F-Droid](https://www.f-droid.org/app/rak.pixellwp)]**</sup>
+* [**Palette-Cycle**](https://github.com/ManApart/palette-cycle) <sup>**[[F-Droid](https://www.f-droid.org/app/rak.pixellwp)]**</sup>
 
 ### • Mail
 
