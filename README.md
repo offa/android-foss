@@ -482,7 +482,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Voice**](https://github.com/PaulWoitaschek/Voice) <sup>**[[F-Droid](https://f-droid.org/app/de.ph1b.audiobook)]**</sup>
 * [**Audio Anchor**](https://github.com/flackbash/AudioAnchor) <sup>**[[F-Droid](https://f-droid.org/app/com.prangesoftwaresolutions.audioanchor)]**</sup>
-* [**Escapepod**](https://github.com/y20k/escapepod) <sup>**[[F-Droid](https://f-droid.org/app/org.y20k.escapepod)]**</sup>
+* [**Escapepod**](https://codeberg.org/y20k/escapepod) <sup>**[[F-Droid](https://f-droid.org/app/org.y20k.escapepod)]**</sup>
 * [**Tsacdop**](https://github.com/stonega/tsacdop) <sup>**[[F-Droid](https://f-droid.org/app/com.stonegate.tsacdop)]**</sup>
 * [**AntennaPod**](https://github.com/AntennaPod/AntennaPod) <sup>**[[F-Droid](https://f-droid.org/app/de.danoeh.antennapod)]**</sup>
 
