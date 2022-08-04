@@ -550,7 +550,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Extirpater**](https://gitlab.com/divested-mobile/extirpater) <sup>**[[F-Droid](https://www.f-droid.org/app/us.spotco.extirpater)]**</sup>
 * [**PCAPdroid**](https://github.com/emanuele-f/PCAPdroid) <sup>**[[F-Droid](https://f-droid.org/app/com.emanuelef.remote_capture)]**</sup>
 * [**UpgradeAll**](https://github.com/DUpdateSystem/UpgradeAll) <sup>**[[F-Droid](https://f-droid.org/app/net.xzos.upgradeall)]**</sup>
-* [**LibChecker**](https://github.com/zhaobozhen/LibChecker)
+* [**LibChecker**](https://github.com/zhaobozhen/LibChecker) <sup>**[[F-Droid](https://f-droid.org/app/com.absinthe.libchecker)]**</sup>
 
 ### • Text Editors
 
