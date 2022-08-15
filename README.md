@@ -735,6 +735,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ## – Tools –
 
+* [**Universal Android Debloater GUI**](https://github.com/0x192/universal-android-debloater)
+
 ------------------------
 
 ## – Tutorials and Guides –
