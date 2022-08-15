@@ -555,6 +555,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**PCAPdroid**](https://github.com/emanuele-f/PCAPdroid) <sup>**[[F-Droid](https://f-droid.org/app/com.emanuelef.remote_capture)]**</sup>
 * [**UpgradeAll**](https://github.com/DUpdateSystem/UpgradeAll) <sup>**[[F-Droid](https://f-droid.org/app/net.xzos.upgradeall)]**</sup>
 * [**LibChecker**](https://github.com/zhaobozhen/LibChecker) <sup>**[[F-Droid](https://f-droid.org/app/com.absinthe.libchecker)]**</sup>
+* [**Universal Android Debloater GUI**](https://github.com/0x192/universal-android-debloater) <sup>**[[Github](https://github.com/0x192/universal-android-debloater)]**</sup>
 
 ### • Text Editors
 
