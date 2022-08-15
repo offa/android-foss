@@ -259,6 +259,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Warpinator**](https://github.com/slowscript/warpinator-android) <sup>**[[F-Droid](https://f-droid.org/app/slowscript.warpinator)]**</sup>
 * [**Filester**](https://github.com/rouzbehzarei/filester) <sup>**[[F-Droid](https://f-droid.org/app/com.rouzbehzarei.filester)]**</sup>
 * [**KDE Connect**](https://invent.kde.org/network/kdeconnect-android) <sup>**[[F-Droid](https://f-droid.org/app/org.kde.kdeconnect_tp)]**</sup>
+    * [**Zorin Connect**](https://github.com/ZorinOS/zorin-connect-android) <sup>**[[F-Droid](https://f-droid.org/app/com.zorinos.zorin_connect)]**</sup>
 * [**Device Connect**](https://github.com/cyanomiko/dcnnt-android) <sup>**[[F-Droid](https://www.f-droid.org/app/net.dcnnt)]**</sup>
 
 ### • Firewall
@@ -279,6 +280,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Simple Flashlight**](https://github.com/SimpleMobileTools/Simple-Flashlight) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.flashlight)]**</sup>
 * [**Flashy**](https://github.com/Crazy-Marvin/Flashy) <sup>**[[F-Droid](https://f-droid.org/app/rocks.poopjournal.flashy)]**</sup>
+* [**An Light | Flashlight**](https://github.com/neophtex/An-Light-Flashlight) <sup>**[[F-Droid](https://f-droid.org/app/com.series.anlight)]**</sup>
 
 ### • Image Manipulation
 
@@ -373,6 +375,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Signal**](https://github.com/signalapp/Signal-Android)
     * [**Molly**](https://github.com/mollyim/mollyim-android)
 * [**Session F-Droid**](https://github.com/oxen-io/session-android) <sup>**[[F-Droid](https://www.f-droid.org/app/network.loki.messenger.fdroid)]**</sup>
+* [**SimpleX Chat**](https://github.com/simplex-chat/simplex-chat) <sup>**[[F-Droid](https://www.f-droid.org/app/chat.simplex.app)]**</sup>
 * [**Jitsi Meet**](https://github.com/jitsi/jitsi-meet) <sup>**[[F-Droid](https://f-droid.org/app/org.jitsi.meet)]**</sup>
 * [**blabber.im**](https://codeberg.org/kriztan/blabber.im) <sup>**[[F-Droid](https://f-droid.org/app/de.pixart.messenger)]**</sup>
 * [**Manyverse**](https://gitlab.com/staltz/manyverse) <sup>**[[F-Droid](https://f-droid.org/app/se.manyver)]**</sup>
@@ -647,6 +650,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Geoperion**](https://github.com/vulnerabbity/Geoperion) <sup>**[[F-Droid](https://www.f-droid.org/app/com.vulnerabbity.geoperion)]**</sup>
 * [**Learning Memory**](https://github.com/niccokunzmann/app.memory.quelltext.eu) <sup>**[[F-Droid](https://f-droid.org/app/eu.quelltext.memory)]**</sup>
 * [**Quick Calculation**](https://github.com/SubhamTyagi/quick-calculation) <sup>**[[F-Droid](https://f-droid.org/app/io.github.subhamtyagi.quickcalculation)]**</sup>
+* [**Everest**](https://github.com/mwageringel/everest) <sup>**[[F-Droid](https://www.f-droid.org/app/io.github.mwageringel.everest)]**</sup>
 
 ### • Emulator
 
