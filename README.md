@@ -455,6 +455,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Notally**](https://github.com/OmGodse/Notally) <sup>**[[F-Droid](https://f-droid.org/app/com.omgodse.notally)]**</sup>
 * [**neutriNote**](https://github.com/appml/neutrinote) <sup>**[[F-Droid](https://f-droid.org/app/com.appmindlab.nano)]**</sup>
 * [**Linwood Butterfly**](https://github.com/LinwoodCloud/butterfly) <sup>**[[F-Droid](https://f-droid.org/app/dev.linwood.butterfly.nightly)]**</sup>
+* [**Noto**](https://github.com/alialbaali/Noto)
 
 ### • Office
 
