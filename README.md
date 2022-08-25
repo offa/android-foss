@@ -443,6 +443,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Music**](https://github.com/z-huang/music)
 * [**little music player**](https://github.com/martinmimigames/little-music-player) <sup>**[[F-Droid](https://www.f-droid.org/app/com.martinmimigames.littlemusicplayer)]**</sup>
 * [**ViMusic**](https://github.com/vfsfitvnm/ViMusic) <sup>**[[F-Droid](https://www.f-droid.org/app/it.vfsfitvnm.vimusic)]**</sup>
+* [**Musify**](https://github.com/gokadzev/Musify)
 
 ### • Notes
 
