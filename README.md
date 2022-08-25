@@ -459,6 +459,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**neutriNote**](https://github.com/appml/neutrinote) <sup>**[[F-Droid](https://f-droid.org/app/com.appmindlab.nano)]**</sup>
 * [**Linwood Butterfly**](https://github.com/LinwoodCloud/butterfly) <sup>**[[F-Droid](https://f-droid.org/app/dev.linwood.butterfly.nightly)]**</sup>
 * [**Noto**](https://github.com/alialbaali/Noto)
+* [**Mavinote**](https://github.com/bwqr/mavinote) <sup>**[[F-Droid](https://f-droid.org/app/com.bwqr.mavinote)]**</sup>
 
 ### • Office
 
