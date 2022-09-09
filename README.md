@@ -127,6 +127,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Barcode Scanner
 
 * [**Binary Eye**](https://github.com/markusfisch/BinaryEye) <sup>**[[F-Droid](https://f-droid.org/app/de.markusfisch.android.binaryeye)]**</sup>
+* [**Barcode Scanner**](https://gitlab.com/Atharok/BarcodeScanner) <sup>**[[F-Droid](https://f-droid.org/app/com.atharok.barcodescanner)]**</sup>
 * [**QR & Barcode Scanner**](https://github.com/wewewe718/QrAndBarcodeScanner) <sup>**[[F-Droid](https://f-droid.org/app/com.example.barcodescanner)]**</sup>
 * [**Catima**](https://github.com/CatimaLoyalty/Android) <sup>**[[F-Droid](https://f-droid.org/app/me.hackerchick.catima)]**</sup>
 
