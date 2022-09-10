@@ -313,6 +313,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Unexpected Keyboard**](https://github.com/Julow/Unexpected-Keyboard) <sup>**[[F-Droid](https://f-droid.org/app/juloo.keyboard2)]**</sup>
 * [**Stroke Input Method (筆畫輸入法)**](https://github.com/stroke-input/stroke-input-android) <sup>**[[F-Droid](https://f-droid.org/app/io.github.yawnoc.strokeinput)]**</sup>
 * [**nicoWnnG**](https://bitbucket-archive.softwareheritage.org/projects/da/dalb8/nicownng.html) <sup>**[[F-Droid](https://f-droid.org/app/net.gorry.android.input.nicownng)]**</sup>
+* [**FutharkBoard**](https://github.com/DrMaxNix/futharkboard) <sup>**[[F-Droid](https://www.f-droid.org/app/de.drmaxnix.futharkboard)]**</sup>
 
 ### • Launcher & Desktop
 
