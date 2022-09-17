@@ -646,6 +646,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Flang**](https://codeberg.org/jannis/FlangAndroid) <sup>**[[F-Droid](https://f-droid.org/app/de.tadris.flang)]**</sup>
 * [**Freebloks**](https://github.com/shlusiak/Freebloks-Android) <sup>**[[F-Droid](https://f-droid.org/app/de.saschahlusiak.freebloks)]**</sup>
 * [**Mill**](https://github.com/calcitem/Sanmill) <sup>**[[F-Droid](https://f-droid.org/app/com.calcitem.sanmill)]**</sup>
+* [**Lichess**](https://github.com/lichess-org/lichobile/) <sup>**[[F-Droid](https://f-droid.org/app/org.lichess.mobileapp.free)]**</sup>
 
 ### • Card
 
