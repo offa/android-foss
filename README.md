@@ -680,6 +680,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**WordleSolver**](https://github.com/billthefarmer/wordlesolver) <sup>**[[F-Droid](https://f-droid.org/app/org.billthefarmer.solver)]**</sup>
 * [**Destination Sol**](https://github.com/MovingBlocks/DestinationSol) <sup>**[[F-Droid](https://www.f-droid.org/app/com.miloshpetrov.sol2.android)]**</sup>
 * [**Open Golf**](https://github.com/mgerdes/Open-Golf) <sup>**[[F-Droid](https://f-droid.org/en/app/me.mgerdes.open_golf)]**</sup>
+* [**Endless Sky**](https://github.com/thewierdnut/endless-mobile) <sup>**[[F-Droid](https://f-droid.org/en/app/com.github.thewierdnut.endless_mobile)]**</sup>
 
 ### • Music
 
