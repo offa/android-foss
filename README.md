@@ -249,6 +249,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • File Manager
 
+* [**Amaze**](https://github.com/TeamAmaze/AmazeFileManager)
 * [**Simple File Manager**](https://github.com/SimpleMobileTools/Simple-File-Manager) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.filemanager.pro)]**</sup>
 * [**Material Files**](https://github.com/zhanghai/MaterialFiles) <sup>**[[F-Droid](https://f-droid.org/app/me.zhanghai.android.files)]**</sup>
 * [**File Manager**](https://gitlab.com/axet/android-file-manager) <sup>**[[F-Droid](https://www.f-droid.org/app/com.github.axet.filemanager)]**</sup>
