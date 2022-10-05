@@ -173,6 +173,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**FreeDcam**](https://github.com/KillerInk/FreeDcam) <sup>**[[F-Droid](https://www.f-droid.org/app/troop.com.freedcam)]**</sup>
 * [**Secure Camera**](https://github.com/GrapheneOS/Camera)
 * [**ObscuraCam**](https://github.com/guardianproject/ObscuraCam) <sup>**[[F-Droid](https://www.f-droid.org/app/org.witness.sscphase1)]**</sup>
+* [**Libre Camera**](https://github.com/iakmds/librecamera) <sup>**[[F-Droid](https://www.f-droid.org/app/com.iakmds.librecamera)]**</sup>
 
 ### • Clock & Time
 
