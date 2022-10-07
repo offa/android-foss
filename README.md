@@ -76,6 +76,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Strategy](#-strategy)
     * [Word](#-word)
 * [Rooting and Recovery](#-rooting-and-recovery-)
+* [Tools](#-tools-)
 * [Tutorials and Guides](#-tutorials-and-guides-)
 * [Getting more …](#-getting-more--)
 
@@ -729,6 +730,10 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Magisk**](https://github.com/topjohnwu/Magisk)
 * [**TWRP**](https://twrp.me)
+
+------------------------
+
+## – Tools –
 
 ------------------------
 
