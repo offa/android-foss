@@ -468,6 +468,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Linwood Butterfly**](https://github.com/LinwoodCloud/butterfly) <sup>**[[F-Droid](https://f-droid.org/app/dev.linwood.butterfly.nightly)]**</sup>
 * [**Noto**](https://github.com/alialbaali/Noto)
 * [**Mavinote**](https://github.com/bwqr/mavinote) <sup>**[[F-Droid](https://f-droid.org/app/com.bwqr.mavinote)]**</sup>
+* [**Simple Material Notes**](https://github.com/RafhaanShah/Simple-Notes) <sup>**[[F-Droid](https://f-droid.org/app/com.rafapps.simplenotes)]**</sup>
 
 ### • Office
 
