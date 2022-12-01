@@ -378,6 +378,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Telegram-FOSS**](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) <sup>**[[F-Droid](https://f-droid.org/app/org.telegram.messenger)]**</sup>
     * [**Nekogram X**](https://github.com/NekoX-Dev/NekoX) <sup>**[[F-Droid](https://f-droid.org/app/nekox.messenger)]**</sup>
     * [**Forkgram**](https://github.com/Forkgram/TelegramAndroid) <sup>**[[F-Droid](https://f-droid.org/app/org.forkgram.messenger)]**</sup>
+* [**Telegraher**](https://github.com/nikitasius/Telegraher)
 * [**Element**](https://github.com/vector-im/element-android) <sup>**[[F-Droid](https://f-droid.org/app/im.vector.app)]**</sup>
 * [**Signal**](https://github.com/signalapp/Signal-Android)
     * [**Molly**](https://github.com/mollyim/mollyim-android)
