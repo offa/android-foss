@@ -393,7 +393,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [**Megalodon**](https://github.com/sk22/megalodon)
 * [**Mumla**](https://gitlab.com/quite/mumla) <sup>**[[F-Droid](https://www.f-droid.org/app/se.lublin.mumla)]**</sup>
 * [**Jami**](https://git.jami.net/savoirfairelinux/jami-client-android) <sup>**[[F-Droid](https://f-droid.org/app/cx.ring)]**</sup>
-* [**Meshenger**](https://github.com/meshenger-app/meshenger-android) <sup>**[[F-Droid](Hhttps://f-droid.org/app/d.d.meshenger)]**</sup>
+* [**Meshenger**](https://github.com/meshenger-app/meshenger-android) <sup>**[[F-Droid](https://f-droid.org/app/d.d.meshenger)]**</sup>
 
 ### • Miscellaneous
 
