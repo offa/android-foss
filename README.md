@@ -480,6 +480,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Collabora Office**](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/)
 * [**OpenDocument**](https://github.com/opendocument-app/OpenDocument.droid) <sup>**[[F-Droid](https://f-droid.org/app/at.tomtasche.reader)]**</sup>
+* [**LibreOffice Viewer**](https://www.libreoffice.org/download/android-viewer/) <sup>**[[F-Droid](https://f-droid.org/app/org.documentfoundation.libreoffice)]**</sup>
 
 ### • Painting
 
