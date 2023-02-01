@@ -529,6 +529,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • SMS
 
 * [**QKSMS**](https://github.com/moezbhatti/qksms) <sup>**[[F-Droid](https://f-droid.org/app/com.moez.QKSMS)]**</sup>
+   * [**Partisan SMS**](https://github.com/wrwrabbit/Partisan-SMS)
 * [**Simple SMS Messenger**](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.smsmessenger)]**</sup>
 
 ### • Sports & Health
