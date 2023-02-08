@@ -59,6 +59,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Text Editors](#-text-editors)
     * [ToDo Lists](#-todo-lists)
     * [Translation](#-translation)
+    * [TTS](#-tts)
     * [Utilities](#-utilities)
     * [Video Player](#-video-player)
     * [VPN](#-vpn)
@@ -601,6 +602,12 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**SimplyTranslate Mobile**](https://github.com/ManeraKai/simplytranslate_mobile) <sup>**[[F-Droid](https://www.f-droid.org/app/com.simplytranslate_mobile)]**</sup>
 * [**LibreTranslator**](https://codeberg.org/BeoCode/LibreTranslator) <sup>**[[F-Droid](https://www.f-droid.org/app/de.beowulf.libretranslater)]**</sup>
 * [**Arna Translate**](https://github.com/MahanRahmati/translate)
+
+### • TTS
+
+* [**RHVoice**](https://github.com/RHVoice/RHVoice) <sup>**[[F-Droid](https://f-droid.org/app/com.github.olga_yakovleva.rhvoice.android)]**</sup>
+* [**eSpeak**](https://github.com/espeak-ng/espeak-ng) <sup>**[[F-Droid](https://f-droid.org/app/com.reecedunn.espeak)]**</sup>
+* [**TTS Util**](https://github.com/Danesprite/tts-util-app) <sup>**[[F-Droid](https://f-droid.org/app/com.danefinlay.ttsutil)]**</sup>
 
 ### • Utilities
 
