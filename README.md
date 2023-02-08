@@ -568,7 +568,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**SuperFreezZ**](https://gitlab.com/SuperFreezZ/SuperFreezZ) <sup>**[[F-Droid](https://f-droid.org/app/superfreeze.tool.android)]**</sup>
 * [**Battery Tool**](https://github.com/Domi04151309/BatteryTool) <sup>**[[F-Droid](https://f-droid.org/app/io.github.domi04151309.batterytool)]**</sup>
 * [**AppManager**](https://github.com/MuntashirAkon/AppManager) <sup>**[[F-Droid](https://f-droid.org/app/io.github.muntashirakon.AppManager)]**</sup>
-* [**Inure App Manager**](https://github.com/Hamza417/Inure)
+* [**Inure App Manager (Trial)**](https://github.com/Hamza417/Inure) <sup>**[[F-Droid](https://f-droid.org/app/app.simple.inure)]**</sup>
 * [**Permission Pilot**](https://github.com/d4rken-org/permission-pilot)
 * [**Captive Portal Controller**](https://github.com/MuntashirAkon/CaptivePortalController)
 * [**CPU Info**](https://github.com/kamgurgul/cpu-info) <sup>**[[F-Droid](https://f-droid.org/app/com.kgurgul.cpuinfo)]**</sup>
