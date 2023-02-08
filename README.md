@@ -155,6 +155,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Simple Calculator**](https://github.com/SimpleMobileTools/Simple-Calculator) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.calculator)]**</sup>
 * [**Calculator++**](https://github.com/Bubu/android-calculatorpp) <sup>**[[F-Droid](https://f-droid.org/app/org.solovyev.android.calculator)]**</sup>
 * [**OpenCalc**](https://github.com/Darkempire78/OpenCalc) <sup>**[[F-Droid](https://f-droid.org/app/com.darkempire78.opencalculator)]**</sup>
+* [**ArityCalc**](https://github.com/woheller69/Arity) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.arity)]**</sup>
+* [**yetCalc**](https://github.com/Yet-Zio/yetCalc) <sup>**[[F-Droid](https://f-droid.org/app/yetzio.yetcalc)]**</sup>
 
 ### • Calendar
 
