@@ -626,6 +626,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**OONI Probe**](https://github.com/ooni/probe-android) <sup>**[[F-Droid](https://www.f-droid.org/app/org.openobservatory.ooniprobe)]**</sup>
 * [**Converter NOW**](https://github.com/ferraridamiano/ConverterNOW) <sup>**[[F-Droid](https://f-droid.org/app/com.ferrarid.converterpro)]**</sup>
 * [**unitto**](https://github.com/sadellie/unitto) <sup>**[[F-Droid](https://f-droid.org/app/com.sadellie.unitto)]**</sup>
+* [**Amaze Utilities**](https://github.com/TeamAmaze/AmazeFileUtilities)
 
 ### • Video Player
 
