@@ -586,6 +586,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Acode**](https://acode.foxdebug.com/) <sup>**[[F-Droid](https://f-droid.org/app/com.foxdebug.acode)]**</sup>
 * [**Editor**](https://github.com/billthefarmer/editor) <sup>**[[F-Droid](https://f-droid.org/app/org.billthefarmer.editor)]**</sup>
+* [**Squircle CE**](https://github.com/massivemadness/Squircle-CE) <sup>**[[F-Droid](https://f-droid.org/app/com.blacksquircle.ui)]**</sup>
 
 ### • ToDo Lists
 
