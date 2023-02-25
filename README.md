@@ -143,7 +143,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Bromite**](https://www.bromite.org)
 * [**DuckDuckGo Privacy Browser**](https://github.com/duckduckgo/Android) <sup>**[[F-Droid](https://f-droid.org/app/com.duckduckgo.mobile.android)]**</sup>
 * [**SmartCookieWeb**](https://github.com/CookieJarApps/SmartCookieWeb) <sup>**[[F-Droid](https://f-droid.org/app/com.cookiegames.smartcookie)]**</sup>
-* [**Privacy Browser**](FIX ME) <sup>**[[F-Droid](https://f-droid.org/app/com.stoutner.privacybrowser.standard)]**</sup>
+* [**Privacy Browser**](https://gitweb.stoutner.com/?p=PrivacyBrowserAndroid.git;a=summary) <sup>**[[F-Droid](https://f-droid.org/app/com.stoutner.privacybrowser.standard)]**</sup>
 * [**FOSS Browser**](https://github.com/scoute-dich/browser) <sup>**[[F-Droid](https://www.f-droid.org/app/de.baumann.browser)]**</sup>
 * [**Monocles Browser**](https://codeberg.org/Arne/monocles_browser) <sup>**[[F-Droid](https://f-droid.org/app/de.monocles.browser)]**</sup>
 * [**EinkBro**](https://github.com/plateaukao/browser) <sup>**[[F-Droid](https://www.f-droid.org/app/info.plateaukao.einkbro)]**</sup>
@@ -192,12 +192,11 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [**Twidere X**](https://github.com/TwidereProject/TwidereX-Android) <sup>**[[F-Droid](https://www.f-droid.org/app/com.twidere.twiderex)]**</sup>
 * [**Infinity for Reddit**](https://github.com/Docile-Alligator/Infinity-For-Reddit) <sup>**[[F-Droid](https://f-droid.org/app/ml.docilealligator.infinityforreddit)]**</sup>
 * [**Fritter**](https://github.com/jonjomckay/fritter) <sup>**[[F-Droid](https://f-droid.org/app/com.jonjomckay.fritter)]**</sup>
-* [**Nitter for Android**](FIX ME) <sup>**[[F-Droid](https://f-droid.org/app/com.plexer0.nitter)]**</sup>
 * [**Stealth**](https://gitlab.com/cosmosapps/stealth) <sup>**[[F-Droid](https://f-droid.org/app/com.cosmos.unreddit)]**</sup>
 * [**PixelDroid**](https://gitlab.shinice.net/pixeldroid/PixelDroid) <sup>**[[F-Droid](https://www.f-droid.org/app/org.pixeldroid.app)]**</sup>
 * [**Odysee**](https://github.com/OdyseeTeam/odysee-android-floss) <sup>**[[F-Droid](https://www.f-droid.org/app/com.odysee.floss)]**</sup>
 * [**Tusky**](https://github.com/tuskyapp/Tusky) <sup>**[[F-Droid](https://www.f-droid.org/app/com.keylesspalace.tusky)]**</sup>
-* [**Husky**](FIX ME) <sup>**[[F-Droid](https://www.f-droid.org/app/su.xash.husky)]**</sup>
+* [**Husky**](https://codeberg.org/husky/husky) <sup>**[[F-Droid](https://www.f-droid.org/app/su.xash.husky)]**</sup>
 * [**monocles social**](https://codeberg.org/Arne/monocles_social) <sup>**[[F-Droid](https://www.f-droid.org/app/de.monocles.social)]**</sup>
 * [**Fedilab**](https://codeberg.org/tom79/Fedilab) <sup>**[[F-Droid](https://f-droid.org/app/fr.gouv.etalab.mastodon)]**</sup>
 
