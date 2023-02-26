@@ -281,7 +281,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Flashcard
 
 * [**AnkiDroid**](https://github.com/ankidroid/Anki-Android) <sup>**[[F-Droid](https://f-droid.org/app/com.ichi2.anki)]**</sup>
-    * [Anki Image Occlusion](https://github.com/infinyte7/Anki-Occlusion) <sup>**[[F-Droid](https://f-droid.org/app/io.infinyte7.ankiimageocclusion)]**</sup>
+    * [Anki Image Occlusion](https://github.com/infinyte7/Anki-Occlusion) <sup>**[[F-Droid](https://f-droid.org/app/io.krmanik.ankiimageocclusion)]**</sup>
     * [AnkiEditor](https://github.com/jkennethcarino/AnkiEditor) <sup>**[[F-Droid](https://f-droid.org/app/com.jkcarino.ankieditor)]**</sup>
 * [**ForgetMeNot**](https://github.com/tema6120/ForgetMeNot) <sup>**[[F-Droid](https://f-droid.org/app/com.odnovolov.forgetmenot)]**</sup>
 * [**Flash Deck**](https://github.com/rh-id/a-flash-deck) <sup>**[[F-Droid](https://www.f-droid.org/app/m.co.rh.id.a_flash_deck)]**</sup>
