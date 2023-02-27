@@ -564,7 +564,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • System
 
 * [**Dark theme**](https://github.com/phstudio2/Darktheme) <sup>**[[F-Droid](https://f-droid.org/app/com.phstudio.darktheme)]**</sup>
-* [**Privacy Friendly Net Monitor**](https://github.com/SecUSo/privacy-friendly-netmonitor)
 * [**Shelter**](https://cgit.typeblog.net/Shelter) <sup>**[[F-Droid](https://f-droid.org/app/net.typeblog.shelter)]**</sup>
 * [**Insular**](https://gitlab.com/secure-system/Insular) <sup>**[[F-Droid](https://f-droid.org/app/com.oasisfeng.island.fdroid)]**</sup>
 * [**SuperFreezZ**](https://gitlab.com/SuperFreezZ/SuperFreezZ) <sup>**[[F-Droid](https://f-droid.org/app/superfreeze.tool.android)]**</sup>
@@ -655,7 +654,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Weather
 
 * [**Geometric Weather**](https://github.com/WangDaYeeeeee/GeometricWeather) <sup>**[[F-Droid](https://f-droid.org/app/wangdaye.com.geometricweather)]**</sup>
-* [**Privacy Friendly Weather**](https://github.com/SecUSo/privacy-friendly-weather)
 * [**Forecastie**](https://github.com/martykan/forecastie) <sup>**[[F-Droid](https://f-droid.org/app/cz.martykan.forecastie)]**</sup>
 * [**RadarWeather**](https://github.com/woheller69/weather) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.weather)]**</sup>
 * [**Clima**](https://github.com/Lacerte/clima) <sup>**[[F-Droid](https://www.f-droid.org/app/co.prestosole.clima)]**</sup>
