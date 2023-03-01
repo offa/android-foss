@@ -199,6 +199,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Husky**](https://codeberg.org/husky/husky) <sup>**[[F-Droid](https://www.f-droid.org/app/su.xash.husky)]**</sup>
 * [**monocles social**](https://codeberg.org/Arne/monocles_social) <sup>**[[F-Droid](https://www.f-droid.org/app/de.monocles.social)]**</sup>
 * [**Fedilab**](https://codeberg.org/tom79/Fedilab) <sup>**[[F-Droid](https://f-droid.org/app/fr.gouv.etalab.mastodon)]**</sup>
+* [**GameHub**](https://github.com/hojat72elect/GameHub) <sup>**[[Google Play Store](https://play.google.com/store/apps/details?id=ca.on.hojat.gamenews)]**</sup>
 
 ### • Contacts
 
