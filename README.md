@@ -371,7 +371,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) <sup>**[[F-Droid](https://f-droid.org/app/org.schabi.newpipe)]**</sup>
     * [**NewPipe x SponsorBlock x Return YouTube Dislike**](https://github.com/polymorphicshade/NewPipe)
-    * [**AnimePipe**](https://codeberg.org/NullPointerException/AnimePipe) <sup>**[[F-Droid](https://www.f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced)]**</sup>
+    * [**AnimePipe**](https://codeberg.org/NullPointerException/AnimePipe) <sup>**[[F-Droid](https://www.f-droid.org/app/InfinityLoop1309.NewPipeEnhanced)]**</sup>
 * [**SkyTube**](https://github.com/ram-on/SkyTube) <sup>**[[F-Droid](https://f-droid.org/app/free.rm.skytube.oss)]**</sup>
 * [**Jellyfin**](https://github.com/jellyfin/jellyfin-android) <sup>**[[F-Droid](https://f-droid.org/app/org.jellyfin.mobile)]**</sup>
 * [**Twire**](https://github.com/twireapp/Twire) <sup>**[[F-Droid](https://f-droid.org/app/com.perflyst.twire)]**</sup>
@@ -668,7 +668,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**RadarWeather**](https://github.com/woheller69/weather) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.weather)]**</sup>
 * [**Clima**](https://github.com/Lacerte/clima) <sup>**[[F-Droid](https://www.f-droid.org/app/co.prestosole.clima)]**</sup>
 * [**Weather**](https://codeberg.org/Beowulf/Weather) <sup>**[[F-Droid](https://www.f-droid.org/app/de.beowulf.wetter)]**</sup>
-* [**omWeather**](https://github.com/woheller69/omweather) <sup>**[[F-Droid](https://www.f-droid.org/packages/org.woheller69.omweather)]**</sup>
+* [**omWeather**](https://github.com/woheller69/omweather) <sup>**[[F-Droid](https://www.f-droid.org/app/org.woheller69.omweather)]**</sup>
 
 ------------------------
 
