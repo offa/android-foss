@@ -136,7 +136,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Browser
 
 * [**Bromite**](https://www.bromite.org)
-* [**Chromium SWE Updater**](https://forum.xda-developers.com/android/apps-games/app-code-aurora-s-chromium-swe-browser-t3603932) 
+* [**Chromium SWE Updater**](https://forum.xda-developers.com/android/apps-games/app-code-aurora-s-chromium-swe-browser-t3603932)
 * [**DuckDuckGo Privacy Browser**](https://github.com/duckduckgo/Android) <sup>**[[F-Droid](https://f-droid.org/app/com.duckduckgo.mobile.android)]**</sup>
 * [**EinkBro**](https://github.com/plateaukao/browser) <sup>**[[F-Droid](https://www.f-droid.org/app/info.plateaukao.einkbro)]**</sup>
 * [**FFUpdater**](https://notabug.org/Tobiwan/ffupdater) <sup>**[[F-Droid](https://f-droid.org/app/de.marmaro.krt.ffupdater)]**</sup>
@@ -371,7 +371,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Jellyfin**](https://github.com/jellyfin/jellyfin-android) <sup>**[[F-Droid](https://f-droid.org/app/org.jellyfin.mobile)]**</sup>
 * [**LibreTube**](https://github.com/libre-tube/LibreTube) <sup>**[[F-Droid](https://f-droid.org/app/com.github.libretube)]**</sup>
 * [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) <sup>**[[F-Droid](https://f-droid.org/app/org.schabi.newpipe)]**</sup>
-   * [**AnimePipe**](https://codeberg.org/NullPointerException/AnimePipe) <sup>**[[F-Droid](https://www.f-droid.org/app/InfinityLoop1309.NewPipeEnhanced)]**</sup>
+    * [**AnimePipe**](https://codeberg.org/NullPointerException/AnimePipe) <sup>**[[F-Droid](https://www.f-droid.org/app/InfinityLoop1309.NewPipeEnhanced)]**</sup>
     * [**NewPipe x SponsorBlock x Return YouTube Dislike**](https://github.com/polymorphicshade/NewPipe)
 * [**SkyTube**](https://github.com/ram-on/SkyTube) <sup>**[[F-Droid](https://f-droid.org/app/free.rm.skytube.oss)]**</sup>
 * [**Twire**](https://github.com/twireapp/Twire) <sup>**[[F-Droid](https://f-droid.org/app/com.perflyst.twire)]**</sup>
