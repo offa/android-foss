@@ -637,7 +637,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Converter NOW**](https://github.com/ferraridamiano/ConverterNOW) <sup>**[[F-Droid](https://f-droid.org/app/com.ferrarid.converterpro)]**</sup>
 * [**unitto**](https://github.com/sadellie/unitto) <sup>**[[F-Droid](https://f-droid.org/app/com.sadellie.unitto)]**</sup>
 * [**OCR**](https://github.com/SubhamTyagi/android-ocr) <sup>**[[F-Droid](https://www.f-droid.org/app/io.github.subhamtyagi.ocr)]**</sup>
-* [**Trail Sense**](https://github.com/kylecorry31/Trail-Sense) <sup>**[[F-Droid](https://www.f-droid.org/app/com.kylecorry.trail_sense)]**</sup>
 * [**Amaze Utilities**](https://github.com/TeamAmaze/AmazeFileUtilities)
 
 ### • Video Player
