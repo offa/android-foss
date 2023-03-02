@@ -153,7 +153,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Calculator
 
 * [**Simple Calculator**](https://github.com/SimpleMobileTools/Simple-Calculator) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.calculator)]**</sup>
-* [**Calculator++**](https://github.com/Bubu/android-calculatorpp) <sup>**[[F-Droid](https://f-droid.org/app/org.solovyev.android.calculator)]**</sup>
 * [**OpenCalc**](https://github.com/Darkempire78/OpenCalc) <sup>**[[F-Droid](https://f-droid.org/app/com.darkempire78.opencalculator)]**</sup>
 * [**ArityCalc**](https://github.com/woheller69/Arity) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.arity)]**</sup>
 * [**yetCalc**](https://github.com/Yet-Zio/yetCalc) <sup>**[[F-Droid](https://f-droid.org/app/yetzio.yetcalc)]**</sup>
@@ -637,6 +636,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**OONI Probe**](https://github.com/ooni/probe-android) <sup>**[[F-Droid](https://www.f-droid.org/app/org.openobservatory.ooniprobe)]**</sup>
 * [**Converter NOW**](https://github.com/ferraridamiano/ConverterNOW) <sup>**[[F-Droid](https://f-droid.org/app/com.ferrarid.converterpro)]**</sup>
 * [**unitto**](https://github.com/sadellie/unitto) <sup>**[[F-Droid](https://f-droid.org/app/com.sadellie.unitto)]**</sup>
+* [**OCR**](https://github.com/SubhamTyagi/android-ocr) <sup>**[[F-Droid](https://www.f-droid.org/app/io.github.subhamtyagi.ocr)]**</sup>
 * [**Trail Sense**](https://github.com/kylecorry31/Trail-Sense) <sup>**[[F-Droid](https://www.f-droid.org/app/com.kylecorry.trail_sense)]**</sup>
 * [**Amaze Utilities**](https://github.com/TeamAmaze/AmazeFileUtilities)
 
