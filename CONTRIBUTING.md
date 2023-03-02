@@ -13,6 +13,8 @@ Each listed software has to meet following criteria:
 
 F-Droid provides good [guidance](https://f-droid.org/docs/Anti-Features/) on *Anti-Features*.
 
-If the packages is available on [**F-Droid**](https://f-droid.org/) it can be linked using the `https://f-droid.org/app/<APP>` URL. If not yet, it's a good idea to promote this to the projects developer.
+If the packages is available on [**F-Droid**](https://f-droid.org/) it can be linked using the `https://f-droid.org/app/<APP>` URL. If not yet, it's a good idea to promote F-Droid submission to the projects developer.
 
 Please do not submit third party F-Droid repositories.
+
+Entries are sorted alphabetically.
