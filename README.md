@@ -468,7 +468,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Notes
 
-* [**Joplin**](https://github.com/laurent22/joplin)
+* [**Joplin**](https://github.com/laurent22/joplin) <sup>**[[F-Droid](https://f-droid.org/app/net.cozic.joplin)]**</sup>
 * [**Linwood Butterfly**](https://github.com/LinwoodCloud/butterfly) <sup>**[[F-Droid](https://f-droid.org/app/dev.linwood.butterfly.nightly)]**</sup>
 * [**Markor**](https://github.com/gsantner/markor) <sup>**[[F-Droid](https://f-droid.org/app/net.gsantner.markor)]**</sup>
 * [**Material Notes**](https://github.com/BijoySingh/Material-Notes-Android-App) <sup>**[[F-Droid](https://f-droid.org/app/com.bijoysingh.quicknote)]**</sup>
