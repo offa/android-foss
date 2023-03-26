@@ -767,7 +767,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ## – Rooting and Recovery –
 
-* [**Magisk**](https://github.com/topjohnwu/Magisk)
+* [**Magisk**](https://github.com/topjohnwu/Magisk) <sup>**[[F-Droid](https://f-droid.org/app/com.topjohnwu.magisk)]**</sup>
 * [**TWRP**](https://twrp.me)
 
 ------------------------
