@@ -456,7 +456,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Musify**](https://github.com/gokadzev/Musify)
 * [**Odeon**](https://github.com/thibseisel/android-odeon) <sup>**[[F-Droid](https://f-droid.org/app/fr.nihilus.music)]**</sup>
 * [**Odyssey**](https://github.com/gateship-one/odyssey) <sup>**[[F-Droid](https://f-droid.org/app/org.gateshipone.odyssey)]**</sup>
-* [**Phonograph Plus**](https://github.com/chr56/Phonograph_Plus)
+* [**Phonograph Plus**](https://github.com/chr56/Phonograph_Plus) <sup>**[[F-Droid](https://f-droid.org/app/player.phonograph.plus)]**</sup>
 * [**raag**](https://github.com/raag-music/raag) <sup>**[[F-Droid](https://f-droid.org/app/in.amfoss.raag)]**</sup>
 * [**Simple Music Player**](https://github.com/SimpleMobileTools/Simple-Music-Player) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.musicplayer)]**</sup>
 * [**SongTube**](https://github.com/SongTube/SongTube-App)
