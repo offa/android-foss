@@ -362,8 +362,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**GMaps WV**](https://gitlab.com/divested-mobile/maps) <sup>**[[F-Droid](https://www.f-droid.org/app/us.spotco.maps)]**</sup>
 * [**Organic Maps**](https://github.com/organicmaps/organicmaps) <sup>**[[F-Droid](https://f-droid.org/app/app.organicmaps)]**</sup>
 * [**OsmAnd~**](http://osmand.net/) <sup>**[[F-Droid](https://f-droid.org/app/net.osmand.plus)]**</sup>
-    * [**Contour Lines and Hillshade**](http://osmand.net/features?id=contour-lines-plugin) <sup>**[[F-Droid](https://f-droid.org/app/net.osmand.srtmPlugin.paid)]**</sup>
-    * [**Parking Spot**](http://osmand.net/features?id=parking-plugin) <sup>**[[F-Droid](https://f-droid.org/app/net.osmand.parkingPlugin)]**</sup>
 * [**Private Location**](https://github.com/wesaphzt/privatelocation) <sup>**[[F-Droid](https://f-droid.org/app/com.wesaphzt.privatelocation)]**</sup>
 * [**Trail Sense**](https://github.com/kylecorry31/Trail-Sense) <sup>**[[F-Droid](https://f-droid.org/app/com.kylecorry.trail_sense)]**</sup>
 * [**Transportr**](https://github.com/grote/transportr) <sup>**[[F-Droid](https://f-droid.org/app/de.grobox.liberario)]**</sup>
@@ -456,7 +454,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Musify**](https://github.com/gokadzev/Musify)
 * [**Odeon**](https://github.com/thibseisel/android-odeon) <sup>**[[F-Droid](https://f-droid.org/app/fr.nihilus.music)]**</sup>
 * [**Odyssey**](https://github.com/gateship-one/odyssey) <sup>**[[F-Droid](https://f-droid.org/app/org.gateshipone.odyssey)]**</sup>
-* [**Phonograph Plus**](https://github.com/chr56/Phonograph_Plus)
+* [**Phonograph Plus**](https://github.com/chr56/Phonograph_Plus) <sup>**[[F-Droid](https://f-droid.org/app/player.phonograph.plus)]**</sup>
 * [**raag**](https://github.com/raag-music/raag) <sup>**[[F-Droid](https://f-droid.org/app/in.amfoss.raag)]**</sup>
 * [**Simple Music Player**](https://github.com/SimpleMobileTools/Simple-Music-Player) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.musicplayer)]**</sup>
 * [**SongTube**](https://github.com/SongTube/SongTube-App)
