@@ -532,7 +532,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Atomic - Periodic Table**](https://github.com/JLindemann42/Atomic-Periodic-Table.Android)
 * [**Brainf**](https://github.com/fredhappyface/android.brainf) <sup>**[[F-Droid](https://f-droid.org/app/com.fredhappyface.brainf)]**</sup>
 * [**ChemistryLab**](https://gitlab.com/asdoi/ChemistryLab)
-* [**freeCodeCamp**](https://github.com/freeCodeCamp/mobile)
 * [**phyphox**](https://github.com/phyphox/phyphox-android) <sup>**[[F-Droid](https://f-droid.org/app/de.rwth_aachen.phyphox)]**</sup>
 * [**Wikipedia**](https://github.com/wikimedia/apps-android-wikipedia) <sup>**[[F-Droid](https://f-droid.org/app/org.wikipedia)]**</sup>
 
