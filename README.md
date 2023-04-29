@@ -201,12 +201,14 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Contacts
 
-* [**Connect You**](https://github.com/Bnyro/ConnectYou)
+* [**Connect You**](https://github.com/Bnyro/ConnectYou) <sup>**[[IzzyDroid](https://apt.izzysoft.de/frdoid/index/apk/com.bnyro.contacts)]**</sup>
+* [**OpenContacts**](https://gitlab.com/sultanahamer/OpenContacts) <sup>**[[F-Droid](https://f-droid.org/en/packages/opencontacts.open.com.opencontacts)]**</sup>
 * [**Simple Contacts**](https://github.com/SimpleMobileTools/Simple-Contacts) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.contacts.pro)]**</sup>
 
 ### • Dialer
 
 * [**Koler**](https://github.com/Chooloo/koler) <sup>**[[F-Droid](https://f-droid.org/app/com.chooloo.www.koler)]**</sup>
+* [**OpenContacts**](https://gitlab.com/sultanahamer/OpenContacts) <sup>**[[F-Droid](https://f-droid.org/en/packages/opencontacts.open.com.opencontacts)]**</sup>
 * [**Simple Dialer**](https://github.com/SimpleMobileTools/Simple-Dialer) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.dialer)]**</sup>
 
 ### • Dictionary
