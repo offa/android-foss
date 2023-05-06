@@ -60,6 +60,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Text-to-Speech](#-text-to-speech)
     * [ToDo Lists](#-todo-lists)
     * [Translation](#-translation)
+    * [URL Manipulation](#-url-manipulation)
     * [Utilities](#-utilities)
     * [Video Player](#-video-player)
     * [VPN](#-vpn)
@@ -425,8 +426,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Simple Time Tracker**](https://github.com/Razeeman/Android-SimpleTimeTracker) <sup>**[[F-Droid](https://f-droid.org/app/com.razeeman.util.simpletimetracker)]**</sup>
 * [**Simple Voice Recorder**](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.voicerecorder)]**</sup>
 * [**Sobriety**](https://github.com/KiARC/Sobriety) <sup>**[[F-Droid](https://f-droid.org/app/com.katiearose.sobriety)]**</sup>
-* [**UntrackMe**](https://framagit.org/tom79/nitterizeme) <sup>**[[F-Droid](https://f-droid.org/app/app.fedilab.nitterizeme)]**</sup>
-* [**Url checker**](https://github.com/TrianguloY/UrlChecker) <sup>**[[F-Droid](https://www.f-droid.org/app/com.trianguloy.urlchecker)]**</sup>
 * [**Vigilante**](https://github.com/FunkyMuse/Vigilante) <sup>**[[F-Droid](https://f-droid.org/app/com.crazylegend.vigilante)]**</sup>
 * [**WiFi Walkie Talkie**](https://github.com/js-labs/WalkieTalkie) <sup>**[[F-Droid](https://f-droid.org/app/org.jsl.wfwt)]**</sup>
 * [**Work Tracker**](https://github.com/parmstrong842/WorkTracker)
@@ -625,6 +624,14 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**LibreTranslator**](https://codeberg.org/BeoCode/LibreTranslator) <sup>**[[F-Droid](https://www.f-droid.org/app/de.beowulf.libretranslater)]**</sup>
 * [**SimplyTranslate Mobile**](https://github.com/ManeraKai/simplytranslate_mobile) <sup>**[[F-Droid](https://www.f-droid.org/app/com.simplytranslate_mobile)]**</sup>
 * [**The Translator**](https://github.com/sunilpaulmathew/Translator) <sup>**[[F-Droid](https://www.f-droid.org/app/com.sunilpaulmathew.translator)]**</sup>
+
+### • URL Manipulation
+
+* [**Léon**](https://github.com/svenjacobs/leon) <sup>**[[F-Droid](https://www.f-droid.org/app/com.svenjacobs.app.leon)]**</sup>
+* [**LinkSheet**](https://github.com/1fexd/LinkSheet)
+* [**Tarnhelm**](https://github.com/lz233/Tarnhelm) <sup>**[[F-Droid](https://www.f-droid.org/app/cn.ac.lz233.tarnhelm)]**</sup>
+* [**UntrackMe**](https://framagit.org/tom79/nitterizeme) <sup>**[[F-Droid](https://f-droid.org/app/app.fedilab.nitterizeme)]**</sup>
+* [**URLCheck**](https://github.com/TrianguloY/UrlChecker) <sup>**[[F-Droid](https://www.f-droid.org/app/com.trianguloy.urlchecker)]**</sup>
 
 ### • Utilities
 
