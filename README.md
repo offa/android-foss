@@ -676,6 +676,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**WireGuard**](https://git.zx2c4.com/wireguard-android) <sup>**[[F-Droid](https://f-droid.org/app/com.wireguard.android)]**</sup>
 
 ### • Wallpapers
+
 * [**Dark Mode Live Wallpaper**](https://github.com/cvzi/darkmodewallpaper) <sup>**[[F-Droid](https://f-droid.org/app/com.github.cvzi.darkmodewallpaper)]**</sup>
 * [**Doodle**](https://github.com/patzly/doodle-android) <sup>**[[F-Droid](https://f-droid.org/app/xyz.zedler.patrick.doodle)]**</sup>
 * [**GIF Live Wallpaper**](https://github.com/redwarp/gif-wallpaper) <sup>**[[F-Droid](https://f-droid.org/app/net.redwarp.gifwallpaper)]**</sup>
