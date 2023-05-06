@@ -39,7 +39,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Image Viewer &amp; Gallery](#-image-viewer--gallery)
     * [Keyboard](#-keyboard)
     * [Launcher &amp; Desktop](#-launcher--desktop)
-    * [Live Wallpapers](#-live-wallpapers)
     * [Maps &amp; Navigation](#-maps--navigation)
     * [Media Frontends](#-media-frontends)
     * [Messaging](#-messaging)
@@ -65,6 +64,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Utilities](#-utilities)
     * [Video Player](#-video-player)
     * [VPN](#-vpn)
+    * [Wallpapers](#-wallpapers)
     * [Weather](#-weather)
 * [Games](#-games-)
     * [Board](#-board)
@@ -359,13 +359,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**PaperLaunch**](https://github.com/devmil/PaperLaunch) <sup>**[[F-Droid](https://f-droid.org/app/de.devmil.paperlaunch)]**</sup>
 * [**Rootless Pixel Launcher**](https://github.com/amirzaidi/Launcher3) <sup>**[[F-Droid](https://f-droid.org/app/amirz.rootless.nexuslauncher)]**</sup>
 * [**Simple App Launcher**](https://github.com/SimpleMobileTools/Simple-App-Launcher) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.applauncher)]**</sup>
-
-### • Live Wallpapers
-
-* [**Dark Mode Live Wallpaper**](https://github.com/cvzi/darkmodewallpaper) <sup>**[[F-Droid](https://f-droid.org/app/com.github.cvzi.darkmodewallpaper)]**</sup>
-* [**Doodle**](https://github.com/patzly/doodle-android) <sup>**[[F-Droid](https://f-droid.org/app/xyz.zedler.patrick.doodle)]**</sup>
-* [**GIF Live Wallpaper**](https://github.com/redwarp/gif-wallpaper) <sup>**[[F-Droid](https://f-droid.org/app/net.redwarp.gifwallpaper)]**</sup>
-* [**Palette-Cycle**](https://github.com/ManApart/palette-cycle) <sup>**[[F-Droid](https://www.f-droid.org/app/rak.pixellwp)]**</sup>
 
 ### • Maps & Navigation
 
@@ -680,6 +673,14 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Riseup VPN**](https://0xacab.org/leap/bitmask_android) <sup>**[[F-Droid](https://f-droid.org/app/se.leap.riseupvpn)]**</sup>
 * [**Tailscale**](https://github.com/tailscale/tailscale-android) <sup>**[[F-Droid](https://f-droid.org/app/com.tailscale.ipn)]**</sup>
 * [**WireGuard**](https://git.zx2c4.com/wireguard-android) <sup>**[[F-Droid](https://f-droid.org/app/com.wireguard.android)]**</sup>
+
+### • Wallpapers
+* [**Dark Mode Live Wallpaper**](https://github.com/cvzi/darkmodewallpaper) <sup>**[[F-Droid](https://f-droid.org/app/com.github.cvzi.darkmodewallpaper)]**</sup>
+* [**Doodle**](https://github.com/patzly/doodle-android) <sup>**[[F-Droid](https://f-droid.org/app/xyz.zedler.patrick.doodle)]**</sup>
+* [**GIF Live Wallpaper**](https://github.com/redwarp/gif-wallpaper) <sup>**[[F-Droid](https://f-droid.org/app/net.redwarp.gifwallpaper)]**</sup>
+* [**Palette-Cycle**](https://github.com/ManApart/palette-cycle) <sup>**[[F-Droid](https://www.f-droid.org/app/rak.pixellwp)]**</sup>
+* [**Wall You**](https://github.com/Bnyro/WallYou)
+* [**Zade's Wallpaper**](https://github.com/zadeviggers/wallpaper) <sup>**[[F-Droid](https://www.f-droid.org/app/net.viggers.zade.wallpaper)]**</sup>
 
 ### • Weather
 
