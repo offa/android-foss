@@ -190,6 +190,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Fritter**](https://github.com/jonjomckay/fritter) <sup>**[[F-Droid](https://f-droid.org/app/com.jonjomckay.fritter)]**</sup>
 * [**Husky**](https://codeberg.org/husky/husky) <sup>**[[F-Droid](https://www.f-droid.org/app/su.xash.husky)]**</sup>
 * [**Infinity for Reddit**](https://github.com/Docile-Alligator/Infinity-For-Reddit) <sup>**[[F-Droid](https://f-droid.org/app/ml.docilealligator.infinityforreddit)]**</sup>
+* [**Jerboa**](https://github.com/dessalines/jerboa) <sup>**[[F-Droid](https://www.f-droid.org/app/com.jerboa)]**</sup>
 * [**monocles social**](https://codeberg.org/Arne/monocles_social) <sup>**[[F-Droid](https://www.f-droid.org/app/de.monocles.social)]**</sup>
 * [**OctoDroid**](https://github.com/slapperwan/gh4a) <sup>**[[F-Droid](https://www.f-droid.org/app/com.gh4a)]**</sup>
 * [**Odysee**](https://github.com/OdyseeTeam/odysee-android-floss) <sup>**[[F-Droid](https://www.f-droid.org/app/com.odysee.floss)]**</sup>
@@ -386,6 +387,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**blabber.im**](https://codeberg.org/kriztan/blabber.im) <sup>**[[F-Droid](https://f-droid.org/app/de.pixart.messenger)]**</sup>
 * [**Briar**](https://code.briarproject.org/briar/briar) <sup>**[[F-Droid](https://f-droid.org/app/org.briarproject.briar.android)]**</sup>
+* [**Cheogram**](https://git.singpolyma.net/cheogram-android) <sup>**[[F-Droid](https://www.f-droid.org/app/com.cheogram.android)]**</sup>
 * [**Conversations**](https://github.com/siacs/Conversations) <sup>**[[F-Droid](https://f-droid.org/app/eu.siacs.conversations)]**</sup>
 * [**Element**](https://github.com/vector-im/element-android) <sup>**[[F-Droid](https://f-droid.org/app/im.vector.app)]**</sup>
 * [**Jami**](https://git.jami.net/savoirfairelinux/jami-client-android) <sup>**[[F-Droid](https://f-droid.org/app/cx.ring)]**</sup>
@@ -394,6 +396,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Manyverse**](https://gitlab.com/staltz/manyverse) <sup>**[[F-Droid](https://f-droid.org/app/se.manyver)]**</sup>
 * [**Mastodon**](https://github.com/mastodon/mastodon-android) <sup>**[[F-Droid](https://f-droid.org/app/org.joinmastodon.android)]**</sup>
     * [**Megalodon**](https://github.com/sk22/megalodon)
+    * [**Moshidon**](https://github.com/LucasGGamerM/moshidon)
 * [**Meshenger**](https://github.com/meshenger-app/meshenger-android) <sup>**[[F-Droid](https://f-droid.org/app/d.d.meshenger)]**</sup>
 * [**Mumla**](https://gitlab.com/quite/mumla) <sup>**[[F-Droid](https://www.f-droid.org/app/se.lublin.mumla)]**</sup>
 * [**Ring**](https://ring.cx/) <sup>**[[F-Droid](https://f-droid.org/app/cx.ring)]**</sup>
