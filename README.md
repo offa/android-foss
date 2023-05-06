@@ -203,6 +203,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Connect You**](https://github.com/Bnyro/ConnectYou)
 * [**OpenContacts**](https://gitlab.com/sultanahamer/OpenContacts) <sup>**[[F-Droid](https://f-droid.org/app/opencontacts.open.com.opencontacts)]**</sup>
 * [**Simple Contacts**](https://github.com/SimpleMobileTools/Simple-Contacts) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.contacts.pro)]**</sup>
+    * [**Simple Contacts Pro SE**](https://github.com/stephanritscher/Simple-Contacts) <sup>**[[F-Droid](https://www.f-droid.org/app/de.ritscher.simplemobiletools.contacts.pro)]**</sup>
 
 ### • Dialer
 
