@@ -22,11 +22,13 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Community Clients](#-community-clients)
     * [Contacts](#-contacts)
     * [Dialer](#-dialer)
-    * [Dictionary](#-dictionary)
+    * [Dictionaries](#-dictionaries)
     * [Document &amp; PDF Viewer](#-document--pdf-viewer)
     * [Document Scanner](#-document-scanner)
     * [Downloader &amp; Manager](#-downloader--manager)
     * [Drawing](#-drawing)
+    * [Email Aliases](#-email-aliases)
+    * [Email Clients](#-email-clients)
     * [Emulator](#-emulator)
     * [File Manager](#-file-manager)
     * [File Sharing](#-file-sharing)
@@ -38,7 +40,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Keyboard](#-keyboard)
     * [Launcher &amp; Desktop](#-launcher--desktop)
     * [Live Wallpapers](#-live-wallpapers)
-    * [Mail](#-mail)
     * [Maps &amp; Navigation](#-maps--navigation)
     * [Media Frontends](#-media-frontends)
     * [Messaging](#-messaging)
@@ -213,7 +214,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Koler**](https://github.com/Chooloo/koler) <sup>**[[F-Droid](https://f-droid.org/app/com.chooloo.www.koler)]**</sup>
 * [**Simple Dialer**](https://github.com/SimpleMobileTools/Simple-Dialer) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.dialer)]**</sup>
 
-### • Dictionary
+### • Dictionaries
 
 * [**Aard 2**](https://github.com/itkach/aard2-android) <sup>**[[F-Droid](https://f-droid.org/app/itkach.aard2)]**</sup>
 * [**Collins Dictionary**](https://github.com/Konyaco/CollinsDictionary) <sup>**[[F-Droid](https://www.f-droid.org/app/me.konyaco.collinsdictionary)]**</sup>
@@ -250,6 +251,18 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**PxerStudio**](https://github.com/BennyKok/PxerStudio) <sup>**[[F-Droid](https://www.f-droid.org/app/com.benny.pxerstudio)]**</sup>
 * [**Simple Draw**](https://github.com/SimpleMobileTools/Simple-Draw) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.draw.pro)]**</sup>
+
+### • Email Aliases
+
+* [**AnonAddy Android**](https://gitlab.com/Stjin/anonaddy-android) <sup>**[[F-Droid](https://www.f-droid.org/app/host.stjin.anonaddy)]**</sup>
+* [**SimpleLogin**](https://github.com/simple-login/Simple-Login-Android) <sup>**[[F-Droid](https://www.f-droid.org/app/io.simplelogin.android.fdroid)]**</sup>
+
+### • Email Clients
+
+* [**FairEmail**](https://github.com/M66B/FairEmail) <sup>**[[F-Droid](https://f-droid.org/app/eu.faircode.email)]**</sup>
+* [**K-9 Mail**](https://github.com/thundernest/k-9) <sup>**[[F-Droid](https://f-droid.org/app/com.fsck.k9)]**</sup>
+    * [**monocles mail**](https://codeberg.org/Arne/monocles_mail) <sup>**[[F-Droid](https://www.f-droid.org/app/de.monocles.mail)]**</sup>
+* [**Tutanota**](https://github.com/tutao/tutanota) <sup>**[[F-Droid](https://f-droid.org/app/de.tutao.tutanota)]**</sup>
 
 ### • Emulator
 
@@ -354,13 +367,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Doodle**](https://github.com/patzly/doodle-android) <sup>**[[F-Droid](https://f-droid.org/app/xyz.zedler.patrick.doodle)]**</sup>
 * [**GIF Live Wallpaper**](https://github.com/redwarp/gif-wallpaper) <sup>**[[F-Droid](https://f-droid.org/app/net.redwarp.gifwallpaper)]**</sup>
 * [**Palette-Cycle**](https://github.com/ManApart/palette-cycle) <sup>**[[F-Droid](https://www.f-droid.org/app/rak.pixellwp)]**</sup>
-
-### • Mail
-
-* [**FairEmail**](https://github.com/M66B/FairEmail) <sup>**[[F-Droid](https://f-droid.org/app/eu.faircode.email)]**</sup>
-* [**K-9 Mail**](https://github.com/thundernest/k-9) <sup>**[[F-Droid](https://f-droid.org/app/com.fsck.k9)]**</sup>
-    * [**monocles mail**](https://codeberg.org/Arne/monocles_mail) <sup>**[[F-Droid](https://www.f-droid.org/app/de.monocles.mail)]**</sup>
-* [**Tutanota**](https://github.com/tutao/tutanota) <sup>**[[F-Droid](https://f-droid.org/app/de.tutao.tutanota)]**</sup>
 
 ### • Maps & Navigation
 
