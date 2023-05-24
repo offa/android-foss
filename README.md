@@ -351,6 +351,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Emerald Launcher**](https://github.com/HenriDellal/emerald) <sup>**[[F-Droid](https://f-droid.org/app/ru.henridellal.emerald)]**</sup>
 * [**Hex Launcher**](https://github.com/MrMannWood/launcher) <sup>**[[F-Droid](https://www.f-droid.org/app/com.mrmannwood.hexlauncher)]**</sup>
 * [**KISS**](http://kisslauncher.com/) <sup>**[[F-Droid](https://f-droid.org/app/fr.neamar.kiss)]**</sup>
+* [**Kvaesitso**](https://kvaesitso.mm20.de/) <sup>**[[F-Droid](https://f-droid.org/app/de.mm20.launcher2.release)]**</sup>
 * [**LaunchTime**](https://github.com/quaap/LaunchTime) <sup>**[[F-Droid](https://f-droid.org/app/com.quaap.launchtime)]**</sup>
 * [**Lawnchair**](https://github.com/LawnchairLauncher/Lawnchair) <sup>**[[F-Droid](https://f-droid.org/app/ch.deletescape.lawnchair.plah)]**</sup>
 * [**Lunar Launcher**](https://github.com/iamrasel/lunar-launcher) <sup>**[[F-Droid](https://f-droid.org/app/rasel.lunar.launcher)]**</sup>
@@ -649,6 +650,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Key Mapper**](https://github.com/keymapperorg/KeyMapper) <sup>**[[F-Droid](https://www.f-droid.org/app/io.github.sds100.keymapper)]**</sup>
 * [**OCR**](https://github.com/SubhamTyagi/android-ocr) <sup>**[[F-Droid](https://www.f-droid.org/app/io.github.subhamtyagi.ocr)]**</sup>
 * [**OONI Probe**](https://github.com/ooni/probe-android) <sup>**[[F-Droid](https://www.f-droid.org/app/org.openobservatory.ooniprobe)]**</sup>
+* [**Orgro**](https://orgro.org/) <sup>**[[F-Droid](https://f-droid.org/app/com.madlonkay.orgro)]**</sup>
 * [**PDF Converter**](https://github.com/Swati4star/Images-to-PDF) <sup>**[[F-Droid](https://f-droid.org/app/swati4star.createpdf)]**</sup>
 * [**SMS Import / Export**](https://github.com/tmo1/sms-ie) <sup>**[[F-Droid](https://f-droid.org/app/com.github.tmo1.sms_ie)]**</sup>
 * [**Sensorkraken**](https://gitlab.com/sensorkraken/android-app) <sup>**[[F-Droid](https://f-droid.org/app/org.sensorkraken)]**</sup>
