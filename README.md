@@ -765,6 +765,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Open Sudoku**](https://github.com/ogarcia/opensudoku) <sup>**[[F-Droid](https://f-droid.org/app/org.moire.opensudoku)]**</sup>
 * [**Simon Tatham's Puzzles**](https://github.com/chrisboyle/sgtpuzzles) <sup>**[[F-Droid](https://www.f-droid.org/app/name.boyle.chris.sgtpuzzles)]**</sup>
 * [**Simple Sudoku Game**](https://git.harrault.fr/android/org.benoitharrault.sudoku) <sup>**[[F-Droid](https://f-droid.org/app/org.benoitharrault.sudoku)]**</sup>
+* [**Sleuth**](https://codeberg.org/BWPanda/sleuth)
 * [**Sudoku**](https://github.com/TheSunCat/Sudoku) <sup>**[[F-Droid](https://f-droid.org/app/com.thesuncat.sudoku)]**</sup>
 
 ### • Racing
