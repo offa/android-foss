@@ -813,6 +813,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**APKLab**](https://github.com/APKLab/APKLab)
 * [**Apktool**](https://github.com/iBotPeaches/Apktool)
 * [**APK Editor Studio**](https://github.com/kefir500/apk-editor-studio)
+* [**Obtainium**](https://github.com/ImranR98/Obtainium)
 * [**Universal Android Debloater GUI**](https://github.com/0x192/universal-android-debloater)
 
 ------------------------
