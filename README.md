@@ -602,6 +602,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Inure App Manager (Trial)**](https://github.com/Hamza417/Inure) <sup>**[[F-Droid](https://f-droid.org/app/app.simple.inure)]**</sup>
 * [**LibChecker**](https://github.com/zhaobozhen/LibChecker) <sup>**[[F-Droid](https://f-droid.org/app/com.absinthe.libchecker)]**</sup>
 * [**LogFox**](https://github.com/F0x1d/LogFox)
+* [**LSPosed**](https://github.com/LSPosed/LSPosed)
 * [**PCAPdroid**](https://github.com/emanuele-f/PCAPdroid) <sup>**[[F-Droid](https://f-droid.org/app/com.emanuelef.remote_capture)]**</sup>
 * [**Permission Pilot**](https://github.com/d4rken-org/permission-pilot)
 * [**SaverTuner**](https://codeberg.org/s1m/savertuner) <sup>**[[F-Droid](https://f-droid.org/packages/s1m.savertuner)]**</sup>
