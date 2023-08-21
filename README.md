@@ -672,6 +672,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**PDF Converter**](https://github.com/Swati4star/Images-to-PDF) <sup>**[[F-Droid](https://f-droid.org/app/swati4star.createpdf)]**</sup>
 * [**SMS Import / Export**](https://github.com/tmo1/sms-ie) <sup>**[[F-Droid](https://f-droid.org/app/com.github.tmo1.sms_ie)]**</sup>
 * [**Sensorkraken**](https://gitlab.com/sensorkraken/android-app) <sup>**[[F-Droid](https://f-droid.org/app/org.sensorkraken)]**</sup>
+* [**Telegram Monet**](https://github.com/mi-g-alex/Telegram-Monet)
 * [**unitto**](https://github.com/sadellie/unitto) <sup>**[[F-Droid](https://f-droid.org/app/com.sadellie.unitto)]**</sup>
 * [**Volta**](https://github.com/x13a/Volta) <sup>**[[F-Droid](https://www.f-droid.org/app/me.lucky.volta)]**</sup>
 
