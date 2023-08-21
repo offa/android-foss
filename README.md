@@ -518,6 +518,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Bitwarden**](https://github.com/bitwarden/mobile)
 * [**FreeOTP+**](https://github.com/helloworld1/FreeOTPPlus) <sup>**[[F-Droid](https://f-droid.org/app/org.liberty.android.freeotpplus)]**</sup>
 * [**KeePassDX**](https://github.com/Kunzisoft/KeePassDX) <sup>**[[F-Droid](https://f-droid.org/app/com.kunzisoft.keepass.libre)]**</sup>
+* [**Keepass2Android**](https://github.com/PhilippC/keepass2android)
 * [**Keyoxide**](https://codeberg.org/keyoxide/keyoxide-flutter) <sup>**[[F-Droid](https://f-droid.org/app/org.keyoxide.keyoxide)]**</sup>
 * [**Mauth**](https://github.com/X1nto/Mauth) <sup>**[[F-Droid](https://f-droid.org/app/com.xinto.mauth)]**</sup>
 * [**OpenKeychain**](https://github.com/open-keychain/open-keychain) <sup>**[[F-Droid](https://www.f-droid.org/app/org.sufficientlysecure.keychain)]**</sup>
