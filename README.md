@@ -402,7 +402,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [**Moshidon**](https://github.com/LucasGGamerM/moshidon)
 * [**Meshenger**](https://github.com/meshenger-app/meshenger-android) <sup>**[[F-Droid](https://f-droid.org/app/d.d.meshenger)]**</sup>
 * [**Mumla**](https://gitlab.com/quite/mumla) <sup>**[[F-Droid](https://www.f-droid.org/app/se.lublin.mumla)]**</sup>
-* [**Ring**](https://ring.cx/) <sup>**[[F-Droid](https://f-droid.org/app/cx.ring)]**</sup>
 * [**Session F-Droid**](https://github.com/oxen-io/session-android) <sup>**[[F-Droid](https://www.f-droid.org/app/network.loki.messenger.fdroid)]**</sup>
 * [**Signal**](https://github.com/signalapp/Signal-Android)
     * [**Molly**](https://github.com/mollyim/mollyim-android)
