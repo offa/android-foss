@@ -724,6 +724,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Doodle**](https://github.com/patzly/doodle-android) <sup>**[[F-Droid](https://f-droid.org/app/xyz.zedler.patrick.doodle)]**</sup>
 * [**GIF Live Wallpaper**](https://github.com/redwarp/gif-wallpaper) <sup>**[[F-Droid](https://f-droid.org/app/net.redwarp.gifwallpaper)]**</sup>
 * [**Palette-Cycle**](https://github.com/ManApart/palette-cycle) <sup>**[[F-Droid](https://www.f-droid.org/app/rak.pixellwp)]**</sup>
+* [**WallFlow**](https://github.com/ammargitham/WallFlow) <sup>**[[F-Droid](https://www.f-droid.org/app/com.ammar.wallflow)]**</sup>
 * [**WallMan**](https://gitlab.com/colorata/wallman) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.colorata.wallman)]**</sup>
 * [**Wall You**](https://github.com/Bnyro/WallYou) <sup>**[[F-Droid](https://f-droid.org/app/com.bnyro.wallpaper)]**</sup>
 * [**Zade's Wallpaper**](https://github.com/zadeviggers/wallpaper) <sup>**[[F-Droid](https://www.f-droid.org/app/net.viggers.zade.wallpaper)]**</sup>
