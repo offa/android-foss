@@ -603,7 +603,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**LogFox**](https://github.com/F0x1d/LogFox) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.f0x1d.logfox)]**</sup>
 * [**PCAPdroid**](https://github.com/emanuele-f/PCAPdroid) <sup>**[[F-Droid](https://f-droid.org/app/com.emanuelef.remote_capture)]**</sup>
 * [**Permission Pilot**](https://github.com/d4rken-org/permission-pilot)
-* [**SaverTuner**](https://codeberg.org/s1m/savertuner) <sup>**[[F-Droid](https://f-droid.org/packages/s1m.savertuner)]**</sup>
 * [**Scoop**](https://github.com/TacoTheDank/Scoop) <sup>**[[F-Droid](https://f-droid.org/app/taco.scoop)]**</sup>
 * [**Shelter**](https://cgit.typeblog.net/Shelter) <sup>**[[F-Droid](https://f-droid.org/app/net.typeblog.shelter)]**</sup>
 * [**SuperFreezZ**](https://gitlab.com/SuperFreezZ/SuperFreezZ) <sup>**[[F-Droid](https://f-droid.org/app/superfreeze.tool.android)]**</sup>
