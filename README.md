@@ -690,9 +690,11 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**IVPN**](https://github.com/ivpn/android-app) <sup>**[[F-Droid](https://f-droid.org/app/net.ivpn.client)]**</sup>
 * [**Mullvad**](https://github.com/mullvad/mullvadvpn-app) <sup>**[[F-Droid](https://f-droid.org/app/net.mullvad.mullvadvpn)]**</sup>
 * [**Mysterium VPN**](https://github.com/mysteriumnetwork/mysterium-vpn-mobile) <sup>**[[F-Droid](https://f-droid.org/app/network.mysterium.vpn)]**</sup>
+* [**NekoBox for Android**](https://github.com/MatsuriDayo/NekoBoxForAndroid)
 * [**ProtonVPN**](https://github.com/ProtonVPN/android-app) <sup>**[[F-Droid](https://f-droid.org/app/ch.protonvpn.android)]**</sup>
 * [**Riseup VPN**](https://0xacab.org/leap/bitmask_android) <sup>**[[F-Droid](https://f-droid.org/app/se.leap.riseupvpn)]**</sup>
 * [**Tailscale**](https://github.com/tailscale/tailscale-android) <sup>**[[F-Droid](https://f-droid.org/app/com.tailscale.ipn)]**</sup>
+* [**v2rayNG**](https://github.com/2dust/v2rayNG)
 * [**WireGuard**](https://git.zx2c4.com/wireguard-android) <sup>**[[F-Droid](https://f-droid.org/app/com.wireguard.android)]**</sup>
 
 ### • Wallpapers
