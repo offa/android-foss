@@ -694,7 +694,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**ProtonVPN**](https://github.com/ProtonVPN/android-app) <sup>**[[F-Droid](https://f-droid.org/app/ch.protonvpn.android)]**</sup>
 * [**Riseup VPN**](https://0xacab.org/leap/bitmask_android) <sup>**[[F-Droid](https://f-droid.org/app/se.leap.riseupvpn)]**</sup>
 * [**Tailscale**](https://github.com/tailscale/tailscale-android) <sup>**[[F-Droid](https://f-droid.org/app/com.tailscale.ipn)]**</sup>
-* [**v2rayNG**](https://github.com/2dust/v2rayNG)
 * [**WireGuard**](https://git.zx2c4.com/wireguard-android) <sup>**[[F-Droid](https://f-droid.org/app/com.wireguard.android)]**</sup>
 
 ### • Wallpapers
