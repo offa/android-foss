@@ -416,6 +416,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Telegram-FOSS**](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) <sup>**[[F-Droid](https://f-droid.org/app/org.telegram.messenger)]**</sup>
     * [**Forkgram**](https://github.com/Forkgram/TelegramAndroid) <sup>**[[F-Droid](https://f-droid.org/app/org.forkgram.messenger)]**</sup>
     * [**Nekogram X**](https://github.com/NekoX-Dev/NekoX) <sup>**[[F-Droid](https://f-droid.org/app/nekox.messenger)]**</sup>
+    * [**Telegram Monet**](https://github.com/mi-g-alex/Telegram-Monet)
 * [**Wire**](https://github.com/wireapp/wire-android) <sup>**[[F-Droid](https://f-droid.org/app/com.wire)]**</sup>
 
 ### • Miscellaneous
@@ -522,7 +523,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Bitwarden**](https://github.com/bitwarden/mobile)
 * [**FreeOTP+**](https://github.com/helloworld1/FreeOTPPlus) <sup>**[[F-Droid](https://f-droid.org/app/org.liberty.android.freeotpplus)]**</sup>
 * [**KeePassDX**](https://github.com/Kunzisoft/KeePassDX) <sup>**[[F-Droid](https://f-droid.org/app/com.kunzisoft.keepass.libre)]**</sup>
-* [**Keepass2Android**](https://github.com/PhilippC/keepass2android)
 * [**Keyoxide**](https://codeberg.org/keyoxide/keyoxide-flutter) <sup>**[[F-Droid](https://f-droid.org/app/org.keyoxide.keyoxide)]**</sup>
 * [**Mauth**](https://github.com/X1nto/Mauth) <sup>**[[F-Droid](https://f-droid.org/app/com.xinto.mauth)]**</sup>
 * [**OpenKeychain**](https://github.com/open-keychain/open-keychain) <sup>**[[F-Droid](https://www.f-droid.org/app/org.sufficientlysecure.keychain)]**</sup>
@@ -672,7 +672,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**PDF Converter**](https://github.com/Swati4star/Images-to-PDF) <sup>**[[F-Droid](https://f-droid.org/app/swati4star.createpdf)]**</sup>
 * [**SMS Import / Export**](https://github.com/tmo1/sms-ie) <sup>**[[F-Droid](https://f-droid.org/app/com.github.tmo1.sms_ie)]**</sup>
 * [**Sensorkraken**](https://gitlab.com/sensorkraken/android-app) <sup>**[[F-Droid](https://f-droid.org/app/org.sensorkraken)]**</sup>
-* [**Telegram Monet**](https://github.com/mi-g-alex/Telegram-Monet)
 * [**unitto**](https://github.com/sadellie/unitto) <sup>**[[F-Droid](https://f-droid.org/app/com.sadellie.unitto)]**</sup>
 * [**Volta**](https://github.com/x13a/Volta) <sup>**[[F-Droid](https://www.f-droid.org/app/me.lucky.volta)]**</sup>
 
