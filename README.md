@@ -185,6 +185,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Clock**](https://github.com/qw123wh/new-clock-fdroid) <sup>**[[F-Droid](https://f-droid.org/app/com.best.deskclock)]**</sup>
 * [**Simple Alarm Clock**](https://github.com/yuriykulikov/AlarmClock) <sup>**[[F-Droid](https://f-droid.org/app/com.better.alarm)]**</sup>
 * [**Simple Clock**](https://github.com/SimpleMobileTools/Simple-Clock) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.clock)]**</sup>
+* [**Smart EggTimer**](https://github.com/woheller69/eggtimer) <sup>**[[F-Droid](https://f-droid.org/packages/org.woheller69.eggtimer/)]**</sup>
 
 ### • Community Clients
 
@@ -371,6 +372,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Maps & Navigation
 
 * [**GMaps WV**](https://gitlab.com/divested-mobile/maps) <sup>**[[F-Droid](https://www.f-droid.org/app/us.spotco.maps)]**</sup>
+* [**μlogger**](https://github.com/bfabiszewski/ulogger-android) <sup>**[[F-Droid](https://f-droid.org/app/net.fabiszewski.ulogger)]**</sup>
 * [**OpenTopoMap Viewer**](https://github.com/Pygmalion69/OpenTopoMapViewer) <sup>**[[F-Droid](https://f-droid.org/app/org.nitri.opentopo)]**</sup>
 * [**Organic Maps**](https://github.com/organicmaps/organicmaps) <sup>**[[F-Droid](https://f-droid.org/app/app.organicmaps)]**</sup>
 * [**OsmAnd~**](http://osmand.net/) <sup>**[[F-Droid](https://f-droid.org/app/net.osmand.plus)]**</sup>
