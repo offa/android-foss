@@ -208,7 +208,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Contacts
 
-* [**Connect You**](https://github.com/Bnyro/ConnectYou)
+* [**Connect You**](https://github.com/you-apps/ConnectYou) <sup>**[[F-Droid](https://f-droid.org/app/com.bnyro.contacts)]**</sup>
 * [**OpenContacts**](https://gitlab.com/sultanahamer/OpenContacts) <sup>**[[F-Droid](https://f-droid.org/app/opencontacts.open.com.opencontacts)]**</sup>
 * [**Simple Contacts**](https://github.com/SimpleMobileTools/Simple-Contacts) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.contacts.pro)]**</sup>
     * [**Simple Contacts Pro SE**](https://github.com/stephanritscher/Simple-Contacts) <sup>**[[F-Droid](https://www.f-droid.org/app/de.ritscher.simplemobiletools.contacts.pro)]**</sup>
@@ -439,7 +439,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**PilferShush Jammer**](https://github.com/kaputnikGo/PilferShushJammer) <sup>**[[F-Droid](https://www.f-droid.org/app/cityfreqs.com.pilfershushjammer)]**</sup>
 * [**Privacy Indicator**](https://github.com/NitishGadangi/Privacy-Indicator-App) <sup>**[[F-Droid](https://f-droid.org/app/com.nitish.privacyindicator)]**</sup>
 * [**RustDesk**](https://github.com/rustdesk/rustdesk) <sup>**[[F-Droid](https://f-droid.org/app/com.carriez.flutter_hbb)]**</sup>
-* [**Record You**](https://github.com/Bnyro/RecordYou)
+* [**Record You**](https://github.com/you-apps/RecordYou)
 * [**Simple Time Tracker**](https://github.com/Razeeman/Android-SimpleTimeTracker) <sup>**[[F-Droid](https://f-droid.org/app/com.razeeman.util.simpletimetracker)]**</sup>
 * [**Simple Voice Recorder**](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.voicerecorder)]**</sup>
 * [**Sobriety**](https://github.com/KiARC/Sobriety) <sup>**[[F-Droid](https://f-droid.org/app/com.katiearose.sobriety)]**</sup>
@@ -645,7 +645,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**LibreTranslator**](https://codeberg.org/BeoCode/LibreTranslator) <sup>**[[F-Droid](https://www.f-droid.org/app/de.beowulf.libretranslater)]**</sup>
 * [**SimplyTranslate Mobile**](https://github.com/ManeraKai/simplytranslate_mobile) <sup>**[[F-Droid](https://www.f-droid.org/app/com.simplytranslate_mobile)]**</sup>
 * [**The Translator**](https://github.com/sunilpaulmathew/Translator) <sup>**[[F-Droid](https://www.f-droid.org/app/com.sunilpaulmathew.translator)]**</sup>
-* [**Translate You**](https://github.com/Bnyro/TranslateYou) <sup>**[[F-Droid](https://f-droid.org/app/com.bnyro.translate)]**</sub>
+* [**Translate You**](https://github.com/you-apps/TranslateYou) <sup>**[[F-Droid](https://f-droid.org/app/com.bnyro.translate)]**</sub>
 
 ### • URL Manipulation
 
@@ -705,7 +705,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Doodle**](https://github.com/patzly/doodle-android) <sup>**[[F-Droid](https://f-droid.org/app/xyz.zedler.patrick.doodle)]**</sup>
 * [**GIF Live Wallpaper**](https://github.com/redwarp/gif-wallpaper) <sup>**[[F-Droid](https://f-droid.org/app/net.redwarp.gifwallpaper)]**</sup>
 * [**Palette-Cycle**](https://github.com/ManApart/palette-cycle) <sup>**[[F-Droid](https://www.f-droid.org/app/rak.pixellwp)]**</sup>
-* [**Wall You**](https://github.com/Bnyro/WallYou)
+* [**Wall You**](https://github.com/you-apps/WallYou) <sup>**[[F-Droid](https://www.f-droid.org/app/com.bnyro.wallpaper)]**</sup>
 * [**Zade's Wallpaper**](https://github.com/zadeviggers/wallpaper) <sup>**[[F-Droid](https://www.f-droid.org/app/net.viggers.zade.wallpaper)]**</sup>
 
 ### • Weather
