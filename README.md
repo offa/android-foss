@@ -585,6 +585,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**DecSync CC**](https://github.com/39aldo39/DecSyncCC) <sup>**[[F-Droid](https://f-droid.org/app/org.decsync.cc)]**</sup>
 * [**EteSync**](https://github.com/etesync/android) <sup>**[[F-Droid](https://f-droid.org/app/com.etesync.syncadapter)]**</sup>
 * [**Nextcloud**](https://github.com/nextcloud/android) <sup>**[[F-Droid](https://f-droid.org/app/com.nextcloud.client)]**</sup>
+* [**Nextcloud News**](https://github.com/nextcloud/news-android) <sup>**[[F-Droid](https://f-droid.org/app/de.luhmer.owncloudnewsreader)]**</sup>
 * [**ownCloud**](https://github.com/owncloud/android) <sup>**[[F-Droid](https://f-droid.org/app/com.owncloud.android)]**</sup>
 * [**Seafile**](https://github.com/haiwen/seadroid) <sup>**[[F-Droid](https://f-droid.org/app/com.seafile.seadroid2)]**</sup>
 * [**Syncopoli**](https://gitlab.com/fengshaun/syncopoli) <sup>**[[F-Droid](https://f-droid.org/app/org.amoradi.syncopoli)]**</sup>
