@@ -260,7 +260,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Email Aliases
 
-* [**AnonAddy Android**](https://gitlab.com/Stjin/anonaddy-android) <sup>**[[F-Droid](https://www.f-droid.org/app/host.stjin.anonaddy)]**</sup>
+* [**addy.io Android**](https://gitlab.com/Stjin/anonaddy-android) <sup>**[[F-Droid](https://www.f-droid.org/app/host.stjin.anonaddy)]**</sup>
 * [**SimpleLogin**](https://github.com/simple-login/Simple-Login-Android) <sup>**[[F-Droid](https://www.f-droid.org/app/io.simplelogin.android.fdroid)]**</sup>
 
 ### • Email Clients
