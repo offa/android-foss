@@ -88,7 +88,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ## – App Store –
 
 * [**F-Droid**](https://f-droid.org)
-    * [**Neo-Store**](https://github.com/NeoApplications/Neo-Store) <sup>**[[F-Droid](https://f-droid.org/app/com.looker.droidify)]**</sup>
+    * [**Neo-Store**](https://github.com/NeoApplications/Neo-Store) <sup>**[[F-Droid](https://f-droid.org/app/com.machiav3lli.fdroid)]**</sup>
     * [**Droid-ify**](https://github.com/Iamlooker/Droid-ify) <sup>**[[F-Droid](https://f-droid.org/app/com.looker.droidify)]**</sup>
     * [**F-Droid Classic**](https://git.bubu1.eu/Bubu/fdroidclassic) <sup>**[[F-Droid](https://f-droid.org/app/eu.bubu1.fdroidclassic)]**</sup>
     * [**G-Droid**](https://gitlab.com/gdroid/gdroidclient) <sup>**[[F-Droid](https://f-droid.org/app/org.gdroid.gdroid)]**</sup>
