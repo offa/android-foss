@@ -732,6 +732,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**DroidFish**](https://github.com/peterosterlund2/droidfish) <sup>**[[F-Droid](https://f-droid.org/app/org.petero.droidfish)]**</sup>
 * [**Flang**](https://codeberg.org/jannis/FlangAndroid) <sup>**[[F-Droid](https://f-droid.org/app/de.tadris.flang)]**</sup>
 * [**Freebloks**](https://github.com/shlusiak/Freebloks-Android) <sup>**[[F-Droid](https://f-droid.org/app/de.saschahlusiak.freebloks)]**</sup>
+* [**Halma**](https://github.com/Crazy-Marvin/Halma) <sup>**[[F-Droid](https://f-droid.org/app/app.halma)]**</sup>
 * [**Lichess**](https://github.com/lichess-org/lichobile/) <sup>**[[F-Droid](https://f-droid.org/app/org.lichess.mobileapp.free)]**</sup>
 * [**lidraughts**](https://github.com/roepstoep/lidraughts)
 * [**Mill**](https://github.com/calcitem/Sanmill) <sup>**[[F-Droid](https://f-droid.org/app/com.calcitem.sanmill)]**</sup>
