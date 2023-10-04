@@ -142,7 +142,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**DuckDuckGo Privacy Browser**](https://github.com/duckduckgo/Android) <sup>**[[F-Droid](https://f-droid.org/app/com.duckduckgo.mobile.android)]**</sup>
 * [**EinkBro**](https://github.com/plateaukao/browser) <sup>**[[F-Droid](https://www.f-droid.org/app/info.plateaukao.einkbro)]**</sup>
 * [**FFUpdater**](https://notabug.org/Tobiwan/ffupdater) <sup>**[[F-Droid](https://f-droid.org/app/de.marmaro.krt.ffupdater)]**</sup>
-* [**FOSS Browser**](https://github.com/scoute-dich/browser) <sup>**[[F-Droid](https://www.f-droid.org/app/de.baumann.browser)]**</sup>
+* [**FOSS Browser**](https://codeberg.org/Gaukler_Faun/FOSS_Browser) <sup>**[[F-Droid](https://www.f-droid.org/app/de.baumann.browser)]**</sup>
 * [**Fennec**](https://hg.mozilla.org/releases/mozilla-esr68) <sup>**[[F-Droid](https://f-droid.org/app/org.mozilla.fennec_fdroid)]**</sup>
     * [**Mull**](https://gitlab.com/divested-mobile/mull-fenix) <sup>**[[F-Droid](https://www.f-droid.org/app/us.spotco.fennec_dos)]**</sup>
 * [**Fulguris Web Browser**](https://github.com/Slion/Fulguris) <sup>**[[F-Droid](https://www.f-droid.org/app/net.slions.fulguris.full.fdroid)]**</sup>
