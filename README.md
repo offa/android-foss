@@ -836,12 +836,12 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**APKLab**](https://github.com/APKLab/APKLab)
 * [**Apktool**](https://github.com/iBotPeaches/Apktool)
 * [**APK Editor Studio**](https://github.com/kefir500/apk-editor-studio)
-* [**Universal Android Debloater GUI**](https://github.com/0x192/universal-android-debloater)
 
 ------------------------
 
 ## – Tutorials and Guides –
 
+* [**Android Debloat List**](https://github.com/MuntashirAkon/android-debloat-list)
 * [**OTA on Rooted Device**](tutorials/Install-Rooted-OTA.md)
 
 ------------------------
