@@ -240,6 +240,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Document Scanner
 
 * [**OpenNoteScanner**](https://github.com/ctodobom/OpenNoteScanner) <sup>**[[F-Droid](https://f-droid.org/app/com.todobom.opennotescanner)]**</sup>
+* [**OpenScan**]([https://github.com/ctodobom/OpenNoteScanner](https://github.com/ethereal-developers/OpenScan))
 
 ### • Downloader & Manager
 
