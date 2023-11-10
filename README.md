@@ -823,7 +823,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Word
 
 * [**CrossWords**](http://xwords.sourceforge.net/source.php) <sup>**[[F-Droid](https://www.f-droid.org/app/org.eehouse.android.xw4)]**</sup>
-* [**Forkyz**](https://github.com/yourealwaysbe/forkyz) <sup>**[[F-Droid](https://f-droid.org/app/app.crossword.yourealwaysbe.forkyz)]**</sup>
+* [**Forkyz**](https://gitlab.com/Hague/forkyz) <sup>**[[F-Droid](https://f-droid.org/app/app.crossword.yourealwaysbe.forkyz)]**</sup>
 * [**Gurgle**](https://github.com/billthefarmer/gurgle) <sup>**[[F-Droid](https://f-droid.org/app/org.billthefarmer.gurgle)]**</sup>
 * [**Lexica**](https://github.com/lexica/lexica) <sup>**[[F-Droid](https://f-droid.org/app/com.serwylo.lexica)]**</sup>
 
