@@ -159,6 +159,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**ArityCalc**](https://github.com/woheller69/Arity) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.arity)]**</sup>
 * [**OpenCalc**](https://github.com/Darkempire78/OpenCalc) <sup>**[[F-Droid](https://f-droid.org/app/com.darkempire78.opencalculator)]**</sup>
 * [**Simple Calculator**](https://github.com/SimpleMobileTools/Simple-Calculator) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.calculator)]**</sup>
+* [**unitto**](https://github.com/sadellie/unitto) <sup>**[[F-Droid](https://f-droid.org/app/com.sadellie.unitto)]**</sup>
 * [**yetCalc**](https://github.com/Yet-Zio/yetCalc) <sup>**[[F-Droid](https://f-droid.org/app/yetzio.yetcalc)]**</sup>
 
 ### • Calendar
@@ -685,7 +686,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**SMS Import / Export**](https://github.com/tmo1/sms-ie) <sup>**[[F-Droid](https://f-droid.org/app/com.github.tmo1.sms_ie)]**</sup>
 * [**Sensorkraken**](https://gitlab.com/sensorkraken/android-app) <sup>**[[F-Droid](https://f-droid.org/app/org.sensorkraken)]**</sup>
 * [**Track & Graph**](https://github.com/SamAmco/track-and-graph) <sup>**[[F-Droid](https://f-droid.org/app/com.samco.trackandgraph)]**</sup>
-* [**unitto**](https://github.com/sadellie/unitto) <sup>**[[F-Droid](https://f-droid.org/app/com.sadellie.unitto)]**</sup>
 * [**Volta**](https://github.com/x13a/Volta) <sup>**[[F-Droid](https://www.f-droid.org/app/me.lucky.volta)]**</sup>
 
 ### • Video Player
