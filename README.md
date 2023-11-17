@@ -93,7 +93,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [**F-Droid Classic**](https://git.bubu1.eu/Bubu/fdroidclassic) <sup>**[[F-Droid](https://f-droid.org/app/eu.bubu1.fdroidclassic)]**</sup>
     * [**G-Droid**](https://gitlab.com/gdroid/gdroidclient) <sup>**[[F-Droid](https://f-droid.org/app/org.gdroid.gdroid)]**</sup>
     * [**M-Droid**](https://github.com/SkyzohKey/M-Droid) <sup>**[[F-Droid](https://f-droid.org/app/com.mdroid)]**</sup>
-    * [**Aurora Droid**](https://gitlab.com/AuroraOSS/auroradroid) <sup>**[[F-Droid](https://f-droid.org/app/com.aurora.adroid)]**</sup>
+    * [**Aurora Droid**](https://gitlab.com/AuroraOSS/auroradroid)
     * [**Foxy Droid**](https://github.com/kitsunyan/foxy-droid) <sup>**[[F-Droid](https://f-droid.org/app/nya.kitsunyan.foxydroid)]**</sup>
 * [**Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore) <sup>**[[F-Droid](https://f-droid.org/app/com.aurora.store)]**</sup>
 * [**Accrescent**](https://github.com/accrescent/accrescent)
