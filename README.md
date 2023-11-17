@@ -671,6 +671,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Amaze File Utilities**](https://github.com/TeamAmaze/AmazeFileUtilities) <sup>**[[F-Droid](https://www.f-droid.org/app/com.amaze.fileutilities)]**</sup>
 * [**Cams**](https://github.com/vladpen/cams) <sup>**[[F-Droid](https://www.f-droid.org/app/com.vladpen.cams)]**</sup>
+* [**ConnectBot**](https://github.com/connectbot/connectbot) <sup>**[[F-Droid](https://f-droid.org/app/org.connectbot)]**</sup>
 * [**Converter NOW**](https://github.com/ferraridamiano/ConverterNOW) <sup>**[[F-Droid](https://f-droid.org/app/com.ferrarid.converterpro)]**</sup>
 * [**Data Monitor**](https://github.com/itsdrnoob/DataMonitor) <sup>**[[F-Droid](https://f-droid.org/app/com.drnoob.datamonitor)]**</sup>
 * [**DeadHash**](https://github.com/CodeDead/DeadHash-android) <sup>**[[F-Droid](https://www.f-droid.org/app/com.codedead.deadhash)]**</sup>
