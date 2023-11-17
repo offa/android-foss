@@ -624,6 +624,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Termux**](https://github.com/termux/termux-app) <sup>**[[F-Droid](https://f-droid.org/app/com.termux)]**</sup>
 * [**Treble Info**](https://gitlab.com/TrebleInfo/TrebleInfo) <sup>**[[F-Droid](https://www.f-droid.org/app/tk.hack5.treblecheck)]**</sup>
 * [**UpgradeAll**](https://github.com/DUpdateSystem/UpgradeAll) <sup>**[[F-Droid](https://f-droid.org/app/net.xzos.upgradeall)]**</sup>
+* [**WifiAnalyzer**](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) <sup>**[[F-Droid](https://f-droid.org/app/com.vrem.wifianalyzer)]**</sup>
 
 ### • Text Editors
 
