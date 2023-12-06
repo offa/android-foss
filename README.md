@@ -153,14 +153,12 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**ArityCalc**](https://github.com/woheller69/Arity) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.arity)]**</sup>
 * [**OpenCalc**](https://github.com/Darkempire78/OpenCalc) <sup>**[[F-Droid](https://f-droid.org/app/com.darkempire78.opencalculator)]**</sup>
-* [**Simple Calculator**](https://github.com/SimpleMobileTools/Simple-Calculator) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.calculator)]**</sup>
 * [**unitto**](https://github.com/sadellie/unitto) <sup>**[[F-Droid](https://f-droid.org/app/com.sadellie.unitto)]**</sup>
 * [**yetCalc**](https://github.com/Yet-Zio/yetCalc) <sup>**[[F-Droid](https://f-droid.org/app/yetzio.yetcalc)]**</sup>
 
 ### • Calendar
 
 * [**Etar**](https://github.com/Etar-Group/Etar-Calendar) <sup>**[[F-Droid](https://f-droid.org/app/ws.xsoh.etar)]**</sup>
-* [**Simple Calendar**](https://github.com/SimpleMobileTools/Simple-Calendar) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.calendar.pro)]**</sup>
 
 ### • Call Blocker & Spam Filter
 
@@ -181,7 +179,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Clock**](https://github.com/qw123wh/new-clock-fdroid) <sup>**[[F-Droid](https://f-droid.org/app/com.best.deskclock)]**</sup>
 * [**Simple Alarm Clock**](https://github.com/yuriykulikov/AlarmClock) <sup>**[[F-Droid](https://f-droid.org/app/com.better.alarm)]**</sup>
-* [**Simple Clock**](https://github.com/SimpleMobileTools/Simple-Clock) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.clock)]**</sup>
 * [**Smart EggTimer**](https://github.com/woheller69/eggtimer) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.eggtimer)]**</sup>
 
 ### • Community Clients
@@ -209,13 +206,11 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Connect You**](https://github.com/you-apps/ConnectYou) <sup>**[[F-Droid](https://f-droid.org/app/com.bnyro.contacts)]**</sup>
 * [**OpenContacts**](https://gitlab.com/sultanahamer/OpenContacts) <sup>**[[F-Droid](https://f-droid.org/app/opencontacts.open.com.opencontacts)]**</sup>
-* [**Simple Contacts**](https://github.com/SimpleMobileTools/Simple-Contacts) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.contacts.pro)]**</sup>
     * [**Simple Contacts Pro SE**](https://github.com/stephanritscher/Simple-Contacts) <sup>**[[F-Droid](https://www.f-droid.org/app/de.ritscher.simplemobiletools.contacts.pro)]**</sup>
 
 ### • Dialer
 
 * [**Koler**](https://github.com/Chooloo/koler) <sup>**[[F-Droid](https://f-droid.org/app/com.chooloo.www.koler)]**</sup>
-* [**Simple Dialer**](https://github.com/SimpleMobileTools/Simple-Dialer) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.dialer)]**</sup>
 
 ### • Dictionaries
 
@@ -253,7 +248,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Drawing
 
 * [**PxerStudio**](https://github.com/BennyKok/PxerStudio) <sup>**[[F-Droid](https://www.f-droid.org/app/com.benny.pxerstudio)]**</sup>
-* [**Simple Draw**](https://github.com/SimpleMobileTools/Simple-Draw) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.draw.pro)]**</sup>
 
 ### • Email Aliases
 
@@ -278,7 +272,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Ghost Commander**](https://sourceforge.net/p/ghostcommander/svn/HEAD/tree) <sup>**[[F-Droid](https://f-droid.org/app/com.ghostsq.commander)]**</sup>
 * [**Little File Explorer**](https://github.com/martinmimigames/little-file-explorer) <sup>**[[F-Droid](https://f-droid.org/app/com.martinmimigames.simplefileexplorer)]**</sup>
 * [**Material Files**](https://github.com/zhanghai/MaterialFiles) <sup>**[[F-Droid](https://f-droid.org/app/me.zhanghai.android.files)]**</sup>
-* [**Simple File Manager**](https://github.com/SimpleMobileTools/Simple-File-Manager) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.filemanager.pro)]**</sup>
 
 ### • File Sharing
 
@@ -313,7 +306,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**An Light | Flashlight**](https://github.com/neophtex/An-Light-Flashlight) <sup>**[[F-Droid](https://f-droid.org/app/com.series.anlight)]**</sup>
 * [**Flashy**](https://github.com/Crazy-Marvin/Flashy) <sup>**[[F-Droid](https://f-droid.org/app/rocks.poopjournal.flashy)]**</sup>
-* [**Simple Flashlight**](https://github.com/SimpleMobileTools/Simple-Flashlight) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.flashlight)]**</sup>
 
 ### • Image Manipulation
 
@@ -329,7 +321,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Image Viewer & Gallery
 
 * [**Aves**](https://github.com/deckerst/aves) <sup>**[[F-Droid](https://f-droid.org/app/deckers.thibault.aves.libre)]**</sup>
-* [**Simple Gallery**](https://github.com/SimpleMobileTools/Simple-Gallery) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.gallery.pro)]**</sup>
 * [**Stingle Photos**](https://github.com/stingle/stingle-photos-android) <sup>**[[F-Droid](https://f-droid.org/app/org.stingle.photos)]**</sup>
 
 ### • Keyboard
@@ -368,7 +359,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**OpenLauncher**](https://github.com/BennyKok/OpenLauncher) <sup>**[[F-Droid](https://f-droid.org/app/com.benny.openlauncher)]**</sup>
 * [**PaperLaunch**](https://github.com/devmil/PaperLaunch) <sup>**[[F-Droid](https://f-droid.org/app/de.devmil.paperlaunch)]**</sup>
 * [**Rootless Pixel Launcher**](https://github.com/amirzaidi/Launcher3) <sup>**[[F-Droid](https://f-droid.org/app/amirz.rootless.nexuslauncher)]**</sup>
-* [**Simple App Launcher**](https://github.com/SimpleMobileTools/Simple-App-Launcher) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.applauncher)]**</sup>
 
 ### • Maps & Navigation
 
@@ -441,7 +431,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**RustDesk**](https://github.com/rustdesk/rustdesk) <sup>**[[F-Droid](https://f-droid.org/app/com.carriez.flutter_hbb)]**</sup>
 * [**Record You**](https://github.com/you-apps/RecordYou)
 * [**Simple Time Tracker**](https://github.com/Razeeman/Android-SimpleTimeTracker) <sup>**[[F-Droid](https://f-droid.org/app/com.razeeman.util.simpletimetracker)]**</sup>
-* [**Simple Voice Recorder**](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.voicerecorder)]**</sup>
 * [**Sobriety**](https://github.com/KiARC/Sobriety) <sup>**[[F-Droid](https://f-droid.org/app/com.katiearose.sobriety)]**</sup>
 * [**Vigilante**](https://github.com/FunkyMuse/Vigilante) <sup>**[[F-Droid](https://f-droid.org/app/com.crazylegend.vigilante)]**</sup>
 * [**WiFi Walkie Talkie**](https://github.com/js-labs/WalkieTalkie) <sup>**[[F-Droid](https://f-droid.org/app/org.jsl.wfwt)]**</sup>
@@ -474,7 +463,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Phonograph Plus**](https://github.com/chr56/Phonograph_Plus) <sup>**[[F-Droid](https://f-droid.org/app/player.phonograph.plus)]**</sup>
 * [**raag**](https://github.com/raag-music/raag) <sup>**[[F-Droid](https://f-droid.org/app/in.amfoss.raag)]**</sup>
 * [**RadioDroid**](https://github.com/segler-alex/RadioDroid) <sup>**[[F-Droid](https://f-droid.org/app/net.programmierecke.radiodroid2)]**</sup>
-* [**Simple Music Player**](https://github.com/SimpleMobileTools/Simple-Music-Player) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.musicplayer)]**</sup>
 * [**SimpMusic**](https://github.com/maxrave-dev/SimpMusic) <sup>**[[F-Droid](https://f-droid.org/app/com.maxrave.simpmusic)]**</sup>
 * [**SongTube**](https://github.com/SongTube/SongTube-App)
 * [**Spotube**](https://github.com/KRTirtho/spotube) <sup>**[[F-Droid](https://f-droid.org/app/oss.krtirtho.spotube)]**</sup>
@@ -506,7 +494,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Quillpad**](https://github.com/quillpad/quillpad) <sup>**[[F-Droid](https://f-droid.org/app/io.github.quillpad)]**</sup>
 * [**Saber**](https://github.com/adil192/saber) <sup>**[[F-Droid](https://f-droid.org/app/com.adilhanney.saber)]**</sup>
 * [**Simple Material Notes**](https://github.com/RafhaanShah/Simple-Notes) <sup>**[[F-Droid](https://f-droid.org/app/com.rafapps.simplenotes)]**</sup>
-* [**Simple Notes**](https://github.com/SimpleMobileTools/Simple-Notes) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.notes.pro)]**</sup>
 
 ### • Office
 
@@ -564,7 +551,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**QKSMS**](https://github.com/moezbhatti/qksms) <sup>**[[F-Droid](https://f-droid.org/app/com.moez.QKSMS)]**</sup>
     * [**Partisan SMS**](https://github.com/wrwrabbit/Partisan-SMS)
-* [**Simple SMS Messenger**](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) <sup>**[[F-Droid](https://f-droid.org/app/com.simplemobiletools.smsmessenger)]**</sup>
 
 ### • Sports & Health
 
