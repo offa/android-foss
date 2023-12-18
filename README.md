@@ -256,12 +256,13 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Download Navi**](https://github.com/TachibanaGeneralLaboratories/download-navi) <sup>**[[F-Droid](https://f-droid.org/app/com.tachibana.downloader)]**</sup>
 * [**dvd**](https://github.com/yausername/dvd) <sup>**[[F-Droid](https://f-droid.org/app/org.yausername.dvd)]**</sup>
 * [**LibreTorrent**](https://github.com/proninyaroslav/libretorrent) <sup>**[[F-Droid](https://f-droid.org/app/org.proninyaroslav.libretorrent)]**</sup>
-* [**Myne**](https://github.com/Pool-Of-Tears/Myne) <sup>**[[IzzyOnDroid](https://f-droid.org/app/com.starry.myne)]**</sup>
+* [**Myne**](https://github.com/Pool-Of-Tears/Myne) <sup>**[[F-Droid](https://f-droid.org/app/com.starry.myne)]**</sup>
 * [**Openlib**](https://github.com/dstark5/Openlib) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.app.openlib)]**</sup>
 * [**Seal**](https://github.com/JunkFood02/Seal) <sup>**[[F-Droid](https://f-droid.org/app/com.junkfood.seal)]**</sup>
 * [**SpotiFlyer**](https://github.com/Shabinder/SpotiFlyer) <sup>**[[F-Droid](https://f-droid.org/app/com.shabinder.spotiflyer)]**</sup>
 * [**SubHub**](https://github.com/FunkyMuse/SubHub) <sup>**[[F-Droid](https://f-droid.org/app/com.crazylegend.subhub)]**</sup>
 * [**Torrent Client**](https://gitlab.com/axet/android-torrent-client) <sup>**[[F-Droid](https://f-droid.org/app/com.github.axet.torrentclient)]**</sup>
+* [**TorrServe**](https://github.com/YouROK/TorrServe) <sup>**[[F-Droid](https://f-droid.org/app/ru.yourok.torrserve)]**</sup>
 * [**YTDLnis**](https://github.com/deniscerri/ytdlnis) <sup>**[[IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.deniscerri.ytdl)]**</sup>
 
 ### • Drawing
