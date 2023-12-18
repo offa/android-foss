@@ -233,7 +233,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**freeDictionaryApp**](https://github.com/yamin8000/freeDictionaryApp) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/io.github.yamin8000.owl)]**</sup>
 * [**Notification Dictionary**](https://github.com/tirkarthi/NotificationDictionary) <sup>**[[F-Droid](https://f-droid.org/app/com.xtreak.notificationdictionary)]**</sup>
 * [**QDict**](https://github.com/marmistrz/QDict) <sup>**[[F-Droid](https://f-droid.org/app/com.annie.dictionary.fork)]**</sup>
-* [**SilverDict**](https://github.com/Crissium/SilverDict-mobile) <sup>**[[F-Droid](https://f-droid.org/app/com.gmail.blandilyte.silverdict/)]**</sup>
+* [**SilverDict**](https://github.com/Crissium/SilverDict-mobile) <sup>**[[F-Droid](https://f-droid.org/app/com.gmail.blandilyte.silverdict)]**</sup>
 
 ### • Document & PDF Viewer
 
@@ -445,6 +445,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Moonlight**](https://github.com/moonlight-stream/moonlight-android) <sup>**[[F-Droid](https://f-droid.org/app/com.limelight)]**</sup>
 * [**Motion Eye**](https://github.com/JairajJangle/motionEye_app_HomeSurveillanceSystem) <sup>**[[F-Droid](https://www.f-droid.org/app/com.jairaj.janglegmail.motioneye)]**</sup>
 * [**Noice**](https://github.com/ashutoshgngwr/noice) <sup>**[[F-Droid](https://f-droid.org/app/com.github.ashutoshgngwr.noice)]**</sup>
+* [**Openlib**](https://github.com/dstark5/Openlib) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.app.openlib)]**</sup>
 * [**Openreads**](https://github.com/mateusz-bak/openreads-android) <sup>**[[F-Droid](https://f-droid.org/app/software.mdev.bookstracker)]**</sup>
 * [**PilferShush Jammer**](https://github.com/kaputnikGo/PilferShushJammer) <sup>**[[F-Droid](https://www.f-droid.org/app/cityfreqs.com.pilfershushjammer)]**</sup>
 * [**Privacy Indicator**](https://github.com/NitishGadangi/Privacy-Indicator-App) <sup>**[[F-Droid](https://f-droid.org/app/com.nitish.privacyindicator)]**</sup>
@@ -462,7 +463,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Audio Spectrum Analyzer**](https://github.com/woheller69/audio-analyzer-for-android) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.audio_analyzer_for_android)]**</sup>
 * [**ChordReader 2**](https://github.com/AndInTheClouds/chordreader2) <sup>**[[F-Droid](https://www.f-droid.org/app/org.hollowbamboo.chordreader2)]**</sup>
 * [**GuitarFretboardTrainer**](https://gitlab.com/pandagoespoop/guitarfretboardtrainer) <sup>**[[F-Droid](https://f-droid.org/app/com.simonslater.guitarfretboardtrainer)]**</sup>
-* [**Helio**](https://github.com/helio-fm/helio-sequencer) <sup>**[[F-Droid](https://f-droid.org/app//fm.helio/)]**</sup>
+* [**Helio**](https://github.com/helio-fm/helio-sequencer) <sup>**[[F-Droid](https://f-droid.org/app//fm.helio)]**</sup>
 * [**Hexpress**](https://github.com/jmiskovic/hexpress)
 * [**Liedgutverzeichnis**](https://codeberg.org/LiedgutDatenbank/Liedgutverzeichnis) <sup>**[[F-Droid](https://www.f-droid.org/app/de.thefeiter.liedgutverzeichnis)]**</sup>
 * [**Metronome**](https://github.com/thetwom/toc2) <sup>**[[F-Droid](https://f-droid.org/app/de.moekadu.metronome)]**</sup>
@@ -698,7 +699,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Extirpater**](https://gitlab.com/divested-mobile/extirpater) <sup>**[[F-Droid](https://www.f-droid.org/app/us.spotco.extirpater)]**</sup>
 * [**HexViewer**](https://github.com/Keidan/HexViewer) <sup>**[[F-Droid](https://f-droid.org/app/fr.ralala.hexviewer)]**</sup>
 * [**InviZible Pro**](https://github.com/Gedsh/InviZible) <sup>**[[F-Droid](https://f-droid.org/app/pan.alexander.tordnscrypt.stable)]**</sup>
-* [**Keep Alive**](https://github.com/keepalivedev/KeepAlive) <sup>**[[F-Droid](https://f-droid.org/app/io.keepalive.android/)]**</sup>
+* [**Keep Alive**](https://github.com/keepalivedev/KeepAlive) <sup>**[[F-Droid](https://f-droid.org/app/io.keepalive.android)]**</sup>
 * [**Key Mapper**](https://github.com/keymapperorg/KeyMapper) <sup>**[[F-Droid](https://www.f-droid.org/app/io.github.sds100.keymapper)]**</sup>
 * [**Neo Backup**](https://github.com/NeoApplications/Neo-Backup) <sup>**[[F-Droid](https://f-droid.org/app/com.machiav3lli.backup)]**</sup>
 * [**OCR**](https://github.com/SubhamTyagi/android-ocr) <sup>**[[F-Droid](https://www.f-droid.org/app/io.github.subhamtyagi.ocr)]**</sup>
