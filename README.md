@@ -561,7 +561,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Research & Development
 
 * [**Godot Editor**](https://github.com/godotengine/godot) <sup>**[[F-Droid](https://f-droid.org/app/org.godotengine.editor.v3)]**</sup>
-* [**NetHunter**](https://gitlab.com/kalilinux/nethunter/apps/kali-nethunter-app)
 * [**PCAPdroid**](https://github.com/emanuele-f/PCAPdroid) <sup>**[[F-Droid](https://f-droid.org/app/com.emanuelef.remote_capture)]**</sup>
 
 ### • RSS Readers
