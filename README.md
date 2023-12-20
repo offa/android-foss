@@ -872,6 +872,9 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**KernelSU**](https://kernelsu.org) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/me.weishu.kernelsu)]**</sup>
 * [**Magisk**](https://github.com/topjohnwu/Magisk) <sup>**[[F-Droid](https://f-droid.org/app/com.topjohnwu.magisk)]**</sup>
+* [**OrangeFox Recovery**](https://orangefox.download)
+* [**Pitch Black Recovery Project**](https://pitchblackrecovery.com)
+* [**SKYHAWK Recovery Project**](https://skyhawkrecovery.github.io)
 * [**TWRP**](https://twrp.me)
 
 ------------------------
