@@ -36,6 +36,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Firewall](#-firewall)
     * [Flashcard](#-flashcard)
     * [Flashlight](#-flashlight)
+    * [Icon Packs](#-icon-packs)
     * [Image Manipulation](#-image-manipulation)
     * [Image Viewer &amp; Gallery](#-image-viewer--gallery)
     * [Keyboard](#-keyboard)
@@ -327,6 +328,12 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**An Light | Flashlight**](https://github.com/neophtex/An-Light-Flashlight) <sup>**[[F-Droid](https://f-droid.org/app/com.series.anlight)]**</sup>
 * [**Flashy**](https://github.com/Crazy-Marvin/Flashy) <sup>**[[F-Droid](https://f-droid.org/app/rocks.poopjournal.flashy)]**</sup>
+
+### • Icon Packs
+
+* [**Arcticons**](https://arcticons.onnno.nl) <sup>**[[F-Droid](https://f-droid.org/app/com.donnnno.arcticons)]**</sup>
+* [**Delta Icon Pack**](https://delta-icons.github.io) <sup>**[[F-Droid](https://f-droid.org/app/website.leifs.delta.foss)]**</sup>
+* [**Lawnicons**](https://github.com/LawnchairLauncher/lawnicons)
 
 ### • Image Manipulation
 
