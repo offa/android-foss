@@ -138,7 +138,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Battery
 
-* [**ACCA**](https://github.com/MatteCarra/AccA) <sup>**[F-Droid](https://f-droid.org/app/mattecarra.accapp)]**</sup>
+* [**ACCA**](https://github.com/MatteCarra/AccA) <sup>**[[F-Droid](https://f-droid.org/app/mattecarra.accapp)]**</sup>
 * [**BatteryBot Pro**](https://github.com/darshan-/Battery-Indicator-Pro) <sup>**[[F-Droid](https://f-droid.org/app/com.darshancomputing.BatteryIndicatorPro)]**</sup>
 * [**Battery Tool**](https://github.com/Domi04151309/BatteryTool) <sup>**[[F-Droid](https://f-droid.org/app/io.github.domi04151309.batterytool)]**</sup>
 * [**BCL**](https://github.com/MuntashirAkon/BatteryChargeLimiter) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/io.github.muntashirakon.bcl)]**</sup>
