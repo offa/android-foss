@@ -575,6 +575,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Aggregator**](https://github.com/tughi/aggregator-android) <sup>**[[F-Droid](https://f-droid.org/app/com.tughi.aggregator)]**</sup>
 * [**Feeder**](https://gitlab.com/spacecowboy/Feeder) <sup>**[[F-Droid](https://f-droid.org/app/com.nononsenseapps.feeder)]**</sup>
+* [**HandyNewsReader**](https://github.com/yanus171/Handy-News-Reader) <sup>**[[F-Droid](https://f-droid.org/packages/ru.yanus171.feedexfork/)]**</sup>
 * [**NewsBlur**](https://github.com/samuelclay/NewsBlur) <sup>**[[F-Droid](https://f-droid.org/app/com.newsblur)]**</sup>
 * [**Nunti**](https://gitlab.com/ondrejfoltyn/nunti) <sup>**[[F-Droid](https://f-droid.org/app/com.nunti)]**</sup>
 * [**ReadYou**](https://github.com/Ashinch/ReadYou) <sup>**[[F-Droid](https://f-droid.org/app/me.ash.reader)]**</sup>
