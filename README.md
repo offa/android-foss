@@ -171,6 +171,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Calendar
 
 * [**Etar**](https://github.com/Etar-Group/Etar-Calendar) <sup>**[[F-Droid](https://f-droid.org/app/ws.xsoh.etar)]**</sup>
+* [**Fossify Calendar**](https://github.com/FossifyOrg/Calendar) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.calendar)]**</sup>
 
 ### • Call Blocker & Spam Filter
 
@@ -291,6 +292,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Amaze**](https://github.com/TeamAmaze/AmazeFileManager) <sup>**[[F-Droid](https://f-droid.org/app/com.amaze.filemanager)]**</sup>
 * [**File Manager**](https://gitlab.com/axet/android-file-manager) <sup>**[[F-Droid](https://www.f-droid.org/app/com.github.axet.filemanager)]**</sup>
+* [**Fossify File Manager**](https://github.com/FossifyOrg/File-Manager) <sup>**[[F-Droid](https://www.f-droid.org/app/org.fossify.filemanager)]**</sup>
 * [**Ghost Commander**](https://sourceforge.net/p/ghostcommander/svn/HEAD/tree) <sup>**[[F-Droid](https://f-droid.org/app/com.ghostsq.commander)]**</sup>
 * [**Little File Explorer**](https://github.com/martinmimigames/little-file-explorer) <sup>**[[F-Droid](https://f-droid.org/app/com.martinmimigames.simplefileexplorer)]**</sup>
 * [**Material Files**](https://github.com/zhanghai/MaterialFiles) <sup>**[[F-Droid](https://f-droid.org/app/me.zhanghai.android.files)]**</sup>
