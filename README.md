@@ -226,6 +226,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Dialer
 
+* [**Fossify Phone**](https://github.com/FossifyOrg/Phone) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.phone)]**</sup>
 * [**Koler**](https://github.com/Chooloo/koler) <sup>**[[F-Droid](https://f-droid.org/app/com.chooloo.www.koler)]**</sup>
 
 ### • Dictionaries
