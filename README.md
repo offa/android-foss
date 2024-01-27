@@ -221,6 +221,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Contacts
 
 * [**Connect You**](https://github.com/you-apps/ConnectYou) <sup>**[[F-Droid](https://f-droid.org/app/com.bnyro.contacts)]**</sup>
+* [**Fossify Contacts**](https://github.com/FossifyOrg/Contacts) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.contacts)]**</sup>
 * [**OpenContacts**](https://gitlab.com/sultanahamer/OpenContacts) <sup>**[[F-Droid](https://f-droid.org/app/opencontacts.open.com.opencontacts)]**</sup>
 * [**Simple Contacts Pro SE**](https://github.com/stephanritscher/Simple-Contacts) <sup>**[[F-Droid](https://www.f-droid.org/app/de.ritscher.simplemobiletools.contacts.pro)]**</sup>
 
@@ -606,6 +607,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • SMS
 
+* [**Fossify SMS Messenger**](https://github.com/FossifyOrg/Messages) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.messages)]**</sup>
 * [**QKSMS**](https://github.com/moezbhatti/qksms) <sup>**[[F-Droid](https://f-droid.org/app/com.moez.QKSMS)]**</sup>
 
 ### • Sports & Health
