@@ -387,7 +387,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**KISS**](http://kisslauncher.com/) <sup>**[[F-Droid](https://f-droid.org/app/fr.neamar.kiss)]**</sup>
 * [**Kvaesitso**](https://kvaesitso.mm20.de/) <sup>**[[F-Droid](https://f-droid.org/app/de.mm20.launcher2.release)]**</sup>
 * [**LaunchTime**](https://github.com/quaap/LaunchTime) <sup>**[[F-Droid](https://f-droid.org/app/com.quaap.launchtime)]**</sup>
-* [**Lawnchair**](https://github.com/LawnchairLauncher/Lawnchair) <sup>**[[F-Droid](https://f-droid.org/app/ch.deletescape.lawnchair.plah)]**</sup>
 * [**Lunar Launcher**](https://github.com/iamrasel/lunar-launcher) <sup>**[[F-Droid](https://f-droid.org/app/rasel.lunar.launcher)]**</sup>
 * [**Olauncher**](https://github.com/tanujnotes/Olauncher) <sup>**[[F-Droid](https://f-droid.org/app/app.olauncher)]**</sup>
 * [**OpenLauncher**](https://github.com/BennyKok/OpenLauncher) <sup>**[[F-Droid](https://f-droid.org/app/com.benny.openlauncher)]**</sup>
