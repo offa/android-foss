@@ -100,7 +100,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Appteka**](https://github.com/solkin/appteka-android)
 * [**Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore) <sup>**[[F-Droid](https://f-droid.org/app/com.aurora.store)]**</sup>
 * [**IzzyOnDroid**](https://gitlab.com/sunilpaulmathew/izzyondroid) <sup>**[[F-Droid](https://f-droid.org/app/in.sunilpaulmathew.izzyondroid)]**</sup>
-* [**Obtainium**](https://github.com/ImranR98/Obtainium)
+* [**Obtainium**](https://github.com/ImranR98/Obtainium) <sup>**[[F-Droid](https://f-droid.org/app/dev.imranr.obtainium.fdroid)]**</sup>
 * [**Sky Droid**](https://github.com/redsolver/skydroid)
 
 ------------------------
