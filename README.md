@@ -500,6 +500,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Musify**](https://github.com/gokadzev/Musify) <sup>**[[F-Droid](https://f-droid.org/app/com.gokadzev.musify.fdroid)]**</sup>
 * [**Odeon**](https://github.com/thibseisel/android-odeon) <sup>**[[F-Droid](https://f-droid.org/app/fr.nihilus.music)]**</sup>
 * [**Odyssey**](https://github.com/gateship-one/odyssey) <sup>**[[F-Droid](https://f-droid.org/app/org.gateshipone.odyssey)]**</sup>
+* [**phiola**](https://github.com/stsaz/phiola) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.github.stsaz.phiola)]**</sup>
 * [**Phonograph Plus**](https://github.com/chr56/Phonograph_Plus) <sup>**[[F-Droid](https://f-droid.org/app/player.phonograph.plus)]**</sup>
 * [**raag**](https://github.com/raag-music/raag) <sup>**[[F-Droid](https://f-droid.org/app/in.amfoss.raag)]**</sup>
 * [**RadioDroid**](https://github.com/segler-alex/RadioDroid) <sup>**[[F-Droid](https://f-droid.org/app/net.programmierecke.radiodroid2)]**</sup>
