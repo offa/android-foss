@@ -96,12 +96,12 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [**Droid-ify**](https://github.com/Iamlooker/Droid-ify) <sup>**[[F-Droid](https://f-droid.org/app/com.looker.droidify)]**</sup>
     * [**F-Droid Classic**](https://git.bubu1.eu/Bubu/fdroidclassic) <sup>**[[F-Droid](https://f-droid.org/app/eu.bubu1.fdroidclassic)]**</sup>
     * [**G-Droid**](https://gitlab.com/gdroid/gdroidclient) <sup>**[[F-Droid](https://f-droid.org/app/org.gdroid.gdroid)]**</sup>
-* [**Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore) <sup>**[[F-Droid](https://f-droid.org/app/com.aurora.store)]**</sup>
 * [**Accrescent**](https://github.com/accrescent/accrescent)
-* [**Sky Droid**](https://github.com/redsolver/skydroid)
 * [**Appteka**](https://github.com/solkin/appteka-android)
+* [**Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore) <sup>**[[F-Droid](https://f-droid.org/app/com.aurora.store)]**</sup>
 * [**IzzyOnDroid**](https://gitlab.com/sunilpaulmathew/izzyondroid) <sup>**[[F-Droid](https://f-droid.org/app/in.sunilpaulmathew.izzyondroid)]**</sup>
 * [**Obtainium**](https://github.com/ImranR98/Obtainium)
+* [**Sky Droid**](https://github.com/redsolver/skydroid)
 
 ------------------------
 
