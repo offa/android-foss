@@ -710,6 +710,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Amaze File Utilities**](https://github.com/TeamAmaze/AmazeFileUtilities) <sup>**[[F-Droid](https://www.f-droid.org/app/com.amaze.fileutilities)]**</sup>
 * [**AVNC**](https://github.com/gujjwal00/avnc) <sup>**[[F-Droid](https://f-droid.org/app/com.gaurav.avnc)]**</sup>
 * [**BendyStraw**](https://codeberg.org/mm-dev/bendy-straw) <sup>**[[F-Droid](https://f-droid.org/app/rocks.mm_dev.BendyStraw)]**</sup>
+* [**BetterCounter**](https://github.com/albertvaka/bettercounter) <sup>**[[F-Droid](https://f-droid.org/app/org.kde.bettercounter)]**</sup>
 * [**Cams**](https://github.com/vladpen/cams) <sup>**[[F-Droid](https://www.f-droid.org/app/com.vladpen.cams)]**</sup>
 * [**ConnectBot**](https://github.com/connectbot/connectbot) <sup>**[[F-Droid](https://f-droid.org/app/org.connectbot)]**</sup>
 * [**Converter NOW**](https://github.com/ferraridamiano/ConverterNOW) <sup>**[[F-Droid](https://f-droid.org/app/com.ferrarid.converterpro)]**</sup>
