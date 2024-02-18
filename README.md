@@ -493,6 +493,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Auxio**](https://github.com/OxygenCobalt/Auxio) <sup>**[[F-Droid](https://f-droid.org/app/org.oxycblt.auxio)]**</sup>
 * [**BlackHole**](https://github.com/Sangwan5688/BlackHole) <sup>**[[F-Droid](https://f-droid.org/app/com.shadow.blackhole)]**</sup>
 * [**Dialog Music Player**](https://github.com/VishnuSanal/DialogMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/app/phone.vishnu.dialogmusicplayer)]**</sup>
+* [**Fossify Music Player**](https://github.com/FossifyOrg/Music-Player) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.musicplayer)]**</sup>
 * [**Harmony Music**](https://github.com/anandnet/Harmony-Music) <sup>**[[F-Droid](https://f-droid.org/app/com.anandnet.harmonymusic)]**</sup>
 * [**InnerTune**](https://github.com/z-huang/InnerTune) <sup>**[[F-Droid](https://f-droid.org/app/com.zionhuang.music)]**</sup>
 * [**little music player**](https://github.com/martinmimigames/little-music-player) <sup>**[[F-Droid](https://www.f-droid.org/app/com.martinmimigames.littlemusicplayer)]**</sup>
