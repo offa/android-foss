@@ -397,6 +397,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Maps & Navigation
 
+* [**Compass**](https://github.com/Kr0oked/Compass) <sup>**[[F-Droid](https://www.f-droid.org/app/com.bobek.compass)]**</sup>
 * [**GMaps WV**](https://gitlab.com/divested-mobile/maps) <sup>**[[F-Droid](https://www.f-droid.org/app/us.spotco.maps)]**</sup>
 * [**μlogger**](https://github.com/bfabiszewski/ulogger-android) <sup>**[[F-Droid](https://f-droid.org/app/net.fabiszewski.ulogger)]**</sup>
 * [**OpenTopoMap Viewer**](https://github.com/Pygmalion69/OpenTopoMapViewer) <sup>**[[F-Droid](https://f-droid.org/app/org.nitri.opentopo)]**</sup>
