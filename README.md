@@ -354,6 +354,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Image Viewer & Gallery
 
 * [**Aves**](https://github.com/deckerst/aves) <sup>**[[F-Droid](https://f-droid.org/app/deckers.thibault.aves.libre)]**</sup>
+* [**Ente**](https://github.com/ente-io/ente) <sup>**[[F-Droid](https://f-droid.org/app/io.ente.photos.fdroid)]**</sup>
 * [**Fossify Gallery**](https://github.com/FossifyOrg/Gallery) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.gallery)]**</sup>
 * [**Gallery**](https://github.com/IacobIonut01/Gallery) <sup>**[[F-Droid](https://f-droid.org/app/com.dot.gallery)]**</sup>
 * [**Stingle Photos**](https://github.com/stingle/stingle-photos-android) <sup>**[[F-Droid](https://f-droid.org/app/org.stingle.photos)]**</sup>
