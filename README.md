@@ -404,6 +404,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Organic Maps**](https://github.com/organicmaps/organicmaps) <sup>**[[F-Droid](https://f-droid.org/app/app.organicmaps)]**</sup>
 * [**OsmAnd~**](http://osmand.net/) <sup>**[[F-Droid](https://f-droid.org/app/net.osmand.plus)]**</sup>
 * [**Private Location**](https://github.com/wesaphzt/privatelocation) <sup>**[[F-Droid](https://f-droid.org/app/com.wesaphzt.privatelocation)]**</sup>
+* [**Trekarta**](https://github.com/andreynovikov/trekarta) <sup>**[[F-Droid](https://f-droid.org/app/mobi.maptrek)]**</sup>
 * [**Trail Sense**](https://github.com/kylecorry31/Trail-Sense) <sup>**[[F-Droid](https://f-droid.org/app/com.kylecorry.trail_sense)]**</sup>
 * [**Transportr**](https://github.com/grote/transportr) <sup>**[[F-Droid](https://f-droid.org/app/de.grobox.liberario)]**</sup>
 * [**Vespucci**](https://github.com/MarcusWolschon/osmeditor4android) <sup>**[[F-Droid](https://f-droid.org/app/de.blau.android)]**</sup>
