@@ -177,7 +177,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**NoPhoneSpam**](https://gitlab.com/bitfireAT/NoPhoneSpam) <sup>**[[F-Droid](https://f-droid.org/app/at.bitfire.nophonespam)]**</sup>
 * [**Silence**](https://github.com/x13a/Silence) <sup>**[[F-Droid](https://f-droid.org/app/me.lucky.silence)]**</sup>
-* [**Yet Another Call Blocker**](https://gitlab.com/xynngh/YetAnotherCallBlocker) <sup>**[[F-Droid](https://f-droid.org/app/dummydomain.yetanothercallblocker)]**</sup>
+* [**Tranquille**](https://github.com/Vinetos/Tranquille)
 
 ### • Camera
 
