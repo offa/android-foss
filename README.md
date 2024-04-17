@@ -755,6 +755,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**mpv for Android**](https://github.com/mpv-android/mpv-android) <sup>**[[F-Droid](https://f-droid.org/app/is.xyz.mpv)]**</sup>
 * [**Nova Video Player**](https://github.com/nova-video-player/aos-AVP) <sup>**[[F-Droid](https://f-droid.org/app/org.courville.nova)]**</sup>
 * [**VLC**](https://www.videolan.org/vlc/download-android.html) <sup>**[[F-Droid](https://f-droid.org/app/org.videolan.vlc)]**</sup>
+* [**Next Player**](https://github.com/anilbeesetti/nextplayer)
 
 ### • VPN
 
