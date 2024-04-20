@@ -699,9 +699,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Translation
 
-* [**Arna Translate**](https://github.com/MahanRahmati/translate)
 * [**DeepL**](https://github.com/sakusaku3939/DeepLAndroid) <sup>**[[F-Droid](https://f-droid.org/app/com.example.deeplviewer)]**</sup>
-* [**LibreTranslator**](https://codeberg.org/BeoCode/LibreTranslator) <sup>**[[F-Droid](https://www.f-droid.org/app/de.beowulf.libretranslater)]**</sup>
+* [**Lentil Translate**](https://github.com/yaxarat/lingvaandroid) <sup>**[[F-Droid](https://f-droid.org/app/dev.atajan.lingva_android)]**</sup>
 * [**SimplyTranslate Mobile**](https://github.com/ManeraKai/simplytranslate_mobile) <sup>**[[F-Droid](https://www.f-droid.org/app/com.simplytranslate_mobile)]**</sup>
 * [**The Translator**](https://github.com/sunilpaulmathew/Translator) <sup>**[[F-Droid](https://www.f-droid.org/app/com.sunilpaulmathew.translator)]**</sup>
 * [**Translate You**](https://github.com/you-apps/TranslateYou) <sup>**[[F-Droid](https://f-droid.org/app/com.bnyro.translate)]**</sub>
