@@ -529,6 +529,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Notes
 
+* [**Fossify Notes**](https://github.com/FossifyOrg/Notes) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.notes)]**</sup>
 * [**Joplin**](https://github.com/laurent22/joplin) <sup>**[[F-Droid](https://f-droid.org/app/net.cozic.joplin)]**</sup>
 * [**jtx Board**](https://github.com/TechbeeAT/jtxBoard) <sup>**[[F-Droid](https://www.f-droid.org/app/at.techbee.jtx)]**</sup>
 * [**Linwood Butterfly**](https://github.com/LinwoodCloud/butterfly) <sup>**[[F-Droid](https://f-droid.org/app/dev.linwood.butterfly.nightly)]**</sup>
