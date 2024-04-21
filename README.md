@@ -349,6 +349,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**FFShare**](https://github.com/caydey/ffshare) <sup>**[[F-Droid](https://f-droid.org/app/com.caydey.ffshare)]**</sup>
 * [**ImagePipe**](https://codeberg.org/Starfish/Imagepipe) <sup>**[[F-Droid](https://f-droid.org/app/de.kaffeemitkoffein.imagepipe)]**</sup>
 * [**Image Toolbox**](https://github.com/T8RIN/ImageToolbox) <sup>**[[F-Droid](https://www.f-droid.org/app/ru.tech.imageresizershrinker)]**</sup>
+* [**Metadata Remover**](https://github.com/Crazy-Marvin/MetadataRemover) <sup>**[[F-Droid](https://f-droid.org/app/rocks.poopjournal.metadataremover)]**</sup>
 * [**PrivacyBlur**](https://github.com/MATHEMA-GmbH/privacyblur) <sup>**[[F-Droid](https://www.f-droid.org/app/de.mathema.privacyblur)]**</sup>
 * [**Scrambled Exif**](https://gitlab.com/juanitobananas/scrambled-exif) <sup>**[[F-Droid](https://f-droid.org/app/com.jarsilio.android.scrambledeggsif)]**</sup>
 * [**SuperImage**](https://github.com/Lucchetto/SuperImage) <sup>**[[F-Droid](https://www.f-droid.org/app/com.zhenxiang.superimage)]**</sup>
