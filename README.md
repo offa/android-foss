@@ -788,6 +788,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Weather
 
 * [**Breezy Weather**](https://github.com/breezy-weather/breezy-weather) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.breezyweather)]**</sup>
+* [**Bura**](https://github.com/davidtakac/bura) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.davidtakac.bura)]**</sup>
 * [**Clima**](https://codeberg.org/Lacerte/clima) <sup>**[[F-Droid](https://www.f-droid.org/app/co.prestosole.clima)]**</sup>
 * [**Forecastie**](https://github.com/martykan/forecastie) <sup>**[[F-Droid](https://f-droid.org/app/cz.martykan.forecastie)]**</sup>
 * [**omWeather**](https://github.com/woheller69/omweather) <sup>**[[F-Droid](https://www.f-droid.org/app/org.woheller69.omweather)]**</sup>
