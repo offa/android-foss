@@ -308,6 +308,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • File Sharing
 
 * [**Cryptomator**](https://github.com/cryptomator/android) <sup>**[[F-Droid](https://f-droid.org/app/org.cryptomator.lite)]**</sup>
+* [**Custom Uploader**](https://github.com/SrS2225a/custom_uploader) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.nyx.custom_uploader/)]**</sup>
 * [**Device Connect**](https://github.com/cyanomiko/dcnnt-android) <sup>**[[F-Droid](https://www.f-droid.org/app/net.dcnnt)]**</sup>
 * [**Filester**](https://github.com/rouzbehzarei/filester) <sup>**[[F-Droid](https://f-droid.org/app/com.roozbehzarei.filester)]**</sup>
 * [**FTPClient**](https://codeberg.org/qwerty287/ftpclient) <sup>**[[F-Droid](https://f-droid.org/app/de.qwerty287.ftpclient)]**</sup>
