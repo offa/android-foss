@@ -716,7 +716,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • URL Manipulation
 
 * [**Léon**](https://github.com/svenjacobs/leon) <sup>**[[F-Droid](https://www.f-droid.org/app/com.svenjacobs.app.leon)]**</sup>
-* [**LinkSheet**](https://github.com/1fexd/LinkSheet)
+* [**LinkSheet**](https://github.com/LinkSheet/LinkSheet) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/fe.linksheet)]**</sup>
 * [**Tarnhelm**](https://github.com/lz233/Tarnhelm) <sup>**[[F-Droid](https://www.f-droid.org/app/cn.ac.lz233.tarnhelm)]**</sup>
 * [**Untracker**](https://github.com/zhanghai/Untracker) <sup>**[[F-Droid](https://f-droid.org/app/me.zhanghai.android.untracker)]**</sup>
 * [**UntrackMe**](https://framagit.org/tom79/nitterizeme) <sup>**[[F-Droid](https://f-droid.org/app/app.fedilab.nitterizeme)]**</sup>
