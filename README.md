@@ -344,7 +344,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Arcticons**](https://arcticons.onnno.nl) <sup>**[[F-Droid](https://f-droid.org/app/com.donnnno.arcticons)]**</sup>
 * [**Delta Icon Pack**](https://delta-icons.github.io) <sup>**[[F-Droid](https://f-droid.org/app/website.leifs.delta.foss)]**</sup>
-* [**Lawnicons**](https://github.com/LawnchairLauncher/lawnicons)
+* [**Lawnicons**](https://github.com/LawnchairLauncher/lawnicons) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/app.lawnchair.lawnicons)]**</sup>
 
 ### • Image Manipulation
 
