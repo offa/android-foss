@@ -193,7 +193,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Clock & Time
 
-* [**Clock**](https://github.com/qw123wh/new-clock-fdroid) <sup>**[[F-Droid](https://f-droid.org/app/com.best.deskclock)]**</sup>
+* [**Clock**](https://github.com/BlackyHawky/Clock) <sup>**[[F-Droid](https://f-droid.org/app/com.best.deskclock)]**</sup>
 * [**Clock You**](https://github.com/you-apps/ClockYou) <sup>**[[F-Droid](https://f-droid.org/app/com.bnyro.clock)]**</sup>
 * [**Fossify Clock**](https://github.com/FossifyOrg/Clock) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.clock)]**</sup>
 * [**Simple Alarm Clock**](https://github.com/yuriykulikov/AlarmClock) <sup>**[[F-Droid](https://f-droid.org/app/com.better.alarm)]**</sup>
