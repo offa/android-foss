@@ -52,6 +52,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Painting](#-painting)
     * [Password &amp; Authentication](#-password--authentication)
     * [Podcast &amp; Audio Book Player](#-podcast--audio-book-player)
+    * [Public Transport](#-public-transport)
     * [Research &amp; Development](#-research--development)
     * [RSS Readers](#-rss-readers)
     * [Sandboxing](#-sandboxing)
@@ -415,7 +416,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Private Location**](https://github.com/wesaphzt/privatelocation) <sup>**[[F-Droid](https://f-droid.org/app/com.wesaphzt.privatelocation)]**</sup>
 * [**Trekarta**](https://github.com/andreynovikov/trekarta) <sup>**[[F-Droid](https://f-droid.org/app/mobi.maptrek)]**</sup>
 * [**Trail Sense**](https://github.com/kylecorry31/Trail-Sense) <sup>**[[F-Droid](https://f-droid.org/app/com.kylecorry.trail_sense)]**</sup>
-* [**Transportr**](https://github.com/grote/transportr) <sup>**[[F-Droid](https://f-droid.org/app/de.grobox.liberario)]**</sup>
 * [**Vespucci**](https://github.com/MarcusWolschon/osmeditor4android) <sup>**[[F-Droid](https://f-droid.org/app/de.blau.android)]**</sup>
 
 ### • Media Frontends
@@ -589,6 +589,11 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Podverse**](https://github.com/podverse/podverse-fdroid) <sup>**[[F-Droid](https://f-droid.org/app/com.podverse.fdroid)]**</sup>
 * [**Tsacdop**](https://github.com/stonega/tsacdop) <sup>**[[F-Droid](https://f-droid.org/app/com.stonegate.tsacdop)]**</sup>
 * [**Voice**](https://github.com/PaulWoitaschek/Voice) <sup>**[[F-Droid](https://f-droid.org/app/de.ph1b.audiobook)]**</sup>
+
+### • Public Transport
+
+* [**Bimba**](https://git.apiote.xyz/Bimba.git) <sup>**[[F-Droid](https://f-droid.org/app/xyz.apiote.bimba.czwek)]**</sup>
+* [**Transportr**](https://github.com/grote/transportr) <sup>**[[F-Droid](https://f-droid.org/app/de.grobox.liberario)]**</sup>
 
 ### • Research & Development
 
