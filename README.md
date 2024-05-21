@@ -178,6 +178,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Call Blocker & Spam Filter
 
+* [**Carrion**](https://gitlab.com/divested-mobile/carrion) <sup>**[[F-Droid](https://f-droid.org/app/us.spotco.carrion)]**</sup>
 * [**NoPhoneSpam**](https://gitlab.com/bitfireAT/NoPhoneSpam) <sup>**[[F-Droid](https://f-droid.org/app/at.bitfire.nophonespam)]**</sup>
 * [**Silence**](https://github.com/x13a/Silence) <sup>**[[F-Droid](https://f-droid.org/app/me.lucky.silence)]**</sup>
 * [**SpamBlocker (Call & SMS)**](https://github.com/aj3423/SpamBlocker) <sup>**[[F-Droid](https://f-droid.org/app/spam.blocker)]**</sup>
