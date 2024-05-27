@@ -649,7 +649,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**MedTimer**](https://github.com/Futsch1/medTimer) <sup>**[[F-Droid](https://f-droid.org/app/com.futsch1.medtimer)]**</sup>
 * [**Monochromatic**](https://github.com/RichyHBM/Monochromatic) <sup>**[[F-Droid](https://www.f-droid.org/app/uk.co.richyhbm.monochromatic)]**</sup>
 * [**OpenTracks**](https://github.com/OpenTracksApp/OpenTracks) <sup>**[[F-Droid](https://f-droid.org/app/de.dennisguse.opentracks)]**</sup>
-* [**Paseo**](https://gitlab.com/pardomi/paseo/tree/HEAD) <sup>**[[F-Droid](https://f-droid.org/app/ca.chancehorizon.paseo)]**</sup>
+* [**Paseo**](https://gitlab.com/pardomi/paseo) <sup>**[[F-Droid](https://f-droid.org/app/ca.chancehorizon.paseo)]**</sup>
 * [**Red Moon**](https://github.com/LibreShift/red-moon) <sup>**[[F-Droid](https://f-droid.org/app/com.jmstudios.redmoon)]**</sup>
 
 ### • Synchronisation
