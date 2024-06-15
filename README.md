@@ -33,6 +33,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Emulator](#-emulator)
     * [File Manager](#-file-manager)
     * [File Sharing](#-file-sharing)
+    * [Finance](#-finance)
     * [Firewall](#-firewall)
     * [Flashcard](#-flashcard)
     * [Flashlight](#-flashlight)
@@ -323,6 +324,10 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Sharik**](https://github.com/marchellodev/sharik) <sup>**[[F-Droid](https://f-droid.org/app/dev.marchello.sharik)]**</sup>
 * [**Snapdrop & PairDrop for Android**](https://github.com/fm-sys/snapdrop-android) <sup>**[[F-Droid](https://f-droid.org/app/com.fmsys.snapdrop)]**</sup>
 * [**Warpinator**](https://github.com/slowscript/warpinator-android) <sup>**[[F-Droid](https://f-droid.org/app/slowscript.warpinator)]**</sup>
+
+### • Finance
+
+* [**GreenStash**](https://github.com/Pool-Of-Tears/GreenStash) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.starry.greenstash)]**</sup>
 
 ### • Firewall
 
