@@ -327,7 +327,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Finance
 
-* [**GreenStash**](https://github.com/Pool-Of-Tears/GreenStash) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.starry.greenstash)]**</sup>
+* [**GreenStash**](https://github.com/Pool-Of-Tears/GreenStash) <sup>**[[F-Droid](https://f-droid.org/app/com.starry.greenstash)]**</sup>
 
 ### • Firewall
 
