@@ -22,6 +22,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Clock &amp; Time](#-clock--time)
     * [Community Clients](#-community-clients)
     * [Contacts](#-contacts)
+    * [Development](#-development)
     * [Dialer](#-dialer)
     * [Dictionaries](#-dictionaries)
     * [Document &amp; PDF Viewer](#-document--pdf-viewer)
@@ -54,7 +55,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Password &amp; Authentication](#-password--authentication)
     * [Podcast &amp; Audio Book Player](#-podcast--audio-book-player)
     * [Public Transport](#-public-transport)
-    * [Research &amp; Development](#-research--development)
     * [RSS Readers](#-rss-readers)
     * [Sandboxing](#-sandboxing)
     * [Science &amp; Education](#-science--education)
@@ -233,6 +233,12 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Fossify Contacts**](https://github.com/FossifyOrg/Contacts) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.contacts)]**</sup>
 * [**OpenContacts**](https://gitlab.com/sultanahamer/OpenContacts) <sup>**[[F-Droid](https://f-droid.org/app/opencontacts.open.com.opencontacts)]**</sup>
 * [**Simple Contacts Pro SE**](https://github.com/stephanritscher/Simple-Contacts) <sup>**[[F-Droid](https://www.f-droid.org/app/de.ritscher.simplemobiletools.contacts.pro)]**</sup>
+
+### • Development
+
+* [**Godot Editor**](https://github.com/godotengine/godot) <sup>**[[F-Droid](https://f-droid.org/app/org.godotengine.editor.v3)]**</sup>
+* [**PCAPdroid**](https://github.com/emanuele-f/PCAPdroid) <sup>**[[F-Droid](https://f-droid.org/app/com.emanuelef.remote_capture)]**</sup>
+
 
 ### • Dialer
 
@@ -604,11 +610,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Bimba**](https://git.apiote.xyz/Bimba.git) <sup>**[[F-Droid](https://f-droid.org/app/xyz.apiote.bimba.czwek)]**</sup>
 * [**Transportr**](https://github.com/grote/transportr) <sup>**[[F-Droid](https://f-droid.org/app/de.grobox.liberario)]**</sup>
-
-### • Research & Development
-
-* [**Godot Editor**](https://github.com/godotengine/godot) <sup>**[[F-Droid](https://f-droid.org/app/org.godotengine.editor.v3)]**</sup>
-* [**PCAPdroid**](https://github.com/emanuele-f/PCAPdroid) <sup>**[[F-Droid](https://f-droid.org/app/com.emanuelef.remote_capture)]**</sup>
 
 ### • RSS Readers
 
