@@ -862,6 +862,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Miscellaneous
 
+* [**aShell You**](https://github.com/dp-hridayan/aShellYou) <sup>**[[Izzy](https://apt.izzysoft.de/fdroid/index/apk/in.hridayan.ashell)]**</sup>
 * [**Apple Flinger**](https://gitlab.com/ar-/apple-flinger) <sup>**[[F-Droid](https://f-droid.org/app/com.gitlab.ardash.appleflinger.android)]**</sup>
 * [**Ball2Box**](https://github.com/dulvui/ball2box) <sup>**[[F-Droid](https://f-droid.org/app/com.simondalvai.ball2box)]**</sup>
 * [**Burger Party**](https://github.com/agateau/burgerparty) <sup>**[[F-Droid](https://f-droid.org/app/com.agateau.burgerparty)]**</sup>
