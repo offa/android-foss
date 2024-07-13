@@ -548,6 +548,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Notes
 
+* [**Easy Diary**](https://github.com/hanjoongcho/aaf-easydiary) <sup>**[[F-Droid](https://f-droid.org/app/me.blog.korn123.easydiary)]**</sup>
 * [**Easy Notes**](https://github.com/Kin69/EasyNotes) <sup>**[[F-Droid](https://f-droid.org/app/com.kin.easynotes)]**</sup>
 * [**Fossify Notes**](https://github.com/FossifyOrg/Notes) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.notes)]**</sup>
 * [**Joplin**](https://github.com/laurent22/joplin) <sup>**[[F-Droid](https://f-droid.org/app/net.cozic.joplin)]**</sup>
