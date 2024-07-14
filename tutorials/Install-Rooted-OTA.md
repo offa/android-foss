@@ -1,6 +1,6 @@
 # OTA Update on a Rooted Device
 
-The installation of ***OTA*** updates often fails if the device has been **rooted**. Though it's still **possible** – without loosing any data. This guide shows how, using ***TWRP*** and ***Magisk***.
+The installation of ***OTA*** updates often fails if the device has been **rooted**. Though it's still **possible** – without losing any data. This guide shows how, using ***TWRP*** and ***Magisk***.
 
 ***WARNING:** Before you start **backup** everything that's important! Proceed at own risk!*
 
