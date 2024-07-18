@@ -167,7 +167,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Calculator
 
 * [**ArityCalc**](https://github.com/woheller69/Arity) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.arity)]**</sup>
-* [**NumberHub**](https://github.com/Myzel394/NumberHub)
+* [**NumberHub**](https://github.com/Myzel394/NumberHub) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/app.myzel394.numberhub)]**</sup>
 * [**OpenCalc**](https://github.com/Darkempire78/OpenCalc) <sup>**[[F-Droid](https://f-droid.org/app/com.darkempire78.opencalculator)]**</sup>
 * [**yetCalc**](https://github.com/Yet-Zio/yetCalc) <sup>**[[F-Droid](https://f-droid.org/app/yetzio.yetcalc)]**</sup>
 
