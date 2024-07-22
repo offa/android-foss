@@ -389,6 +389,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**BeHe Keyboard**](https://github.com/VladThodo/behe-keyboard) <sup>**[[F-Droid](https://f-droid.org/app/com.vlath.keyboard)]**</sup>
 * [**fcitx5-android**](https://github.com/fcitx5-android/fcitx5-android) <sup>**[[F-Droid](https://f-droid.org/app/org.fcitx.fcitx5.android)]**</sup>
 * [**FlorisBoard**](https://github.com/florisboard/florisboard) <sup>**[[F-Droid](https://f-droid.org/app/dev.patrickgold.florisboard)]**</sup>
+* [**Fossify Keyboard**](https://github.com/FossifyOrg/Keyboard) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.keyboard)]**</sup>
 * [**FutharkBoard**](https://github.com/DrMaxNix/futharkboard) <sup>**[[F-Droid](https://www.f-droid.org/app/de.drmaxnix.futharkboard)]**</sup>
 * [**Hacker's Keyboard**](https://github.com/klausw/hackerskeyboard) <sup>**[[F-Droid](https://f-droid.org/app/org.pocketworkstation.pckeyboard)]**</sup>
 * [**HeliBoard**](https://github.com/Helium314/HeliBoard) <sup>**[[F-Droid](https://f-droid.org/app/helium314.keyboard)]**</sup>
