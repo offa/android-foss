@@ -489,6 +489,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Coffee**](https://github.com/mueller-ma/Coffee) <sup>**[[F-Droid](https://www.f-droid.org/app/com.github.muellerma.coffee)]**</sup>
 * [**Exodus**](https://github.com/Exodus-Privacy/exodus-android-app) <sup>**[[F-Droid](https://f-droid.org/app/org.eu.exodus_privacy.exodusprivacy)]**</sup>
 * [**Fossify Voice Recorder**](https://github.com/FossifyOrg/Voice-Recorder) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.voicerecorder)]**</sup>
+* [**Gadgetbridge**](https://codeberg.org/Freeyourgadget/Gadgetbridge) <sup>**[[F-Droid](https://f-droid.org/app/nodomain.freeyourgadget.gadgetbridge)]**</sup>
 * [**Goodtime**](https://github.com/goodtime-productivity/Goodtime) <sup>**[[F-Droid](https://f-droid.org/app/com.apps.adrcotfas.goodtime)]**</sup>
 * [**Iconify**](https://github.com/Mahmud0808/Iconify) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.drdisagree.iconify)]**</sup>
 * [**KouChat**](https://github.com/blurpy/kouchat-android) <sup>**[[F-Droid](https://f-droid.org/app/net.usikkert.kouchat.android)]**</sup>
