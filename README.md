@@ -250,7 +250,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Aard 2**](https://github.com/itkach/aard2-android) <sup>**[[F-Droid](https://f-droid.org/app/itkach.aard2)]**</sup>
 * [**Collins Dictionary**](https://github.com/Konyaco/CollinsDictionary) <sup>**[[F-Droid](https://www.f-droid.org/app/me.konyaco.collinsdictionary)]**</sup>
-* [**freeDictionaryApp**](https://github.com/yamin8000/freeDictionaryApp) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/io.github.yamin8000.owl)]**</sup>
+* [**freeDictionaryApp**](https://github.com/yamin8000/freeDictionaryApp) <sup>**[[F-Droid](https://f-droid.org/app/io.github.yamin8000.owl)]**</sup>
 * [**Notification Dictionary**](https://github.com/tirkarthi/NotificationDictionary) <sup>**[[F-Droid](https://f-droid.org/app/com.xtreak.notificationdictionary)]**</sup>
 * [**QDict**](https://github.com/marmistrz/QDict) <sup>**[[F-Droid](https://f-droid.org/app/com.annie.dictionary.fork)]**</sup>
 * [**SilverDict**](https://github.com/Crissium/SilverDict-mobile) <sup>**[[F-Droid](https://f-droid.org/app/com.gmail.blandilyte.silverdict)]**</sup>
