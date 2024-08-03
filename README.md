@@ -115,7 +115,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**AdAway**](https://github.com/AdAway/AdAway) <sup>**[[F-Droid](https://f-droid.org/app/org.adaway)]**</sup>
 * [**Blokada**](https://github.com/blokadaorg/blokada)
 * [**DNS66**](https://github.com/julian-klode/dns66) <sup>**[[F-Droid](https://f-droid.org/app/org.jak_linux.dns66)]**</sup>
-* [**DNSFilter**](https://github.com/IngoZenz/personaldnsfilter) <sup>**[[F-Droid](https://f-droid.org/app/dnsfilter.android)]**</sup>
+* [**personalDNSfilter**](https://github.com/IngoZenz/personaldnsfilter) <sup>**[[F-Droid](https://f-droid.org/app/dnsfilter.android)]**</sup>
 * [**TrackerControl**](https://github.com/TrackerControl/tracker-control-android) <sup>**[[F-Droid](https://f-droid.org/app/net.kollnig.missioncontrol.fdroid)]**</sup>
 
 ### • Anime & Manga
