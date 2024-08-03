@@ -12,7 +12,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Ad Blocker](#-ad-blocker)
     * [Anime &amp; Manga](#-anime--manga)
     * [Automation](#-automation)
-    * [Barcode &amp; QR Code Scanner](#barcode--qr-code-scanner)
+    * [Barcode &amp; QR Code Scanner](#-barcode--qr-code-scanner)
     * [Battery](#-battery)
     * [Browser](#-browser)
     * [Calculator](#-calculator)
