@@ -363,6 +363,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Arcticons**](https://arcticons.onnno.nl) <sup>**[[F-Droid](https://f-droid.org/app/com.donnnno.arcticons)]**</sup>
 * [**Delta Icon Pack**](https://delta-icons.github.io) <sup>**[[F-Droid](https://f-droid.org/app/website.leifs.delta.foss)]**</sup>
+* [**Iconify**](https://github.com/Mahmud0808/Iconify) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.drdisagree.iconify)]**</sup>
 * [**Lawnicons**](https://github.com/LawnchairLauncher/lawnicons) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/app.lawnchair.lawnicons)]**</sup>
 
 ### • Image Manipulation
@@ -491,7 +492,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Fossify Voice Recorder**](https://github.com/FossifyOrg/Voice-Recorder) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.voicerecorder)]**</sup>
 * [**Gadgetbridge**](https://codeberg.org/Freeyourgadget/Gadgetbridge) <sup>**[[F-Droid](https://f-droid.org/app/nodomain.freeyourgadget.gadgetbridge)]**</sup>
 * [**Goodtime**](https://github.com/goodtime-productivity/Goodtime) <sup>**[[F-Droid](https://f-droid.org/app/com.apps.adrcotfas.goodtime)]**</sup>
-* [**Iconify**](https://github.com/Mahmud0808/Iconify) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.drdisagree.iconify)]**</sup>
 * [**KouChat**](https://github.com/blurpy/kouchat-android) <sup>**[[F-Droid](https://f-droid.org/app/net.usikkert.kouchat.android)]**</sup>
 * [**LinkHub**](https://github.com/AmrDeveloper/LinkHub) <sup>**[[F-Droid](https://f-droid.org/app/com.amrdeveloper.linkhub)]**</sup>
 * [**Loop Habit Tracker**](https://github.com/iSoron/uhabits) <sup>**[[F-Droid](https://f-droid.org/app/org.isoron.uhabits)]**</sup>
