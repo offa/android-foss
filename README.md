@@ -12,7 +12,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Ad Blocker](#-ad-blocker)
     * [Anime &amp; Manga](#-anime--manga)
     * [Automation](#-automation)
-    * [Barcode Scanner](#-barcode-scanner)
+    * [Barcode &amp; QR Code Scanner](#-barcode--qr-code-scanner)
     * [Battery](#-battery)
     * [Browser](#-browser)
     * [Calculator](#-calculator)
@@ -132,7 +132,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Home Assistant**](https://github.com/home-assistant/android) <sup>**[[F-Droid](https://www.f-droid.org/app/io.homeassistant.companion.android.minimal)]**</sup>
 * [**Smart AutoClicker**](https://github.com/Nain57/Smart-AutoClicker) <sup>**[[F-Droid](https://f-droid.org/app/com.buzbuz.smartautoclicker)]**</sup>
 
-### • Barcode Scanner
+### • Barcode & QR Code Scanner
 
 * [**Barcode Scanner**](https://gitlab.com/Atharok/BarcodeScanner) <sup>**[[F-Droid](https://f-droid.org/app/com.atharok.barcodescanner)]**</sup>
 * [**Binary Eye**](https://github.com/markusfisch/BinaryEye) <sup>**[[F-Droid](https://f-droid.org/app/de.markusfisch.android.binaryeye)]**</sup>
