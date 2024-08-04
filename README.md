@@ -496,7 +496,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**LinkHub**](https://github.com/AmrDeveloper/LinkHub) <sup>**[[F-Droid](https://f-droid.org/app/com.amrdeveloper.linkhub)]**</sup>
 * [**Loop Habit Tracker**](https://github.com/iSoron/uhabits) <sup>**[[F-Droid](https://f-droid.org/app/org.isoron.uhabits)]**</sup>
 * [**Moonlight**](https://github.com/moonlight-stream/moonlight-android) <sup>**[[F-Droid](https://f-droid.org/app/com.limelight)]**</sup>
-* [**Motion Eye**](https://github.com/JairajJangle/motionEye_app_HomeSurveillanceSystem) <sup>**[[F-Droid](https://www.f-droid.org/app/com.jairaj.janglegmail.motioneye)]**</sup>
+* [**Motion Eye**](https://github.com/JairajJangle/motioneye-android) <sup>**[[F-Droid](https://www.f-droid.org/app/com.jairaj.janglegmail.motioneye)]**</sup>
 * [**Noice**](https://github.com/ashutoshgngwr/noice) <sup>**[[F-Droid](https://f-droid.org/app/com.github.ashutoshgngwr.noice)]**</sup>
 * [**Openreads**](https://github.com/mateusz-bak/openreads-android) <sup>**[[F-Droid](https://f-droid.org/app/software.mdev.bookstracker)]**</sup>
 * [**PilferShush Jammer**](https://github.com/kaputnikGo/PilferShushJammer) <sup>**[[F-Droid](https://www.f-droid.org/app/cityfreqs.com.pilfershushjammer)]**</sup>
