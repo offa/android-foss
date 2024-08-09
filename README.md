@@ -496,7 +496,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Moonlight**](https://github.com/moonlight-stream/moonlight-android) <sup>**[[F-Droid](https://f-droid.org/app/com.limelight)]**</sup>
 * [**Motion Eye**](https://github.com/JairajJangle/motioneye-android) <sup>**[[F-Droid](https://www.f-droid.org/app/com.jairaj.janglegmail.motioneye)]**</sup>
 * [**Noice**](https://github.com/ashutoshgngwr/noice) <sup>**[[F-Droid](https://f-droid.org/app/com.github.ashutoshgngwr.noice)]**</sup>
-* [**Openreads**](https://github.com/mateusz-bak/openreads-android) <sup>**[[F-Droid](https://f-droid.org/app/software.mdev.bookstracker)]**</sup>
+* [**Openreads**](https://github.com/mateusz-bak/openreads) <sup>**[[F-Droid](https://f-droid.org/app/software.mdev.bookstracker)]**</sup>
 * [**RustDesk**](https://github.com/rustdesk/rustdesk) <sup>**[[F-Droid](https://f-droid.org/app/com.carriez.flutter_hbb)]**</sup>
 * [**Record You**](https://github.com/you-apps/RecordYou) <sup>**[[F-Droid](https://f-droid.org/app/com.bnyro.recorder)]**</sup>
 * [**Simple Time Tracker**](https://github.com/Razeeman/Android-SimpleTimeTracker) <sup>**[[F-Droid](https://f-droid.org/app/com.razeeman.util.simpletimetracker)]**</sup>
