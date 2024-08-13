@@ -495,7 +495,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Loop Habit Tracker**](https://github.com/iSoron/uhabits) <sup>**[[F-Droid](https://f-droid.org/app/org.isoron.uhabits)]**</sup>
 * [**Moonlight**](https://github.com/moonlight-stream/moonlight-android) <sup>**[[F-Droid](https://f-droid.org/app/com.limelight)]**</sup>
 * [**Motion Eye**](https://github.com/JairajJangle/motioneye-android) <sup>**[[F-Droid](https://www.f-droid.org/app/com.jairaj.janglegmail.motioneye)]**</sup>
-* [**Noice**](https://github.com/ashutoshgngwr/noice) <sup>**[[F-Droid](https://f-droid.org/app/com.github.ashutoshgngwr.noice)]**</sup>
 * [**Openreads**](https://github.com/mateusz-bak/openreads-android) <sup>**[[F-Droid](https://f-droid.org/app/software.mdev.bookstracker)]**</sup>
 * [**RustDesk**](https://github.com/rustdesk/rustdesk) <sup>**[[F-Droid](https://f-droid.org/app/com.carriez.flutter_hbb)]**</sup>
 * [**Record You**](https://github.com/you-apps/RecordYou) <sup>**[[F-Droid](https://f-droid.org/app/com.bnyro.recorder)]**</sup>
@@ -514,6 +513,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Hexpress**](https://github.com/jmiskovic/hexpress)
 * [**Liedgutverzeichnis**](https://codeberg.org/LiedgutDatenbank/Liedgutverzeichnis) <sup>**[[F-Droid](https://www.f-droid.org/app/de.thefeiter.liedgutverzeichnis)]**</sup>
 * [**Metronome**](https://github.com/thetwom/toc2) <sup>**[[F-Droid](https://f-droid.org/app/de.moekadu.metronome)]**</sup>
+* [**Noice**](https://github.com/ashutoshgngwr/noice) <sup>**[[F-Droid](https://f-droid.org/app/com.github.ashutoshgngwr.noice)]**</sup>
 * [**Noten Learner**](https://github.com/MelvilQ/noten-lernen)
 * [**Practice Suite**](https://codeberg.org/Berker/practice_suite) <sup>**[[F-Droid](https://www.f-droid.org/app/com.berkersen.practicesuite)]**</sup>
 * [**Tack**](https://github.com/patzly/tack-android) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/xyz.zedler.patrick.tack)]**</sup>
