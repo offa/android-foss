@@ -38,6 +38,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Firewall](#-firewall)
     * [Flashcard](#-flashcard)
     * [Flashlight](#-flashlight)
+    * [Habit Tracker](#-habit-tracker)
     * [Icon Packs](#-icon-packs)
     * [Image Manipulation](#-image-manipulation)
     * [Image Viewer &amp; Gallery](#-image-viewer--gallery)
@@ -358,6 +359,10 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**An Light | Flashlight**](https://github.com/neophtex/An-Light-Flashlight) <sup>**[[F-Droid](https://f-droid.org/app/com.series.anlight)]**</sup>
 * [**Flashy**](https://github.com/Crazy-Marvin/Flashy) <sup>**[[F-Droid](https://f-droid.org/app/rocks.poopjournal.flashy)]**</sup>
+
+### • Habit Tracker
+
+* [**Table Habit**](https://github.com/FriesI23/mhabit) <sup>**[[F-Droid](https://f-droid.org/app/io.github.friesi23.mhabit)]**</sup>
 
 ### • Icon Packs
 
