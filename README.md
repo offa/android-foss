@@ -468,6 +468,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Jitsi Meet**](https://github.com/jitsi/jitsi-meet) <sup>**[[F-Droid](https://f-droid.org/app/org.jitsi.meet)]**</sup>
 * [**Kontalk**](https://github.com/kontalk/androidclient) <sup>**[[F-Droid](https://f-droid.org/app/org.kontalk)]**</sup>
 * [**KouChat**](https://github.com/blurpy/kouchat-android) <sup>**[[F-Droid](https://f-droid.org/app/net.usikkert.kouchat.android)]**</sup>
+* [**Launch Chat**](https://github.com/vinaygopinath/launch-chat) <sup>**[[F-Droid](https://f-droid.org/app/org.vinaygopinath.launchchat)]**</sup>
 * [**Manyverse**](https://gitlab.com/staltz/manyverse) <sup>**[[F-Droid](https://f-droid.org/app/se.manyver)]**</sup>
 * [**Mastodon**](https://github.com/mastodon/mastodon-android) <sup>**[[F-Droid](https://f-droid.org/app/org.joinmastodon.android)]**</sup>
     * [**Megalodon**](https://github.com/sk22/megalodon)
@@ -787,7 +788,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Keep Alive**](https://github.com/keepalivedev/KeepAlive) <sup>**[[F-Droid](https://f-droid.org/app/io.keepalive.android)]**</sup>
 * [**Key Mapper**](https://github.com/keymapperorg/KeyMapper) <sup>**[[F-Droid](https://www.f-droid.org/app/io.github.sds100.keymapper)]**</sup>
 * [**KeyStoreViewer**](https://github.com/qdsfdhvh/KeyStoreViewer) <sup>**[[F-Droid](https://f-droid.org/app/com.seiko.keystoreviewer)]**</sup>
-* [**Launch Chat**](https://github.com/vinaygopinath/launch-chat) <sup>**[[F-Droid](https://f-droid.org/app/org.vinaygopinath.launchchat)]**</sup>
 * [**Neo Backup**](https://github.com/NeoApplications/Neo-Backup) <sup>**[[F-Droid](https://f-droid.org/app/com.machiav3lli.backup)]**</sup>
 * [**NFCGate**](https://github.com/nfcgate/nfcgate) <sup>**[[F-Droid](https://f-droid.org/app/de.tu_darmstadt.seemoo.nfcgate)]**</sup>
 * [**OCR**](https://github.com/SubhamTyagi/android-ocr) <sup>**[[F-Droid](https://www.f-droid.org/app/io.github.subhamtyagi.ocr)]**</sup>
