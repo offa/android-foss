@@ -480,6 +480,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [**Nekogram X**](https://github.com/NekoX-Dev/NekoX) <sup>**[[F-Droid](https://f-droid.org/app/nekox.messenger)]**</sup>
     * [**Telegram Monet**](https://github.com/mi-g-alex/Telegram-Monet)
 * [**Threema Libre**](https://github.com/threema-ch/threema-android) <sup>**[[F-Droid](https://f-droid.org/app/ch.threema.app.libre)]**</sup>
+* [**WiFi Walkie Talkie**](https://github.com/js-labs/WalkieTalkie) <sup>**[[F-Droid](https://f-droid.org/app/org.jsl.wfwt)]**</sup>
 * [**Wire**](https://github.com/wireapp/wire-android) <sup>**[[F-Droid](https://f-droid.org/app/com.wire)]**</sup>
 
 ### • Miscellaneous
@@ -501,7 +502,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Record You**](https://github.com/you-apps/RecordYou) <sup>**[[F-Droid](https://f-droid.org/app/com.bnyro.recorder)]**</sup>
 * [**Simple Time Tracker**](https://github.com/Razeeman/Android-SimpleTimeTracker) <sup>**[[F-Droid](https://f-droid.org/app/com.razeeman.util.simpletimetracker)]**</sup>
 * [**Sobriety**](https://github.com/KiARC/Sobriety) <sup>**[[F-Droid](https://f-droid.org/app/com.katiearose.sobriety)]**</sup>
-* [**WiFi Walkie Talkie**](https://github.com/js-labs/WalkieTalkie) <sup>**[[F-Droid](https://f-droid.org/app/org.jsl.wfwt)]**</sup>
 * [**xBrowserSync**](https://github.com/xbrowsersync/app) <sup>**[[F-Droid](https://f-droid.org/app/com.xBrowserSync.android)]**</sup>
 
 ### • Music
