@@ -522,6 +522,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Noice**](https://github.com/ashutoshgngwr/noice) <sup>**[[F-Droid](https://f-droid.org/app/com.github.ashutoshgngwr.noice)]**</sup>
 * [**Noten Learner**](https://github.com/MelvilQ/noten-lernen)
 * [**Practice Suite**](https://codeberg.org/Berker/practice_suite) <sup>**[[F-Droid](https://www.f-droid.org/app/com.berkersen.practicesuite)]**</sup>
+* [**Rush**](https://github.com/shub39/Rush) <sup>**[[F-Droid](https://f-droid.org/app/com.shub39.rush)]**</sup>
 * [**Tack**](https://github.com/patzly/tack-android) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/xyz.zedler.patrick.tack)]**</sup>
 * [**Tuner**](https://github.com/thetwom/Tuner) <sup>**[[F-Droid](https://www.f-droid.org/app/de.moekadu.tuner)]**</sup>
 
