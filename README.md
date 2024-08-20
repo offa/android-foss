@@ -632,6 +632,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Public Transport
 
 * [**Bimba**](https://git.apiote.xyz/Bimba.git) <sup>**[[F-Droid](https://f-droid.org/app/xyz.apiote.bimba.czwek)]**</sup>
+* [**Transito**](https://git.sr.ht/~mil/transito) <sup>**[[F-Droid](https://f-droid.org/app/ht.sr.git.mil.transito)]**</sup>
 * [**Transportr**](https://github.com/grote/transportr) <sup>**[[F-Droid](https://f-droid.org/app/de.grobox.liberario)]**</sup>
 
 ### • RSS Readers
