@@ -977,8 +977,11 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ## – Tools –
 
+* [**APK2Url**](https://github.com/n0mi1k/apk2url)
+* [**ACVTool**](https://github.com/pilgun/acvtool)
 * [**APKLab**](https://github.com/APKLab/APKLab)
 * [**Apktool**](https://github.com/iBotPeaches/Apktool)
+* [**APKToolGUI**](https://github.com/AndnixSH/APKToolGUI)
 * [**APK Editor Studio**](https://github.com/kefir500/apk-editor-studio)
 * [**Universal Android Debloater GUI**](https://github.com/Universal-Debloater-Alliance/universal-android-debloater)
 
