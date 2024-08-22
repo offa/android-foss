@@ -978,6 +978,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ## – Tools –
 
+* [**ACVTool**](https://github.com/pilgun/acvtool)
 * [**APKLab**](https://github.com/APKLab/APKLab)
 * [**Apktool**](https://github.com/iBotPeaches/Apktool)
 * [**APK Editor Studio**](https://github.com/kefir500/apk-editor-studio)
