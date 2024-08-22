@@ -567,6 +567,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Joplin**](https://github.com/laurent22/joplin) <sup>**[[F-Droid](https://f-droid.org/app/net.cozic.joplin)]**</sup>
 * [**jtx Board**](https://github.com/TechbeeAT/jtxBoard) <sup>**[[F-Droid](https://www.f-droid.org/app/at.techbee.jtx)]**</sup>
 * [**Linwood Butterfly**](https://github.com/LinwoodCloud/butterfly) <sup>**[[F-Droid](https://f-droid.org/app/dev.linwood.butterfly.nightly)]**</sup>
+* [**Local Material Notes**](https://github.com/maelchiotti/LocalMaterialNotes) <sup>**[[F-Droid](https://f-droid.org/app/com.maelchiotti.localmaterialnotes)]**</sup>
 * [**Markor**](https://github.com/gsantner/markor) <sup>**[[F-Droid](https://f-droid.org/app/net.gsantner.markor)]**</sup>
 * [**Mavinote**](https://github.com/bwqr/mavinote) <sup>**[[F-Droid](https://f-droid.org/app/com.bwqr.mavinote)]**</sup>
 * [**My Brain**](https://github.com/mhss1/MyBrain) <sup>**[[F-Droid](https://f-droid.org/app/com.mhss.app.mybrain)]**</sup>
