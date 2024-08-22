@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Android FOSS</title>
+	<link rel="stylesheet" href="">
+	<link rel="icon" href="android.svg" type="image/svg+xml">
+	<style>
+		main
+		{
+			font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+			font-size: 16px;
+			line-height: 1.5;
+			width: 960px;
+			margin: auto;
+		}
+		select
+		{
+			position: fixed;
+			bottom: 0;
+			right: 0;
+		}
+	</style>
+</head>
+<body>
+
+	<select onchange="changeCSS( this.value )">
+		<option value="darkly">Darkly</option>
+		<option value="united">United</option>
+		<option value="flatly">Flatly</option>
+		<option value="quartz">Quartz</option>
+	</select>
+
+	<main></main>
+
+	<!-- JavaScript Library to Convert Markdown into HTML -->
+	<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+	<!-- Marked plugin to add heading ID's -->
+	<script src="https://cdn.jsdelivr.net/npm/marked-gfm-heading-id/lib/index.umd.js"></script>
+
+	<script>
+		// Basic Settings
+		const defaultTheme = 'darkly';
+		const bootswatchVersion = '5.3.3'; // Last updated: 7 March, 2024
+		// Update last one only when https://www.jsdelivr.com/package/npm/bootswatch is updated.
+
+		// Configure marked.js to use Github heading ID's to allow the Contents list to function
+		marked.use( markedGfmHeadingId.gfmHeadingId() );
+
+		// Get the markdown file, convert it to HTML & put it inside the main tag
+		fetch( 'https://raw.githubusercontent.com/offa/android-foss/master/README.md' )
+			.then( response => response.text() )
+			.then( data => {
+				document.querySelector( 'main' ).innerHTML = marked.parse( data );
+			})
+			.catch( error => console.error( 'Error:', error ) );
+
+		// Change the theme
+		function changeCSS( theme )
+		{
+			document.querySelector( 'link' ).href
+					= `https://cdn.jsdelivr.net/npm/bootswatch@${bootswatchVersion}/dist/${theme}/bootstrap.min.css`;
+		}
+
+		// Set the default theme
+		changeCSS( defaultTheme );
+	</script>
+</body>
+</html>
