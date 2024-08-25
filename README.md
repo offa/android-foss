@@ -209,6 +209,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Community Clients
 
+* [**Dhaaga (Lite)**](https://github.com/suvam0451/dhaaga) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/io.suvam.dhaaga.lite)]**</sup>
 * [**Eternity**](https://codeberg.org/Bazsalanszky/Eternity) <sup>**[[F-Droid](https://f-droid.org/app/eu.toldi.infinityforlemmy)]**</sup>
 * [**Fedilab**](https://codeberg.org/tom79/Fedilab) <sup>**[[F-Droid](https://f-droid.org/app/fr.gouv.etalab.mastodon)]**</sup>
 * [**Fritter**](https://github.com/jonjomckay/fritter) <sup>**[[F-Droid](https://f-droid.org/app/com.jonjomckay.fritter)]**</sup>
@@ -241,7 +242,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**AndroidIDE**](https://github.com/AndroidIDEOfficial/AndroidIDE) <sup>**[[F-Droid](https://f-droid.org/app/com.itsaky.androidide)]**</sup>
 * [**Godot Editor**](https://github.com/godotengine/godot) <sup>**[[F-Droid](https://f-droid.org/app/org.godotengine.editor.v3)]**</sup>
-* [**TermuC**](TermuC) <sup>**[[F-Droid](https://f-droid.org/app/cn.rbc.termuc/)]**</sup>
+* [**TermuC**](TermuC) <sup>**[[F-Droid](https://f-droid.org/app/cn.rbc.termuc)]**</sup>
 
 ### • Dialer
 
