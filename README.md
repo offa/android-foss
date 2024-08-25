@@ -242,7 +242,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**AndroidIDE**](https://github.com/AndroidIDEOfficial/AndroidIDE) <sup>**[[F-Droid](https://f-droid.org/app/com.itsaky.androidide)]**</sup>
 * [**Godot Editor**](https://github.com/godotengine/godot) <sup>**[[F-Droid](https://f-droid.org/app/org.godotengine.editor.v3)]**</sup>
-* [**TermuC**](TermuC) <sup>**[[F-Droid](https://f-droid.org/app/cn.rbc.termuc)]**</sup>
+* [**TermuC**](https://github.com/RainbowC0/TermuC) <sup>**[[F-Droid](https://f-droid.org/app/cn.rbc.termuc)]**</sup>
 
 ### • Dialer
 
