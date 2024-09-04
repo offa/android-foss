@@ -507,6 +507,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Motion Eye**](https://github.com/JairajJangle/motioneye-android) <sup>**[[F-Droid](https://www.f-droid.org/app/com.jairaj.janglegmail.motioneye)]**</sup>
 * [**Openreads**](https://github.com/mateusz-bak/openreads) <sup>**[[F-Droid](https://f-droid.org/app/software.mdev.bookstracker)]**</sup>
 * [**RustDesk**](https://github.com/rustdesk/rustdesk) <sup>**[[F-Droid](https://f-droid.org/app/com.carriez.flutter_hbb)]**</sup>
+* [**Safe Space**](https://github.com/aashishksahu/SafeSpace) <sup>**[[F-Droid](https://f-droid.org/app/org.privacymatters.safespace)]**</sup>
 * [**Simple Time Tracker**](https://github.com/Razeeman/Android-SimpleTimeTracker) <sup>**[[F-Droid](https://f-droid.org/app/com.razeeman.util.simpletimetracker)]**</sup>
 * [**xBrowserSync**](https://github.com/xbrowsersync/app) <sup>**[[F-Droid](https://f-droid.org/app/com.xBrowserSync.android)]**</sup>
 
