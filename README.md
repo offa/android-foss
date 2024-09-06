@@ -536,6 +536,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Gramophone**](https://github.com/AkaneTan/Gramophone) <sup>**[[F-Droid](https://f-droid.org/app/org.akanework.gramophone)]**</sup>
 * [**Harmony Music**](https://github.com/anandnet/Harmony-Music) <sup>**[[F-Droid](https://f-droid.org/app/com.anandnet.harmonymusic)]**</sup>
 * [**InnerTune**](https://github.com/z-huang/InnerTune) <sup>**[[F-Droid](https://f-droid.org/app/com.zionhuang.music)]**</sup>
+    * [**InnerTune (Fork)**](https://github.com/Malopieds/InnerTune) <sup>**[[F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.malopieds.innertune)]**</sup>
+    * [**Outer Tune**](https://github.com/DD3Boh/OuterTune) <sup>**[[F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.dd3boh.outertune)]**</sup>
 * [**little music player**](https://github.com/martinmimigames/little-music-player) <sup>**[[F-Droid](https://www.f-droid.org/app/com.martinmimigames.littlemusicplayer)]**</sup>
 * [**Metro**](https://github.com/MuntashirAkon/Metro) <sup>**[[F-Droid](https://f-droid.org/app/io.github.muntashirakon.Music)]**</sup>
 * [**Music Player GO**](https://github.com/enricocid/Music-Player-GO) <sup>**[[F-Droid](https://f-droid.org/app/com.iven.musicplayergo)]**</sup>
