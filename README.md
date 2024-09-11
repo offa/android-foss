@@ -660,7 +660,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Brainf**](https://github.com/fredhappyface/android.brainf) <sup>**[[F-Droid](https://f-droid.org/app/com.fredhappyface.brainf)]**</sup>
 * [**Bubble**](https://github.com/woheller69/level) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.level)]**</sup>
 * [**ChemistryLab**](https://gitlab.com/asdoi/ChemistryLab)
-* [**Geomag**](https://github.com/ya0211/Geomag) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.sanmer.geomag)]**</sup>
 * [**Git+ Coach**](https://github.com/vishal2376/git-coach) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.vishal2376.gitcoach)]**</sup>
 * [**Linux Command Library**](https://github.com/SimonSchubert/LinuxCommandLibrary) <sup>**[[F-Droid](https://f-droid.org/app/com.inspiredandroid.linuxcommandbibliotheca)]**</sup>
 * [**phyphox**](https://github.com/phyphox/phyphox-android) <sup>**[[F-Droid](https://f-droid.org/app/de.rwth_aachen.phyphox)]**</sup>
