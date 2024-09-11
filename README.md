@@ -1106,7 +1106,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**SimplyTranslate Mobile**](https://github.com/ManeraKai/simplytranslate_mobile) <sup>**[[F-Droid](https://www.f-droid.org/app/com.simplytranslate_mobile)]**</sup><br>
 *  <sup>**[[F-Droid](https://www.f-droid.org/app/com.sunilpaulmathew.translator)]**</sup><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunilpaulmathew\&repo=Translator&cache_seconds=86400&theme=shadow_blue)](https://github.com/sunilpaulmathew/Translator)
-*  <sup>**[[F-Droid](https://f-droid.org/app/com.bnyro.translate)]**</sub>
+*  <sup>**[[F-Droid](https://f-droid.org/app/com.bnyro.translate)]**</sub><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=you-apps\&repo=TranslateYou&cache_seconds=86400&theme=shadow_blue)](https://github.com/you-apps/TranslateYou)
 
 ### • URL Manipulation
