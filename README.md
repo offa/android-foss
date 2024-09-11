@@ -1,3 +1,6 @@
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Depact\&repo=android-foss&cache_seconds=86400&theme=vision-friendly-dark)
+
 # Android FOSS
 
 [![CI](https://github.com/offa/android-foss/workflows/ci/badge.svg)](https://github.com/offa/android-foss/actions)
