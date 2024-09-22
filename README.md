@@ -665,6 +665,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Linux Command Library**](https://github.com/SimonSchubert/LinuxCommandLibrary) <sup>**[[F-Droid](https://f-droid.org/app/com.inspiredandroid.linuxcommandbibliotheca)]**</sup>
 * [**phyphox**](https://github.com/phyphox/phyphox-android) <sup>**[[F-Droid](https://f-droid.org/app/de.rwth_aachen.phyphox)]**</sup>
 * [**PSLab**](https://github.com/fossasia/pslab-android) <sup>**[[F-Droid](https://f-droid.org/app/io.pslab)]**</sup>
+* [**Sky Map**](https://github.com/sky-map-team/stardroid) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.google.android.stardroid)]**</sup>
 * [**Snow**](https://github.com/sahej-dev/Snow) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.sahej.snow)]**</sup>
 * [**Wikipedia**](https://github.com/wikimedia/apps-android-wikipedia) <sup>**[[F-Droid](https://f-droid.org/app/org.wikipedia)]**</sup>
 
