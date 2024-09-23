@@ -453,6 +453,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Clipious**](https://github.com/lamarios/clipious) <sup>**[[F-Droid](https://f-droid.org/app/com.github.lamarios.clipious)]**</sup>
 * [**Jellyfin**](https://github.com/jellyfin/jellyfin-android) <sup>**[[F-Droid](https://f-droid.org/app/org.jellyfin.mobile)]**</sup>
 * [**LibreTube**](https://github.com/libre-tube/LibreTube) <sup>**[[F-Droid](https://f-droid.org/app/com.github.libretube)]**</sup>
+* [**Materialious**](https://github.com/Materialious/Materialious) <sup>**[[F-Droid](https://f-droid.org/app/us.materialio.app)]**</sup>
 * [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) <sup>**[[F-Droid](https://f-droid.org/app/org.schabi.newpipe)]**</sup>
     * [**PipePipe**](https://codeberg.org/NullPointerException/PipePipe) <sup>**[[F-Droid](https://www.f-droid.org/app/InfinityLoop1309.NewPipeEnhanced)]**</sup>
     * [**Tubular**](https://github.com/polymorphicshade/Tubular)
