@@ -30,6 +30,8 @@ jobs:
       contents: read
     name: Ensure sorted
     steps:
+      - name: Checkout
+        uses: actions/checkout@main
       - name: Ensure sorted
         run: python3 ensure_sorted.py
 

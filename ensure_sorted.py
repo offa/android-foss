@@ -74,7 +74,7 @@ def main():
             categories.append(category)
         # This is also a category
         elif lines[i].startswith("## –"):
-            category_name = re.findall("(?<=##\s–\s).*?(?=\s–)", lines[i])[0]
+            category_name = re.findall("(?<=##\\s–\\s).*?(?=\\s–)", lines[i])[0]
             category = Category(category_name)
             categories.append(category)
         # This is an app
