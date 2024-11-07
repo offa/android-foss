@@ -72,6 +72,11 @@ def main():
         if lines[i].startswith("### •"):
             category = Category(lines[i][6:-1])
             categories.append(category)
+        # This is also a category
+        elif lines[i].startswith("## –"):
+            category_name = re.findall("(?<=##\s–\s).*?(?=\s–)", lines[i])[0]
+            category = Category(category_name)
+            categories.append(category)
         # This is an app
         elif lines[i].startswith("*"):
             # The last category in the categories list is the one we're working on
