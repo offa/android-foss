@@ -74,7 +74,7 @@ def main():
             categories.append(category)
         # This is also a category
         elif lines[i].startswith("## –"):
-            category_name = re.findall("(?<=##\s–\s).*?(?=\s–)", lines[i])[0]
+            category_name = re.findall("(?<=##\\s–\\s).*?(?=\\s–)", lines[i])[0]
             category = Category(category_name)
             categories.append(category)
         # This is an app
@@ -93,7 +93,7 @@ def main():
             longest_str = len(max(unsorted, key=len))
             for j in range(len(sorted)):
                 color = sorted[j] != unsorted[j]
-                print(f'        {bcolors.RED if color else ''}{unsorted[j]}{bcolors.ENDC if color else ''}{((longest_str-len(unsorted[j]))+2) * ' '}{bcolors.GREEN if color else ''}{sorted[j]}{bcolors.ENDC if color else ''}')
+                print(f'        {bcolors.RED if color else ""}{unsorted[j]}{bcolors.ENDC if color else ""}{((longest_str-len(unsorted[j]))+2) * " "}{bcolors.GREEN if color else ""}{sorted[j]}{bcolors.ENDC if color else ""}')
             all_sorted = False
 
     if not all_sorted:
