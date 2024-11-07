@@ -36,8 +36,16 @@ class Category:
             if self.apps[i] < self.apps[i-1]:
                 return f'App {bcolors.RED}{self.apps[i-1]}{bcolors.ENDC} is not in the correct order'
                 
-    def get_sorted_list(self):
-        return sorted(self.apps)
+    def how_to_sort(self):
+        sorted_apps = sorted(self.apps)
+        unsorted_apps = self.apps.copy()
+        for i in range(len(sorted_apps)):
+            if sorted_apps[i] != unsorted_apps[i]:
+                # Color it
+                sorted_apps[i] = f'{sorted_apps[i]}'
+                unsorted_apps[i] = f'{unsorted_apps[i]}'
+
+        return sorted_apps, unsorted_apps
 
     def __str__(self):
         return str(self.apps)
@@ -76,8 +84,11 @@ def main():
             print(f'Category {bcolors.BLUE}{i.name}{bcolors.ENDC} is not sorted')
             print('    ' + i.where_unsorted())
             print('    Should be sorted as follows:')
-            for j in i.get_sorted_list():
-                print(f'        {j}')
+            sorted, unsorted = i.how_to_sort()
+            longest_str = len(max(unsorted, key=len))
+            for j in range(len(sorted)):
+                color = sorted[j] != unsorted[j]
+                print(f'        {bcolors.RED if color else ''}{unsorted[j]}{bcolors.ENDC if color else ''}{((longest_str-len(unsorted[j]))+2) * ' '}{bcolors.GREEN if color else ''}{sorted[j]}{bcolors.ENDC if color else ''}')
             all_sorted = False
 
     if not all_sorted:
