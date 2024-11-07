@@ -26,6 +26,8 @@ jobs:
 
   ensure_sorted:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     name: Ensure sorted
     steps:
       - name: Ensure sorted
