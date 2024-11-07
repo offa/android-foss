@@ -3,11 +3,11 @@ import re
 
 class bcolors:
     HEADER = '\033[95m'
-    OKBLUE = '\033[94m'
-    OKCYAN = '\033[96m'
-    OKGREEN = '\033[92m'
-    WARNING = '\033[93m'
-    FAIL = '\033[91m'
+    BLUE = '\033[94m'
+    CYAN = '\033[96m'
+    GREEN = '\033[92m'
+    YELLOW = '\033[93m'
+    RED = '\033[91m'
     ENDC = '\033[0m'
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
@@ -29,6 +29,15 @@ class Category:
     def is_sorted(self):
         # I know not effiencent
         return sorted(self.apps) == self.apps
+
+    # Tell exactly where it's unsorted
+    def where_unsorted(self):
+        for i in range(1, len(self.apps)):
+            if self.apps[i] < self.apps[i-1]:
+                return f'App {bcolors.RED}{self.apps[i-1]}{bcolors.ENDC} is not in the correct order'
+                
+    def get_sorted_list(self):
+        return sorted(self.apps)
 
     def __str__(self):
         return str(self.apps)
@@ -64,7 +73,11 @@ def main():
     all_sorted = True
     for i in categories:
         if not i.is_sorted():
-            print(f'Category {bcolors.OKBLUE}{i.name}{bcolors.ENDC} is not sorted')
+            print(f'Category {bcolors.BLUE}{i.name}{bcolors.ENDC} is not sorted')
+            print('    ' + i.where_unsorted())
+            print('    Should be sorted as follows:')
+            for j in i.get_sorted_list():
+                print(f'        {j}')
             all_sorted = False
 
     if not all_sorted:
