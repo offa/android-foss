@@ -1,6 +1,6 @@
 name: ci
 
-on: [push, pull_request]
+on: [push, pull_request, workflow_dispatch]
 
 jobs:
   build:
@@ -27,5 +27,7 @@ jobs:
   ensure_sorted:
     runs-on: ubuntu-latest
     name: Ensure sorted
-    run: ./ensure_sorted.py
+    steps:
+      - name: Ensure sorted
+        run: ./ensure_sorted.py
 
