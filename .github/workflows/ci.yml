@@ -23,3 +23,9 @@ jobs:
         with:
           files: "*.md"
           config_file: .markdownlint.json
+
+  ensure_sorted:
+    runs-on: ubuntu-latest
+    name: Ensure sorted
+    run: ./ensure_sorted.py
+
