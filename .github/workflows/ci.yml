@@ -31,5 +31,5 @@ jobs:
     name: Ensure sorted
     steps:
       - name: Ensure sorted
-        run: ./ensure_sorted.py
+        run: python3 ./ensure_sorted.py
 
