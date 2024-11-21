@@ -732,6 +732,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**DroidFS**](https://github.com/hardcore-sushi/DroidFS) <sup>**[[F-Droid](https://f-droid.org/app/sushi.hardcore.droidfs)]**</sup>
 * [**DSU Sideloader**](https://github.com/VegaBobo/DSU-Sideloader) <sup>**[[F-Droid](https://f-droid.org/app/vegabobo.dsusideloader)]**</sup>
 * [**Geto**](https://github.com/JackEblan/Geto) <sup>**[[F-Droid](https://f-droid.org/app/com.android.geto)]**</sup>
+* [**Headwind MDM Agent**](https://github.com/h-mdm/hmdm-android) <sup>**[[F-Droid](https://f-droid.org/app/com.hmdm.launcher)]**</sup>
 * [**Inure App Manager (Trial)**](https://github.com/Hamza417/Inure) <sup>**[[F-Droid](https://f-droid.org/app/app.simple.inure)]**</sup>
 * [**LibChecker**](https://github.com/zhaobozhen/LibChecker) <sup>**[[F-Droid](https://f-droid.org/app/com.absinthe.libchecker)]**</sup>
 * [**LogFox**](https://github.com/F0x1d/LogFox) <sup>**[[F-Droid](https://f-droid.org/app/com.f0x1d.logfox)]**</sup>
