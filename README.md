@@ -32,7 +32,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Email Aliases](#-email-aliases)
     * [Email Clients](#-email-clients)
     * [Emulator](#-emulator)
-    * [Encryption](#-encryption)
+    * [File Encryption](#-file-encryption)
     * [File Manager](#-file-manager)
     * [File Sharing](#-file-sharing)
     * [Finance](#-finance)
@@ -318,12 +318,11 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Limbo x86 PC Emulator**](https://github.com/limboemu/limbo) <sup>**[[F-Droid](https://f-droid.org/app/com.limbo.emu.main)]**</sup>
 
-### • Encryption
+### • File Encryption
 
 * [**Cryptomator**](https://github.com/cryptomator/android) <sup>**[[F-Droid](https://f-droid.org/app/org.cryptomator.lite)]**</sup>
 * [**DroidFS**](https://forge.chapril.org/hardcoresushi/DroidFS) <sup>**[[F-Droid](https://f-droid.org/app/sushi.hardcore.droidfs)]**</sup>
 * [**Koofr Vault**](https://github.com/koofr/vault) <sup>**[[F-Droid](https://f-droid.org/app/net.koofr.vault)]**</sup>
-* [**Valv**](https://github.com/Arctosoft/Valv-Android) <sup>**[[F-Droid](https://www.f-droid.org/app/se.arctosoft.vault)]**</sup>
 
 ### • File Manager
 
@@ -336,7 +335,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • File Sharing
 
-* [**Cryptomator**](https://github.com/cryptomator/android) <sup>**[[F-Droid](https://f-droid.org/app/org.cryptomator.lite)]**</sup>
 * [**Custom Uploader**](https://github.com/SrS2225a/custom_uploader) <sup>**[[F-Droid](https://f-droid.org/app/com.nyx.custom_uploader)]**</sup>
 * [**Device Connect**](https://github.com/cyanomiko/dcnnt-android) <sup>**[[F-Droid](https://www.f-droid.org/app/net.dcnnt)]**</sup>
 * [**Filester**](https://github.com/rouzbehzarei/filester) <sup>**[[F-Droid](https://f-droid.org/app/com.roozbehzarei.filester)]**</sup>
@@ -649,6 +647,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**PilferShush Jammer**](https://github.com/kaputnikGo/PilferShushJammer) <sup>**[[F-Droid](https://www.f-droid.org/app/cityfreqs.com.pilfershushjammer)]**</sup>
 * [**Privacy Indicator**](https://github.com/NitishGadangi/Privacy-Indicator-App) <sup>**[[F-Droid](https://f-droid.org/app/com.nitish.privacyindicator)]**</sup>
 * [**Safe Space**](https://github.com/aashishksahu/SafeSpace) <sup>**[[F-Droid](https://f-droid.org/app/org.privacymatters.safespace)]**</sup>
+* [**Valv**](https://github.com/Arctosoft/Valv-Android) <sup>**[[F-Droid](https://www.f-droid.org/app/se.arctosoft.vault)]**</sup>
 * [**Vigilante**](https://github.com/FunkyMuse/Vigilante) <sup>**[[F-Droid](https://f-droid.org/app/com.crazylegend.vigilante)]**</sup>
 
 ### • Public Transport
@@ -736,7 +735,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Dark theme**](https://github.com/phstudio2/Darktheme) <sup>**[[F-Droid](https://f-droid.org/app/com.phstudio.darktheme)]**</sup>
 * [**De-Bloater**](https://github.com/sunilpaulmathew/De-Bloater) <sup>**[[F-Droid](https://f-droid.org/app/com.sunilpaulmathew.debloater)]**</sup>
 * [**Dhizuku**](https://github.com/iamr0s/Dhizuku) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.rosan.dhizuku)]**</sup>
-* [**DroidFS**](https://github.com/hardcore-sushi/DroidFS) <sup>**[[F-Droid](https://f-droid.org/app/sushi.hardcore.droidfs)]**</sup>
 * [**DSU Sideloader**](https://github.com/VegaBobo/DSU-Sideloader) <sup>**[[F-Droid](https://f-droid.org/app/vegabobo.dsusideloader)]**</sup>
 * [**Geto**](https://github.com/JackEblan/Geto) <sup>**[[F-Droid](https://f-droid.org/app/com.android.geto)]**</sup>
 * [**Headwind MDM Agent**](https://github.com/h-mdm/hmdm-android) <sup>**[[F-Droid](https://f-droid.org/app/com.hmdm.launcher)]**</sup>
