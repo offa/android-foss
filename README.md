@@ -32,6 +32,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Email Aliases](#-email-aliases)
     * [Email Clients](#-email-clients)
     * [Emulator](#-emulator)
+    * [Encryption](#-encryption)
     * [File Manager](#-file-manager)
     * [File Sharing](#-file-sharing)
     * [Finance](#-finance)
@@ -316,6 +317,13 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Emulator
 
 * [**Limbo x86 PC Emulator**](https://github.com/limboemu/limbo) <sup>**[[F-Droid](https://f-droid.org/app/com.limbo.emu.main)]**</sup>
+
+### • Encryption
+
+* [**Cryptomator**](https://github.com/cryptomator/android) <sup>**[[F-Droid](https://f-droid.org/app/org.cryptomator.lite)]**</sup>
+* [**DroidFS**](https://forge.chapril.org/hardcoresushi/DroidFS) <sup>**[[F-Droid](https://f-droid.org/app/sushi.hardcore.droidfs)]**</sup>
+* [**Koofr Vault**](https://github.com/koofr/vault) <sup>**[[F-Droid](https://f-droid.org/app/net.koofr.vault)]**</sup>
+* [**Valv**](https://github.com/Arctosoft/Valv-Android) <sup>**[[F-Droid](https://www.f-droid.org/app/se.arctosoft.vault)]**</sup>
 
 ### • File Manager
 
@@ -641,7 +649,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**PilferShush Jammer**](https://github.com/kaputnikGo/PilferShushJammer) <sup>**[[F-Droid](https://www.f-droid.org/app/cityfreqs.com.pilfershushjammer)]**</sup>
 * [**Privacy Indicator**](https://github.com/NitishGadangi/Privacy-Indicator-App) <sup>**[[F-Droid](https://f-droid.org/app/com.nitish.privacyindicator)]**</sup>
 * [**Safe Space**](https://github.com/aashishksahu/SafeSpace) <sup>**[[F-Droid](https://f-droid.org/app/org.privacymatters.safespace)]**</sup>
-* [**Valv**](https://github.com/Arctosoft/Valv-Android) <sup>**[[F-Droid](https://www.f-droid.org/app/se.arctosoft.vault)]**</sup>
 * [**Vigilante**](https://github.com/FunkyMuse/Vigilante) <sup>**[[F-Droid](https://f-droid.org/app/com.crazylegend.vigilante)]**</sup>
 
 ### • Public Transport
