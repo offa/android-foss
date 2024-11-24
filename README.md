@@ -150,6 +150,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**BatteryBot Pro**](https://github.com/darshan-/Battery-Indicator-Pro) <sup>**[[F-Droid](https://f-droid.org/app/com.darshancomputing.BatteryIndicatorPro)]**</sup>
 * [**BCL**](https://github.com/MuntashirAkon/BatteryChargeLimiter) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/io.github.muntashirakon.bcl)]**</sup>
 * [**SaverTuner**](https://codeberg.org/s1m/savertuner) <sup>**[[F-Droid](https://f-droid.org/app/s1m.savertuner)]**</sup>
+* [**Wattz**](https://github.com/dubrowgn/wattz) <sup>**[[F-Droid](https://f-droid.org/packages/dubrowgn.wattz)]**</sup>
 
 ### • Browser
 
