@@ -350,7 +350,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Finance
 
-* [**Aaru**](https://github.com/KSSidll/Arru) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.kssidll.arru)]**</sup>
+* [**Arru**](https://github.com/KSSidll/Arru) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.kssidll.arru)]**</sup>
 * [**Currencies**](https://github.com/sal0max/currencies) <sup>**[[F-Droid](https://f-droid.org/app/de.salomax.currencies)]**</sup>
 * [**FDTracker**](https://github.com/Abhay-cloud/Fixed-Deposit-Tracker) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/dev.abhaycloud.fdtracker)]**</sup>
 * [**GreenStash**](https://github.com/Pool-Of-Tears/GreenStash) <sup>**[[F-Droid](https://f-droid.org/app/com.starry.greenstash)]**</sup>
