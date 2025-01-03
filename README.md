@@ -566,6 +566,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Phonograph Plus**](https://github.com/chr56/Phonograph_Plus) <sup>**[[F-Droid](https://f-droid.org/app/player.phonograph.plus)]**</sup>
 * [**raag**](https://github.com/raag-music/raag) <sup>**[[F-Droid](https://f-droid.org/app/in.amfoss.raag)]**</sup>
 * [**RadioDroid**](https://github.com/segler-alex/RadioDroid) <sup>**[[F-Droid](https://f-droid.org/app/net.programmierecke.radiodroid2)]**</sup>
+* [**RiMusic**](https://github.com/fast4x/RiMusic) <sup>**[[F-Droid](https://www.f-droid.org/app/it.fast4x.rimusic)]**</sup>
 * [**SimpMusic**](https://github.com/maxrave-dev/SimpMusic) <sup>**[[F-Droid](https://f-droid.org/app/com.maxrave.simpmusic)]**</sup>
 * [**SongTube**](https://github.com/SongTube/SongTube-App)
 * [**SpMp**](https://github.com/toasterofbread/spmp) <sup>**[[F-Droid](https://f-droid.org/app/com.toasterofbread.spmp)]**</sup>
@@ -576,7 +577,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [**Headphone Detector**](https://vanilla-music.github.io/) <sup>**[[F-Droid](https://f-droid.org/app/ch.blinkenlights.android.vanillaplug)]**</sup>
     * [**Lyric Search**](https://vanilla-music.github.io/) <sup>**[[F-Droid](https://f-droid.org/app/com.kanedias.vanilla.lyrics)]**</sup>
     * [**Tag Editor**](https://vanilla-music.github.io/) <sup>**[[F-Droid](https://f-droid.org/app/com.kanedias.vanilla.audiotag)]**</sup>
-* [**ViMusic**](https://github.com/vfsfitvnm/ViMusic) <sup>**[[F-Droid](https://www.f-droid.org/app/it.vfsfitvnm.vimusic)]**</sup>
 * [**Vinyl Music Player**](https://github.com/AdrienPoupa/VinylMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/app/com.poupa.vinylmusicplayer)]**</sup>
 
 ### • Notes
