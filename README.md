@@ -162,6 +162,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**FOSS Browser**](https://codeberg.org/Gaukler_Faun/FOSS_Browser) <sup>**[[F-Droid](https://www.f-droid.org/app/de.baumann.browser)]**</sup>
 * [**Fulguris Web Browser**](https://github.com/Slion/Fulguris) <sup>**[[F-Droid](https://www.f-droid.org/app/net.slions.fulguris.full.fdroid)]**</sup>
 * [**IdiomReplaceX Browser App**](https://github.com/idiomReplaceX/IdiomReplaceX-app) <sup>**[[F-Droid](https://www.f-droid.org/app/de.idiomreplacex.browser_app)]**</sup>
+* [**IronFox**](https://gitlab.com/ironfox-oss/IronFox)
 * [**Lightning**](http://acrdevelopment.org/) <sup>**[[F-Droid](https://f-droid.org/app/acr.browser.lightning)]**</sup>
 * [**Monocles Browser**](https://codeberg.org/Arne/monocles_browser) <sup>**[[F-Droid](https://f-droid.org/app/de.monocles.browser)]**</sup>
 * [**Orbot**](https://github.com/guardianproject/orbot)
