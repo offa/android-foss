@@ -285,6 +285,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Aria2App**](https://github.com/devgianlu/Aria2App) <sup>**[[F-Droid](https://f-droid.org/app/com.gianlu.aria2app)]**</sup>
 * [**Download Navi**](https://github.com/TachibanaGeneralLaboratories/download-navi) <sup>**[[F-Droid](https://f-droid.org/app/com.tachibana.downloader)]**</sup>
 * [**dvd**](https://github.com/yausername/dvd) <sup>**[[F-Droid](https://f-droid.org/app/org.yausername.dvd)]**</sup>
+* [**Gopeed**](https://github.com/GopeedLab/gopeed)
 * [**LibreTorrent**](https://github.com/proninyaroslav/libretorrent) <sup>**[[F-Droid](https://f-droid.org/app/org.proninyaroslav.libretorrent)]**</sup>
 * [**Myne**](https://github.com/Pool-Of-Tears/Myne) <sup>**[[F-Droid](https://f-droid.org/app/com.starry.myne)]**</sup>
 * [**Openlib**](https://github.com/dstark5/Openlib) <sup>**[[F-Droid](https://f-droid.org/app/com.app.openlib)]**</sup>
