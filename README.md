@@ -767,6 +767,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Editor**](https://github.com/billthefarmer/editor) <sup>**[[F-Droid](https://f-droid.org/app/org.billthefarmer.editor)]**</sup>
 * [**Emacs**](https://git.savannah.gnu.org/cgit/emacs.git/tree/?h=feature/android) <sup>**[[F-Droid](https://www.f-droid.org/app/org.gnu.emacs)]**</sup>
 * [**Squircle CE**](https://github.com/massivemadness/Squircle-CE) <sup>**[[F-Droid](https://f-droid.org/app/com.blacksquircle.ui)]**</sup>
+* [**Xed-Editor (Karbon)**](https://github.com/Xed-Editor/Xed-Editor) <sup>**[[F-Droid](https://f-droid.org/app/com.rk.xededitor)]**</sup>
 
 ### • Text-to-Speech
 
