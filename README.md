@@ -300,6 +300,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Drawing
 
+* [**Fossify Paint**](https://github.com/FossifyOrg/Paint) <sup>**[[F-Droid](https://www.f-droid.org/app/org.fossify.paint)]**</sup>
 * [**FreePaint**](https://github.com/pastthepixels/FreePaint) <sup>**[[F-Droid](https://www.f-droid.org/app/io.github.pastthepixels.freepaint)]**</sup>
 * [**PxerStudio**](https://github.com/BennyKok/PxerStudio) <sup>**[[F-Droid](https://www.f-droid.org/app/com.benny.pxerstudio)]**</sup>
 
