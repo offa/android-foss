@@ -634,6 +634,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Keyoxide**](https://codeberg.org/keyoxide/keyoxide-flutter) <sup>**[[F-Droid](https://f-droid.org/app/org.keyoxide.keyoxide)]**</sup>
 * [**Mauth**](https://github.com/X1nto/Mauth) <sup>**[[F-Droid](https://f-droid.org/app/com.xinto.mauth)]**</sup>
 * [**OpenKeychain**](https://github.com/open-keychain/open-keychain) <sup>**[[F-Droid](https://www.f-droid.org/app/org.sufficientlysecure.keychain)]**</sup>
+* [**Password Monitor**](https://github.com/StellarSand/Password-Monitor) <sup>**[[F-Droid](https://www.f-droid.org/app/com.password.monitor)]**</sup>
 * [**Vault**](https://github.com/arsvechkarev/Vault) <sup>**[[F-Droid](https://f-droid.org/app/com.arsvechkarev.vault)]**</sup>
 
 ### • Podcast & Audio Book Player
