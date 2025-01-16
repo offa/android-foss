@@ -409,7 +409,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Image Viewer & Gallery
 
 * [**Aves**](https://github.com/deckerst/aves) <sup>**[[F-Droid](https://f-droid.org/app/deckers.thibault.aves.libre)]**</sup>
-* [**ente Photos**](https://github.com/ente-io/ente) <sup>**[[F-Droid](https://f-droid.org/app/io.ente.photos.fdroid)]**</sup>
+* [**Ente Photos**](https://github.com/ente-io/ente) <sup>**[[F-Droid](https://f-droid.org/app/io.ente.photos.fdroid)]**</sup>
 * [**Fossify Gallery**](https://github.com/FossifyOrg/Gallery) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.gallery)]**</sup>
 * [**Gallery**](https://github.com/IacobIonut01/Gallery) <sup>**[[F-Droid](https://f-droid.org/app/com.dot.gallery)]**</sup>
 * [**Stingle Photos**](https://github.com/stingle/stingle-photos-android) <sup>**[[F-Droid](https://f-droid.org/app/org.stingle.photos)]**</sup>
@@ -629,6 +629,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**AuthenticatorPro**](https://github.com/jamie-mh/AuthenticatorPro)
 * [**AuthPass**](https://github.com/authpass/authpass) <sup>**[[F-Droid](https://f-droid.org/app/design.codeux.authpass.fdroid)]**</sup>
 * [**Bitwarden**](https://github.com/bitwarden/android)
+* [**Ente Auth**](https://github.com/ente-io/ente) <sup>**[[F-Droid](https://f-droid.org/app/io.ente.auth)]**</sup>
 * [**FreeOTP+**](https://github.com/helloworld1/FreeOTPPlus) <sup>**[[F-Droid](https://f-droid.org/app/org.liberty.android.freeotpplus)]**</sup>
 * [**Is Your Password Secure?**](https://github.com/StellarSand/IYPS) <sup>**[[F-Droid](https://f-droid.org/app/com.iyps)]**</sup>
 * [**KeePassDX**](https://github.com/Kunzisoft/KeePassDX) <sup>**[[F-Droid](https://f-droid.org/app/com.kunzisoft.keepass.libre)]**</sup>
