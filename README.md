@@ -28,7 +28,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Document &amp; PDF Viewer](#-document--pdf-viewer)
     * [Document Scanner](#-document-scanner)
     * [Downloader &amp; Manager](#-downloader--manager)
-    * [Drawing](#-drawing)
     * [Email Aliases](#-email-aliases)
     * [Email Clients](#-email-clients)
     * [Emulator](#-emulator)
@@ -39,6 +38,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Firewall](#-firewall)
     * [Flashcard](#-flashcard)
     * [Flashlight](#-flashlight)
+    * [Graphics](#-graphics)
     * [Habit Tracker](#-habit-tracker)
     * [Icon Packs](#-icon-packs)
     * [Image Manipulation](#-image-manipulation)
@@ -53,7 +53,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Music &amp; Audio Player](#-music--audio-player)
     * [Notes](#-notes)
     * [Office](#-office)
-    * [Painting](#-painting)
     * [Password &amp; Authentication](#-password--authentication)
     * [Podcast &amp; Audio Book Player](#-podcast--audio-book-player)
     * [Privacy &amp; Security](#-privacy--security)
@@ -299,12 +298,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**TorrServe**](https://github.com/YouROK/TorrServe) <sup>**[[F-Droid](https://f-droid.org/app/ru.yourok.torrserve)]**</sup>
 * [**YTDLnis**](https://github.com/deniscerri/ytdlnis) <sup>**[[IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.deniscerri.ytdl)]**</sup>
 
-### • Drawing
-
-* [**Fossify Paint**](https://github.com/FossifyOrg/Paint) <sup>**[[F-Droid](https://www.f-droid.org/app/org.fossify.paint)]**</sup>
-* [**FreePaint**](https://github.com/pastthepixels/FreePaint) <sup>**[[F-Droid](https://www.f-droid.org/app/io.github.pastthepixels.freepaint)]**</sup>
-* [**PxerStudio**](https://github.com/BennyKok/PxerStudio) <sup>**[[F-Droid](https://www.f-droid.org/app/com.benny.pxerstudio)]**</sup>
-
 ### • Email Aliases
 
 * [**addy.io Android**](https://gitlab.com/Stjin/anonaddy-android) <sup>**[[F-Droid](https://www.f-droid.org/app/host.stjin.anonaddy)]**</sup>
@@ -381,6 +374,15 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**An Light | Flashlight**](https://github.com/neophtex/An-Light-Flashlight) <sup>**[[F-Droid](https://f-droid.org/app/com.series.anlight)]**</sup>
 * [**Flashy**](https://github.com/Crazy-Marvin/Flashy) <sup>**[[F-Droid](https://f-droid.org/app/rocks.poopjournal.flashy)]**</sup>
+
+### • Graphics
+
+* [**Fossify Paint**](https://github.com/FossifyOrg/Paint) <sup>**[[F-Droid](https://www.f-droid.org/app/org.fossify.paint)]**</sup>
+* [**FreePaint**](https://github.com/pastthepixels/FreePaint) <sup>**[[F-Droid](https://www.f-droid.org/app/io.github.pastthepixels.freepaint)]**</sup>
+* [**Krita**](https://invent.kde.org/graphics/krita) <sup>**[[F-Droid](https://f-droid.org/app/org.krita)]**</sup>
+* [**Pocket Paint**](https://github.com/Catrobat/Paintroid) <sup>**[[F-Droid](https://www.f-droid.org/app/org.catrobat.paintroid)]**</sup>
+* [**PxerStudio**](https://github.com/BennyKok/PxerStudio) <sup>**[[F-Droid](https://www.f-droid.org/app/com.benny.pxerstudio)]**</sup>
+* [**Tux Paint**](https://github.com/tux4kids/Tuxpaint-Android) <sup>**[[F-Droid](https://www.f-droid.org/app/org.tuxpaint)]**</sup>
 
 ### • Habit Tracker
 
@@ -616,12 +618,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Collabora Office**](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/)
 * [**LibreOffice Viewer**](https://www.libreoffice.org/download/android-viewer/) <sup>**[[F-Droid](https://f-droid.org/app/org.documentfoundation.libreoffice)]**</sup>
 * [**OpenDocument**](https://github.com/opendocument-app/OpenDocument.droid) <sup>**[[F-Droid](https://f-droid.org/app/at.tomtasche.reader)]**</sup>
-
-### • Painting
-
-* [**Krita**](https://invent.kde.org/graphics/krita) <sup>**[[F-Droid](https://f-droid.org/app/org.krita)]**</sup>
-* [**Pocket Paint**](https://github.com/Catrobat/Paintroid) <sup>**[[F-Droid](https://www.f-droid.org/app/org.catrobat.paintroid)]**</sup>
-* [**Tux Paint**](https://github.com/tux4kids/Tuxpaint-Android) <sup>**[[F-Droid](https://www.f-droid.org/app/org.tuxpaint)]**</sup>
 
 ### • Password & Authentication
 
