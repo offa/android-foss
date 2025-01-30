@@ -154,6 +154,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Browser
 
 * [**Cromite**](https://github.com/uazo/cromite)
+* [**Mulch**](https://gitlab.com/divested-mobile/mulch).
 * [**DuckDuckGo Privacy Browser**](https://github.com/duckduckgo/Android) <sup>**[[F-Droid](https://f-droid.org/app/com.duckduckgo.mobile.android)]**</sup>
 * [**EinkBro**](https://github.com/plateaukao/browser) <sup>**[[F-Droid](https://www.f-droid.org/app/info.plateaukao.einkbro)]**</sup>
 * [**Fennec**](https://hg.mozilla.org/releases/mozilla-esr68) <sup>**[[F-Droid](https://f-droid.org/app/org.mozilla.fennec_fdroid)]**</sup>
