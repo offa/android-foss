@@ -16,7 +16,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Battery](#-battery)
     * [Browser](#-browser)
     * [Calculator](#-calculator)
-    * [Compass](#-compass-)
+    * [Compass](#-compass)
     * [Calendar](#-calendar)
     * [Call Blocker &amp; Spam Filter](#-call-blocker--spam-filter)
     * [Camera](#-camera)
