@@ -16,6 +16,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Battery](#-battery)
     * [Browser](#-browser)
     * [Calculator](#-calculator)
+    * [Compass](#-compass-)
     * [Calendar](#-calendar)
     * [Call Blocker &amp; Spam Filter](#-call-blocker--spam-filter)
     * [Camera](#-camera)
@@ -178,6 +179,10 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**NumberHub**](https://github.com/Myzel394/NumberHub) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/app.myzel394.numberhub)]**</sup>
 * [**OpenCalc**](https://github.com/Darkempire78/OpenCalc) <sup>**[[F-Droid](https://f-droid.org/app/com.darkempire78.opencalculator)]**</sup>
 * [**yetCalc**](https://github.com/Yet-Zio/yetCalc) <sup>**[[F-Droid](https://f-droid.org/app/yetzio.yetcalc)]**</sup>
+
+### • Compass
+
+* [**Compass**](https://github.com/Kr0oked/Compass) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.bobek.compass/)]**</sup>
 
 ### • Calendar
 
