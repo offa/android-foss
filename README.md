@@ -886,6 +886,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**RadarWeather**](https://github.com/woheller69/weather) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.weather)]**</sup>
 * [**Rain**](https://github.com/darkmoonight/Rain) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.yoshi.rain)]**</sup>
 * [**Weather**](https://codeberg.org/Beowulf/Weather) <sup>**[[F-Droid](https://www.f-droid.org/app/de.beowulf.wetter)]**</sup>
+* [**WeatherMaster**](https://github.com/PranshulGG/WeatherMaster) <sup>**[[F-Droid](https://www.f-droid.org/app/com.example.weathermaster)]**</sup>
 
 ------------------------
 
