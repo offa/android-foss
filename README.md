@@ -605,6 +605,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Notification Notes**](https://github.com/khuttun/NotificationNotes) <sup>**[[F-Droid](https://f-droid.org/app/com.khuttun.notificationnotes)]**</sup>
 * [**Noto**](https://github.com/alialbaali/Noto)
 * [**Omni-Notes**](https://federicoiosue.github.io/Omni-Notes/) <sup>**[[F-Droid](https://f-droid.org/app/it.feio.android.omninotes.foss)]**</sup>
+* [**OpenNote**](https://github.com/YangDai2003/OpenNote-Compose) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.yangdai.opennote)]**</sup>
 * [**Privacy Friendly Notes**](https://github.com/SecUSo/privacy-friendly-notes) <sup>**[[F-Droid](https://f-droid.org/app/org.secuso.privacyfriendlynotes)]**</sup>
 * [**Quillpad**](https://github.com/quillpad/quillpad) <sup>**[[F-Droid](https://f-droid.org/app/io.github.quillpad)]**</sup>
 * [**Saber**](https://github.com/adil192/saber) <sup>**[[F-Droid](https://f-droid.org/app/com.adilhanney.saber)]**</sup>
