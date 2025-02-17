@@ -371,7 +371,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Flashlight
 
-* [**An Light | Flashlight**](https://github.com/neophtex/An-Light-Flashlight) <sup>**[[F-Droid](https://f-droid.org/app/com.series.anlight)]**</sup>
+* [**FlashDim**](https://github.com/cyb3rko/flashdim) <sup>**[[F-Droid](https://f-droid.org/app/com.cyb3rko.flashdim)]**</sup>
 * [**Flashy**](https://github.com/Crazy-Marvin/Flashy) <sup>**[[F-Droid](https://f-droid.org/app/rocks.poopjournal.flashy)]**</sup>
 
 ### • Graphics
