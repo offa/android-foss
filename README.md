@@ -105,6 +105,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore) <sup>**[[F-Droid](https://f-droid.org/app/com.aurora.store)]**</sup>
 * [**IzzyOnDroid**](https://gitlab.com/sunilpaulmathew/izzyondroid) <sup>**[[F-Droid](https://f-droid.org/app/in.sunilpaulmathew.izzyondroid)]**</sup>
 * [**Obtainium**](https://github.com/ImranR98/Obtainium) <sup>**[[F-Droid](https://f-droid.org/app/dev.imranr.obtainium.fdroid)]**</sup>
+* [**OpenApk**](https://github.com/mobilenetworkltd/openapk)
 * [**Zap.Store**](https://github.com/zapstore/zapstore)
 
 ------------------------
