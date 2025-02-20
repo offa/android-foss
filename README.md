@@ -106,7 +106,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore) <sup>**[[F-Droid](https://f-droid.org/app/com.aurora.store)]**</sup>
 * [**IzzyOnDroid**](https://gitlab.com/sunilpaulmathew/izzyondroid) <sup>**[[F-Droid](https://f-droid.org/app/in.sunilpaulmathew.izzyondroid)]**</sup>
 * [**Obtainium**](https://github.com/ImranR98/Obtainium) <sup>**[[F-Droid](https://f-droid.org/app/dev.imranr.obtainium.fdroid)]**</sup>
-* [**Sky Droid**](https://github.com/redsolver/skydroid)
 * [**Zap.Store**](https://github.com/zapstore/zapstore)
 
 ------------------------
@@ -307,7 +306,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Email Aliases
 
-* [**addy.io Android**](https://gitlab.com/Stjin/anonaddy-android) <sup>**[[F-Droid](https://www.f-droid.org/app/host.stjin.anonaddy)]**</sup>
+* [**addy.io Android**](https://github.com/anonaddy/addy-android) <sup>**[[F-Droid](https://www.f-droid.org/app/host.stjin.anonaddy)]**</sup>
 * [**SimpleLogin**](https://github.com/simple-login/Simple-Login-Android) <sup>**[[F-Droid](https://www.f-droid.org/app/io.simplelogin.android.fdroid)]**</sup>
 
 ### • Email Clients
@@ -379,7 +378,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Flashlight
 
-* [**An Light | Flashlight**](https://github.com/neophtex/An-Light-Flashlight) <sup>**[[F-Droid](https://f-droid.org/app/com.series.anlight)]**</sup>
+* [**FlashDim**](https://github.com/cyb3rko/flashdim) <sup>**[[F-Droid](https://f-droid.org/app/com.cyb3rko.flashdim)]**</sup>
 * [**Flashy**](https://github.com/Crazy-Marvin/Flashy) <sup>**[[F-Droid](https://f-droid.org/app/rocks.poopjournal.flashy)]**</sup>
 
 ### • Graphics
@@ -456,6 +455,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**KISS**](http://kisslauncher.com/) <sup>**[[F-Droid](https://f-droid.org/app/fr.neamar.kiss)]**</sup>
 * [**Kvaesitso**](https://kvaesitso.mm20.de/) <sup>**[[F-Droid](https://f-droid.org/app/de.mm20.launcher2.release)]**</sup>
 * [**LaunchTime**](https://github.com/quaap/LaunchTime) <sup>**[[F-Droid](https://f-droid.org/app/com.quaap.launchtime)]**</sup>
+* [**Lawnchair**](https://github.com/LawnchairLauncher/lawnchair) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/app.lawnchair)]**</sup>
 * [**Lunar Launcher**](https://github.com/iamrasel/lunar-launcher) <sup>**[[F-Droid](https://f-droid.org/app/rasel.lunar.launcher)]**</sup>
 * [**Neo-Launcher**](https://github.com/NeoApplications/Neo-Launcher) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.saggitt.omega)]**</sup>
 * [**Olauncher**](https://github.com/tanujnotes/Olauncher) <sup>**[[F-Droid](https://f-droid.org/app/app.olauncher)]**</sup>
@@ -613,6 +613,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Notification Notes**](https://github.com/khuttun/NotificationNotes) <sup>**[[F-Droid](https://f-droid.org/app/com.khuttun.notificationnotes)]**</sup>
 * [**Noto**](https://github.com/alialbaali/Noto)
 * [**Omni-Notes**](https://federicoiosue.github.io/Omni-Notes/) <sup>**[[F-Droid](https://f-droid.org/app/it.feio.android.omninotes.foss)]**</sup>
+* [**OpenNote**](https://github.com/YangDai2003/OpenNote-Compose) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.yangdai.opennote)]**</sup>
 * [**Privacy Friendly Notes**](https://github.com/SecUSo/privacy-friendly-notes) <sup>**[[F-Droid](https://f-droid.org/app/org.secuso.privacyfriendlynotes)]**</sup>
 * [**Quillpad**](https://github.com/quillpad/quillpad) <sup>**[[F-Droid](https://f-droid.org/app/io.github.quillpad)]**</sup>
 * [**Saber**](https://github.com/adil192/saber) <sup>**[[F-Droid](https://f-droid.org/app/com.adilhanney.saber)]**</sup>
@@ -893,6 +894,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**RadarWeather**](https://github.com/woheller69/weather) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.weather)]**</sup>
 * [**Rain**](https://github.com/darkmoonight/Rain) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.yoshi.rain)]**</sup>
 * [**Weather**](https://codeberg.org/Beowulf/Weather) <sup>**[[F-Droid](https://www.f-droid.org/app/de.beowulf.wetter)]**</sup>
+* [**WeatherMaster**](https://github.com/PranshulGG/WeatherMaster) <sup>**[[F-Droid](https://www.f-droid.org/app/com.example.weathermaster)]**</sup>
 
 ------------------------
 
