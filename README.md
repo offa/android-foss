@@ -774,7 +774,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**RHVoice**](https://github.com/RHVoice/RHVoice) <sup>**[[F-Droid](https://f-droid.org/app/com.github.olga_yakovleva.rhvoice.android)]**</sup>
 * [**SherpaTTS**](https://github.com/woheller69/ttsengine) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.ttsengine)]**</sup>
 
-
 ### • ToDo Lists
 
 * [**1List**](https://github.com/lolo-io/OneList) <sup>**[[F-Droid](https://f-droid.org/app/com.lolo.io.onelist)]**</sup>
