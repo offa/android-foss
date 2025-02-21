@@ -105,7 +105,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore) <sup>**[[F-Droid](https://f-droid.org/app/com.aurora.store)]**</sup>
 * [**IzzyOnDroid**](https://gitlab.com/sunilpaulmathew/izzyondroid) <sup>**[[F-Droid](https://f-droid.org/app/in.sunilpaulmathew.izzyondroid)]**</sup>
 * [**Obtainium**](https://github.com/ImranR98/Obtainium) <sup>**[[F-Droid](https://f-droid.org/app/dev.imranr.obtainium.fdroid)]**</sup>
-* [**OpenApk**](https://github.com/mobilenetworkltd/openapk)
 * [**Zap.Store**](https://github.com/zapstore/zapstore)
 
 ------------------------
@@ -1038,3 +1037,4 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Guardian Project**](https://guardianproject.info)
 * [**IzzyOnDroid F-Droid Repository**](https://apt.izzysoft.de/fdroid/)
 * [**List of free and open-source Android applications**](https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications)
+* [**OpenApk**](https://www.openapk.net/)
