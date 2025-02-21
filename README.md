@@ -772,6 +772,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**eSpeak**](https://github.com/espeak-ng/espeak-ng) <sup>**[[F-Droid](https://f-droid.org/app/com.reecedunn.espeak)]**</sup>
 * [**RHVoice**](https://github.com/RHVoice/RHVoice) <sup>**[[F-Droid](https://f-droid.org/app/com.github.olga_yakovleva.rhvoice.android)]**</sup>
+* [**SherpaTTS**](https://github.com/woheller69/ttsengine) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.ttsengine)]**</sup>
+
 
 ### • ToDo Lists
 
