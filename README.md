@@ -60,6 +60,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [RSS Readers](#-rss-readers)
     * [Sandboxing](#-sandboxing)
     * [Science &amp; Education](#-science--education)
+    * [Screen Recorder](#-screen-recorder)
     * [SMS](#-sms)
     * [Sports &amp; Health](#-sports--health)
     * [Synchronisation](#-synchronisation)
@@ -691,6 +692,10 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Sky Map**](https://github.com/sky-map-team/stardroid) <sup>**[[F-Droid](https://f-droid.org/app/com.google.android.stardroid)]**</sup>
 * [**Snow**](https://github.com/sahej-dev/Snow) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.sahej.snow)]**</sup>
 * [**Wikipedia**](https://github.com/wikimedia/apps-android-wikipedia) <sup>**[[F-Droid](https://f-droid.org/app/org.wikipedia)]**</sup>
+
+### • Screen Recorder
+
+* [**DroidRec**](https://github.com/jorik041/DroidRec) <sup>**[[Google Play](https://play.google.com/store/apps/details?id=com.yakovlevegor.DroidRec&hl=en)]**</sup>
 
 ### • SMS
 
