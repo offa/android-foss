@@ -695,7 +695,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Screen Recorder
 
-* [**DroidRec**](https://github.com/jorik041/DroidRec) <sup>**[[Google Play](https://play.google.com/store/apps/details?id=com.yakovlevegor.DroidRec&hl=en)]**</sup>
+* [**DroidRec**](https://github.com/jorik041/DroidRec)
 
 ### • SMS
 
