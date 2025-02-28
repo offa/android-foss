@@ -552,6 +552,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Hexpress**](https://github.com/jmiskovic/hexpress)
 * [**Liedgutverzeichnis**](https://codeberg.org/LiedgutDatenbank/Liedgutverzeichnis) <sup>**[[F-Droid](https://www.f-droid.org/app/de.thefeiter.liedgutverzeichnis)]**</sup>
 * [**Metronome**](https://github.com/thetwom/toc2) <sup>**[[F-Droid](https://f-droid.org/app/de.moekadu.metronome)]**</sup>
+* [**Musekit**](https://github.com/Kwasow/Musekit) <sup>**[[F-Droid](https://f-droid.org/app/com.kwasow.musekit)]**</sup>
 * [**Noice**](https://github.com/ashutoshgngwr/noice) <sup>**[[F-Droid](https://f-droid.org/app/com.github.ashutoshgngwr.noice)]**</sup>
 * [**Noten Learner**](https://github.com/MelvilQ/noten-lernen)
 * [**Practice Suite**](https://codeberg.org/Berker/practice_suite) <sup>**[[F-Droid](https://www.f-droid.org/app/com.berkersen.practicesuite)]**</sup>
@@ -779,6 +780,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**eSpeak**](https://github.com/espeak-ng/espeak-ng) <sup>**[[F-Droid](https://f-droid.org/app/com.reecedunn.espeak)]**</sup>
 * [**RHVoice**](https://github.com/RHVoice/RHVoice) <sup>**[[F-Droid](https://f-droid.org/app/com.github.olga_yakovleva.rhvoice.android)]**</sup>
+* [**SherpaTTS**](https://github.com/woheller69/ttsengine) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.ttsengine)]**</sup>
 
 ### • ToDo Lists
 
@@ -929,6 +931,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Learning Memory**](https://github.com/niccokunzmann/app.memory.quelltext.eu) <sup>**[[F-Droid](https://f-droid.org/app/eu.quelltext.memory)]**</sup>
 * [**Quick Calculation**](https://github.com/SubhamTyagi/quick-calculation) <sup>**[[F-Droid](https://f-droid.org/app/io.github.subhamtyagi.quickcalculation)]**</sup>
 * [**RUTMath**](https://github.com/przemarbor/RUTMath) <sup>**[[F-Droid](https://f-droid.org/app/com.hexbit.rutmath)]**</sup>
+* [**The Powder Toy**](https://github.com/The-Powder-Toy/The-Powder-Toy)
 * [**Tux Math**](https://gitlab.com/Afrikalan/tuxmath-android) <sup>**[[F-Droid](https://f-droid.org/app/org.afrikalan.tuxmath)]**</sup>
 
 ### • Emulator
@@ -1044,3 +1047,4 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Guardian Project**](https://guardianproject.info)
 * [**IzzyOnDroid F-Droid Repository**](https://apt.izzysoft.de/fdroid/)
 * [**List of free and open-source Android applications**](https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications)
+* [**OpenApk**](https://github.com/mobilenetworkltd/openapk)
