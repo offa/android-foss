@@ -545,6 +545,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Hexpress**](https://github.com/jmiskovic/hexpress)
 * [**Liedgutverzeichnis**](https://codeberg.org/LiedgutDatenbank/Liedgutverzeichnis) <sup>**[[F-Droid](https://www.f-droid.org/app/de.thefeiter.liedgutverzeichnis)]**</sup>
 * [**Metronome**](https://github.com/thetwom/toc2) <sup>**[[F-Droid](https://f-droid.org/app/de.moekadu.metronome)]**</sup>
+* [**Musekit**](https://github.com/Kwasow/Musekit) <sup>**[[F-Droid](https://f-droid.org/app/com.kwasow.musekit)]**</sup>
 * [**Noice**](https://github.com/ashutoshgngwr/noice) <sup>**[[F-Droid](https://f-droid.org/app/com.github.ashutoshgngwr.noice)]**</sup>
 * [**Noten Learner**](https://github.com/MelvilQ/noten-lernen)
 * [**Practice Suite**](https://codeberg.org/Berker/practice_suite) <sup>**[[F-Droid](https://www.f-droid.org/app/com.berkersen.practicesuite)]**</sup>
