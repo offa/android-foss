@@ -154,7 +154,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Browser
 
 * [**Cromite**](https://github.com/uazo/cromite)
-* [**Mulch**](https://gitlab.com/divested-mobile/mulch)
 * [**DuckDuckGo Privacy Browser**](https://github.com/duckduckgo/Android) <sup>**[[F-Droid](https://f-droid.org/app/com.duckduckgo.mobile.android)]**</sup>
 * [**EinkBro**](https://github.com/plateaukao/browser) <sup>**[[F-Droid](https://www.f-droid.org/app/info.plateaukao.einkbro)]**</sup>
 * [**Fennec**](https://hg.mozilla.org/releases/mozilla-esr68) <sup>**[[F-Droid](https://f-droid.org/app/org.mozilla.fennec_fdroid)]**</sup>
@@ -165,6 +164,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**IronFox**](https://gitlab.com/ironfox-oss/IronFox)
 * [**Lightning**](http://acrdevelopment.org/) <sup>**[[F-Droid](https://f-droid.org/app/acr.browser.lightning)]**</sup>
 * [**Monocles Browser**](https://codeberg.org/Arne/monocles_browser) <sup>**[[F-Droid](https://f-droid.org/app/de.monocles.browser)]**</sup>
+* [**Mulch**](https://gitlab.com/divested-mobile/mulch)
 * [**Orbot**](https://github.com/guardianproject/orbot)
 * [**Privacy Browser**](https://gitweb.stoutner.com/?p=PrivacyBrowserAndroid.git;a=summary) <sup>**[[F-Droid](https://f-droid.org/app/com.stoutner.privacybrowser.standard)]**</sup>
 * [**SmartCookieWeb**](https://github.com/CookieJarApps/SmartCookieWeb) <sup>**[[F-Droid](https://f-droid.org/app/com.cookiegames.smartcookie)]**</sup>
@@ -280,8 +280,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**MuPDF**](http://mupdf.com/) <sup>**[[F-Droid](https://f-droid.org/app/com.artifex.mupdf.viewer.app)]**</sup>
 * [**Orion Viewer**](https://github.com/max-kammerer/orion-viewer) <sup>**[[F-Droid](https://f-droid.org/app/universe.constellation.orion.viewer)]**</sup>
 * [**Pdf Viewer Plus**](https://github.com/JavaCafe01/PdfViewer) <sup>**[[F-Droid](https://f-droid.org/app/com.gsnathan.pdfviewer)]**</sup>
-* [**Secure PDF Viewer**](https://github.com/GrapheneOS/PdfViewer)
 * [**Pdf Viewer**](https://github.com/Swati4star/Images-to-PDF) <sup>**[[F-Droid](https://f-droid.org/en/packages/swati4star.createpdf/)]</sup>
+* [**Secure PDF Viewer**](https://github.com/GrapheneOS/PdfViewer)
 
 ### • Document Scanner
 
