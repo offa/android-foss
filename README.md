@@ -182,7 +182,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Birday**](https://github.com/m-i-n-a-r/birday) <sup>**[[F-Droid](https://f-droid.org/app/com.minar.birday)]**</sup>
 * [**Etar**](https://github.com/Etar-Group/Etar-Calendar) <sup>**[[F-Droid](https://f-droid.org/app/ws.xsoh.etar)]**</sup>
 * [**Fossify Calendar**](https://github.com/FossifyOrg/Calendar) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.calendar)]**</sup>
-* [**Tuta Calendar**](https://github.com/tutao/tutanota) <sup>**[[F-Droid](https://f-droid.org/en/packages/de.tutao.calendar/)]**</sup>
+* [**Tuta Calendar**](https://github.com/tutao/tutanota) <sup>**[[F-Droid](https://f-droid.org/app/de.tutao.calendar)]**</sup>
 
 ### • Call Blocker & Spam Filter
 
