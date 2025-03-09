@@ -859,7 +859,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Mullvad**](https://github.com/mullvad/mullvadvpn-app) <sup>**[[F-Droid](https://f-droid.org/app/net.mullvad.mullvadvpn)]**</sup>
 * [**Mysterium VPN**](https://github.com/mysteriumnetwork/mysterium-vpn-mobile) <sup>**[[F-Droid](https://f-droid.org/app/network.mysterium.vpn)]**</sup>
 * [**NekoBox for Android**](https://github.com/MatsuriDayo/NekoBoxForAndroid)
-* [**NymVPN**](https://github.com/nymtech/nym-vpn-client)
+* [**NymVPN**](https://github.com/nymtech/nym-vpn-client) <sup>**[[F-Droid](https://f-droid.org/app/net.nymtech.nymvpn)]**</sup>
 * [**ProtonVPN**](https://github.com/ProtonVPN/android-app) <sup>**[[F-Droid](https://f-droid.org/app/ch.protonvpn.android)]**</sup>
 * [**Riseup VPN**](https://0xacab.org/leap/bitmask_android) <sup>**[[F-Droid](https://f-droid.org/app/se.leap.riseupvpn)]**</sup>
 * [**Tailscale**](https://github.com/tailscale/tailscale-android) <sup>**[[F-Droid](https://f-droid.org/app/com.tailscale.ipn)]**</sup>
