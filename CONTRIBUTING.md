@@ -6,8 +6,8 @@ Each listed software has to meet following criteria:
 1. Source code available
 1. Keeps Privacy – No Advertisement, no Spyware!
 1. No proprietary elements
-1. Stable (at least stable to use) – *(if possible)*
-1. Actively developed, maintained or supported – *(if possible)*
+1. Stable (at least stable to use)
+1. Actively developed, maintained or supported
 1. Documentation available (Project website etc.)
 1. Free of charge
 
@@ -22,4 +22,4 @@ If not yet, it's a good idea to promote F-Droid submission to the projects devel
 
 [**IzzyOnDroid**](https://apt.izzysoft.de/fdroid/) can be linked using `https://apt.izzysoft.de/fdroid/index/apk/<App ID>` only, if the package is *not* available on F-Droid and *not* marked by *NonFreeComp*.
 
-Please do not submit other F-Droid repositories.
+Please do not submit other third party F-Droid repositories or Google Play.
