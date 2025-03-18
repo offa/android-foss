@@ -16,7 +16,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Battery](#-battery)
     * [Browser](#-browser)
     * [Calculator](#-calculator)
-    * [Compass](#-compass)
     * [Calendar](#-calendar)
     * [Call Blocker &amp; Spam Filter](#-call-blocker--spam-filter)
     * [Camera](#-camera)
@@ -164,7 +163,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**IronFox**](https://gitlab.com/ironfox-oss/IronFox)
 * [**Lightning**](http://acrdevelopment.org/) <sup>**[[F-Droid](https://f-droid.org/app/acr.browser.lightning)]**</sup>
 * [**Monocles Browser**](https://codeberg.org/Arne/monocles_browser) <sup>**[[F-Droid](https://f-droid.org/app/de.monocles.browser)]**</sup>
-* [**Mulch**](https://gitlab.com/divested-mobile/mulch)
 * [**Orbot**](https://github.com/guardianproject/orbot)
 * [**Privacy Browser**](https://gitweb.stoutner.com/?p=PrivacyBrowserAndroid.git;a=summary) <sup>**[[F-Droid](https://f-droid.org/app/com.stoutner.privacybrowser.standard)]**</sup>
 * [**SmartCookieWeb**](https://github.com/CookieJarApps/SmartCookieWeb) <sup>**[[F-Droid](https://f-droid.org/app/com.cookiegames.smartcookie)]**</sup>
@@ -178,10 +176,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**NumberHub**](https://github.com/Myzel394/NumberHub) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/app.myzel394.numberhub)]**</sup>
 * [**OpenCalc**](https://github.com/Darkempire78/OpenCalc) <sup>**[[F-Droid](https://f-droid.org/app/com.darkempire78.opencalculator)]**</sup>
 * [**yetCalc**](https://github.com/Yet-Zio/yetCalc) <sup>**[[F-Droid](https://f-droid.org/app/yetzio.yetcalc)]**</sup>
-
-### • Compass
-
-* [**Compass**](https://github.com/Kr0oked/Compass) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.bobek.compass/)]**</sup>
 
 ### • Calendar
 
