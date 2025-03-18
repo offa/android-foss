@@ -276,7 +276,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**MuPDF**](http://mupdf.com/) <sup>**[[F-Droid](https://f-droid.org/app/com.artifex.mupdf.viewer.app)]**</sup>
 * [**Orion Viewer**](https://github.com/max-kammerer/orion-viewer) <sup>**[[F-Droid](https://f-droid.org/app/universe.constellation.orion.viewer)]**</sup>
 * [**Pdf Viewer Plus**](https://github.com/JavaCafe01/PdfViewer) <sup>**[[F-Droid](https://f-droid.org/app/com.gsnathan.pdfviewer)]**</sup>
-* [**Pdf Viewer**](https://github.com/Swati4star/Images-to-PDF) <sup>[[F-Droid](https://f-droid.org/app/swati4star.createpdf)]</sup>
+* [**Pdf Viewer**](https://github.com/Swati4star/Images-to-PDF) <sup>**[[F-Droid](https://f-droid.org/app/swati4star.createpdf)]**</sup>
 * [**Secure PDF Viewer**](https://github.com/GrapheneOS/PdfViewer)
 
 ### • Document Scanner
