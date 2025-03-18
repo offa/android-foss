@@ -188,6 +188,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Birday**](https://github.com/m-i-n-a-r/birday) <sup>**[[F-Droid](https://f-droid.org/app/com.minar.birday)]**</sup>
 * [**Etar**](https://github.com/Etar-Group/Etar-Calendar) <sup>**[[F-Droid](https://f-droid.org/app/ws.xsoh.etar)]**</sup>
 * [**Fossify Calendar**](https://github.com/FossifyOrg/Calendar) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.calendar)]**</sup>
+* [**Tuta Calendar**](https://github.com/tutao/tutanota) <sup>**[[F-Droid](https://f-droid.org/app/de.tutao.calendar)]**</sup>
 
 ### • Call Blocker & Spam Filter
 
@@ -256,6 +257,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Dialer
 
+* [**Amadz**](https://github.com/msusman1/Amadz) <sup>**[[F-Droid](https://f-droid.org/app/com.talsk.amadz)]**</sup>
 * [**Fossify Phone**](https://github.com/FossifyOrg/Phone) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.phone)]**</sup>
 * [**Koler**](https://github.com/Chooloo/koler) <sup>**[[F-Droid](https://f-droid.org/app/com.chooloo.www.koler)]**</sup>
 
@@ -355,10 +357,12 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Finance
 
 * [**Arru**](https://github.com/KSSidll/Arru) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.kssidll.arru)]**</sup>
+* [**CryptoTracker**](https://github.com/judemont/cryptotracker) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/jdm.apps.cryptotracker)]**</sup>
 * [**Currencies**](https://github.com/sal0max/currencies) <sup>**[[F-Droid](https://f-droid.org/app/de.salomax.currencies)]**</sup>
 * [**FDTracker**](https://github.com/Abhay-cloud/Fixed-Deposit-Tracker) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/dev.abhaycloud.fdtracker)]**</sup>
 * [**GreenStash**](https://github.com/Pool-Of-Tears/GreenStash) <sup>**[[F-Droid](https://f-droid.org/app/com.starry.greenstash)]**</sup>
 * [**My Expenses**](https://github.com/mtotschnig/MyExpenses) <sup>**[[F-Droid](https://f-droid.org/app/org.totschnig.myexpenses)]**</sup>
+* [**Oinkoin**](https://github.com/emavgl/oinkoin) <sup>**[[F-Droid](https://f-droid.org/app/com.github.emavgl.piggybankpro)]**</sup>
 * [**Recurring Expense Tracker**](https://github.com/DennisBauer/RecurringExpenseTracker) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/de.dbauer.expensetracker)]**</sup>
 
 ### • Firewall
@@ -375,11 +379,13 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [**Anki Image Occlusion**](https://github.com/infinyte7/Anki-Occlusion) <sup>**[[F-Droid](https://f-droid.org/app/io.krmanik.ankiimageocclusion)]**</sup>
 * [**Flash Deck**](https://github.com/rh-id/a-flash-deck) <sup>**[[F-Droid](https://www.f-droid.org/app/m.co.rh.id.a_flash_deck)]**</sup>
 * [**ForgetMeNot**](https://github.com/tema6120/ForgetMeNot) <sup>**[[F-Droid](https://f-droid.org/app/com.odnovolov.forgetmenot)]**</sup>
+* [**QuizFlow**](https://github.com/judemont/quizflow) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/jdm.apps.quizflow)]**</sup>
 
 ### • Flashlight
 
 * [**FlashDim**](https://github.com/cyb3rko/flashdim) <sup>**[[F-Droid](https://f-droid.org/app/com.cyb3rko.flashdim)]**</sup>
 * [**Flashy**](https://github.com/Crazy-Marvin/Flashy) <sup>**[[F-Droid](https://f-droid.org/app/rocks.poopjournal.flashy)]**</sup>
+* [**Lumolight**](https://github.com/BitMavrick/Lumolight)
 
 ### • Graphics
 
@@ -863,6 +869,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Mullvad**](https://github.com/mullvad/mullvadvpn-app) <sup>**[[F-Droid](https://f-droid.org/app/net.mullvad.mullvadvpn)]**</sup>
 * [**Mysterium VPN**](https://github.com/mysteriumnetwork/mysterium-vpn-mobile) <sup>**[[F-Droid](https://f-droid.org/app/network.mysterium.vpn)]**</sup>
 * [**NekoBox for Android**](https://github.com/MatsuriDayo/NekoBoxForAndroid)
+* [**NymVPN**](https://github.com/nymtech/nym-vpn-client) <sup>**[[F-Droid](https://f-droid.org/app/net.nymtech.nymvpn)]**</sup>
 * [**ProtonVPN**](https://github.com/ProtonVPN/android-app) <sup>**[[F-Droid](https://f-droid.org/app/ch.protonvpn.android)]**</sup>
 * [**Riseup VPN**](https://0xacab.org/leap/bitmask_android) <sup>**[[F-Droid](https://f-droid.org/app/se.leap.riseupvpn)]**</sup>
 * [**Tailscale**](https://github.com/tailscale/tailscale-android) <sup>**[[F-Droid](https://f-droid.org/app/com.tailscale.ipn)]**</sup>
