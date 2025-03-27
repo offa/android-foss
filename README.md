@@ -246,6 +246,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Development
 
 * [**AndroidIDE**](https://github.com/AndroidIDEOfficial/AndroidIDE) <sup>**[[F-Droid](https://f-droid.org/app/com.itsaky.androidide)]**</sup>
+* [**Ghost ide**](https://github.com/HanzoDev1375/Ghostide)
 * [**Godot Editor**](https://github.com/godotengine/godot) <sup>**[[F-Droid](https://f-droid.org/app/org.godotengine.editor.v3)]**</sup>
 * [**TermuC**](https://github.com/RainbowC0/TermuC) <sup>**[[F-Droid](https://f-droid.org/app/cn.rbc.termuc)]**</sup>
 
