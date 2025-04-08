@@ -54,8 +54,43 @@
 			.then( response => response.text() )
 			.then( data => {
 				document.querySelector( 'main' ).innerHTML = marked.parse( data );
+				// Set up the heading observer after the content is rendered
+				// This ensures that the headings are observed only after they are present in the DOM
+				setUpHeadingObserver();
 			})
 			.catch( error => console.error( 'Error:', error ) );
+
+		// Set up the Intersection Observer for headings
+		// This will observe the headings and update the URL hash when they are in view
+		// This will help when people click back and forth in the browser
+		function setUpHeadingObserver() {
+			const headings = document.querySelectorAll('main h3, main h4, main h5, main h6');
+
+			const observer = new IntersectionObserver(
+				function(entries) {
+					entries.forEach(entry => {
+						if (entry.isIntersecting) {
+							const id = entry.target.id;
+							if (id) {
+								history.replaceState(null, '', `#${id}`);
+							}
+						}
+					});
+				},
+				{
+					root: null,
+					rootMargin: '0px 0px -90% 0px', // Trigger when heading is near top
+					threshold: 0
+				}
+			);
+
+			// Observe each heading
+			headings.forEach(h => {
+				if (h.id) {
+					observer.observe(h);
+				}
+			});
+		}
 
 		// Change the theme
 		function changeCSS( theme )
