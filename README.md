@@ -64,6 +64,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Sports &amp; Health](#-sports--health)
     * [Synchronisation](#-synchronisation)
     * [System](#-system)
+    * [Terminals](#-terminals)
     * [Text Editors](#-text-editors)
     * [Text-to-Speech](#-text-to-speech)
     * [ToDo Lists](#-todo-lists)
@@ -740,7 +741,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**aShell You**](https://github.com/DP-Hridayan/aShellYou) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/in.hridayan.ashell)]**</sup>
 * [**Auditor**](https://github.com/GrapheneOS/Auditor)
 * [**AutoPie**](https://github.com/cryptrr/AutoPie)
-* [**BusyBox Installer**](https://github.com/SmartPack/BusyBox-Installer) <sup>**[[F-Droid](https://f-droid.org/app/com.smartpack.busyboxinstaller)]**</sup>
 * [**Canta**](https://github.com/samolego/Canta) <sup>**[[F-Droid](https://f-droid.org/app/org.samo_lego.canta)]**</sup>
 * [**Captive Portal Controller**](https://github.com/MuntashirAkon/CaptivePortalController) <sup>**[[F-Droid](https://www.f-droid.org/app/io.github.muntashirakon.captiveportalcontroller)]**</sup>
 * [**CPU Info**](https://github.com/kamgurgul/cpu-info) <sup>**[[F-Droid](https://f-droid.org/app/com.kgurgul.cpuinfo)]**</sup>
@@ -761,10 +761,14 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Scoop**](https://github.com/TacoTheDank/Scoop) <sup>**[[F-Droid](https://f-droid.org/app/taco.scoop)]**</sup>
 * [**SuperFreezZ**](https://gitlab.com/SuperFreezZ/SuperFreezZ) <sup>**[[F-Droid](https://f-droid.org/app/superfreeze.tool.android)]**</sup>
 * [**SystemUI Tuner**](https://github.com/zacharee/Tweaker)
-* [**Termux**](https://github.com/termux/termux-app) <sup>**[[F-Droid](https://f-droid.org/app/com.termux)]**</sup>
 * [**Treble Info**](https://gitlab.com/TrebleInfo/TrebleInfo) <sup>**[[F-Droid](https://www.f-droid.org/app/tk.hack5.treblecheck)]**</sup>
 * [**UpgradeAll**](https://github.com/DUpdateSystem/UpgradeAll) <sup>**[[F-Droid](https://f-droid.org/app/net.xzos.upgradeall)]**</sup>
 * [**WifiAnalyzer**](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) <sup>**[[F-Droid](https://f-droid.org/app/com.vrem.wifianalyzer)]**</sup>
+
+### • Terminals
+
+* [**BusyBox Installer**](https://github.com/SmartPack/BusyBox-Installer) <sup>**[[F-Droid](https://f-droid.org/app/com.smartpack.busyboxinstaller)]**</sup>
+* [**Termux**](https://github.com/termux/termux-app) <sup>**[[F-Droid](https://f-droid.org/app/com.termux)]**</sup>
 
 ### • Text Editors
 
