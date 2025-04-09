@@ -768,6 +768,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Terminals
 
 * [**BusyBox Installer**](https://github.com/SmartPack/BusyBox-Installer) <sup>**[[F-Droid](https://f-droid.org/app/com.smartpack.busyboxinstaller)]**</sup>
+* [**ReTerminal**](https://github.com/RohitKushvaha01/ReTerminal) <sup>**[[F-Droid](https://f-droid.org/app/com.rk.terminal)]**</sup>
 * [**Termux**](https://github.com/termux/termux-app) <sup>**[[F-Droid](https://f-droid.org/app/com.termux)]**</sup>
 
 ### • Text Editors
