@@ -411,7 +411,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Metadata Remover**](https://github.com/Crazy-Marvin/MetadataRemover) <sup>**[[F-Droid](https://f-droid.org/app/rocks.poopjournal.metadataremover)]**</sup>
 * [**PrivacyBlur**](https://github.com/MATHEMA-GmbH/privacyblur) <sup>**[[F-Droid](https://f-droid.org/app/de.mathema.privacyblur)]**</sup>
 * [**Scrambled Exif**](https://gitlab.com/juanitobananas/scrambled-exif) <sup>**[[F-Droid](https://f-droid.org/app/com.jarsilio.android.scrambledeggsif)]**</sup>
-* [**SuperImage**](https://github.com/Lucchetto/SuperImage) <sup>**[[F-Droid](https://f-droid.org/app/com.zhenxiang.superimage)]**</sup>
 
 ### • Image Viewer & Gallery
 
