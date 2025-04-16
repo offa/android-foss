@@ -660,7 +660,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Privacy Indicator**](https://github.com/NitishGadangi/Privacy-Indicator-App) <sup>**[[F-Droid](https://f-droid.org/app/com.nitish.privacyindicator)]**</sup>
 * [**Safe Space**](https://github.com/aashishksahu/SafeSpace) <sup>**[[F-Droid](https://f-droid.org/app/org.privacymatters.safespace)]**</sup>
 * [**Valv**](https://github.com/Arctosoft/Valv-Android) <sup>**[[F-Droid](https://f-droid.org/app/se.arctosoft.vault)]**</sup>
-* [**Vigilante**](https://github.com/FunkyMuse/Vigilante) <sup>**[[F-Droid](https://f-droid.org/app/com.crazylegend.vigilante)]**</sup>
 
 ### • Public Transport
 
