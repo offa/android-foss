@@ -1042,7 +1042,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ## – Getting more … –
 
-* [**Awesome Android**](https://github.com/TheEvilSkeleton/awesome-android)
+* [**Awesome F-Droid Apps**](https://github.com/moneytoo/awesome-fdroid)
 * [**CellularPrivacy – Recommendations**](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Recommendations)
 * [**F-Droid**](https://f-droid.org)
 * [**Fossdroid**](https://fossdroid.com)
