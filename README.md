@@ -623,36 +623,37 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Office
 
 * [**Collabora Office**](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/)
-* [**LibreOffice Viewer**](https://www.libreoffice.org/download/android-viewer/) <sup>**[[F-Droid](https://f-droid.org/app/org.documentfoundation.libreoffice)]**</sup>
-* [**OpenDocument**](https://github.com/opendocument-app/OpenDocument.droid) <sup>**[[F-Droid](https://f-droid.org/app/at.tomtasche.reader)]**</sup>
+* [**LibreOffice Viewer**](https://www.libreoffice.org/download/android-viewer/) <sup>[F-Droid](https://f-droid.org/app/org.documentfoundation.libreoffice)</sup>
+* [**OpenDocument**](https://github.com/opendocument-app/OpenDocument.droid) <sup>[F-Droid](https://f-droid.org/app/at.tomtasche.reader)</sup>
 
 ### • Password & Authentication
 
-* [**Aegis**](https://getaegis.app) <sup>**[F-Droid](https://f-droid.org/app/com.beemdevelopment.aegis)**</sup>
+* [**Aegis**](https://getaegis.app) <sup>[F-Droid](https://f-droid.org/app/com.beemdevelopment.aegis)</sup>
 * [**AuthenticatorPro**](https://github.com/jamie-mh/AuthenticatorPro)
-* [**AuthPass**](https://github.com/authpass/authpass) <sup>**[F-Droid](https://f-droid.org/app/design.codeux.authpass.fdroid)**</sup>
+* [**AuthPass**](https://github.com/authpass/authpass) <sup>[F-Droid](https://f-droid.org/app/design.codeux.authpass.fdroid)</sup>
 * [**Bitwarden**](https://github.com/bitwarden/android)
-* [**Ente Auth**](https://github.com/ente-io/ente) <sup>**[F-Droid](https://f-droid.org/app/io.ente.auth)**</sup>
-* [**FreeOTP+**](https://github.com/helloworld1/FreeOTPPlus) <sup>**[F-Droid](https://f-droid.org/app/org.liberty.android.freeotpplus)**</sup>
-* [**Is Your Password Secure?**](https://github.com/StellarSand/IYPS) <sup>**[F-Droid](https://f-droid.org/app/com.iyps)**</sup>
-* [**KeePassDX**](https://github.com/Kunzisoft/KeePassDX) <sup>**[F-Droid](https://f-droid.org/app/com.kunzisoft.keepass.libre)**</sup>
-* [**Keyoxide**](https://codeberg.org/keyoxide/keyoxide-flutter) <sup>**[F-Droid](https://f-droid.org/app/org.keyoxide.keyoxide)**</sup>
-* [**Mauth**](https://github.com/XInto/Mauth) <sup>**[F-Droid](https://f-droid.org/app/com.xinto.mauth)**</sup>
-* [**OpenKeychain**](https://github.com/open-keychain/open-keychain) <sup>**[F-Droid](https://f-droid.org/app/org.sufficientlysecure.keychain)**</sup>
-* [**Password Monitor**](https://github.com/StellarSand/Password-Monitor) <sup>**[F-Droid](https://f-droid.org/app/com.password.monitor)**</sup>
-* [**ProtonPass**](https://github.com/protonpass/android-pass) <sup>**[F-Droid](https://f-droid.org/app/org.proton.android.pass.fdroid)**</sup>
-* [**Vault**](https://github.com/arsevchkaev/Vault) <sup>**[F-Droid](https://f-droid.org/app/com.arsevchkaev.vault)**</sup>
+* [**Ente Auth**](https://github.com/ente-io/ente) <sup>[F-Droid](https://f-droid.org/app/io.ente.auth)</sup>
+* [**FreeOTP+**](https://github.com/helloworld1/FreeOTPPlus) <sup>[F-Droid](https://f-droid.org/app/org.liberty.android.freeotpplus)</sup>
+* [**Is Your Password Secure?**](https://github.com/StellarSand/IYPS) <sup>[F-Droid](https://f-droid.org/app/com.iyps)</sup>
+* [**KeePassDX**](https://github.com/Kunzisoft/KeePassDX) <sup>[F-Droid](https://f-droid.org/app/com.kunzisoft.keepass.libre)</sup>
+* [**Keyoxide**](https://codeberg.org/keyoxide/keyoxide-flutter) <sup>[F-Droid](https://f-droid.org/app/org.keyoxide.keyoxide)</sup>
+* [**Mauth**](https://github.com/XInto/Mauth) <sup>[F-Droid](https://f-droid.org/app/com.xinto.mauth)</sup>
+* [**OpenKeychain**](https://github.com/open-keychain/open-keychain) <sup>[F-Droid](https://f-droid.org/app/org.sufficientlysecure.keychain)</sup>
+* [**Password Monitor**](https://github.com/StellarSand/Password-Monitor) <sup>[F-Droid](https://f-droid.org/app/com.password.monitor)</sup>
+* [**ProtonPass**](https://github.com/protonpass/android-pass) <sup>[F-Droid](https://f-droid.org/app/org.proton.android.pass.fdroid)</sup>
+* [**Vault**](https://github.com/arsevchkaev/Vault) <sup>[F-Droid](https://f-droid.org/app/com.arsevchkaev.vault)</sup>
 
 ### • Podcast & Audio Book Player
 
-* [**AntennaPod**](https://github.com/AntennaPod/AntennaPod) <sup>**[[F-Droid](https://f-droid.org/app/de.danoeh.antennapod)]**</sup>
-* [**Audio Anchor**](https://github.com/flackbash/AudioAnchor) <sup>**[[F-Droid](https://f-droid.org/app/com.prangesoftwaresolutions.audioanchor)]**</sup>
-* [**Escapepod**](https://codeberg.org/y20k/escapepod) <sup>**[[F-Droid](https://f-droid.org/app/org.y20k.escapepod)]**</sup>
-* [**FocusPodcast**](https://github.com/allentown521/FocusPodcast) <sup>**[[F-Droid](https://f-droid.org/app/allen.town.focus.podcast)]**</sup>
-* [**Podcini.X**](https://github.com/XilinJia/Podcini.X) <sup>**[[F-Droid](https://f-droid.org/app/ac.mdiq.podcini.X)]**</sup>
-* [**Podverse**](https://github.com/podverse/podverse-fdroid) <sup>**[[F-Droid](https://f-droid.org/app/com.podverse.fdroid)]**</sup>
-* [**Tsacdop**](https://github.com/stonega/tsacdop) <sup>**[[F-Droid](https://f-droid.org/app/com.stonegate.tsacdop)]**</sup>
-* [**Voice**](https://github.com/PaulWoitaschek/Voice) <sup>**[[F-Droid](https://f-droid.org/app/de.ph1b.audiobook)]**</sup>
+* [**AntennaPod**](https://github.com/AntennaPod/AntennaPod) <sup>[F-Droid](https://f-droid.org/app/de.danoeh.antennapod)</sup>
+* [**Audio Anchor**](https://github.com/flackbash/AudioAnchor) <sup>[F-Droid](https://f-droid.org/app/com.prangesoftwaresolutions.audioanchor)</sup>
+* [**Escapepod**](https://codeberg.org/y20k/escapepod) <sup>[F-Droid](https://f-droid.org/app/org.y20k.escapepod)</sup>
+* [**FocusPodcast**](https://github.com/allentown521/FocusPodcast) <sup>[F-Droid](https://f-droid.org/app/allen.town.focus.podcast)</sup>
+* [**Podcini.X**](https://github.com/XilinJia/Podcini.X) <sup>[F-Droid](https://f-droid.org/app/ac.mdiq.podcini.X)</sup>
+* [**Podverse**](https://github.com/podverse/podverse-fdroid) <sup>[F-Droid](https://f-droid.org/app/com.podverse.fdroid)</sup>
+* [**Tsacdop**](https://github.com/stonega/tsacdop) <sup>[F-Droid](https://f-droid.org/app/com.stonegate.tsacdop)</sup>
+* [**Voice**](https://github.com/PaulWoitaschek/Voice) <sup>[F-Droid](https://f-droid.org/app/de.ph1b.audiobook)</sup>
+
 
 ### • Privacy & Security
 
