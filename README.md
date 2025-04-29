@@ -628,22 +628,20 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Password & Authentication
 
-* [**Aegis**](https://getaegis.app/) <sup>**[[F-Droid](https://f-droid.org/app/com.beemdevelopment.aegis)]**</sup>
+* [**Aegis**](https://getaegis.app) <sup>**[F-Droid](https://f-droid.org/app/com.beemdevelopment.aegis)**</sup>
 * [**AuthenticatorPro**](https://github.com/jamie-mh/AuthenticatorPro)
-* [**AuthPass**](https://github.com/authpass/authpass) <sup>**[[F-Droid](https://f-droid.org/app/design.codeux.authpass.fdroid)]**</sup>
+* [**AuthPass**](https://github.com/authpass/authpass) <sup>**[F-Droid](https://f-droid.org/app/design.codeux.authpass.fdroid)**</sup>
 * [**Bitwarden**](https://github.com/bitwarden/android)
-* [**Ente Auth**](https://github.com/ente-io/ente) <sup>**[[F-Droid](https://f-droid.org/app/io.ente.auth)]**</sup>
-* [**FreeOTP+**](https://github.com/helloworld1/FreeOTPPlus) <sup>**[[F-Droid](https://f-droid.org/app/org.liberty.android.freeotpplus)]**</sup>
-* [**Is Your Password Secure?**](https://github.com/StellarSand/IYPS) <sup>**[[F-Droid](https://f-droid.org/app/com.iyps)]**</sup>
-* [**KeePassDX**](https://github.com/Kunzisoft/KeePassDX) <sup>**[[F-Droid](https://f-droid.org/app/com.kunzisoft.keepass.libre)]**</sup>
-* [**Keyoxide**](https://codeberg.org/keyoxide/keyoxide-flutter) <sup>**[[F-Droid](https://f-droid.org/app/org.keyoxide.keyoxide)]**</sup>
-* [**Mauth**](https://github.com/X1nto/Mauth) <sup>**[[F-Droid](https://f-droid.org/app/com.xinto.mauth)]**</sup>
-* [**OpenKeychain**](https://github.com/open-keychain/open-keychain) <sup>**[[F-Droid](https://www.f-droid.org/app/org.sufficientlysecure.keychain)]**</sup>
-* [**Password Monitor**](https://github.com/StellarSand/Password-Monitor) <sup>**[[F-Droid](https://www.f-droid.org/app/com.password.monitor)]**</sup>
-* [**ProtonPass**](https://github.com/protonpass/android-pass) <sup>**[[F-Droid](https://f-droid.org/app/proton.android.pass.fdroid)]**</sup>
-* [**OpenKeychain**](https://github.com/open-keychain/open-keychain) <sup>**[[F-Droid](https://f-droid.org/app/org.sufficientlysecure.keychain)]**</sup>
-* [**Password Monitor**](https://github.com/StellarSand/Password-Monitor) <sup>**[[F-Droid](https://f-droid.org/app/com.password.monitor)]**</sup>
-* [**Vault**](https://github.com/arsvechkarev/Vault) <sup>**[[F-Droid](https://f-droid.org/app/com.arsvechkarev.vault)]**</sup>
+* [**Ente Auth**](https://github.com/ente-io/ente) <sup>**[F-Droid](https://f-droid.org/app/io.ente.auth)**</sup>
+* [**FreeOTP+**](https://github.com/helloworld1/FreeOTPPlus) <sup>**[F-Droid](https://f-droid.org/app/org.liberty.android.freeotpplus)**</sup>
+* [**Is Your Password Secure?**](https://github.com/StellarSand/IYPS) <sup>**[F-Droid](https://f-droid.org/app/com.iyps)**</sup>
+* [**KeePassDX**](https://github.com/Kunzisoft/KeePassDX) <sup>**[F-Droid](https://f-droid.org/app/com.kunzisoft.keepass.libre)**</sup>
+* [**Keyoxide**](https://codeberg.org/keyoxide/keyoxide-flutter) <sup>**[F-Droid](https://f-droid.org/app/org.keyoxide.keyoxide)**</sup>
+* [**Mauth**](https://github.com/XInto/Mauth) <sup>**[F-Droid](https://f-droid.org/app/com.xinto.mauth)**</sup>
+* [**OpenKeychain**](https://github.com/open-keychain/open-keychain) <sup>**[F-Droid](https://f-droid.org/app/org.sufficientlysecure.keychain)**</sup>
+* [**Password Monitor**](https://github.com/StellarSand/Password-Monitor) <sup>**[F-Droid](https://f-droid.org/app/com.password.monitor)**</sup>
+* [**ProtonPass**](https://github.com/protonpass/android-pass) <sup>**[F-Droid](https://f-droid.org/app/org.proton.android.pass.fdroid)**</sup>
+* [**Vault**](https://github.com/arsevchkaev/Vault) <sup>**[F-Droid](https://f-droid.org/app/com.arsevchkaev.vault)**</sup>
 
 ### • Podcast & Audio Book Player
 
