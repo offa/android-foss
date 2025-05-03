@@ -709,6 +709,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Box, Box!**](https://github.com/BrightDV/BoxBox) <sup>**[[F-Droid](https://f-droid.org/app/org.brightdv.boxbox)]**</sup>
 * [**Feeel**](https://gitlab.com/enjoyingfoss/feeel) <sup>**[[F-Droid](https://f-droid.org/app/com.enjoyingfoss.feeel)]**</sup>
 * [**FitoTrack**](https://codeberg.org/jannis/FitoTrack) <sup>**[[F-Droid](https://f-droid.org/app/de.tadris.fitness)]**</sup>
+* [**Flexify**](https://github.com/brandonp2412/Flexify) <sup>**[[F-Droid](https://f-droid.org/app/com.presley.flexify)]**</sup>
 * [**HeartBeat**](https://github.com/berdosi/HeartBeat) <sup>**[[F-Droid](https://f-droid.org/app/eu.berdosi.app.heartbeat)]**</sup>
 * [**hEARtest**](https://github.com/woheller69/audiometry) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.audiometry)]**</sup>
 * [**LibreHealth**](https://gitlab.com/librehealth)
