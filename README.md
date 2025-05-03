@@ -326,7 +326,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • File Manager
 
 * [**Amaze**](https://github.com/TeamAmaze/AmazeFileManager) <sup>**[[F-Droid](https://f-droid.org/app/com.amaze.filemanager)]**</sup>
-* [**File Explorer Compose**](https://github.com/Raival-e/File-Explorer-Compose)
+* [**File Explorer Compose**](https://github.com/Raival-e/File-Explorer-Compose) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.raival.compose.file.explorer)]**</sup>
 * [**File Manager**](https://gitlab.com/axet/android-file-manager) <sup>**[[F-Droid](https://f-droid.org/app/com.github.axet.filemanager)]**</sup>
 * [**Fossify File Manager**](https://github.com/FossifyOrg/File-Manager) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.filemanager)]**</sup>
 * [**Ghost Commander**](https://sourceforge.net/p/ghostcommander/svn/HEAD/tree) <sup>**[[F-Droid](https://f-droid.org/app/com.ghostsq.commander)]**</sup>
@@ -430,7 +430,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**FlorisBoard**](https://github.com/florisboard/florisboard) <sup>**[[F-Droid](https://f-droid.org/app/dev.patrickgold.florisboard)]**</sup>
 * [**Fossify Keyboard**](https://github.com/FossifyOrg/Keyboard) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.keyboard)]**</sup>
 * [**FutharkBoard**](https://github.com/DrMaxNix/futharkboard) <sup>**[[F-Droid](https://f-droid.org/app/de.drmaxnix.futharkboard)]**</sup>
-* [**Futo Keyboard**](https://gitlab.futo.org/keyboard/latinime)
 * [**Hacker's Keyboard**](https://github.com/klausw/hackerskeyboard) <sup>**[[F-Droid](https://f-droid.org/app/org.pocketworkstation.pckeyboard)]**</sup>
 * [**HeliBoard**](https://github.com/Helium314/HeliBoard) <sup>**[[F-Droid](https://f-droid.org/app/helium314.keyboard)]**</sup>
 * [**Indic Keyboard**](https://gitlab.com/indicproject/indic-keyboard) <sup>**[[F-Droid](https://f-droid.org/app/org.smc.inputmethod.indic)]**</sup>
