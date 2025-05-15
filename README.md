@@ -647,6 +647,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Podcast & Audio Book Player
 
 * [**AntennaPod**](https://github.com/AntennaPod/AntennaPod) <sup>**[[F-Droid](https://f-droid.org/app/de.danoeh.antennapod)]**</sup>
+* [**Anytime Podcast Player**](https://github.com/amugofjava/anytime_podcast_player) <sup>**[[F-Droid](https://f-droid.org/app/uk.me.amugofjava.anytime)]**</sup>
 * [**Audio Anchor**](https://github.com/flackbash/AudioAnchor) <sup>**[[F-Droid](https://f-droid.org/app/com.prangesoftwaresolutions.audioanchor)]**</sup>
 * [**Escapepod**](https://codeberg.org/y20k/escapepod) <sup>**[[F-Droid](https://f-droid.org/app/org.y20k.escapepod)]**</sup>
 * [**FocusPodcast**](https://github.com/allentown521/FocusPodcast) <sup>**[[F-Droid](https://f-droid.org/app/allen.town.focus.podcast)]**</sup>
