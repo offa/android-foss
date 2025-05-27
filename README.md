@@ -747,7 +747,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**CPU Info**](https://github.com/kamgurgul/cpu-info) <sup>**[[F-Droid](https://f-droid.org/app/com.kgurgul.cpuinfo)]**</sup>
 * [**Dark theme**](https://github.com/phstudio2/Darktheme) <sup>**[[F-Droid](https://f-droid.org/app/com.phstudio.darktheme)]**</sup>
 * [**De-Bloater**](https://github.com/sunilpaulmathew/De-Bloater) <sup>**[[F-Droid](https://f-droid.org/app/com.sunilpaulmathew.debloater)]**</sup>
-* [**Dhizuku**](https://github.com/iamr0s/Dhizuku) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.rosan.dhizuku)]**</sup>
+* [**Dhizuku**](https://github.com/iamr0s/Dhizuku) <sup>**[[F-Droid](https://f-droid.org/app/com.rosan.dhizuku)]**</sup>
 * [**DSU Sideloader**](https://github.com/VegaBobo/DSU-Sideloader) <sup>**[[F-Droid](https://f-droid.org/app/vegabobo.dsusideloader)]**</sup>
 * [**Geto**](https://github.com/JackEblan/Geto) <sup>**[[F-Droid](https://f-droid.org/app/com.android.geto)]**</sup>
 * [**Headwind MDM Agent**](https://github.com/h-mdm/hmdm-android) <sup>**[[F-Droid](https://f-droid.org/app/com.hmdm.launcher)]**</sup>
