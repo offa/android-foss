@@ -125,7 +125,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Aniyomi**](https://github.com/aniyomiorg/aniyomi)
 * [**Bangumi**](https://github.com/czy0729/Bangumi) <sup>**[[F-Droid](https://f-droid.org/app/com.czy0729.bangumi)]**</sup>
 * [**Kotatsu**](https://github.com/nv95/Kotatsu) <sup>**[[F-Droid](https://f-droid.org/app/org.koitharu.kotatsu)]**</sup>
-* [**Mihon**](https://github.com/mihonapp/mihon)
 * [**Nekome**](https://github.com/Chesire/Nekome) <sup>**[[F-Droid](https://f-droid.org/app/com.chesire.nekome)]**</sup>
 
 ### • Automation
