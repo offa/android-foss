@@ -892,6 +892,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**WallMan**](https://gitlab.com/colorata/wallman) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.colorata.wallman)]**</sup>
 * [**Wave Lines Live Wallpaper**](https://github.com/markusfisch/WaveLinesWallpaper) <sup>**[[F-Droid](https://f-droid.org/app/de.markusfisch.android.wavelines)]**</sup>
 * [**Zade's Wallpaper**](https://github.com/zadeviggers/wallpaper) <sup>**[[F-Droid](https://f-droid.org/app/net.viggers.zade.wallpaper)]**</sup>
+* [**Shiori Wallpapers**](https://github.com/brianali-codes/shiori) <sup>**[[github](https://github.com/brianali-codes/shiori)]**</sup>
 
 ### • Weather
 
