@@ -381,7 +381,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**FlashDim**](https://github.com/cyb3rko/flashdim) <sup>**[[F-Droid](https://f-droid.org/app/com.cyb3rko.flashdim)]**</sup>
 * [**Flashy**](https://github.com/Crazy-Marvin/Flashy) <sup>**[[F-Droid](https://f-droid.org/app/rocks.poopjournal.flashy)]**</sup>
-* [**Lumolight**](https://github.com/BitMavrick/Lumolight) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.bitmavrick.lumolight)]**</sup>
+* [**Lumolight**](https://github.com/BitMavrick/Lumolight) <sup>**[[F-Droid](https://f-droid.org/app/com.bitmavrick.lumolight)]**</sup>
 
 ### • Graphics
 
@@ -468,6 +468,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Maps & Navigation
 
+* [**CoMaps**](https://codeberg.org/comaps/comaps) <sup>**[[F-Droid](https://f-droid.org/app/app.comaps.fdroid)]**</sup>
 * [**Compass**](https://github.com/Kr0oked/Compass) <sup>**[[F-Droid](https://f-droid.org/app/com.bobek.compass)]**</sup>
 * [**OpenTopoMap Viewer**](https://github.com/Pygmalion69/OpenTopoMapViewer) <sup>**[[F-Droid](https://f-droid.org/app/org.nitri.opentopo)]**</sup>
 * [**Organic Maps**](https://github.com/organicmaps/organicmaps) <sup>**[[F-Droid](https://f-droid.org/app/app.organicmaps)]**</sup>
@@ -903,8 +904,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Overmorrow Weather**](https://github.com/bmaroti9/Overmorrow) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.marotidev.Overmorrow)]**</sup>
 * [**RadarWeather**](https://github.com/woheller69/weather) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.weather)]**</sup>
 * [**Rain**](https://github.com/darkmoonight/Rain) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.yoshi.rain)]**</sup>
-* [**Weather**](https://codeberg.org/Beowulf/Weather) <sup>**[[F-Droid](https://f-droid.org/app/de.beowulf.wetter)]**</sup>
-* [**WeatherMaster**](https://github.com/PranshulGG/WeatherMaster) <sup>**[[F-Droid](https://f-droid.org/app/com.example.weathermaster)]**</sup>
+* [**WeatherMaster**](https://github.com/PranshulGG/WeatherMaster) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.example.weathermaster)]**</sup>
 
 ------------------------
 
