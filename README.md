@@ -611,6 +611,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Notally**](https://github.com/OmGodse/Notally) <sup>**[[F-Droid](https://f-droid.org/app/com.omgodse.notally)]**</sup>
 * [**NotallyX**](https://github.com/PhilKes/NotallyX) <sup>**[[F-Droid](https://f-droid.org/app/com.philkes.notallyx)]**</sup>
 * [**NoteCrypt**](https://github.com/RyuzakiKK/NoteCrypt) <sup>**[[F-Droid](https://f-droid.org/app/com.notecryptpro)]**</sup>
+* [**Notely Voice**](https://github.com/tosinonikute/NotelyVoice) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.module.notelycompose.android/)]**</sup>
 * [**Notesnook**](https://github.com/streetwriters/notesnook) <sup>**[[F-Droid](https://f-droid.org/app/com.streetwriters.notesnook)]**</sup>
 * [**Notification Notes**](https://github.com/khuttun/NotificationNotes) <sup>**[[F-Droid](https://f-droid.org/app/com.khuttun.notificationnotes)]**</sup>
 * [**Noto**](https://github.com/alialbaali/Noto)
@@ -621,7 +622,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Saber**](https://github.com/adil192/saber) <sup>**[[F-Droid](https://f-droid.org/app/com.adilhanney.saber)]**</sup>
 * [**Simple Material Notes**](https://github.com/RafhaanShah/Simple-Notes) <sup>**[[F-Droid](https://f-droid.org/app/com.rafapps.simplenotes)]**</sup>
 * [**Standard Notes**](https://github.com/standardnotes/app) <sup>**[[F-Droid](https://f-droid.org/app/com.standardnotes)]**</sup>
-* [**Notely Voice**](https://github.com/tosinonikute/NotelyVoice) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.module.notelycompose.android/)]**</sup>
 
 ### • Office
 
