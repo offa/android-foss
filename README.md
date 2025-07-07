@@ -904,7 +904,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Everest**](https://github.com/mwageringel/everest) <sup>**[[F-Droid](https://f-droid.org/app/io.github.mwageringel.everest)]**</sup>
 * [**GCompris**](https://invent.kde.org/education/gcompris.git) <sup>**[[F-Droid](https://f-droid.org/app/net.gcompris.full)]**</sup>
 * [**Geoperion**](https://github.com/vulnerabbity/Geoperion) <sup>**[[F-Droid](https://f-droid.org/app/com.vulnerabbity.geoperion)]**</sup>
-* [**Learning Memory**](https://github.com/niccokunzmann/app.memory.quelltext.eu) <sup>**[[F-Droid](https://f-droid.org/app/eu.quelltext.memory)]**</sup>
 * [**Quick Calculation**](https://github.com/SubhamTyagi/quick-calculation) <sup>**[[F-Droid](https://f-droid.org/app/io.github.subhamtyagi.quickcalculation)]**</sup>
 * [**RUTMath**](https://github.com/przemarbor/RUTMath) <sup>**[[F-Droid](https://f-droid.org/app/com.hexbit.rutmath)]**</sup>
 * [**The Powder Toy**](https://github.com/The-Powder-Toy/The-Powder-Toy)
