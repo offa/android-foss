@@ -891,7 +891,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**lidraughts**](https://github.com/roepstoep/lidraughts)
 * [**Mill**](https://github.com/calcitem/Sanmill) <sup>**[[F-Droid](https://f-droid.org/app/com.calcitem.sanmill)]**</sup>
 * [**Open Chaos Chess**](https://github.com/CorruptedArk/open-chaos-chess) <sup>**[[F-Droid](https://f-droid.org/app/dev.corruptedark.openchaoschess)]**</sup>
-* [**Scid on the go**](https://github.com/gkalab/scidonthego) <sup>**[[F-Droid](https://f-droid.org/app/org.scid.android)]**</sup>
 * [**Simple Chess Clock**](https://github.com/simenheg/simple-chess-clock) <sup>**[[F-Droid](https://f-droid.org/app/com.chessclock.android)]**</sup>
 
 ### • Card
