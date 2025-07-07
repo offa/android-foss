@@ -927,7 +927,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Endless Sky**](https://github.com/thewierdnut/endless-mobile) <sup>**[[F-Droid](https://f-droid.org/app/com.github.thewierdnut.endless_mobile)]**</sup>
 * [**Falling Blocks**](https://github.com/Sajeg/falling-blocks) <sup>**[[F-Droid](https://f-droid.org/app/org.sajeg.fallingblocks)]**</sup>
 * [**Luanti**](https://github.com/minetest/minetest) <sup>**[[F-Droid](https://f-droid.org/app/net.minetest.minetest)]**</sup>
-* [**Open Golf**](https://github.com/mgerdes/Open-Golf) <sup>**[[F-Droid](https://f-droid.org/app/me.mgerdes.open_golf)]**</sup>
 * [**Pocket Broomball**](https://github.com/dulvui/pocket-broomball) <sup>**[[F-Droid](https://f-droid.org/app/com.simondalvai.pocketbroomball)]**</sup>
 * [**Quinb**](https://gitlab.com/deepdaikon/Quinb) <sup>**[[F-Droid](https://f-droid.org/app/xyz.deepdaikon.quinb)]**</sup>
 * [**WordleSolver**](https://github.com/billthefarmer/wordlesolver) <sup>**[[F-Droid](https://f-droid.org/app/org.billthefarmer.solver)]**</sup>
