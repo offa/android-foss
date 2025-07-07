@@ -593,7 +593,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**NotallyX**](https://github.com/PhilKes/NotallyX) <sup>**[[F-Droid](https://f-droid.org/app/com.philkes.notallyx)]**</sup>
 * [**Notely Voice**](https://github.com/tosinonikute/NotelyVoice) <sup>**[[F-Droid](https://f-droid.org/app/com.module.notelycompose.android)]**</sup>
 * [**Notesnook**](https://github.com/streetwriters/notesnook) <sup>**[[F-Droid](https://f-droid.org/app/com.streetwriters.notesnook)]**</sup>
-* [**Notification Notes**](https://github.com/khuttun/NotificationNotes) <sup>**[[F-Droid](https://f-droid.org/app/com.khuttun.notificationnotes)]**</sup>
 * [**Noto**](https://github.com/alialbaali/Noto)
 * [**Omni-Notes**](https://federicoiosue.github.io/Omni-Notes/) <sup>**[[F-Droid](https://f-droid.org/app/it.feio.android.omninotes.foss)]**</sup>
 * [**OpenNote**](https://github.com/YangDai2003/OpenNote-Compose) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.yangdai.opennote)]**</sup>
