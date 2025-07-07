@@ -30,7 +30,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Downloader &amp; Manager](#-downloader--manager)
     * [Email Aliases](#-email-aliases)
     * [Email Clients](#-email-clients)
-    * [Emulator](#-emulator)
     * [File Encryption](#-file-encryption)
     * [File Manager](#-file-manager)
     * [File Sharing](#-file-sharing)
@@ -79,7 +78,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Board](#-board)
     * [Card](#-card)
     * [Educational](#-educational)
-    * [Emulator](#-emulator-1)
+    * [Emulator](#-emulator)
     * [Miscellaneous](#-miscellaneous-1)
     * [Music](#-music-1)
     * [Puzzle](#-puzzle)
@@ -308,10 +307,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Ltt.rs**](https://codeberg.org/iNPUTmice/lttrs-android) <sup>**[[F-Droid](https://f-droid.org/app/rs.ltt.android)]**</sup>
 * [**Thunderbird**](https://github.com/thunderbird/thunderbird-android) <sup>**[[F-Droid](https://f-droid.org/app/net.thunderbird.android)]**</sup>
 * [**Tutanota**](https://github.com/tutao/tutanota) <sup>**[[F-Droid](https://f-droid.org/app/de.tutao.tutanota)]**</sup>
-
-### • Emulator
-
-* [**Limbo x86 PC Emulator**](https://github.com/limboemu/limbo) <sup>**[[F-Droid](https://f-droid.org/app/com.limbo.emu.main)]**</sup>
 
 ### • File Encryption
 
