@@ -414,7 +414,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**8VIM**](https://github.com/flide/8VIM) <sup>**[[F-Droid](https://f-droid.org/app/inc.flide.vi8)]**</sup>
 * [**AnySoftKeyboard**](https://anysoftkeyboard.github.io/) <sup>**[[F-Droid](https://f-droid.org/app/com.menny.android.anysoftkeyboard)]**</sup>
-* [**BeHe Keyboard**](https://github.com/VladThodo/behe-keyboard) <sup>**[[F-Droid](https://f-droid.org/app/com.vlath.keyboard)]**</sup>
 * [**fcitx5-android**](https://github.com/fcitx5-android/fcitx5-android) <sup>**[[F-Droid](https://f-droid.org/app/org.fcitx.fcitx5.android)]**</sup>
 * [**FlorisBoard**](https://github.com/florisboard/florisboard) <sup>**[[F-Droid](https://f-droid.org/app/dev.patrickgold.florisboard)]**</sup>
 * [**Fossify Keyboard**](https://github.com/FossifyOrg/Keyboard) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.keyboard)]**</sup>
