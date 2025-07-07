@@ -870,7 +870,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Bura**](https://github.com/davidtakac/bura) <sup>**[[F-Droid](https://f-droid.org/app/com.davidtakac.bura)]**</sup>
 * [**Cirrus**](https://github.com/woheller69/omweather) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.omweather)]**</sup>
 * [**Clima**](https://codeberg.org/Lacerte/clima) <sup>**[[F-Droid](https://f-droid.org/app/co.prestosole.clima)]**</sup>
-* [**Forecastie**](https://github.com/martykan/forecastie) <sup>**[[F-Droid](https://f-droid.org/app/cz.martykan.forecastie)]**</sup>
 * [**Overmorrow Weather**](https://github.com/bmaroti9/Overmorrow) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.marotidev.Overmorrow)]**</sup>
 * [**RadarWeather**](https://github.com/woheller69/weather) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.weather)]**</sup>
 * [**Rain**](https://github.com/darkmoonight/Rain) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.yoshi.rain)]**</sup>
