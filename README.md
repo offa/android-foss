@@ -765,7 +765,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**1List**](https://github.com/lolo-io/OneList) <sup>**[[F-Droid](https://f-droid.org/app/com.lolo.io.onelist)]**</sup>
 * [**Everyday Tasks**](https://github.com/jenspfahl/EverydayTasks) <sup>**[[F-Droid](https://f-droid.org/app/de.jepfa.personaltasklogger)]**</sup>
-* [**OpenTasks**](https://github.com/dmfs/opentasks) <sup>**[[F-Droid](https://f-droid.org/app/org.dmfs.tasks)]**</sup>
 * [**Orgzly**](https://github.com/orgzly/orgzly-android) <sup>**[[F-Droid](https://f-droid.org/app/com.orgzly)]**</sup>
 * [**PocketPlan**](https://github.com/RayLeaf-Studios/PocketPlan) <sup>**[[F-Droid](https://f-droid.org/app/com.pocket_plan.j7_003)]**</sup>
 * [**Tasks.org**](https://github.com/tasks/tasks) <sup>**[[F-Droid](https://f-droid.org/app/org.tasks)]**</sup>
