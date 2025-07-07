@@ -511,7 +511,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Miscellaneous
 
-* [**Anchr for Android**](https://github.com/muety/anchr-android) <sup>**[[F-Droid](https://f-droid.org/app/io.muetsch.anchrandroid)]**</sup>
 * [**Call Recorder**](https://gitlab.com/axet/android-call-recorder) <sup>**[[F-Droid](https://f-droid.org/app/com.github.axet.callrecorder)]**</sup>
 * [**Coffee**](https://github.com/mueller-ma/Coffee) <sup>**[[F-Droid](https://f-droid.org/app/com.github.muellerma.coffee)]**</sup>
 * [**Fossify Voice Recorder**](https://github.com/FossifyOrg/Voice-Recorder) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.voicerecorder)]**</sup>
