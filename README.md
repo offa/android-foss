@@ -422,7 +422,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**HeliBoard**](https://github.com/Helium314/HeliBoard) <sup>**[[F-Droid](https://f-droid.org/app/helium314.keyboard)]**</sup>
 * [**Indic Keyboard**](https://gitlab.com/indicproject/indic-keyboard) <sup>**[[F-Droid](https://f-droid.org/app/org.smc.inputmethod.indic)]**</sup>
 * [**KryptEY**](https://github.com/amnesica/KryptEY) <sup>**[[F-Droid](https://f-droid.org/app/com.amnesica.kryptey)]**</sup>
-* [**nicoWnnG**](https://bitbucket-archive.softwareheritage.org/projects/da/dalb8/nicownng.html) <sup>**[[F-Droid](https://f-droid.org/app/net.gorry.android.input.nicownng)]**</sup>
 * [**OpenBoard**](https://github.com/dslul/openboard) <sup>**[[F-Droid](https://f-droid.org/app/org.dslul.openboard.inputmethod.latin)]**</sup>
 * [**Simple Keyboard**](https://github.com/rkkr/simple-keyboard) <sup>**[[F-Droid](https://f-droid.org/app/rkr.simplekeyboard.inputmethod)]**</sup>
 * [**Stroke Input Method (筆畫輸入法)**](https://github.com/stroke-input/stroke-input-android) <sup>**[[F-Droid](https://f-droid.org/app/io.github.yawnoc.strokeinput)]**</sup>
