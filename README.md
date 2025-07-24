@@ -454,6 +454,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**CoMaps**](https://codeberg.org/comaps/comaps) <sup>**[[F-Droid](https://f-droid.org/app/app.comaps.fdroid)]**</sup>
 * [**Compass**](https://github.com/Kr0oked/Compass) <sup>**[[F-Droid](https://f-droid.org/app/com.bobek.compass)]**</sup>
+* [**MBCompass**](https://github.com/MubarakNative/MBCompass) <sup>**[[F-Droid](https://f-droid.org/app/com.mubarak.mbcompass)]**</sup>
 * [**OpenTopoMap Viewer**](https://github.com/Pygmalion69/OpenTopoMapViewer) <sup>**[[F-Droid](https://f-droid.org/app/org.nitri.opentopo)]**</sup>
 * [**Organic Maps**](https://github.com/organicmaps/organicmaps) <sup>**[[F-Droid](https://f-droid.org/app/app.organicmaps)]**</sup>
 * [**OsmAnd~**](http://osmand.net/) <sup>**[[F-Droid](https://f-droid.org/app/net.osmand.plus)]**</sup>
