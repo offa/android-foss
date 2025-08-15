@@ -966,6 +966,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Feudal Tactics**](https://github.com/Sesu8642/FeudalTactics) <sup>**[[F-Droid](https://f-droid.org/app/de.sesu8642.feudaltactics)]**</sup>
 * [**Mindustry**](https://github.com/Anuken/Mindustry) <sup>**[[F-Droid](https://f-droid.org/app/io.anuke.mindustry)]**</sup>
 * [**OpenTTD**](https://github.com/n-ice-community/commandergenius) <sup>**[[F-Droid](https://f-droid.org/app/org.openttd.fdroid)]**</sup>
+* [**Planes**](https://github.com/xxxcucus/planes) <sup>**[[F-Droid](https://f-droid.org/app/com.planes.android)]**</sup>
 * [**Revengate**](https://gitlab.com/ygingras/revengate) <sup>**[[F-Droid](https://f-droid.org/app/org.revengate.revengate)]**</sup>
 * [**Shattered Pixel Dungeon**](https://github.com/00-Evan/shattered-pixel-dungeon) <sup>**[[F-Droid](https://f-droid.org/app/com.shatteredpixel.shatteredpixeldungeon)]**</sup>
 * [**UnCiv**](https://github.com/yairm210/UnCiv) <sup>**[[F-Droid](https://f-droid.org/app/com.unciv.app)]**</sup>
