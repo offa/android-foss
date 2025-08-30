@@ -24,6 +24,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Contacts](#-contacts)
     * [Development](#-development)
     * [Dialer](#-dialer)
+    * [Diary](#-diary)
     * [Dictionaries](#-dictionaries)
     * [Document &amp; PDF Viewer](#-document--pdf-viewer)
     * [Document Scanner](#-document-scanner)
@@ -245,6 +246,11 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Godot Editor**](https://github.com/godotengine/godot) <sup>**[[F-Droid](https://f-droid.org/app/org.godotengine.editor.v3)]**</sup>
 * [**TermuC**](https://github.com/RainbowC0/TermuC) <sup>**[[F-Droid](https://f-droid.org/app/cn.rbc.termuc)]**</sup>
+
+### • Diary
+
+* [**Daily You**](https://github.com/Demizo/Daily_You) <sup>**[[F-Droid](https://f-droid.org/app/com.demizo.daily_you)]**</sup>
+* [**Easy Diary**](https://github.com/hanjoongcho/aaf-easydiary) <sup>**[[F-Droid](https://f-droid.org/app/me.blog.korn123.easydiary)]**</sup>
 
 ### • Dialer
 
@@ -576,7 +582,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Notes
 
-* [**Easy Diary**](https://github.com/hanjoongcho/aaf-easydiary) <sup>**[[F-Droid](https://f-droid.org/app/me.blog.korn123.easydiary)]**</sup>
 * [**Easy Notes**](https://github.com/Kin69/EasyNotes) <sup>**[[F-Droid](https://f-droid.org/app/com.kin.easynotes)]**</sup>
 * [**Fossify Notes**](https://github.com/FossifyOrg/Notes) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.notes)]**</sup>
 * [**Joplin**](https://github.com/laurent22/joplin) <sup>**[[F-Droid](https://f-droid.org/app/net.cozic.joplin)]**</sup>
