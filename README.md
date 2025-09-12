@@ -742,6 +742,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Scoop**](https://github.com/TacoTheDank/Scoop) <sup>**[[F-Droid](https://f-droid.org/app/taco.scoop)]**</sup>
 * [**SuperFreezZ**](https://gitlab.com/SuperFreezZ/SuperFreezZ) <sup>**[[F-Droid](https://f-droid.org/app/superfreeze.tool.android)]**</sup>
 * [**SystemUI Tuner**](https://github.com/zacharee/Tweaker)
+* [**TaskManager**](https://github.com/RohitKushvaha01/TaskManager) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.rk.taskmanager)]**</sup>
 * [**Treble Info**](https://gitlab.com/TrebleInfo/TrebleInfo) <sup>**[[F-Droid](https://f-droid.org/app/tk.hack5.treblecheck)]**</sup>
 * [**UpgradeAll**](https://github.com/DUpdateSystem/UpgradeAll) <sup>**[[F-Droid](https://f-droid.org/app/net.xzos.upgradeall)]**</sup>
 * [**WifiAnalyzer**](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) <sup>**[[F-Droid](https://f-droid.org/app/com.vrem.wifianalyzer)]**</sup>
