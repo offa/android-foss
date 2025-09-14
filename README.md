@@ -936,7 +936,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Apple Flinger**](https://gitlab.com/ar-/apple-flinger) <sup>**[[F-Droid](https://f-droid.org/app/com.gitlab.ardash.appleflinger.android)]**</sup>
 * [**Ball2Box**](https://github.com/dulvui/ball2box) <sup>**[[F-Droid](https://f-droid.org/app/com.simondalvai.ball2box)]**</sup>
-* [**Breakout 71**](https://gitlab.com/lecarore/breakout71) <sup>**[[F-Droid](https://f-droid.org/en/packages/me.lecaro.breakout/)]**</sup>
+* [**Breakout 71**](https://gitlab.com/lecarore/breakout71) <sup>**[[F-Droid](https://f-droid.org/app/me.lecaro.breakout)]**</sup>
 * [**Burger Party**](https://github.com/agateau/burgerparty) <sup>**[[F-Droid](https://f-droid.org/app/com.agateau.burgerparty)]**</sup>
 * [**DekaDico**](https://github.com/vivekthazhathattil/dekadico) <sup>**[[F-Droid](https://f-droid.org/app/com.example.spokennumbers)]**</sup>
 * [**Destination Sol**](https://github.com/MovingBlocks/DestinationSol) <sup>**[[F-Droid](https://f-droid.org/app/com.miloshpetrov.sol2.android)]**</sup>
