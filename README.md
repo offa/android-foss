@@ -459,7 +459,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**PaperLaunch**](https://github.com/devmil/PaperLaunch) <sup>**[[F-Droid](https://f-droid.org/app/de.devmil.paperlaunch)]**</sup>
 * [**Pie Launcher**](https://github.com/markusfisch/PieLauncher) <sup>**[[F-Droid](https://f-droid.org/app/de.markusfisch.android.pielauncher)]**</sup>
 * [**YAM Launcher**](https://codeberg.org/ottoptj/yamlauncher) <sup>**[[F-Droid](https://f-droid.org/app/eu.ottop.yamlauncher)]**</sup>
-* [**µLauncher**](https://launcher.jrpie.de/) <sup>**[[F-Droid](https://f-droid.org/fr/packages/de.jrpie.android.launcher/)]**</sup>
+* [**µLauncher**](https://launcher.jrpie.de/) <sup>**[[F-Droid](https://f-droid.org/app/de.jrpie.android.launcher)]**</sup>
 
 ### • Maps & Navigation
 
