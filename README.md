@@ -707,7 +707,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**FitoTrack**](https://codeberg.org/jannis/FitoTrack) <sup>**[[F-Droid](https://f-droid.org/app/de.tadris.fitness)]**</sup>
 * [**Flexify**](https://github.com/brandonp2412/Flexify) <sup>**[[F-Droid](https://f-droid.org/app/com.presley.flexify)]**</sup>
 * [**hEARtest**](https://github.com/woheller69/audiometry) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.audiometry)]**</sup>
-* [**Meditation**](https://github.com/nyxkn/meditation) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.nyxkn.meditation/)]**</sup>
+* [**Meditation**](https://github.com/nyxkn/meditation) <sup>**[[F-Droid](https://f-droid.org/app/com.nyxkn.meditation)]**</sup>
 * [**MedTimer**](https://github.com/Futsch1/medTimer) <sup>**[[F-Droid](https://f-droid.org/app/com.futsch1.medtimer)]**</sup>
 * [**OpenTracks**](https://github.com/OpenTracksApp/OpenTracks) <sup>**[[F-Droid](https://f-droid.org/app/de.dennisguse.opentracks)]**</sup>
 * [**Paseo**](https://gitlab.com/pardomi/paseo) <sup>**[[F-Droid](https://f-droid.org/app/ca.chancehorizon.paseo)]**</sup>
