@@ -561,7 +561,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Auxio**](https://github.com/OxygenCobalt/Auxio) <sup>**[[F-Droid](https://f-droid.org/app/org.oxycblt.auxio)]**</sup>
 * [**Bloomee**](https://github.com/HemantKArya/BloomeeTunes)<sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/ls.bloomee.musicplayer)]**</sup>
-* [**Booming Music**](https://github.com/mardous/BoomingMusic) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.mardous.booming/)]**</sup>
+* [**Booming Music**](https://github.com/mardous/BoomingMusic) <sup>**[[F-Droid](https://f-droid.org/app/com.mardous.booming)]**</sup>
 * [**CuteMusic**](https://github.com/sosauce/CuteMusic)<sup>**[[F-Droid](https://f-droid.org/app/com.sosauce.cutemusic)]**</sup>
 * [**Dialog Music Player**](https://github.com/VishnuSanal/DialogMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/app/phone.vishnu.dialogmusicplayer)]**</sup>
 * [**Fossify Music Player**](https://github.com/FossifyOrg/Music-Player) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.musicplayer)]**</sup>
