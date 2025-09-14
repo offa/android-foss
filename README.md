@@ -269,7 +269,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**freeDictionaryApp**](https://github.com/yamin8000/freeDictionaryApp) <sup>**[[F-Droid](https://f-droid.org/app/io.github.yamin8000.owl)]**</sup>
 * [**Notification Dictionary**](https://github.com/tirkarthi/NotificationDictionary) <sup>**[[F-Droid](https://f-droid.org/app/com.xtreak.notificationdictionary)]**</sup>
 * [**QDict**](https://github.com/marmistrz/QDict) <sup>**[[F-Droid](https://f-droid.org/app/com.annie.dictionary.fork)]**</sup>
-* [**QuickDic**](https://github.com/rdoeffinger/Dictionary) <sup>**[[F-Droid](https://f-droid.org/en/packages/de.reimardoeffinger.quickdic/)]**</sup>
+* [**QuickDic**](https://github.com/rdoeffinger/Dictionary) <sup>**[[F-Droid](https://f-droid.org/app/de.reimardoeffinger.quickdic)]**</sup>
 * [**SilverDict**](https://github.com/Crissium/SilverDict-mobile) <sup>**[[F-Droid](https://f-droid.org/app/com.gmail.blandilyte.silverdict)]**</sup>
 
 ### • Document & PDF Viewer
