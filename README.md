@@ -602,7 +602,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Memento**](https://github.com/mwarning/Memento) <sup>**[[F-Droid](https://f-droid.org/app/de.mwarning.memento)]**</sup>
 * [**My Brain**](https://github.com/mhss1/MyBrain) <sup>**[[F-Droid](https://f-droid.org/app/com.mhss.app.mybrain)]**</sup>
 * [**neutriNote**](https://github.com/appml/neutrinote) <sup>**[[F-Droid](https://f-droid.org/app/com.appmindlab.nano)]**</sup>
-* [**Nextcloud Notes**](https://github.com/nextcloud/notes-android) <sup>**[[F-Droid](https://f-droid.org/en/packages/it.niedermann.owncloud.notes/)]**</sup>
+* [**Nextcloud Notes**](https://github.com/nextcloud/notes-android) <sup>**[[F-Droid](https://f-droid.org/app/it.niedermann.owncloud.notes)]**</sup>
 * [**Notally**](https://github.com/OmGodse/Notally) <sup>**[[F-Droid](https://f-droid.org/app/com.omgodse.notally)]**</sup>
 * [**NotallyX**](https://github.com/PhilKes/NotallyX) <sup>**[[F-Droid](https://f-droid.org/app/com.philkes.notallyx)]**</sup>
 * [**Notely Voice**](https://github.com/tosinonikute/NotelyVoice) <sup>**[[F-Droid](https://f-droid.org/app/com.module.notelycompose.android)]**</sup>
