@@ -525,7 +525,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Audio Recorder**](https://gitlab.com/axet/android-audio-recorder)
 * [**Call Recorder**](https://gitlab.com/axet/android-call-recorder) <sup>**[[F-Droid](https://f-droid.org/app/com.github.axet.callrecorder)]**</sup>
 * [**Coffee**](https://github.com/mueller-ma/Coffee) <sup>**[[F-Droid](https://f-droid.org/app/com.github.muellerma.coffee)]**</sup>
-* [**Cuppa**](https://github.com/ncosgray/cuppa_mobile) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.nathanatos.Cuppa/)]**</sup>
+* [**Cuppa**](https://github.com/ncosgray/cuppa_mobile) <sup>**[[F-Droid](https://f-droid.org/app/com.nathanatos.Cuppa)]**</sup>
 * [**Fossify Voice Recorder**](https://github.com/FossifyOrg/Voice-Recorder) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.voicerecorder)]**</sup>
 * [**Gadgetbridge**](https://codeberg.org/Freeyourgadget/Gadgetbridge) <sup>**[[F-Droid](https://f-droid.org/app/nodomain.freeyourgadget.gadgetbridge)]**</sup>
 * [**Goodtime**](https://github.com/goodtime-productivity/Goodtime) <sup>**[[F-Droid](https://f-droid.org/app/com.apps.adrcotfas.goodtime)]**</sup>
