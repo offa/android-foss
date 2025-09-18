@@ -828,8 +828,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**OONI Probe**](https://github.com/ooni/probe-android) <sup>**[[F-Droid](https://f-droid.org/app/org.openobservatory.ooniprobe)]**</sup>
 * [**Open Video Editor**](https://github.com/devhyper/open-video-editor) <sup>**[[F-Droid](https://f-droid.org/app/io.github.devhyper.openvideoeditor)]**</sup>
 * [**Orgro**](https://orgro.org/) <sup>**[[F-Droid](https://f-droid.org/app/com.madlonkay.orgro)]**</sup>
-* [**PlugBrain**](https://github.com/msbelaid/PlugBrain) <sup>**[[F-Droid](https://f-droid.org/packages/app.plugbrain.android)]**</sup>
 * [**PDF Converter**](https://github.com/Swati4star/Images-to-PDF) <sup>**[[F-Droid](https://f-droid.org/app/swati4star.createpdf)]**</sup>
+* [**PlugBrain**](https://github.com/msbelaid/PlugBrain) <sup>**[[F-Droid](https://f-droid.org/packages/app.plugbrain.android)]**</sup>
 * [**Screen Time**](https://github.com/markusfisch/ScreenTime) <sup>**[[F-Droid](https://f-droid.org/app/de.markusfisch.android.screentime)]**</sup>
 * [**SD Maid 2/SE**](https://github.com/d4rken-org/sdmaid-se) <sup>**[[F-Droid](https://f-droid.org/app/eu.darken.sdmse)]**</sup>
 * [**Sensorkraken**](https://gitlab.com/sensorkraken/android-app) <sup>**[[F-Droid](https://f-droid.org/app/org.sensorkraken)]**</sup>
