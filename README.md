@@ -962,7 +962,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Block Puzzle Stone Wars**](https://github.com/SoltauFintel/blockpuzzle) <sup>**[[F-Droid](https://f-droid.org/app/de.mwvb.blockpuzzle)]**</sup>
 * [**Flowit**](https://github.com/Flowit-Game/Flowit) <sup>**[[F-Droid](https://f-droid.org/app/com.bytehamster.flowitgame)]**</sup>
-* [**LibreSudoku**](https://github.com/kaajjo/Libre-Sudoku) <sup>**[[F-Droid](https://f-droid.org/app/com.kaajjo.libresudoku)]**</sup>
+* [**Gauguin**](https://github.com/meikpiep/gauguin) <sup>**[[F-Droid](https://f-droid.org/app/org.piepmeyer.gauguin)]**</sup>
+* [**LibreSudoku**](https://github.com/kaajjo/Libre-Sudoku) <sup**[[F-Droid](https://f-droid.org/app/com.kaajjo.libresudoku)]**</sup>
 * [**Minesweeper - Antimine**](https://github.com/lucasnlm/antimine-android) <sup>**[[F-Droid](https://f-droid.org/app/dev.lucanlm.antimine)]**</sup>
 * [**Minute Maze**](https://gitlab.com/ygingras/minute-maze) <sup>**[[F-Droid](https://f-droid.org/app/net.ygingras.minutemaze)]**</sup>
 * [**Open Sudoku**](https://gitlab.com/opensudoku/opensudoku) <sup>**[[F-Droid](https://f-droid.org/app/org.moire.opensudoku)]**</sup>
