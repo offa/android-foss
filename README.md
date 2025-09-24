@@ -168,6 +168,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Privacy Browser**](https://gitweb.stoutner.com/?p=PrivacyBrowserAndroid.git;a=summary) <sup>**[[F-Droid](https://f-droid.org/app/com.stoutner.privacybrowser.standard)]**</sup>
 * [**SmartCookieWeb**](https://github.com/CookieJarApps/SmartCookieWeb) <sup>**[[F-Droid](https://f-droid.org/app/com.cookiegames.smartcookie)]**</sup>
 * [**Tor Browser**](https://gitlab.torproject.org/tpo/applications/tor-browser)
+* [**Webview Kiosk**](https://github.com/nktnet1/webview-kiosk) <sup>**[[F-Droid](https://f-droid.org/en/packages/uk.nktnet.webviewkiosk)]**</sup>
 
 ### • Calculator
 
