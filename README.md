@@ -394,7 +394,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Habit Tracker
 
-* [**Grit**](https://github.com/shub39/Grit) <sup>**[[F-Droid](https://f-droid.org/packages/com.shub39.grit)]**</sup>
+* [**Grit**](https://github.com/shub39/Grit) <sup>**[[F-Droid](https://f-droid.org/app/com.shub39.grit)]**</sup>
 * [**Loop Habit Tracker**](https://github.com/iSoron/uhabits) <sup>**[[F-Droid](https://f-droid.org/app/org.isoron.uhabits)]**</sup>
 * [**Sobriety**](https://github.com/KiARC/Sobriety) <sup>**[[F-Droid](https://f-droid.org/app/com.katiearose.sobriety)]**</sup>
 * [**Table Habit**](https://github.com/FriesI23/mhabit) <sup>**[[F-Droid](https://f-droid.org/app/io.github.friesi23.mhabit)]**</sup>
