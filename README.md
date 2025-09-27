@@ -174,6 +174,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**ArityCalc**](https://github.com/woheller69/Arity) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.arity)]**</sup>
 * [**Calculator You**](https://github.com/forzzzzz/Calculator-You) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.marktka.calculatorYou)]**</sup>
+* [**CuteCalc**](https://github.com/sosauce/CuteCalc) <sup>**[[F-Droid](https://f-droid.org/app/com.sosauce.cutecalc)]**</sup>
 * [**Fossify Calculator**](https://github.com/FossifyOrg/Calculator) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.math)]**</sup>
 * [**NumberHub**](https://github.com/Myzel394/NumberHub) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/app.myzel394.numberhub)]**</sup>
 * [**OpenCalc**](https://github.com/Darkempire78/OpenCalc) <sup>**[[F-Droid](https://f-droid.org/app/com.darkempire78.opencalculator)]**</sup>
@@ -393,6 +394,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Habit Tracker
 
+* [**Grit**](https://github.com/shub39/Grit) <sup>**[[F-Droid](https://f-droid.org/app/com.shub39.grit)]**</sup>
 * [**Loop Habit Tracker**](https://github.com/iSoron/uhabits) <sup>**[[F-Droid](https://f-droid.org/app/org.isoron.uhabits)]**</sup>
 * [**Sobriety**](https://github.com/KiARC/Sobriety) <sup>**[[F-Droid](https://f-droid.org/app/com.katiearose.sobriety)]**</sup>
 * [**Table Habit**](https://github.com/FriesI23/mhabit) <sup>**[[F-Droid](https://f-droid.org/app/io.github.friesi23.mhabit)]**</sup>
