@@ -288,6 +288,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Document Scanner
 
+* [**FairScan**](https://github.com/pynicolas/FairScan) <sup>[**[F-Droid](https://f-droid.org/app/org.fairscan.app)]**</sup>
 * [**MakeACopy**](https://github.com/egdels/makeacopy) <sup>[**[F-Droid](https://f-droid.org/app/de.schliweb.makeacopy)]**</sup>
 * [**OpenNoteScanner**](https://github.com/ctodobom/OpenNoteScanner) <sup>**[[F-Droid](https://f-droid.org/app/com.todobom.opennotescanner)]**</sup>
 * [**OSS Document Scanner**](https://github.com/Akylas/com.akylas.documentscanner) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.akylas.documentscanner)]**</sup>
