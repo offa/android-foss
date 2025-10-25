@@ -57,6 +57,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Podcast &amp; Audio Book Player](#-podcast--audio-book-player)
     * [Privacy &amp; Security](#-privacy--security)
     * [Public Transport](#-public-transport)
+    * [Religion](#-religion)
     * [RSS Readers](#-rss-readers)
     * [Sandboxing](#-sandboxing)
     * [Science &amp; Education](#-science--education)
@@ -669,6 +670,12 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Bimba**](https://git.apiote.xyz/Bimba.git) <sup>**[[F-Droid](https://f-droid.org/app/xyz.apiote.bimba.czwek)]**</sup>
 * [**Transito**](https://git.sr.ht/~mil/transito) <sup>**[[F-Droid](https://f-droid.org/app/ht.sr.git.mil.transito)]**</sup>
 * [**Transportr**](https://github.com/grote/transportr) <sup>**[[F-Droid](https://f-droid.org/app/de.grobox.liberario)]**</sup>
+
+### • Religion
+
+* [**Bhagavad Gita**](https://github.com/WirelessAlien/BhagavadGitaApp) <sup>**[[F-Droid](https://f-droid.org/app/com.wirelessalien.android.bhagavadgita)]**</sup>
+* [**Dharmik**](https://github.com/shub39/Dharmik) <sup>**[[F-Droid](https://f-droid.org/app/com.shub39.dharmik.online)]**</sup>
+* [**PocketDhamma**](https://github.com/s4nj1th/pocket-dhamma) <sup>**[[F-Droid](https://f-droid.org/app/com.s4nj1th.pocket_dhamma)]**</sup>
 
 ### • RSS Readers
 
