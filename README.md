@@ -1047,6 +1047,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**F-Droid**](https://f-droid.org)
 * [**Fossdroid**](https://fossdroid.com)
 * [**Guardian Project**](https://guardianproject.info)
-* [**IzzyOnDroid F-Droid Repository**](https://apt.izzysoft.de/fdroid/)
+* [**IzzyOnDroid F-Droid Repository**](https://apt.izzysoft.de/fdroid/) / [**IzzyOnDroid Website**](https://izzyondroid.org/)
 * [**List of free and open-source Android applications**](https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications)
 * [**OpenApk**](https://github.com/mobilenetworkltd/openapk)
