@@ -20,6 +20,24 @@ Entries are sorted alphabetically.
 If a package is available on [**F-Droid**](https://f-droid.org/) it can be linked using the `https://f-droid.org/app/<App ID>` URL.
 If not yet, it's a good idea to promote F-Droid submission to the projects developer.
 
-[**IzzyOnDroid**](https://apt.izzysoft.de/fdroid/) can be linked using `https://apt.izzysoft.de/fdroid/index/apk/<App ID>` only, if the package is *not* available on F-Droid and *not* marked by *NonFreeComp*.
+[**IzzyOnDroid**](https://apt.izzysoft.de/fdroid/) can be linked using `https://apt.izzysoft.de/fdroid/index/apk/<App ID>`, if the package is *not* marked by *NonFreeComp* or *NonFreeDepNonFreeDep*.
 
-Please do not submit other third party F-Droid repositories or Google Play.
+If the package is available on both, link F-Droid first, IzzyOnDroid second.
+
+*Examples:*
+
+```markdown
+# Project page only: <Project>
+* [**Example Project**](https://github.com/example/proj)
+
+# F-Droid only: <Project> <F-Droid>
+* [**Example Project**](https://github.com/example/proj) <sup>**[[F-Droid](https://f-droid.org/app/ex.ample.proj)]**</sup>
+
+# IzzyOnDroid only: <Project> <IzzyOnDroid>
+* [**Example Project**](https://github.com/example/proj) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/ex.ample.proj)]**</sup>
+
+# F-Droid and IzzyOnDroid: <Project> <F-Droid> <IzzyOnDroid>
+* [**Example Project**](https://github.com/example/proj) <sup>**[[F-Droid](https://f-droid.org/app/ex.ample.proj)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/ex.ample.proj)]**</sup>
+```
+
+Please do not submit other third party F-Droid repositories or Google Play Store.
