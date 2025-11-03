@@ -20,7 +20,7 @@ Entries are sorted alphabetically.
 If a package is available on [**F-Droid**](https://f-droid.org/) it can be linked using the `https://f-droid.org/app/<App ID>` URL.
 If not yet, it's a good idea to promote F-Droid submission to the projects developer.
 
-[**IzzyOnDroid**](https://apt.izzysoft.de/fdroid/) can be linked using `https://apt.izzysoft.de/fdroid/index/apk/<App ID>`, if the package is *not* marked by *NonFreeComp* or *NonFreeDepNonFreeDep*.
+[**IzzyOnDroid**](https://apt.izzysoft.de/fdroid/) can be linked using `https://apt.izzysoft.de/packages/<App ID>`, if the package is *not* marked by *NonFreeComp* or *NonFreeDep*.
 
 If the package is available on both, link F-Droid first, IzzyOnDroid second.
 
