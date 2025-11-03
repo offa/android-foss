@@ -34,10 +34,10 @@ If the package is available on both, link F-Droid first, IzzyOnDroid second.
 * [**Example Project**](https://github.com/example/proj) <sup>**[[F-Droid](https://f-droid.org/app/ex.ample.proj)]**</sup>
 
 # IzzyOnDroid only: <Project> <IzzyOnDroid>
-* [**Example Project**](https://github.com/example/proj) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/ex.ample.proj)]**</sup>
+* [**Example Project**](https://github.com/example/proj) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/ex.ample.proj)]**</sup>
 
 # F-Droid and IzzyOnDroid: <Project> <F-Droid> <IzzyOnDroid>
-* [**Example Project**](https://github.com/example/proj) <sup>**[[F-Droid](https://f-droid.org/app/ex.ample.proj)] [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/ex.ample.proj)]**</sup>
+* [**Example Project**](https://github.com/example/proj) <sup>**[[F-Droid](https://f-droid.org/app/ex.ample.proj)] [[IzzyOnDroid](https://apt.izzysoft.de/packages/ex.ample.proj)]**</sup>
 ```
 
 Please do not submit other third party F-Droid repositories or Google Play Store.
