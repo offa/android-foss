@@ -103,7 +103,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [**F-Droid Classic**](https://git.bubu1.eu/Bubu/fdroidclassic) <sup>**[[F-Droid](https://f-droid.org/packages/eu.bubu1.fdroidclassic)]**</sup>
     * [**G-Droid**](https://gitlab.com/gdroid/gdroidclient) <sup>**[[F-Droid](https://f-droid.org/packages/org.gdroid.gdroid)]**</sup>
 * [**Accrescent**](https://github.com/accrescent/accrescent)
-* [**Appteka**](https://github.com/solkin/appteka-android)
 * [**Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore) <sup>**[[F-Droid](https://f-droid.org/packages/com.aurora.store)]**</sup>
 * [**IzzyOnDroid**](https://gitlab.com/sunilpaulmathew/izzyondroid) <sup>**[[F-Droid](https://f-droid.org/packages/in.sunilpaulmathew.izzyondroid)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/in.sunilpaulmathew.izzyondroid)]**</sup>
 * [**Obtainium**](https://github.com/ImranR98/Obtainium) <sup>**[[F-Droid](https://f-droid.org/packages/dev.imranr.obtainium.fdroid)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/dev.imranr.obtainium)]**</sup>
