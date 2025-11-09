@@ -800,7 +800,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Lentil Translate**](https://github.com/yaxarat/lingvaandroid) <sup>**[[F-Droid](https://f-droid.org/packages/dev.atajan.lingva_android)]**</sup>
 * [**SimplyTranslate Mobile**](https://github.com/ManeraKai/simplytranslate_mobile) <sup>**[[F-Droid](https://f-droid.org/packages/com.simplytranslate_mobile)]**</sup>
 * [**The Translator**](https://github.com/sunilpaulmathew/Translator) <sup>**[[F-Droid](https://f-droid.org/packages/com.sunilpaulmathew.translator)]**</sup>
-* [**Translate You**](https://github.com/you-apps/TranslateYou) <sup>**[[F-Droid](https://f-droid.org/packages/com.bnyro.translate)]**</sub> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.bnyro.translate)]**</sub>
+* [**Translate You**](https://github.com/you-apps/TranslateYou) <sup>**[[F-Droid](https://f-droid.org/packages/com.bnyro.translate)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.bnyro.translate)]**</sup>
 
 ### • URL Manipulation
 
