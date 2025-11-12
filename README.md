@@ -736,7 +736,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**ownCloud**](https://github.com/owncloud/android) <sup>**[[F-Droid](https://f-droid.org/packages/com.owncloud.android)]**</sup>
 * [**Seafile**](https://github.com/haiwen/seadroid) <sup>**[[F-Droid](https://f-droid.org/packages/com.seafile.seadroid2)]**</sup>
 * [**Syncopoli**](https://gitlab.com/fengshaun/syncopoli) <sup>**[[F-Droid](https://f-droid.org/packages/org.amoradi.syncopoli)]**</sup>
-* [**Syncthing-Fork**](https://github.com/Catfriend1/syncthing-android) <sup>**[[F-Droid](https://f-droid.org/packages/com.github.catfriend1.syncthingandroid)]**</sup>
+* [**Syncthing-Fork**](https://github.com/Catfriend1/syncthing-android) <sup>**[[F-Droid](https://f-droid.org/packages/com.github.catfriend1.syncthingfork)]**</sup>
 * [**Syncthing-Lite**](https://github.com/Catfriend1/syncthing-lite) <sup>**[[F-Droid](https://f-droid.org/packages/com.github.catfriend1.syncthinglite)]**</sup>
 
 ### • System
