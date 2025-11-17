@@ -589,6 +589,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**SongTube**](https://github.com/SongTube/SongTube-App)
 * [**SpMp**](https://github.com/toasterofbread/spmp) <sup>**[[F-Droid](https://f-droid.org/packages/com.toasterofbread.spmp)]**</sup>
 * [**Spotube**](https://github.com/KRTirtho/spotube) <sup>**[[F-Droid](https://f-droid.org/packages/oss.krtirtho.spotube)]**</sup>
+* [**Tempus**](https://github.com/eddyizm/tempus) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.eddyizm.degoogled.tempus)]**</sup>
 * [**Transistor**](https://codeberg.org/y20k/transistor) <sup>**[[F-Droid](https://f-droid.org/packages/org.y20k.transistor)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.y20k.transistor)]**</sup>
 * [**Vanilla Music**](https://vanilla-music.github.io/) <sup>**[[F-Droid](https://f-droid.org/packages/ch.blinkenlights.android.vanilla)]**</sup>
 * [**Vinyl Music Player**](https://github.com/AdrienPoupa/VinylMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/packages/com.poupa.vinylmusicplayer)]**</sup>
