@@ -24,7 +24,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@main
       - name: Markdownlint
-        uses: nosborn/github-action-markdown-cli@7ca86fe6cbe33f6579ac44885b5ed73746db6e42
+        uses: nosborn/github-action-markdown-cli@85611bef0da53168168939754ff9d8f6073a8fec
         with:
           files: "*.md"
           config_file: .markdownlint.json
