@@ -49,6 +49,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Media Frontends](#-media-frontends)
     * [Messaging](#-messaging)
     * [Miscellaneous](#-miscellaneous)
+    * [Movie &amp; Cinema](#-movie--cinema)
     * [Music](#-music)
     * [Music &amp; Audio Player](#-music--audio-player)
     * [Notes](#-notes)
@@ -543,6 +544,10 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**RustDesk**](https://github.com/rustdesk/rustdesk) <sup>**[[F-Droid](https://f-droid.org/packages/com.carriez.flutter_hbb)]**</sup>
 * [**Simple Time Tracker**](https://github.com/Razeeman/Android-SimpleTimeTracker) <sup>**[[F-Droid](https://f-droid.org/packages/com.razeeman.util.simpletimetracker)]**</sup>
 * [**Stay Put**](https://codeberg.org/y20k/stayput) <sup>**[[F-Droid](https://f-droid.org/packages/org.y20k.stayput)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.y20k.stayput)]**</sup>
+
+### • Movie & Cinema
+
+* [**MovieFlix**](https://github.com/shalenMathew/MovieFlix_App) <sup>**[[F-Droid](https://f-droid.org/packages/com.shalenmathew.movieflix)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.shalenmathew.movieflix)]**</sup>
 
 ### • Music
 
