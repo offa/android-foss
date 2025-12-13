@@ -548,6 +548,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Movie & Cinema
 
 * [**MovieFlix**](https://github.com/shalenMathew/MovieFlix_App) <sup>**[[F-Droid](https://f-droid.org/packages/com.shalenmathew.movieflix)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.shalenmathew.movieflix)]**</sup>
+* [**ShowCase**](https://github.com/WirelessAlien/MovieDB) <sup>**[[F-Droid](https://f-droid.org/packages/com.wirelessalien.android.moviedb)]**</sup>
 
 ### • Music
 
