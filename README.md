@@ -335,6 +335,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Ghost Commander**](https://sourceforge.net/p/ghostcommander/svn/HEAD/tree) <sup>**[[F-Droid](https://f-droid.org/packages/com.ghostsq.commander)]**</sup>
 * [**Little File Explorer**](https://github.com/martinmimigames/little-file-explorer) <sup>**[[F-Droid](https://f-droid.org/packages/com.martinmimigames.simplefileexplorer)]**</sup>
 * [**Material Files**](https://github.com/zhanghai/MaterialFiles) <sup>**[[F-Droid](https://f-droid.org/packages/me.zhanghai.android.files)]**</sup>
+* [**Prism File Explorer**](https://github.com/Raival-e/Prism-File-Explorer) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.raival.compose.file.explorer)]**</sup>
 
 ### • File Sharing
 
