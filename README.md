@@ -133,6 +133,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Automation
 
 * [**Automation**](https://git.server47.de/jens/Automation) <sup>**[[F-Droid](https://f-droid.org/packages/com.jens.automation2)]**</sup>
+* [**Dicio**](https://github.com/Stypox/dicio-android) <sup>**[[F-Droid](https://f-droid.org/packages/org.stypox.dicio)]**</sup>
 * [**Easer**](https://github.com/renyuneyun/Easer) <sup>**[[F-Droid](https://f-droid.org/packages/ryey.easer)]**</sup>
 * [**Home Assistant**](https://github.com/home-assistant/android) <sup>**[[F-Droid](https://f-droid.org/packages/io.homeassistant.companion.android.minimal)]**</sup>
 * [**Smart AutoClicker**](https://github.com/Nain57/Smart-AutoClicker) <sup>**[[F-Droid](https://f-droid.org/packages/com.buzbuz.smartautoclicker)]**</sup>
