@@ -725,7 +725,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • SMS
 
 * [**Fossify SMS Messenger**](https://github.com/FossifyOrg/Messages) <sup>**[[F-Droid](https://f-droid.org/packages/org.fossify.messages)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.fossify.messages)]**</sup>
-* [**Quik**](https://github.com/octoshrimpy/quik) <sup>**[[F-Droid](https://f-droid.org/packages/dev.octoshrimpy.quik)]**</sup>
+* [**Messages**](https://github.com/octoshrimpy/quik) <sup>**[[F-Droid](https://f-droid.org/packages/org.prauga.messages)]**</sup>
+* [**Quik**](https://github.com/octoshrimpy/quik) <sup>**[[F-Droid](https://f-droid.org/packages/dev.octoshrimpy.quik.fdroid)]**</sup>
 
 ### • Sports & Health
 
