@@ -500,7 +500,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**blabber.im**](https://codeberg.org/kriztan/blabber.im) <sup>**[[F-Droid](https://f-droid.org/packages/de.pixart.messenger)]**</sup>
 * [**Briar**](https://code.briarproject.org/briar/briar) <sup>**[[F-Droid](https://f-droid.org/packages/org.briarproject.briar.android)]**</sup>
-* [**Conversations**](https://github.com/siacs/Conversations) <sup>**[[F-Droid](https://f-droid.org/packages/eu.siacs.conversations)]**</sup>
+* [**Conversations**](https://codeberg.org/iNPUTmice/Conversations) <sup>**[[F-Droid](https://f-droid.org/packages/eu.siacs.conversations)]**</sup>
     * [**another.im**](https://dev.narayana.im/narayana/anotherim) <sup>**[[F-Droid](https://f-droid.org/packages/im.narayana.another)]**</sup>
     * [**Cheogram**](https://git.singpolyma.net/cheogram-android) <sup>**[[F-Droid](https://f-droid.org/packages/com.cheogram.android)]**</sup>
     * [**monocles chat**](https://codeberg.org/monocles/monocles_chat) <sup>**[[F-Droid](https://f-droid.org/packages/de.monocles.chat)]**</sup>
