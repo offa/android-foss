@@ -180,6 +180,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Fossify Calculator**](https://github.com/FossifyOrg/Calculator) <sup>**[[F-Droid](https://f-droid.org/packages/org.fossify.math)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.fossify.math)]**</sup>
 * [**NumberHub**](https://github.com/Myzel394/NumberHub) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/app.myzel394.numberhub)]**</sup>
 * [**OpenCalc**](https://github.com/Darkempire78/OpenCalc) <sup>**[[F-Droid](https://f-droid.org/packages/com.darkempire78.opencalculator)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.darkempire78.opencalculator)]**</sup>
+* [**Qalculate**](https://github.com/jherkenhoff/qalculate-android)<sup>**[[F-Droid](https://f-droid.org/packages/com.jherkenhoff.qalculate)]**</sup>
 * [**yetCalc**](https://github.com/Yet-Zio/yetCalc) <sup>**[[F-Droid](https://f-droid.org/packages/yetzio.yetcalc)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/yetzio.yetcalc)]**</sup>
 
 ### • Calendar
