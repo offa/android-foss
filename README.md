@@ -758,6 +758,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • System
 
+* [**Adaptive Theme**](https://github.com/xlexip/adaptive-theme)
 * [**AppManager**](https://github.com/MuntashirAkon/AppManager) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.muntashirakon.AppManager)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/io.github.muntashirakon.AppManager)]**</sup>
 * [**aShell You**](https://github.com/DP-Hridayan/aShellYou) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/in.hridayan.ashell)]**</sup>
 * [**Auditor**](https://github.com/GrapheneOS/Auditor)
