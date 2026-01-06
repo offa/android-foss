@@ -836,6 +836,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Utilities
 
+* [**5G**](https://github.com/OpenAppsLabs/5G) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.openappslabs.fiveg)]**</sup>
 * [**Amaze File Utilities**](https://github.com/TeamAmaze/AmazeFileUtilities) <sup>**[[F-Droid](https://f-droid.org/packages/com.amaze.fileutilities)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.amaze.fileutilities)]**</sup>
 * [**AVNC**](https://github.com/gujjwal00/avnc) <sup>**[[F-Droid](https://f-droid.org/packages/com.gaurav.avnc)]**</sup>
 * [**BendyStraw**](https://codeberg.org/mm-dev/bendy-straw) <sup>**[[F-Droid](https://f-droid.org/packages/rocks.mm_dev.BendyStraw)]**</sup>
