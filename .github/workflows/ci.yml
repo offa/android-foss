@@ -39,4 +39,3 @@ jobs:
         uses: actions/checkout@main
       - name: Ensure sorted
         run: python3 ensure_sorted.py
-

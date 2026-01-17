@@ -35,7 +35,7 @@ class Category:
         for i in range(1, len(self.apps)):
             if self.apps[i] < self.apps[i-1]:
                 return f'App {bcolors.RED}{self.apps[i-1]}{bcolors.ENDC} is not in the correct order'
-                
+
     def how_to_sort(self):
         sorted_apps = sorted(self.apps)
         unsorted_apps = self.apps.copy()
@@ -49,7 +49,7 @@ class Category:
 
     def __str__(self):
         return str(self.apps)
-    
+
     def __repr__(self):
         return self.__str__()
 
@@ -98,7 +98,6 @@ def main():
 
     if not all_sorted:
         exit(2)
-            
 
 if __name__ == "__main__":
     main()

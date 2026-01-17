@@ -10,7 +10,6 @@ FDROID_SETTINGS=$( \
             | sed "s/)].*/;/g" \
             )
 
-
 FAILED=0
 
 while IFS=';' read -ra TOK; do
