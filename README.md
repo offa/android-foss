@@ -433,7 +433,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**8VIM**](https://github.com/flide/8VIM) <sup>**[[F-Droid](https://f-droid.org/packages/inc.flide.vi8)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/inc.flide.vi8)]**</sup>
 * [**AnySoftKeyboard**](https://anysoftkeyboard.github.io/) <sup>**[[F-Droid](https://f-droid.org/packages/com.menny.android.anysoftkeyboard)]**</sup>
 * [**fcitx5-android**](https://github.com/fcitx5-android/fcitx5-android) <sup>**[[F-Droid](https://f-droid.org/packages/org.fcitx.fcitx5.android)]**</sup>
-* [**FlorisBoard**](https://github.com/florisboard/florisboard) <sup>**[[F-Droid](https://f-droid.org/packages/dev.patrickgold.florisboard)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/dev.patrickgold.florisboard)]**</sup>  
+* [**FlorisBoard**](https://github.com/florisboard/florisboard) <sup>**[[F-Droid](https://f-droid.org/packages/dev.patrickgold.florisboard)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/dev.patrickgold.florisboard)]**</sup>
     FlorisBoard Beta:  <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/dev.patrickgold.florisboard.beta)]**</sup>
 * [**Fossify Keyboard**](https://github.com/FossifyOrg/Keyboard) <sup>**[[F-Droid](https://f-droid.org/packages/org.fossify.keyboard)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.fossify.keyboard)]**</sup>
 * [**FutharkBoard**](https://github.com/DrMaxNix/futharkboard) <sup>**[[F-Droid](https://f-droid.org/packages/de.drmaxnix.futharkboard)]**</sup>
@@ -858,6 +858,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Key Mapper**](https://github.com/keymapperorg/KeyMapper) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.sds100.keymapper)]**</sup>
 * [**KeyStoreViewer**](https://github.com/qdsfdhvh/KeyStoreViewer) <sup>**[[F-Droid](https://f-droid.org/packages/com.seiko.keystoreviewer)]**</sup>
 * [**Linkora**](https://github.com/LinkoraApp/Linkora) <sup>**[[F-Droid](https://f-droid.org/packages/com.sakethh.linkora)]**</sup>
+* [**Middor**](https://github.com/nktnet1/middor) <sup>**[[F-Droid](https://f-droid.org/packages/org.nktnet.middor)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.nktnet.middor)]**</sup>
 * [**Neo Backup**](https://github.com/NeoApplications/Neo-Backup) <sup>**[[F-Droid](https://f-droid.org/packages/com.machiav3lli.backup)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.machiav3lli.backup)]**</sup>
 * [**NFCGate**](https://github.com/nfcgate/nfcgate) <sup>**[[F-Droid](https://f-droid.org/packages/de.tu_darmstadt.seemoo.nfcgate)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/de.tu_darmstadt.seemoo.nfcgate)]**</sup>
 * [**OCR**](https://github.com/SubhamTyagi/android-ocr) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.subhamtyagi.ocr)]**</sup>
