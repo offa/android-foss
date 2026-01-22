@@ -332,7 +332,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • File Manager
 
 * [**Amaze**](https://github.com/TeamAmaze/AmazeFileManager) <sup>**[[F-Droid](https://f-droid.org/packages/com.amaze.filemanager)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.amaze.filemanager)]**</sup>
-* [**File Explorer Compose**](https://github.com/Raival-e/File-Explorer-Compose) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.raival.compose.file.explorer)]**</sup>
 * [**File Manager**](https://gitlab.com/axet/android-file-manager) <sup>**[[F-Droid](https://f-droid.org/packages/com.github.axet.filemanager)]**</sup>
 * [**Fossify File Manager**](https://github.com/FossifyOrg/File-Manager) <sup>**[[F-Droid](https://f-droid.org/packages/org.fossify.filemanager)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.fossify.filemanager)]**</sup>
 * [**Ghost Commander**](https://sourceforge.net/p/ghostcommander/svn/HEAD/tree) <sup>**[[F-Droid](https://f-droid.org/packages/com.ghostsq.commander)]**</sup>
