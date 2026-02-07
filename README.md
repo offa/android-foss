@@ -447,6 +447,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Traditional T9**](https://github.com/sspanak/tt9) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.sspanak.tt9)]**</sup>
 * [**Trime**](https://github.com/osfans/trime) <sup>**[[F-Droid](https://f-droid.org/packages/com.osfans.trime)]**</sup>
 * [**Unexpected Keyboard**](https://github.com/Julow/Unexpected-Keyboard) <sup>**[[F-Droid](https://f-droid.org/packages/juloo.keyboard2)]**</sup>
+* [**Urik**](https://github.com/urikdev/Urik) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.urik.keyboard/)]**</sup>
 
 ### • Launcher & Desktop
 
