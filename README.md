@@ -302,6 +302,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Gopeed**](https://github.com/GopeedLab/gopeed)
 * [**LibreTorrent**](https://github.com/proninyaroslav/libretorrent) <sup>**[[F-Droid](https://f-droid.org/packages/org.proninyaroslav.libretorrent)]**</sup>
 * [**Myne**](https://github.com/Pool-Of-Tears/Myne) <sup>**[[F-Droid](https://f-droid.org/packages/com.starry.myne)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.starry.myne)]**</sup>
+* [**Navit**](https://github.com/navit-gps/navit) <sup>**[[F-Droid](https://f-droid.org/packages/org.navitproject.navit)]**</sup>
 * [**Openlib**](https://github.com/dstark5/Openlib) <sup>**[[F-Droid](https://f-droid.org/packages/com.app.openlib)]**</sup>
 * [**Seal**](https://github.com/JunkFood02/Seal) <sup>**[[F-Droid](https://f-droid.org/packages/com.junkfood.seal)]**</sup>
 * [**SpotiFlyer**](https://github.com/Shabinder/SpotiFlyer) <sup>**[[F-Droid](https://f-droid.org/packages/com.shabinder.spotiflyer)]**</sup>
