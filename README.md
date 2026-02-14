@@ -130,6 +130,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Futon**](https://github.com/AppFuton/Futon) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.landwarderer.futon)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/io.github.landwarderer.futon)]**</sup>
 * [**Kahon**](https://github.com/AmanoTeam/Kahon) <sup>**[[F-Droid](https://f-droid.org/packages/com.amanoteam.kahon)]**</sup>
 * [**Nekome**](https://github.com/Chesire/Nekome) <sup>**[[F-Droid](https://f-droid.org/packages/com.chesire.nekome)]**</sup>
+* [**IReader**](https://github.com/IReaderorg/IReader) <sup>**[[github](https://github.com/IReaderorg/IReader)]**</sup>
+
 
 ### • Automation
 
