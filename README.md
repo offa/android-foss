@@ -5,7 +5,6 @@
 
 A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** – saving *Freedom* and *Privacy*.
 
-
 > [!CAUTION]
 > :rotating_light: TODO: Text and [**link**](https://keepandroidopen.org/)
 
