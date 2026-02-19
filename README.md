@@ -641,6 +641,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Quillpad**](https://github.com/quillpad/quillpad) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.quillpad)]**</sup>
 * [**Saber**](https://github.com/adil192/saber) <sup>**[[F-Droid](https://f-droid.org/packages/com.adilhanney.saber)]**</sup>
 * [**Simple Material Notes**](https://github.com/RafhaanShah/Simple-Notes) <sup>**[[F-Droid](https://f-droid.org/packages/com.rafapps.simplenotes)]**</sup>
+* [**Simple Notes Sync**](https://github.com/inventory69/simple-notes-sync) <sup>**[[F-Droid](https://f-droid.org/packages/dev.dettmer.simplenotes)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/dev.dettmer.simplenotes)]**</sup>
 * [**Standard Notes**](https://github.com/standardnotes/app) <sup>**[[F-Droid](https://f-droid.org/packages/com.standardnotes)]**</sup>
 
 ### • Office
