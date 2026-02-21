@@ -6,7 +6,7 @@
 A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** – saving *Freedom* and *Privacy*.
 
 > [!CAUTION]
-> :rotating_light: TODO: Text and [**link**](https://keepandroidopen.org/)
+> :rotating_light: **Free and Open-Source Android is under threat.** Google will turn Android into a locked-down platform, restricting your essential freedom to install apps of your choice. Make your voice heard – [**Keep Android Open**](https://keepandroidopen.org/).
 
 ## Table of Contents
 
