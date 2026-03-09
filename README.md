@@ -446,6 +446,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**HeliBoard**](https://github.com/Helium314/HeliBoard) <sup>**[[F-Droid](https://f-droid.org/packages/helium314.keyboard)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/helium314.keyboard)]**</sup>
 * [**Indic Keyboard**](https://gitlab.com/indicproject/indic-keyboard) <sup>**[[F-Droid](https://f-droid.org/packages/org.smc.inputmethod.indic)]**</sup>
 * [**KryptEY**](https://github.com/amnesica/KryptEY) <sup>**[[F-Droid](https://f-droid.org/packages/com.amnesica.kryptey)]**</sup>
+* [**LeanType**](https://github.com/LeanBitLab/LeanType)
 * [**OpenBoard**](https://github.com/dslul/openboard) <sup>**[[F-Droid](https://f-droid.org/packages/org.dslul.openboard.inputmethod.latin)]**</sup>
 * [**Simple Keyboard**](https://github.com/rkkr/simple-keyboard) <sup>**[[F-Droid](https://f-droid.org/packages/rkr.simplekeyboard.inputmethod)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/rkr.simplekeyboard.inputmethod)]**</sup>
 * [**Stroke Input Method (筆畫輸入法)**](https://github.com/stroke-input/stroke-input-android) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.yawnoc.strokeinput)]**</sup>
