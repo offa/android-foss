@@ -175,7 +175,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Native Alpha**](https://github.com/cylonid/NativeAlphaForAndroid) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/packages/com.cylonid.nativealpha)]**</sup>
 * [**Privacy Browser**](https://gitweb.stoutner.com/?p=PrivacyBrowserAndroid.git;a=summary) <sup>**[[F-Droid](https://f-droid.org/packages/com.stoutner.privacybrowser.standard)]**</sup>
 * [**Tor Browser**](https://gitlab.torproject.org/tpo/applications/tor-browser)
-* [**WebLibre**](https://github.com/FaFre/WebLibre) <sup>**[[F-Droid](https://f-droid.org/en/packages/eu.weblibre.gecko/)]**</sup>
+* [**WebLibre**](https://github.com/FaFre/WebLibre) <sup>**[[F-Droid](https://f-droid.org/packages/eu.weblibre.gecko)]**</sup>
 * [**Webview Kiosk**](https://github.com/nktnet1/webview-kiosk) <sup>**[[F-Droid](https://f-droid.org/packages/uk.nktnet.webviewkiosk)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/uk.nktnet.webviewkiosk)]**</sup>
 
 ### • Calculator
