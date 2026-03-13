@@ -1081,7 +1081,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Android App Permissions by IzzySoft**](https://android.izzysoft.de/applists/perms)
 * [**Android Debloat List**](https://github.com/MuntashirAkon/android-debloat-list)
-* [**OTA on Rooted Device**](tutorials/Install-Rooted-OTA.md)
+* [**OTA on Rooted Device**](doc/Install-Rooted-OTA.md)
 
 ------------------------
 
