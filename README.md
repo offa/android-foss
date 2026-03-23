@@ -7,6 +7,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 > [!CAUTION]
 > :rotating_light: **Free and Open-Source Android is under threat.** Google will turn Android into a locked-down platform, restricting your essential freedom to install apps of your choice. Make your voice heard – [**Keep Android Open**](https://keepandroidopen.org/).
+>
+> *See also: [Open Android Projects](doc/OpenAndroidProjects.md)*
 
 ## Table of Contents
 
@@ -1082,7 +1084,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Android App Permissions by IzzySoft**](https://android.izzysoft.de/applists/perms)
 * [**Android Debloat List**](https://github.com/MuntashirAkon/android-debloat-list)
-* [**OTA on Rooted Device**](tutorials/Install-Rooted-OTA.md)
+* [**Open Android Projects**](doc/OpenAndroidProjects.md)
+* [**OTA on Rooted Device**](doc/Install-Rooted-OTA.md)
 
 ------------------------
 
