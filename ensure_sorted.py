@@ -21,7 +21,7 @@ class Category:
     def add_app(self, app_str: str):
         matches = re.findall("(?<=\\[\\*\\*).*(?=\\*\\*\\])", app_str)
         if len(matches) != 1:
-            raise "These should be only one match"
+            raise ValueError(f"Expected exactly one app name match, got {len(matches)} in line: {app_str!r}")
         app_name = matches[0]
         # make it lower case and append it
         self.apps.append(app_name.lower())
