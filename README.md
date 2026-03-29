@@ -511,6 +511,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Messaging
 
+* [**ArcaneChat**](https://github.com/ArcaneChat/android) <sup>**[[F-Droid](https://f-droid.org/packages/chat.delta.lite)]**</sup>
 * [**blabber.im**](https://codeberg.org/kriztan/blabber.im) <sup>**[[F-Droid](https://f-droid.org/packages/de.pixart.messenger)]**</sup>
 * [**Briar**](https://code.briarproject.org/briar/briar) <sup>**[[F-Droid](https://f-droid.org/packages/org.briarproject.briar.android)]**</sup>
 * [**Conversations**](https://codeberg.org/iNPUTmice/Conversations) <sup>**[[F-Droid](https://f-droid.org/packages/eu.siacs.conversations)]**</sup>
