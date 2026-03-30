@@ -575,6 +575,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Audio Spectrum Analyzer**](https://github.com/woheller69/audio-analyzer-for-android) <sup>**[[F-Droid](https://f-droid.org/packages/org.woheller69.audio_analyzer_for_android)]**</sup>
 * [**ChordReader 2**](https://github.com/AndInTheClouds/chordreader2) <sup>**[[F-Droid](https://f-droid.org/packages/org.hollowbamboo.chordreader2)]**</sup>
 * [**Chronal**](https://github.com/cognitivitydev/Chronal) <sup>**[[F-Droid](https://f-droid.org/packages/dev.cognitivity.chronal)]**</sup>
+* [**Diatronome**](https://github.com/grizzlyfute/Diatronome) <sup>**[[F-Droid](https://f-droid.org/packages/org.kalinisa.diatronome)]**</sup>
 * [**GuitarFretboardTrainer**](https://gitlab.com/pandagoespoop/guitarfretboardtrainer) <sup>**[[F-Droid](https://f-droid.org/packages/com.simonslater.guitarfretboardtrainer)]**</sup>
 * [**Helio**](https://github.com/helio-fm/helio-sequencer) <sup>**[[F-Droid](https://f-droid.org/packages/fm.helio)]**</sup>
 * [**Hexpress**](https://github.com/jmiskovic/hexpress) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.castlewrath.hexpress)]**</sup>
