@@ -54,10 +54,10 @@ class Category:
         return self.__str__()
 
 def main():
-    readme_file = open('README.md', 'r')
     # start of the Apps section
     APPS_LINE_START = '## – Apps –\n'
-    lines = readme_file.readlines()
+    with open('README.md', 'r') as readme_file:
+        lines = readme_file.readlines()
 
     index: int
     try:
