@@ -13,13 +13,26 @@ class bcolors:
     UNDERLINE = '\033[4m'
 
 class Category:
+    """Represents a category of apps in the README.md file."""
     def __init__(self, name):
+        """
+        Initializes a Category object.
+
+        Args:
+            name (str): The name of the category.
+        """
         self.name = name
         # a list of apps
         self.apps = []
 
     def add_app(self, app_str: str):
-        matches = re.findall("(?<=\\[\\*\\*).*(?=\\*\\*\\])", app_str)
+        """
+        Extracts the app name from a markdown string and adds it to the category's app list.
+
+        Args:
+            app_str (str): The markdown string representing an app (e.g., "* [**App Name**](link)").
+        """
+        matches = re.findall("(?<=\[\\*\\*).*(?=\\*\\*\])", app_str)
         if len(matches) != 1:
             raise RuntimeError("These should be only one match")
         app_name = matches[0]
@@ -27,16 +40,34 @@ class Category:
         self.apps.append(app_name.lower())
 
     def is_sorted(self):
+        """
+        Checks if the apps within the category are sorted alphabetically.
+
+        Returns:
+            bool: True if apps are sorted, False otherwise.
+        """
         # I know not effiencent
         return sorted(self.apps) == self.apps
 
-    # Tell exactly where it's unsorted
     def where_unsorted(self):
+        """
+        Identifies and returns a message indicating the first app that is out of order.
+
+        Returns:
+            str: A formatted string showing the unsorted app, or None if sorted.
+        """
         for i in range(1, len(self.apps)):
             if self.apps[i] < self.apps[i-1]:
                 return f'App {bcolors.RED}{self.apps[i-1]}{bcolors.ENDC} is not in the correct order'
 
     def how_to_sort(self):
+        """
+        Compares the current app list with its sorted version to show differences.
+
+        Returns:
+            tuple: A tuple containing two lists: (sorted_apps, unsorted_apps).
+                   Elements in these lists are formatted to highlight differences.
+        """
         sorted_apps = sorted(self.apps)
         unsorted_apps = self.apps.copy()
         for i in range(len(sorted_apps)):
@@ -54,6 +85,10 @@ class Category:
         return self.__str__()
 
 def main():
+    """
+    Main function to read README.md, parse app categories, and check if apps are sorted.
+    Prints unsorted categories and exits with a non-zero code if any are found.
+    """
     readme_file = open('README.md', 'r')
     # start of the Apps section
     APPS_LINE_START = '## – Apps –\n'
