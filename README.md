@@ -462,10 +462,12 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Launcher & Desktop
 
 * [**BlissLauncher**](https://gitlab.e.foundation/e/apps/BlissLauncher) <sup>**[[F-Droid](https://f-droid.org/packages/foundation.e.blisslauncher)]**</sup>
+* [**CCLauncher**](https://github.com/mlm-games/cclauncher) <sup>**[[F-Droid](https://f-droid.org/packages/app.cclauncher)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/app.cclauncher)]**</sup>
 * [**Discreet Launcher**](https://github.com/falzonv/discreet-launcher) <sup>**[[F-Droid](https://f-droid.org/packages/com.vincent_falzon.discreetlauncher)]**</sup>
 * [**Easy Launcher**](https://github.com/DroidWorksStudio/EasyLauncher) <sup>**[[F-Droid](https://f-droid.org/packages/app.easy.launcher)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/app.easy.launcher)]**</sup>
 * [**Einstein Launcher**](https://github.com/JackEblan/EinsteinLauncher) <sup>**[[F-Droid](https://f-droid.org/packages/com.eblan.launcher)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.eblan.launcher)]**</sup>
 * [**Emerald Launcher**](https://github.com/HenriDellal/emerald) <sup>**[[F-Droid](https://f-droid.org/packages/ru.henridellal.emerald)]**</sup>
+* [**Fokus Launcher**](https://github.com/luantak/FokusLauncher) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.luantak.fokuslauncher)]**</sup>
 * [**Fossify Launcher**](https://github.com/FossifyOrg/Launcher) <sup>**[[F-Droid](https://f-droid.org/packages/org.fossify.home)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.fossify.home)]**</sup>
 * [**Hex Launcher**](https://github.com/MrMannWood/launcher) <sup>**[[F-Droid](https://f-droid.org/packages/com.mrmannwood.hexlauncher)]**</sup>
 * [**KISS**](http://kisslauncher.com/) <sup>**[[F-Droid](https://f-droid.org/packages/fr.neamar.kiss)]**</sup>
@@ -478,6 +480,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**OpenLauncher**](https://github.com/BennyKok/OpenLauncher) <sup>**[[F-Droid](https://f-droid.org/packages/com.benny.openlauncher)]**</sup>
 * [**PaperLaunch**](https://github.com/devmil/PaperLaunch) <sup>**[[F-Droid](https://f-droid.org/packages/de.devmil.paperlaunch)]**</sup>
 * [**Pie Launcher**](https://github.com/markusfisch/PieLauncher) <sup>**[[F-Droid](https://f-droid.org/packages/de.markusfisch.android.pielauncher)]**</sup>
+* [**Yagni Launcher**](https://github.com/JackEblan/YagniLauncher) <sup>**[[F-Droid](https://f-droid.org/packages/com.eblan.launcher)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.eblan.launcher)]**</sup>
 * [**YAM Launcher**](https://codeberg.org/ottoptj/yamlauncher) <sup>**[[F-Droid](https://f-droid.org/packages/eu.ottop.yamlauncher)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/eu.ottop.yamlauncher)]**</sup>
 * [**µLauncher**](https://launcher.jrpie.de/) <sup>**[[F-Droid](https://f-droid.org/packages/de.jrpie.android.launcher)]**</sup>
 
@@ -596,6 +599,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Bloomee**](https://github.com/HemantKArya/BloomeeTunes)<sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/ls.bloomee.musicplayer)]**</sup>
 * [**Booming Music**](https://github.com/mardous/BoomingMusic) <sup>**[[F-Droid](https://f-droid.org/packages/com.mardous.booming)]**</sup>
 * [**CuteMusic**](https://github.com/sosauce/CuteMusic)<sup>**[[F-Droid](https://f-droid.org/packages/com.sosauce.cutemusic)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.sosauce.cutemusic)]**</sup>
+* [**Deutsia Radio**](https://github.com/deutsia/deutsia-radio)<sup>**[[F-Droid](https://f-droid.org/packages/com.opensource.i2pradio)]**</sup>
 * [**Dialog Music Player**](https://github.com/VishnuSanal/DialogMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/packages/phone.vishnu.dialogmusicplayer)]**</sup>
 * [**Fossify Music Player**](https://github.com/FossifyOrg/Music-Player) <sup>**[[F-Droid](https://f-droid.org/packages/org.fossify.musicplayer)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.fossify.musicplayer)]**</sup>
 * [**Gramophone**](https://github.com/AkaneTan/Gramophone) <sup>**[[F-Droid](https://f-droid.org/packages/org.akanework.gramophone)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.akanework.gramophone)]**</sup>
@@ -616,6 +620,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Phonograph Plus**](https://github.com/chr56/Phonograph_Plus) <sup>**[[F-Droid](https://f-droid.org/packages/player.phonograph.plus)]**</sup>
 * [**RadioDroid**](https://github.com/segler-alex/RadioDroid) <sup>**[[F-Droid](https://f-droid.org/packages/net.programmierecke.radiodroid2)]**</sup>
 * [**Retro Music Player**](https://github.com/RetroMusicPlayer/RetroMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/packages/code.name.monkey.retromusic)]**</sup>
+* [**Rhythm**](https://github.com/cromaguy/Rhythm) <sup>**[[F-Droid](https://f-droid.org/packages/chromahub.rhythm.app)]**</sup>
 * [**SimpMusic**](https://github.com/maxrave-dev/SimpMusic) <sup>**[[F-Droid](https://f-droid.org/packages/com.maxrave.simpmusic)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.maxrave.simpmusic)]**</sup>
 * [**SongTube**](https://github.com/SongTube/SongTube-App)
 * [**SpMp**](https://github.com/toasterofbread/spmp) <sup>**[[F-Droid](https://f-droid.org/packages/com.toasterofbread.spmp)]**</sup>
