@@ -23,6 +23,7 @@ class Category:
         if len(matches) != 1:
             raise RuntimeError("These should be only one match")
         app_name = matches[0]
+        app_name = re.sub(r'\x1b\[[0-9;]*m', '', app_name)
         # make it lower case and append it
         self.apps.append(app_name.lower())
 
