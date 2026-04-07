@@ -58,8 +58,11 @@
 			.catch( error => console.error( 'Error:', error ) );
 
 		// Change the theme
+		const allowedThemes = ['darkly', 'united', 'flatly', 'quartz'];
+
 		function changeCSS( theme )
 		{
+			if ( !allowedThemes.includes( theme ) ) return;
 			document.querySelector( 'link' ).href
 					= `https://cdn.jsdelivr.net/npm/bootswatch@${bootswatchVersion}/dist/${theme}/bootstrap.min.css`;
 		}
