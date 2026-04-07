@@ -79,6 +79,8 @@ def main():
             categories.append(category)
         # This is an app
         elif lines[i].startswith("*"):
+            if not categories:
+                raise RuntimeError("App entry found before any category header")
             # The last category in the categories list is the one we're working on
             category = categories[-1]
             category.add_app(lines[i])
