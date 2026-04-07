@@ -53,6 +53,7 @@
 		fetch( 'https://raw.githubusercontent.com/offa/android-foss/master/README.md' )
 			.then( response => response.text() )
 			.then( data => {
+				data = data.replace( /[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x9f]/g, '' );
 				document.querySelector( 'main' ).innerHTML = marked.parse( data );
 			})
 			.catch( error => console.error( 'Error:', error ) );
