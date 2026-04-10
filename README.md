@@ -965,7 +965,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Flang**](https://codeberg.org/jannis/FlangAndroid) <sup>**[[F-Droid](https://f-droid.org/packages/de.tadris.flang)]**</sup>
 * [**Freebloks**](https://github.com/shlusiak/Freebloks-Android) <sup>**[[F-Droid](https://f-droid.org/packages/de.saschahlusiak.freebloks)]**</sup>
 * [**Halma**](https://github.com/Crazy-Marvin/Halma) <sup>**[[F-Droid](https://f-droid.org/packages/app.halma)]**</sup>
-* [**Lichess**](https://github.com/lichess-org/lichobile/) <sup>**[[F-Droid](https://f-droid.org/packages/org.lichess.mobileapp.free)]**</sup>
+* [**Lichess**](https://github.com/lichess-org/mobile) <sup>**[[F-Droid](https://f-droid.org/packages/org.lichess.mobileV2)]**</sup>
 * [**lidraughts**](https://github.com/roepstoep/lidraughts)
 * [**Mill**](https://github.com/calcitem/Sanmill) <sup>**[[F-Droid](https://f-droid.org/packages/com.calcitem.sanmill)]**</sup>
 * [**Open Chaos Chess**](https://github.com/CorruptedArk/open-chaos-chess) <sup>**[[F-Droid](https://f-droid.org/packages/dev.corruptedark.openchaoschess)]**</sup>
