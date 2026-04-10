@@ -19,7 +19,7 @@ class Category:
         self.apps = []
 
     def add_app(self, app_str: str):
-        matches = re.findall("(?<=\\[\\*\\*).*(?=\\*\\*\\])", app_str)
+        matches = re.findall("(?<=\\[\\*\\*)[^*]+(?=\\*\\*\\])", app_str)
         if len(matches) != 1:
             raise RuntimeError("These should be only one match")
         app_name = matches[0]
