@@ -632,12 +632,12 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Notes
 
+* [**Butterfly**](https://github.com/LinwoodDev/Butterfly) <sup>**[[F-Droid](https://f-droid.org/packages/dev.linwood.butterfly)]**</sup>
 * [**Easy Notes**](https://github.com/Kin69/EasyNotes) <sup>**[[F-Droid](https://f-droid.org/packages/com.kin.easynotes)]**</sup>
 * [**Fossify Notes**](https://github.com/FossifyOrg/Notes) <sup>**[[F-Droid](https://f-droid.org/packages/org.fossify.notes)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.fossify.notes)]**</sup>
 * [**Joplin**](https://github.com/laurent22/joplin) <sup>**[[F-Droid](https://f-droid.org/packages/net.cozic.joplin)]**</sup>
 * [**Jotter**](https://github.com/OpenAppsLabs/Jotter) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.openappslabs.jotter)]**</sup>
 * [**jtx Board**](https://github.com/TechbeeAT/jtxBoard) <sup>**[[F-Droid](https://f-droid.org/packages/at.techbee.jtx)]**</sup>
-* [**Linwood Butterfly**](https://github.com/LinwoodCloud/butterfly) <sup>**[[F-Droid](https://f-droid.org/packages/dev.linwood.butterfly.nightly)]**</sup>
 * [**Local Material Notes**](https://github.com/maelchiotti/LocalMaterialNotes) <sup>**[[F-Droid](https://f-droid.org/packages/com.maelchiotti.localmaterialnotes)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.maelchiotti.localmaterialnotes)]**</sup>
 * [**Logseq**](https://github.com/logseq/logseq) <sup>**[[F-Droid](https://f-droid.org/packages/com.logseq.app)]**</sup>
 * [**Markor**](https://github.com/gsantner/markor) <sup>**[[F-Droid](https://f-droid.org/packages/net.gsantner.markor)]**</sup>
