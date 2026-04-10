@@ -124,6 +124,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Ad Blocker
 
 * [**AdAway**](https://github.com/AdAway/AdAway) <sup>**[[F-Droid](https://f-droid.org/packages/org.adaway)]**</sup>
+* [**BlockAds**](https://github.com/pass-with-high-score/blockads-android) <sup>**[[F-Droid](https://f-droid.org/packages/app.pwhs.blockads)]**</sup>
 * [**Blokada**](https://github.com/blokadaorg/blokada)
 * [**DNSNet**](https://github.com/t895/DNSNet) <sup>**[[F-Droid](https://f-droid.org/packages/dev.clombardo.dnsnet)]**</sup>
 * [**personalDNSfilter**](https://github.com/IngoZenz/personaldnsfilter) <sup>**[[F-Droid](https://f-droid.org/packages/dnsfilter.android)]**</sup>
