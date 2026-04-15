@@ -277,6 +277,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [**OSS-Dict**](https://github.com/farfromrefug/OSS-Dict) <sup>**[[F-Droid](https://f-droid.org/packages/com.akylas.aard2)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.akylas.aard2)]**</sup>
 * [**Ciyue**](https://github.com/mumu-lhl/Ciyue) <sup>**[[F-Droid](https://f-droid.org/packages/org.eu.mumulhl.ciyue)]**</sup>
 * [**freeDictionaryApp**](https://github.com/yamin8000/freeDictionaryApp) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.yamin8000.owl)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/io.github.yamin8000.owl)]**</sup>
+* [**hdict**](https://github.com/drdhaval2785/hdict) <sup>**[[F-Droid](https://f-droid.org/packages/in.sanskritworld.hdict)]**</sup>
 * [**Notification Dictionary**](https://github.com/tirkarthi/NotificationDictionary) <sup>**[[F-Droid](https://f-droid.org/packages/com.xtreak.notificationdictionary)]**</sup>
 * [**QDict**](https://github.com/marmistrz/QDict) <sup>**[[F-Droid](https://f-droid.org/packages/com.annie.dictionary.fork)]**</sup>
 * [**QuickDic**](https://github.com/rdoeffinger/Dictionary) <sup>**[[F-Droid](https://f-droid.org/packages/de.reimardoeffinger.quickdic)]**</sup>
