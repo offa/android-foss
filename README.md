@@ -32,7 +32,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Diary](#-diary)
     * [Dictionaries](#-dictionaries)
     * [Document &amp; PDF Viewer](#-document--pdf-viewer)
-    * [Document Scanner](#-document-scanner)
+    * [Document Scanner &amp; Editor](#-document-scanner--editor)
     * [Downloader &amp; Manager](#-downloader--manager)
     * [Email Aliases](#-email-aliases)
     * [Email Clients](#-email-clients)
@@ -296,12 +296,14 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Orion Viewer**](https://github.com/max-kammerer/orion-viewer) <sup>**[[F-Droid](https://f-droid.org/packages/universe.constellation.orion.viewer)]**</sup>
 * [**Secure PDF Viewer**](https://github.com/GrapheneOS/PdfViewer)
 
-### • Document Scanner
+### • Document Scanner & Editor
 
 * [**FairScan**](https://github.com/pynicolas/FairScan) <sup>[**[F-Droid](https://f-droid.org/packages/org.fairscan.app)]**</sup>
 * [**MakeACopy**](https://github.com/egdels/makeacopy) <sup>[**[F-Droid](https://f-droid.org/packages/de.schliweb.makeacopy)]**</sup>
 * [**OpenNoteScanner**](https://github.com/ctodobom/OpenNoteScanner) <sup>**[[F-Droid](https://f-droid.org/packages/com.todobom.opennotescanner)]**</sup>
 * [**OSS Document Scanner**](https://github.com/Akylas/com.akylas.documentscanner) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.akylas.documentscanner)]**</sup>
+* [**PaperKnife+**](https://github.com/potatameister/PaperKnifePlus) <sup>**[[F-Droid](https://f-droid.org/packages/com.paperknifeplus.app)]**</sup>
+* [**PDF Converter**](https://github.com/Swati4star/Images-to-PDF) <sup>**[[F-Droid](https://f-droid.org/packages/swati4star.createpdf)]**</sup>
 
 ### • Downloader & Manager
 
@@ -426,6 +428,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**FFShare**](https://github.com/caydey/ffshare) <sup>**[[F-Droid](https://f-droid.org/packages/com.caydey.ffshare)]**</sup>
 * [**Image Toolbox**](https://github.com/T8RIN/ImageToolbox) <sup>**[[F-Droid](https://f-droid.org/packages/ru.tech.imageresizershrinker)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/ru.tech.imageresizershrinker)]**</sup>
 * [**ImagePipe**](https://codeberg.org/Starfish/Imagepipe) <sup>**[[F-Droid](https://f-droid.org/packages/de.kaffeemitkoffein.imagepipe)]**</sup>
+* [**Kompact**](https://git.naxod.com/luca/Kompact) <sup>**[[F-Droid](https://f-droid.org/packages/com.kompact)]**</sup>
 * [**Metadata Remover**](https://github.com/Crazy-Marvin/MetadataRemover) <sup>**[[F-Droid](https://f-droid.org/packages/rocks.poopjournal.metadataremover)]**</sup>
 * [**PrivacyBlur**](https://github.com/MATHEMA-GmbH/privacyblur) <sup>**[[F-Droid](https://f-droid.org/packages/de.mathema.privacyblur)]**</sup>
 * [**Scrambled Exif**](https://gitlab.com/juanitobananas/scrambled-exif) <sup>**[[F-Droid](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif)]**</sup>
@@ -447,6 +450,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     FlorisBoard Beta:  <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/dev.patrickgold.florisboard.beta)]**</sup>
 * [**Fossify Keyboard**](https://github.com/FossifyOrg/Keyboard) <sup>**[[F-Droid](https://f-droid.org/packages/org.fossify.keyboard)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.fossify.keyboard)]**</sup>
 * [**FutharkBoard**](https://github.com/DrMaxNix/futharkboard) <sup>**[[F-Droid](https://f-droid.org/packages/de.drmaxnix.futharkboard)]**</sup>
+* [**GifBoard**](https://github.com/gifboard/gifboard) <sup>**[[F-Droid](https://f-droid.org/packages/com.gifboard)]**</sup>
 * [**Hacker's Keyboard**](https://github.com/klausw/hackerskeyboard) <sup>**[[F-Droid](https://f-droid.org/packages/org.pocketworkstation.pckeyboard)]**</sup>
 * [**HeliBoard**](https://github.com/Helium314/HeliBoard) <sup>**[[F-Droid](https://f-droid.org/packages/helium314.keyboard)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/helium314.keyboard)]**</sup>
 * [**Indic Keyboard**](https://gitlab.com/indicproject/indic-keyboard) <sup>**[[F-Droid](https://f-droid.org/packages/org.smc.inputmethod.indic)]**</sup>
@@ -510,6 +514,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Litube**](https://github.com/HydeYYHH/litube) <sup>**[[F-Droid](https://f-droid.org/packages/com.hhst.litube)]**</sup>
 * [**Materialious**](https://github.com/Materialious/Materialious) <sup>**[[F-Droid](https://f-droid.org/packages/us.materialio.app)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/us.materialio.app)]**</sup>
 * [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) <sup>**[[F-Droid](https://f-droid.org/packages/org.schabi.newpipe)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.schabi.newpipe)]**</sup>
+    * [**LearnTube**](https://github.com/akshvaishnav21/LearnTube) <sup>**[[F-Droid](https://f-droid.org/packages/com.learntube.app)]**</sup>
     * [**PipePipe**](https://codeberg.org/NullPointerException/PipePipe) <sup>**[[F-Droid](https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/InfinityLoop1309.NewPipeEnhanced)]**</sup>
     * [**Tubular**](https://github.com/polymorphicshade/Tubular) <sup>**[[F-Droid](https://f-droid.org/packages/org.polymorphicshade.tubular)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.polymorphicshade.tubular)]**</sup>
 * [**SkyTube**](https://github.com/ram-on/SkyTube) <sup>**[[F-Droid](https://f-droid.org/packages/free.rm.skytube.oss)]**</sup>
@@ -569,6 +574,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Simple Time Tracker**](https://github.com/Razeeman/Android-SimpleTimeTracker) <sup>**[[F-Droid](https://f-droid.org/packages/com.razeeman.util.simpletimetracker)]**</sup>
 * [**Stay Put**](https://codeberg.org/y20k/stayput) <sup>**[[F-Droid](https://f-droid.org/packages/org.y20k.stayput)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.y20k.stayput)]**</sup>
 * [**Timeto.me**](https://github.com/Medvedev91/timeto.me) <sup>**[[F-Droid](https://f-droid.org/packages/me.timeto.app)]**</sup>
+* [**Whisper**](https://github.com/woheller69/whisperIME) <sup>**[[F-Droid](https://f-droid.org/packages/org.woheller69.whisper)]**</sup>
 
 ### • Movie & Cinema
 
@@ -802,6 +808,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**LogFox**](https://github.com/F0x1d/LogFox) <sup>**[[F-Droid](https://f-droid.org/packages/com.f0x1d.logfox)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.f0x1d.logfox)]**</sup>
 * [**Network Survey**](https://github.com/christianrowlands/android-network-survey) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.craxiom.networksurvey)]**</sup>
 * [**Nix-on-Droid**](https://github.com/nix-community/nix-on-droid) <sup>**[[F-Droid](https://f-droid.org/packages/com.termux.nix)]**</sup>
+* [**NoMoreBackground**](https://github.com/adil192/no_more_background) <sup>**[[F-Droid](https://f-droid.org/packages/com.adilhanney.no_more_background)]**</sup>
 * [**PCAPdroid**](https://github.com/emanuele-f/PCAPdroid) <sup>**[[F-Droid](https://f-droid.org/packages/com.emanuelef.remote_capture)]**</sup>
 * [**Permission Pilot**](https://github.com/d4rken-org/permission-pilot) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/eu.darken.myperm)]**</sup>
 * [**ReVanced Manager**](https://github.com/ReVanced/revanced-manager)
@@ -844,6 +851,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**DeepL**](https://github.com/sakusaku3939/DeepLAndroid) <sup>**[[F-Droid](https://f-droid.org/packages/com.example.deeplviewer)]**</sup>
 * [**Lentil Translate**](https://github.com/yaxarat/lingvaandroid) <sup>**[[F-Droid](https://f-droid.org/packages/dev.atajan.lingva_android)]**</sup>
+* [**Offline Translator**](https://github.com/DavidVentura/offline-translator) <sup>**[[F-Droid](https://f-droid.org/packages/dev.davidv.translator)]**</sup>
+* [**Seamless**](https://github.com/woheller69/seamless) <sup>**[[F-Droid](https://f-droid.org/packages/org.woheller69.seemless)]**</sup>
 * [**SimplyTranslate Mobile**](https://github.com/ManeraKai/simplytranslate_mobile) <sup>**[[F-Droid](https://f-droid.org/packages/com.simplytranslate_mobile)]**</sup>
 * [**The Translator**](https://github.com/sunilpaulmathew/Translator) <sup>**[[F-Droid](https://f-droid.org/packages/com.sunilpaulmathew.translator)]**</sup>
 * [**Translate You**](https://github.com/you-apps/TranslateYou) <sup>**[[F-Droid](https://f-droid.org/packages/com.bnyro.translate)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.bnyro.translate)]**</sup>
@@ -867,6 +876,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Cams**](https://github.com/vladpen/cams) <sup>**[[F-Droid](https://f-droid.org/packages/com.vladpen.cams)]**</sup>
 * [**ConnectBot**](https://github.com/connectbot/connectbot) <sup>**[[F-Droid](https://f-droid.org/packages/org.connectbot)]**</sup>
 * [**Converter NOW**](https://github.com/ferraridamiano/ConverterNOW) <sup>**[[F-Droid](https://f-droid.org/packages/com.ferrarid.converterpro)]**</sup>
+* [**CSV Editor**](https://codeberg.org/bgrayburn/csv-editor) <sup>**[[F-Droid](https://f-droid.org/packages/tech.brianrayburn.csv_editor)]**</sup>
 * [**Data Monitor**](https://github.com/itsdrnoob/DataMonitor) <sup>**[[F-Droid](https://f-droid.org/packages/com.drnoob.datamonitor)]**</sup>
 * [**DataBackup**](https://github.com/XayahSuSuSu/Android-DataBackup) <sup>**[[F-Droid](https://f-droid.org/packages/com.xayah.databackup.foss)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.xayah.databackup.foss)]**</sup>
 * [**DeadHash**](https://github.com/CodeDead/DeadHash-android) <sup>**[[F-Droid](https://f-droid.org/packages/com.codedead.deadhash)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.codedead.deadhash)]**</sup>
@@ -880,6 +890,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**KeyStoreViewer**](https://github.com/qdsfdhvh/KeyStoreViewer) <sup>**[[F-Droid](https://f-droid.org/packages/com.seiko.keystoreviewer)]**</sup>
 * [**Linkora**](https://github.com/LinkoraApp/Linkora) <sup>**[[F-Droid](https://f-droid.org/packages/com.sakethh.linkora)]**</sup>
 * [**Middor**](https://github.com/nktnet1/middor) <sup>**[[F-Droid](https://f-droid.org/packages/org.nktnet.middor)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.nktnet.middor)]**</sup>
+* [**Miniter**](https://github.com/mlm-games/miniter) <sup>**[[F-Droid](https://f-droid.org/packages/org.mlm.miniter)]**</sup>
 * [**Neo Backup**](https://github.com/NeoApplications/Neo-Backup) <sup>**[[F-Droid](https://f-droid.org/packages/com.machiav3lli.backup)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.machiav3lli.backup)]**</sup>
 * [**NFCGate**](https://github.com/nfcgate/nfcgate) <sup>**[[F-Droid](https://f-droid.org/packages/de.tu_darmstadt.seemoo.nfcgate)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/de.tu_darmstadt.seemoo.nfcgate)]**</sup>
 * [**OCR**](https://github.com/SubhamTyagi/android-ocr) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.subhamtyagi.ocr)]**</sup>
@@ -887,16 +898,18 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**OONI Probe**](https://github.com/ooni/probe-android) <sup>**[[F-Droid](https://f-droid.org/packages/org.openobservatory.ooniprobe)]**</sup>
 * [**Open Video Editor**](https://github.com/devhyper/open-video-editor) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.devhyper.openvideoeditor)]**</sup>
 * [**Orgro**](https://orgro.org/) <sup>**[[F-Droid](https://f-droid.org/packages/com.madlonkay.orgro)]**</sup>
-* [**PDF Converter**](https://github.com/Swati4star/Images-to-PDF) <sup>**[[F-Droid](https://f-droid.org/packages/swati4star.createpdf)]**</sup>
 * [**PlugBrain**](https://github.com/msbelaid/PlugBrain) <sup>**[[F-Droid](https://f-droid.org/packages/app.plugbrain.android)]**</sup>
 * [**Screen Time**](https://github.com/markusfisch/ScreenTime) <sup>**[[F-Droid](https://f-droid.org/packages/de.markusfisch.android.screentime)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/de.markusfisch.android.screentime)]**</sup>
 * [**SD Maid 2/SE**](https://github.com/d4rken-org/sdmaid-se) <sup>**[[F-Droid](https://f-droid.org/packages/eu.darken.sdmse)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/eu.darken.sdmse)]**</sup>
 * [**Sensorkraken**](https://gitlab.com/sensorkraken/android-app) <sup>**[[F-Droid](https://f-droid.org/packages/org.sensorkraken)]**</sup>
+* [**Smart Edge**](https://github.com/Imtiaz-Official/Smart-Edge) <sup>**[[F-Droid](https://f-droid.org/packages/com.imi.smartedge.sidebar.panel)]**</sup>
 * [**SMS Import / Export**](https://github.com/tmo1/sms-ie) <sup>**[[F-Droid](https://f-droid.org/packages/com.github.tmo1.sms_ie)]**</sup>
 * [**Track & Graph**](https://github.com/SamAmco/track-and-graph) <sup>**[[F-Droid](https://f-droid.org/packages/com.samco.trackandgraph)]**</sup>
 * [**TTS Util**](https://github.com/Danesprite/tts-util-app) <sup>**[[F-Droid](https://f-droid.org/packages/com.danefinlay.ttsutil)]**</sup>
+* [**USB Descriptor Explorer**](https://github.com/iodn/android-usb-device-info) <sup>**[[F-Droid](https://f-droid.org/packages/org.kaijinlab.usbdevinfo)]**</sup>
 * [**Voice Notify**](https://github.com/pilot51/voicenotify) <sup>**[[F-Droid](https://f-droid.org/packages/com.pilot51.voicenotify)]**</sup>
 * [**Volta**](https://github.com/x13a/Volta) <sup>**[[F-Droid](https://f-droid.org/packages/me.lucky.volta)]**</sup>
+* [**VolumeScroll**](https://github.com/YeapGuy/VolumeScroll) <sup>**[[F-Droid](https://f-droid.org/packages/com.yeapguy.volumescroll)]**</sup>
 
 ### • Video Player
 
@@ -985,6 +998,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Everest**](https://github.com/mwageringel/everest) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.mwageringel.everest)]**</sup>
 * [**GCompris**](https://invent.kde.org/education/gcompris.git) <sup>**[[F-Droid](https://f-droid.org/packages/net.gcompris.full)]**</sup>
 * [**Geoperion**](https://github.com/vulnerabbity/Geoperion) <sup>**[[F-Droid](https://f-droid.org/packages/com.vulnerabbity.geoperion)]**</sup>
+* [**Mental Math**](https://codeberg.org/Mental-Math/MentalMath) <sup>**[[F-Droid](https://f-droid.org/packages/com.helddertierwelt.mentalmath)]**</sup>
 * [**Quick Calculation**](https://github.com/SubhamTyagi/quick-calculation) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.subhamtyagi.quickcalculation)]**</sup>
 * [**RUTMath**](https://github.com/przemarbor/RUTMath) <sup>**[[F-Droid](https://f-droid.org/packages/com.hexbit.rutmath)]**</sup>
 * [**The Powder Toy**](https://github.com/The-Powder-Toy/The-Powder-Toy)
@@ -1063,6 +1077,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Forkyz**](https://gitlab.com/Hague/forkyz) <sup>**[[F-Droid](https://f-droid.org/packages/app.crossword.yourealwaysbe.forkyz)]**</sup>
 * [**Gurgle**](https://github.com/billthefarmer/gurgle) <sup>**[[F-Droid](https://f-droid.org/packages/org.billthefarmer.gurgle)]**</sup>
 * [**Lexica**](https://github.com/lexica/lexica) <sup>**[[F-Droid](https://f-droid.org/packages/com.serwylo.lexica)]**</sup>
+* [**Word Tracer**](https://github.com/plhosk/wordtracer) <sup>**[[F-Droid](https://f-droid.org/packages/com.wordtracer.app)]**</sup>
 
 ------------------------
 
