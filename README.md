@@ -498,6 +498,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**CoMaps**](https://codeberg.org/comaps/comaps) <sup>**[[F-Droid](https://f-droid.org/packages/app.comaps.fdroid)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/app.comaps)]**</sup>
 * [**Compass**](https://github.com/Kr0oked/Compass) <sup>**[[F-Droid](https://f-droid.org/packages/com.bobek.compass)]**</sup>
 * [**Geo Share**](https://github.com/jakubvalenta/geoshare) <sup>**[[F-Droid](https://f-droid.org/packages/page.ooooo.geoshare)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/page.ooooo.geoshare)]**</sup>
+* [**GraphHopper Maps**](https://github.com/boldtrn/graphhopper-maps-capacitor) <sup>**[[F-Droid](https://f-droid.org/packages/com.graphhopper.maps)]**</sup>
 * [**MBCompass**](https://github.com/MubarakNative/MBCompass) <sup>**[[F-Droid](https://f-droid.org/packages/com.mubarak.mbcompass)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.mubarak.mbcompass)]**</sup>
 * [**OpenTopoMap Viewer**](https://github.com/Pygmalion69/OpenTopoMapViewer) <sup>**[[F-Droid](https://f-droid.org/packages/org.nitri.opentopo)]**</sup>
 * [**Organic Maps**](https://github.com/organicmaps/organicmaps) <sup>**[[F-Droid](https://f-droid.org/packages/app.organicmaps)]**</sup>
