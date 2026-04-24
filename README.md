@@ -441,7 +441,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Ente Photos**](https://github.com/ente-io/ente) <sup>**[[F-Droid](https://f-droid.org/packages/io.ente.photos.fdroid)]**</sup>
 * [**Fossify Gallery**](https://github.com/FossifyOrg/Gallery) <sup>**[[F-Droid](https://f-droid.org/packages/org.fossify.gallery)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.fossify.gallery)]**</sup>
 * [**Gallery**](https://github.com/IacobIonut01/Gallery) <sup>**[[F-Droid](https://f-droid.org/packages/com.dot.gallery)]**</sup>
-* [**Immich**](https://github.com/immich-app/immich) <sup>**[[F-Droid](https://f-droid.org/packages/app.alextran.immich/)]**</sup>
+* [**Immich**](https://github.com/immich-app/immich) <sup>**[[F-Droid](https://f-droid.org/packages/app.alextran.immich)]**</sup>
 * [**Stingle Photos**](https://github.com/stingle/stingle-photos-android) <sup>**[[F-Droid](https://f-droid.org/packages/org.stingle.photos)]**</sup>
 
 ### • Keyboard
