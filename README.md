@@ -512,6 +512,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Media Frontends
 
 * [**Clipious**](https://github.com/lamarios/clipious) <sup>**[[F-Droid](https://f-droid.org/packages/com.github.lamarios.clipious)]**</sup>
+* [**Ensemble**](https://github.com/CollotsSpot/Ensemble)
 * [**Flow**](https://github.com/A-EDev/Flow) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.github.libretube)]**</sup>
 * [**FreeTube Android**](https://github.com/MarmadileManteater/FreeTubeAndroid) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/io.freetubeapp.freetube)]**</sup>
 * [**Jellyfin**](https://github.com/jellyfin/jellyfin-android) <sup>**[[F-Droid](https://f-droid.org/packages/org.jellyfin.mobile)]**</sup>
