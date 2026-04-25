@@ -246,7 +246,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Squawker**](https://github.com/j-fbriere/squawker) <sup>**[[F-Droid](https://f-droid.org/packages/org.ca.squawker)]**</sup>
 * [**Stealth**](https://gitlab.com/cosmosapps/stealth) <sup>**[[F-Droid](https://f-droid.org/packages/com.cosmos.unreddit)]**</sup>
 * [**Thunder**](https://github.com/thunder-app/thunder) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.hjiangsu.thunder)]**</sup>
-* [**Tusky**](https://github.com/tuskyapp/Tusky) <sup>**[[F-Droid](https://f-droid.org/packages/com.keylesspalace.tusky)]**</sup>
+* [**Tusky**](https://codeberg.org/tusky/Tusky) <sup>**[[F-Droid](https://f-droid.org/packages/com.keylesspalace.tusky)]**</sup>
 * [**Twidere X**](https://github.com/TwidereProject/TwidereX-Android) <sup>**[[F-Droid](https://f-droid.org/packages/com.twidere.twiderex)]**</sup>
 * [**Voyager**](https://github.com/aeharding/voyager) <sup>**[[F-Droid](https://f-droid.org/packages/app.vger.voyager)]**</sup>
 
