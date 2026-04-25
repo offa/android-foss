@@ -234,7 +234,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Fedilab**](https://codeberg.org/tom79/Fedilab) <sup>**[[F-Droid](https://f-droid.org/packages/fr.gouv.etalab.mastodon)]**</sup>
 * [**Fritter**](https://github.com/jonjomckay/fritter) <sup>**[[F-Droid](https://f-droid.org/packages/com.jonjomckay.fritter)]**</sup>
 * [**Hacki**](https://github.com/Livinglist/Hacki) <sup>**[[F-Droid](https://f-droid.org/packages/com.jiaqifeng.hacki)]**</sup>
-* [**Husky**](https://codeberg.org/husky/husky) <sup>**[[F-Droid](https://f-droid.org/packages/su.xash.husky)]**</sup>
+* [**Husky**](https://github.com/captainepoch/husky) <sup>**[[F-Droid](https://f-droid.org/packages/su.xash.husky)]**</sup>
 * [**Infinity for Reddit**](https://github.com/Docile-Alligator/Infinity-For-Reddit) <sup>**[[F-Droid](https://f-droid.org/packages/ml.docilealligator.infinityforreddit)]**</sup>
 * [**Jerboa**](https://github.com/dessalines/jerboa) <sup>**[[F-Droid](https://f-droid.org/packages/com.jerboa)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.jerboa)]**</sup>
 * [**monocles social**](https://codeberg.org/Arne/monocles_social) <sup>**[[F-Droid](https://f-droid.org/packages/de.monocles.social)]**</sup>
