@@ -919,7 +919,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**TTS Util**](https://github.com/Danesprite/tts-util-app) <sup>**[[F-Droid](https://f-droid.org/packages/com.danefinlay.ttsutil)]**</sup>
 * [**USB Descriptor Explorer**](https://github.com/iodn/android-usb-device-info) <sup>**[[F-Droid](https://f-droid.org/packages/org.kaijinlab.usbdevinfo)]**</sup>
 * [**Voice Notify**](https://github.com/pilot51/voicenotify) <sup>**[[F-Droid](https://f-droid.org/packages/com.pilot51.voicenotify)]**</sup>
-* [**Volta**](https://github.com/x13a/Volta) <sup>**[[F-Droid](https://f-droid.org/packages/me.lucky.volta)]**</sup>
 * [**VolumeScroll**](https://github.com/YeapGuy/VolumeScroll) <sup>**[[F-Droid](https://f-droid.org/packages/com.yeapguy.volumescroll)]**</sup>
 
 ### • Video Player
