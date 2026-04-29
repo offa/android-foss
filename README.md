@@ -912,7 +912,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**PlugBrain**](https://github.com/msbelaid/PlugBrain) <sup>**[[F-Droid](https://f-droid.org/packages/app.plugbrain.android)]**</sup>
 * [**Screen Time**](https://github.com/markusfisch/ScreenTime) <sup>**[[F-Droid](https://f-droid.org/packages/de.markusfisch.android.screentime)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/de.markusfisch.android.screentime)]**</sup>
 * [**SD Maid 2/SE**](https://github.com/d4rken-org/sdmaid-se) <sup>**[[F-Droid](https://f-droid.org/packages/eu.darken.sdmse)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/eu.darken.sdmse)]**</sup>
-* [**Sensorkraken**](https://gitlab.com/sensorkraken/android-app) <sup>**[[F-Droid](https://f-droid.org/packages/org.sensorkraken)]**</sup>
 * [**Smart Edge**](https://github.com/Imtiaz-Official/Smart-Edge) <sup>**[[F-Droid](https://f-droid.org/packages/com.imi.smartedge.sidebar.panel)]**</sup>
 * [**SMS Import / Export**](https://github.com/tmo1/sms-ie) <sup>**[[F-Droid](https://f-droid.org/packages/com.github.tmo1.sms_ie)]**</sup>
 * [**Track & Graph**](https://github.com/SamAmco/track-and-graph) <sup>**[[F-Droid](https://f-droid.org/packages/com.samco.trackandgraph)]**</sup>
