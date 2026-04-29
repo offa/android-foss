@@ -906,7 +906,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**NFCGate**](https://github.com/nfcgate/nfcgate) <sup>**[[F-Droid](https://f-droid.org/packages/de.tu_darmstadt.seemoo.nfcgate)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/de.tu_darmstadt.seemoo.nfcgate)]**</sup>
 * [**OCR**](https://github.com/SubhamTyagi/android-ocr) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.subhamtyagi.ocr)]**</sup>
 * [**Omni**](https://github.com/FoedusProgramme/Omni) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/uk.akane.omni)]**</sup>
-* [**OONI Probe**](https://github.com/ooni/probe-android) <sup>**[[F-Droid](https://f-droid.org/packages/org.openobservatory.ooniprobe)]**</sup>
+* [**OONI Probe**](https://github.com/ooni/probe-multiplatform) <sup>**[[F-Droid](https://f-droid.org/packages/org.openobservatory.ooniprobe)]**</sup>
 * [**Open Video Editor**](https://github.com/devhyper/open-video-editor) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.devhyper.openvideoeditor)]**</sup>
 * [**Orgro**](https://orgro.org/) <sup>**[[F-Droid](https://f-droid.org/packages/com.madlonkay.orgro)]**</sup>
 * [**PlugBrain**](https://github.com/msbelaid/PlugBrain) <sup>**[[F-Droid](https://f-droid.org/packages/app.plugbrain.android)]**</sup>
