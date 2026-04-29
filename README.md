@@ -17,6 +17,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Ad Blocker](#-ad-blocker)
     * [Anime &amp; Manga](#-anime--manga)
     * [Automation](#-automation)
+    * [Backup](#-backup)
     * [Barcode &amp; QR Code Scanner](#-barcode--qr-code-scanner)
     * [Battery](#-battery)
     * [Browser](#-browser)
@@ -146,6 +147,11 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Easer**](https://github.com/renyuneyun/Easer) <sup>**[[F-Droid](https://f-droid.org/packages/ryey.easer)]**</sup>
 * [**Home Assistant**](https://github.com/home-assistant/android) <sup>**[[F-Droid](https://f-droid.org/packages/io.homeassistant.companion.android.minimal)]**</sup>
 * [**Smart AutoClicker**](https://github.com/Nain57/Smart-AutoClicker) <sup>**[[F-Droid](https://f-droid.org/packages/com.buzbuz.smartautoclicker)]**</sup>
+
+### • Backup
+
+* [**DataBackup**](https://github.com/XayahSuSuSu/Android-DataBackup) <sup>**[[F-Droid](https://f-droid.org/packages/com.xayah.databackup.foss)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.xayah.databackup.foss)]**</sup>
+* [**Neo Backup**](https://github.com/NeoApplications/Neo-Backup) <sup>**[[F-Droid](https://f-droid.org/packages/com.machiav3lli.backup)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.machiav3lli.backup)]**</sup>
 
 ### • Barcode & QR Code Scanner
 
@@ -885,7 +891,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Converter NOW**](https://github.com/ferraridamiano/ConverterNOW) <sup>**[[F-Droid](https://f-droid.org/packages/com.ferrarid.converterpro)]**</sup>
 * [**CSV Editor**](https://codeberg.org/bgrayburn/csv-editor) <sup>**[[F-Droid](https://f-droid.org/packages/tech.brianrayburn.csv_editor)]**</sup>
 * [**Data Monitor**](https://github.com/itsdrnoob/DataMonitor) <sup>**[[F-Droid](https://f-droid.org/packages/com.drnoob.datamonitor)]**</sup>
-* [**DataBackup**](https://github.com/XayahSuSuSu/Android-DataBackup) <sup>**[[F-Droid](https://f-droid.org/packages/com.xayah.databackup.foss)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.xayah.databackup.foss)]**</sup>
 * [**DeadHash**](https://github.com/CodeDead/DeadHash-android) <sup>**[[F-Droid](https://f-droid.org/packages/com.codedead.deadhash)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.codedead.deadhash)]**</sup>
 * [**droidVNC-NG**](https://github.com/bk138/droidVNC-NG) <sup>**[[F-Droid](https://f-droid.org/packages/net.christianbeier.droidvnc_ng)]**</sup>
 * [**EtchDroid**](https://github.com/EtchDroid/EtchDroid) <sup>**[[F-Droid](https://f-droid.org/packages/eu.depau.etchdroid)]**</sup>
@@ -898,7 +903,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Linkora**](https://github.com/LinkoraApp/Linkora) <sup>**[[F-Droid](https://f-droid.org/packages/com.sakethh.linkora)]**</sup>
 * [**Middor**](https://github.com/nktnet1/middor) <sup>**[[F-Droid](https://f-droid.org/packages/org.nktnet.middor)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.nktnet.middor)]**</sup>
 * [**Miniter**](https://github.com/mlm-games/miniter) <sup>**[[F-Droid](https://f-droid.org/packages/org.mlm.miniter)]**</sup>
-* [**Neo Backup**](https://github.com/NeoApplications/Neo-Backup) <sup>**[[F-Droid](https://f-droid.org/packages/com.machiav3lli.backup)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.machiav3lli.backup)]**</sup>
 * [**NFCGate**](https://github.com/nfcgate/nfcgate) <sup>**[[F-Droid](https://f-droid.org/packages/de.tu_darmstadt.seemoo.nfcgate)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/de.tu_darmstadt.seemoo.nfcgate)]**</sup>
 * [**OCR**](https://github.com/SubhamTyagi/android-ocr) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.subhamtyagi.ocr)]**</sup>
 * [**Omni**](https://github.com/FoedusProgramme/Omni) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/uk.akane.omni)]**</sup>
