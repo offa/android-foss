@@ -152,6 +152,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**DataBackup**](https://github.com/XayahSuSuSu/Android-DataBackup) <sup>**[[F-Droid](https://f-droid.org/packages/com.xayah.databackup.foss)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.xayah.databackup.foss)]**</sup>
 * [**Neo Backup**](https://github.com/NeoApplications/Neo-Backup) <sup>**[[F-Droid](https://f-droid.org/packages/com.machiav3lli.backup)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.machiav3lli.backup)]**</sup>
+* [**Restoid**](https://github.com/hddq/restoid) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.hddq.restoid)]**</sup>
 
 ### • Barcode & QR Code Scanner
 
