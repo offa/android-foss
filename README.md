@@ -491,6 +491,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**LaunchTime**](https://github.com/quaap/LaunchTime) <sup>**[[F-Droid](https://f-droid.org/packages/com.quaap.launchtime)]**</sup>
 * [**Lawnchair**](https://github.com/LawnchairLauncher/lawnchair) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/app.lawnchair)]**</sup>
 * [**Lunar Launcher**](https://github.com/iamrasel/lunar-launcher) <sup>**[[F-Droid](https://f-droid.org/packages/rasel.lunar.launcher)]**</sup>
+* [**Murine Launcher**](https://github.com/alesimula/Murine-launcher) <sup>**[[F-Droid](https://f-droid.org/packages/app.murinelauncher)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/app.murinelauncher)]**</sup>
 * [**Neo-Launcher**](https://github.com/NeoApplications/Neo-Launcher) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.saggitt.omega)]**</sup>
 * [**Olauncher**](https://github.com/tanujnotes/Olauncher) <sup>**[[F-Droid](https://f-droid.org/packages/app.olauncher)]**</sup>
 * [**OpenLauncher**](https://github.com/BennyKok/OpenLauncher) <sup>**[[F-Droid](https://f-droid.org/packages/com.benny.openlauncher)]**</sup>
