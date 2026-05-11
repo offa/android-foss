@@ -825,7 +825,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Nix-on-Droid**](https://github.com/nix-community/nix-on-droid) <sup>**[[F-Droid](https://f-droid.org/packages/com.termux.nix)]**</sup>
 * [**NoMoreBackground**](https://github.com/adil192/no_more_background) <sup>**[[F-Droid](https://f-droid.org/packages/com.adilhanney.no_more_background)]**</sup>
 * [**PCAPdroid**](https://github.com/emanuele-f/PCAPdroid) <sup>**[[F-Droid](https://f-droid.org/packages/com.emanuelef.remote_capture)]**</sup>
-* [**Permission Pilot**](https://github.com/d4rken-org/permission-pilot) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/eu.darken.myperm)]**</sup>
+* [**Permission Pilot**](https://github.com/d4rken-org/permission-pilot) <sup>**[[F-Droid](https://f-droid.org/packages/eu.darken.myperm)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/eu.darken.myperm)]**</sup>
 * [**ReVanced Manager**](https://github.com/ReVanced/revanced-manager)
 * [**Scoop**](https://github.com/TacoTheDank/Scoop) <sup>**[[F-Droid](https://f-droid.org/packages/taco.scoop)]**</sup>
 * [**SuperFreezZ**](https://gitlab.com/SuperFreezZ/SuperFreezZ) <sup>**[[F-Droid](https://f-droid.org/packages/superfreeze.tool.android)]**</sup>
