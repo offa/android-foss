@@ -691,6 +691,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Password & Authentication
 
+* [**2fa**](https://codeberg.org/979/2fa) <sup>**[[Accrescent](https://accrescent.app/app/app.ninesevennine.twofactorauthenticator.accrescent)]**</sup>
 * [**Aegis**](https://getaegis.app/) <sup>**[[F-Droid](https://f-droid.org/packages/com.beemdevelopment.aegis)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.beemdevelopment.aegis)]**</sup>
 * [**AuthenticatorPro**](https://github.com/jamie-mh/AuthenticatorPro) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.stratumauth.app)]**</sup>
 * [**AuthPass**](https://github.com/authpass/authpass) <sup>**[[F-Droid](https://f-droid.org/packages/design.codeux.authpass.fdroid)]**</sup>
