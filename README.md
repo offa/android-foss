@@ -214,7 +214,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Silence**](https://github.com/x13a/Silence) <sup>**[[F-Droid](https://f-droid.org/packages/me.lucky.silence)]**</sup>
 * [**SpamBlocker (Call & SMS)**](https://github.com/aj3423/SpamBlocker) <sup>**[[F-Droid](https://f-droid.org/packages/spam.blocker)]**</sup>
 
-
 ### • Camera
 
 * [**Cryptocam**](https://gitlab.com/cryptocam/cryptocam) <sup>**[[F-Droid](https://f-droid.org/packages/com.tnibler.cryptocam)]**</sup>
