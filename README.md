@@ -212,6 +212,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**NoPhoneSpam**](https://gitlab.com/bitfireAT/NoPhoneSpam) <sup>**[[F-Droid](https://f-droid.org/packages/at.bitfire.nophonespam)]**</sup>
 * [**Silence**](https://github.com/x13a/Silence) <sup>**[[F-Droid](https://f-droid.org/packages/me.lucky.silence)]**</sup>
 * [**SpamBlocker (Call & SMS)**](https://github.com/aj3423/SpamBlocker) <sup>**[[F-Droid](https://f-droid.org/packages/spam.blocker)]**</sup>
+* [**Saracroche**](https://codeberg.org/cbouvat/saracroche-android) <sup>**[[F-Droid](https://f-droid.org/packages/com.cbouvat.android.saracroche/)]**</sup>
 
 ### • Camera
 
