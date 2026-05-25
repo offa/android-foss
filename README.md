@@ -63,6 +63,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Password &amp; Authentication](#-password--authentication)
     * [Podcast &amp; Audio Book Player](#-podcast--audio-book-player)
     * [Privacy &amp; Security](#-privacy--security)
+    * [Productivity](#-productivity)
     * [Public Transport](#-public-transport)
     * [Religion](#-religion)
     * [RSS Readers](#-rss-readers)
@@ -727,6 +728,9 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**PilferShush Jammer**](https://github.com/kaputnikGo/PilferShushJammer) <sup>**[[F-Droid](https://f-droid.org/packages/cityfreqs.com.pilfershushjammer)]**</sup>
 * [**Safe Space**](https://github.com/aashishksahu/SafeSpace) <sup>**[[F-Droid](https://f-droid.org/packages/org.privacymatters.safespace)]**</sup>
 * [**Valv**](https://github.com/Arctosoft/Valv-Android) <sup>**[[F-Droid](https://f-droid.org/packages/se.arctosoft.vault)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/se.arctosoft.vault)]**</sup>
+
+### • Productivity
+* [**Flux**](https://github.com/chindaronit/Flux) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.flux/)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.flux)]**</sup>
 
 ### • Public Transport
 
