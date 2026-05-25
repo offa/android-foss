@@ -730,7 +730,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Valv**](https://github.com/Arctosoft/Valv-Android) <sup>**[[F-Droid](https://f-droid.org/packages/se.arctosoft.vault)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/se.arctosoft.vault)]**</sup>
 
 ### • Productivity
-* [**Flux**](https://github.com/chindaronit/Flux) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.flux/)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.flux)]**</sup>
+
+* [**Flux**](https://github.com/chindaronit/Flux) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.flux)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.flux)]**</sup>
 
 ### • Public Transport
 
