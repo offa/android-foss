@@ -590,6 +590,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**RustDesk**](https://github.com/rustdesk/rustdesk) <sup>**[[F-Droid](https://f-droid.org/packages/com.carriez.flutter_hbb)]**</sup>
 * [**Simple Time Tracker**](https://github.com/Razeeman/Android-SimpleTimeTracker) <sup>**[[F-Droid](https://f-droid.org/packages/com.razeeman.util.simpletimetracker)]**</sup>
 * [**Stay Put**](https://codeberg.org/y20k/stayput) <sup>**[[F-Droid](https://f-droid.org/packages/org.y20k.stayput)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.y20k.stayput)]**</sup>
+* [**ShizuCallRecorder**](https://github.com/kitsumed/ShizuCallRecorder)
 * [**Timeto.me**](https://github.com/Medvedev91/timeto.me) <sup>**[[F-Droid](https://f-droid.org/packages/me.timeto.app)]**</sup>
 * [**Whisper**](https://github.com/woheller69/whisperIME) <sup>**[[F-Droid](https://f-droid.org/packages/org.woheller69.whisper)]**</sup>
 
