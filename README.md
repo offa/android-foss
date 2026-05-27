@@ -576,7 +576,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Miscellaneous
 
 * [**Audio Recorder**](https://gitlab.com/axet/android-audio-recorder)
-* [**Call Recorder**](https://gitlab.com/axet/android-call-recorder) <sup>**[[F-Droid](https://f-droid.org/packages/com.github.axet.callrecorder)]**</sup>
 * [**Coffee**](https://github.com/mueller-ma/Coffee) <sup>**[[F-Droid](https://f-droid.org/packages/com.github.muellerma.coffee)]**</sup>
 * [**Coffee**](https://github.com/OpenAppsLabs/Coffee) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.openappslabs.coffee)]**</sup>
 * [**Cuppa**](https://github.com/ncosgray/cuppa_mobile) <sup>**[[F-Droid](https://f-droid.org/packages/com.nathanatos.Cuppa)]**</sup>
