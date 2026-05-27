@@ -363,6 +363,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • File Sharing
 
+* [**Croc-app**](https://github.com/Dking08/croc-app) <sup>**[[F-Droid](https://f-droid.org/packages/com.dking.crocapp)]**</sup>
 * [**Custom Uploader**](https://github.com/SrS2225a/custom_uploader) <sup>**[[F-Droid](https://f-droid.org/packages/com.nyx.custom_uploader)]**</sup>
 * [**Device Connect**](https://github.com/cyanomiko/dcnnt-android) <sup>**[[F-Droid](https://f-droid.org/packages/net.dcnnt)]**</sup>
 * [**Filester**](https://github.com/rouzbehzarei/filester) <sup>**[[F-Droid](https://f-droid.org/packages/com.roozbehzarei.filester)]**</sup>
