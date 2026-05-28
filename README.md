@@ -588,6 +588,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Motion Eye**](https://github.com/JairajJangle/motioneye-android) <sup>**[[F-Droid](https://f-droid.org/packages/com.jairaj.janglegmail.motioneye)]**</sup>
 * [**Openreads**](https://github.com/mateusz-bak/openreads) <sup>**[[F-Droid](https://f-droid.org/packages/software.mdev.bookstracker)]**</sup>
 * [**RustDesk**](https://github.com/rustdesk/rustdesk) <sup>**[[F-Droid](https://f-droid.org/packages/com.carriez.flutter_hbb)]**</sup>
+* [**ShizuCallRecorder**](https://github.com/kitsumed/ShizuCallRecorder)
 * [**Simple Time Tracker**](https://github.com/Razeeman/Android-SimpleTimeTracker) <sup>**[[F-Droid](https://f-droid.org/packages/com.razeeman.util.simpletimetracker)]**</sup>
 * [**Stay Put**](https://codeberg.org/y20k/stayput) <sup>**[[F-Droid](https://f-droid.org/packages/org.y20k.stayput)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.y20k.stayput)]**</sup>
 * [**Timeto.me**](https://github.com/Medvedev91/timeto.me) <sup>**[[F-Droid](https://f-droid.org/packages/me.timeto.app)]**</sup>
