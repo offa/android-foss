@@ -845,8 +845,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Terminals
 
 * [**ReTerminal**](https://github.com/RohitKushvaha01/ReTerminal) <sup>**[[F-Droid](https://f-droid.org/packages/com.rk.terminal)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.rk.terminal)]**</sup>
-* [**Termux**](https://github.com/termux/termux-app) <sup>**[[F-Droid](https://f-droid.org/packages/com.termux)]**</sup>
 * [**Terminal Ex**](https://github.com/Graywizard888/Terminal_EX)
+* [**Termux**](https://github.com/termux/termux-app) <sup>**[[F-Droid](https://f-droid.org/packages/com.termux)]**</sup>
 
 ### • Text Editors
 
