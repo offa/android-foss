@@ -1103,6 +1103,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ## – Rooting and Recovery –
 
 * [**APatch**](https://github.com/bmax121/APatch) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/me.bmax.apatch)]**</sup>
+    * [**FolkPatch (Fork)**](https://github.com/LyraVoid/FolkPatch)
 * [**KernelSU**](https://kernelsu.org) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/me.weishu.kernelsu)]**</sup>
 * [**Magisk**](https://github.com/topjohnwu/Magisk) <sup>**[[F-Droid](https://f-droid.org/packages/com.topjohnwu.magisk)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.topjohnwu.magisk)]**</sup>
 * [**OrangeFox Recovery**](https://orangefox.download)
