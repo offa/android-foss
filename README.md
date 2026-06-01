@@ -846,7 +846,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**ReTerminal**](https://github.com/RohitKushvaha01/ReTerminal) <sup>**[[F-Droid](https://f-droid.org/packages/com.rk.terminal)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.rk.terminal)]**</sup>
 * [**Termux**](https://github.com/termux/termux-app) <sup>**[[F-Droid](https://f-droid.org/packages/com.termux)]**</sup>
-    * [**Terminal Ex**](https://github.com/Graywizard888/Terminal_EX)
 
 ### • Text Editors
 
@@ -1104,7 +1103,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ## – Rooting and Recovery –
 
 * [**APatch**](https://github.com/bmax121/APatch) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/me.bmax.apatch)]**</sup>
-    * [**FolkPatch (Fork)**](https://github.com/LyraVoid/FolkPatch)
 * [**KernelSU**](https://kernelsu.org) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/me.weishu.kernelsu)]**</sup>
 * [**Magisk**](https://github.com/topjohnwu/Magisk) <sup>**[[F-Droid](https://f-droid.org/packages/com.topjohnwu.magisk)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.topjohnwu.magisk)]**</sup>
 * [**OrangeFox Recovery**](https://orangefox.download)
