@@ -498,7 +498,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Murine Launcher**](https://github.com/alesimula/Murine-launcher) <sup>**[[F-Droid](https://f-droid.org/packages/app.murinelauncher)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/app.murinelauncher)]**</sup>
 * [**Neo-Launcher**](https://github.com/NeoApplications/Neo-Launcher) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.saggitt.omega)]**</sup>
 * [**Olauncher**](https://github.com/tanujnotes/Olauncher) <sup>**[[F-Droid](https://f-droid.org/packages/app.olauncher)]**</sup>
-* [**OpenLauncher**](https://github.com/BennyKok/OpenLauncher) <sup>**[[F-Droid](https://f-droid.org/packages/com.benny.openlauncher)]**</sup>
 * [**PaperLaunch**](https://github.com/devmil/PaperLaunch) <sup>**[[F-Droid](https://f-droid.org/packages/de.devmil.paperlaunch)]**</sup>
 * [**Pie Launcher**](https://github.com/markusfisch/PieLauncher) <sup>**[[F-Droid](https://f-droid.org/packages/de.markusfisch.android.pielauncher)]**</sup>
 * [**Yagni Launcher**](https://github.com/JackEblan/YagniLauncher) <sup>**[[F-Droid](https://f-droid.org/packages/com.eblan.launcher)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.eblan.launcher)]**</sup>
