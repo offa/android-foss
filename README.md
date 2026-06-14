@@ -504,6 +504,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Maps & Navigation
 
+* [**Alpi Maps**](https://github.com/Akylas/alpimaps) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/akylas.alpi.maps)]**</sup>
 * [**CoMaps**](https://codeberg.org/comaps/comaps) <sup>**[[F-Droid](https://f-droid.org/packages/app.comaps.fdroid)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/app.comaps)]**</sup>
 * [**Compass**](https://github.com/Kr0oked/Compass) <sup>**[[F-Droid](https://f-droid.org/packages/com.bobek.compass)]**</sup>
 * [**Geo Share**](https://github.com/jakubvalenta/geoshare) <sup>**[[F-Droid](https://f-droid.org/packages/page.ooooo.geoshare)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/page.ooooo.geoshare)]**</sup>
