@@ -384,6 +384,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**CryptoTracker**](https://github.com/judemont/cryptotracker) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/jdm.apps.cryptotracker)]**</sup>
 * [**Currencies**](https://github.com/sal0max/currencies) <sup>**[[F-Droid](https://f-droid.org/packages/de.salomax.currencies)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/de.salomax.currencies)]**</sup>
 * [**FDTracker**](https://github.com/Abhay-cloud/Fixed-Deposit-Tracker) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/dev.abhaycloud.fdtracker)]**</sup>
+* [**Finzo**](https://github.com/AHS-Mobile-Labs/finzo)
 * [**GreenStash**](https://github.com/Pool-Of-Tears/GreenStash) <sup>**[[F-Droid](https://f-droid.org/packages/com.starry.greenstash)]**</sup>
 * [**My Expenses**](https://github.com/mtotschnig/MyExpenses) <sup>**[[F-Droid](https://f-droid.org/packages/org.totschnig.myexpenses)]**</sup>
 * [**Oinkoin**](https://github.com/emavgl/oinkoin) <sup>**[[F-Droid](https://f-droid.org/packages/com.github.emavgl.piggybankpro)]**</sup>
