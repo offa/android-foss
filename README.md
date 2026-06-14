@@ -1028,6 +1028,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Dolphin**](https://github.com/dolphin-emu/dolphin) <sup>**[[F-Droid](https://f-droid.org/packages/org.dolphinemu.dolphinemu)]**</sup>
 * [**J2ME Loader**](https://github.com/nikita36078/J2ME-Loader) <sup>**[[F-Droid](https://f-droid.org/packages/ru.playsoftware.j2meloader)]**</sup>
 * [**Lemuroid**](https://github.com/Swordfish90/Lemuroid) <sup>**[[F-Droid](https://f-droid.org/packages/com.swordfish.lemuroid)]**</sup>
+* [**PPSSPP**](https://github.com/hrydgard/ppsspp) <sup>**[[F-Droid](https://f-droid.org/packages/org.ppsspp.ppsspp)]**</sup>
 * [**RetroArch**](https://github.com/libretro/RetroArch) <sup>**[[F-Droid](https://f-droid.org/packages/com.retroarch)]**</sup>
 
 ### • Miscellaneous
