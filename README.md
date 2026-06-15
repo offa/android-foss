@@ -473,6 +473,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**OpenBoard**](https://github.com/dslul/openboard) <sup>**[[F-Droid](https://f-droid.org/packages/org.dslul.openboard.inputmethod.latin)]**</sup>
 * [**Simple Keyboard**](https://github.com/rkkr/simple-keyboard) <sup>**[[F-Droid](https://f-droid.org/packages/rkr.simplekeyboard.inputmethod)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/rkr.simplekeyboard.inputmethod)]**</sup>
 * [**Stroke Input Method (筆畫輸入法)**](https://github.com/stroke-input/stroke-input-android) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.yawnoc.strokeinput)]**</sup>
+* [**SwiftFloris**](https://github.com/SysAdminDoc/SwiftFloris)
 * [**Thumb-Key**](https://github.com/dessalines/thumb-key) <sup>**[[F-Droid](https://f-droid.org/packages/com.dessalines.thumbkey)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.dessalines.thumbkey)]**</sup>
 * [**Traditional T9**](https://github.com/sspanak/tt9) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.sspanak.tt9)]**</sup>
 * [**Trime**](https://github.com/osfans/trime) <sup>**[[F-Droid](https://f-droid.org/packages/com.osfans.trime)]**</sup>
