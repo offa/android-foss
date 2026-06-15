@@ -1065,6 +1065,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Minesweeper - Antimine**](https://github.com/lucasnlm/antimine-android) <sup>**[[F-Droid](https://f-droid.org/packages/dev.lucanlm.antimine)]**</sup>
 * [**Minute Maze**](https://gitlab.com/ygingras/minute-maze) <sup>**[[F-Droid](https://f-droid.org/packages/net.ygingras.minutemaze)]**</sup>
 * [**Open Sudoku**](https://gitlab.com/opensudoku/opensudoku) <sup>**[[F-Droid](https://f-droid.org/packages/org.moire.opensudoku)]**</sup>
+* [**Puzzle Games**](https://github.com/sidhant947/puzzle) <sup>**[[F-Droid](https://f-droid.org/packages/com.sidhant.puzzle)]**</sup>
 * [**Simon Tatham's Puzzles**](https://github.com/chrisboyle/sgtpuzzles) <sup>**[[F-Droid](https://f-droid.org/packages/name.boyle.chris.sgtpuzzles)]**</sup>
 * [**Simple Sudoku Game**](https://git.harrault.fr/android/org.benoitharrault.sudoku) <sup>**[[F-Droid](https://f-droid.org/packages/org.benoitharrault.sudoku)]**</sup>
 * [**Sleuth**](https://codeberg.org/BWPanda/sleuth)
