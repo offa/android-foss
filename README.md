@@ -1058,6 +1058,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Puzzle
 
+* [**Puzzle Games**](https://github.com/sidhant947/puzzle) <sup>**[[F-Droid](https://f-droid.org/packages/com.sidhant.puzzle)]**</sup>
 * [**Block Puzzle Stone Wars**](https://github.com/SoltauFintel/blockpuzzle) <sup>**[[F-Droid](https://f-droid.org/packages/de.mwvb.blockpuzzle)]**</sup>
 * [**Flowit**](https://github.com/Flowit-Game/Flowit) <sup>**[[F-Droid](https://f-droid.org/packages/com.bytehamster.flowitgame)]**</sup>
 * [**Gauguin**](https://github.com/meikpiep/gauguin) <sup>**[[F-Droid](https://f-droid.org/packages/org.piepmeyer.gauguin)]**</sup>
