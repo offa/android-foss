@@ -179,7 +179,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**FFUpdater**](https://github.com/Tobi823/ffupdater) <sup>**[[F-Droid](https://f-droid.org/packages/de.marmaro.krt.ffupdater)]**</sup>
 * [**FOSS Browser**](https://codeberg.org/Gaukler_Faun/FOSS_Browser) <sup>**[[F-Droid](https://f-droid.org/packages/de.baumann.browser)]**</sup>
 * [**Fulguris Web Browser**](https://github.com/Slion/Fulguris) <sup>**[[F-Droid](https://f-droid.org/packages/net.slions.fulguris.full.fdroid)]**</sup>
-* [**IdiomReplaceX Browser App**](https://github.com/idiomReplaceX/IdiomReplaceX-app) <sup>**[[F-Droid](https://f-droid.org/packages/de.idiomreplacex.browser_app)]**</sup>
 * [**IronFox**](https://gitlab.com/ironfox-oss/IronFox)
 * [**Lightning**](https://github.com/anthonycr/Lightning-Browser) <sup>**[[F-Droid](https://f-droid.org/packages/acr.browser.lightning)]**</sup>
 * [**Monocles Browser**](https://codeberg.org/Arne/monocles_browser) <sup>**[[F-Droid](https://f-droid.org/packages/de.monocles.browser)]**</sup>
@@ -210,7 +209,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Call Blocker & Spam Filter
 
-* [**NoPhoneSpam**](https://gitlab.com/bitfireAT/NoPhoneSpam) <sup>**[[F-Droid](https://f-droid.org/packages/at.bitfire.nophonespam)]**</sup>
 * [**Saracroche**](https://codeberg.org/cbouvat/saracroche-android) <sup>**[[F-Droid](https://f-droid.org/packages/com.cbouvat.android.saracroche)]**</sup>
 * [**Silence**](https://github.com/x13a/Silence) <sup>**[[F-Droid](https://f-droid.org/packages/me.lucky.silence)]**</sup>
 * [**SpamBlocker (Call & SMS)**](https://github.com/aj3423/SpamBlocker) <sup>**[[F-Droid](https://f-droid.org/packages/spam.blocker)]**</sup>
@@ -241,17 +239,14 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Dhaaga (Lite)**](https://github.com/suvam0451/dhaaga) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/io.suvam.dhaaga.lite)]**</sup>
 * [**Eternity**](https://codeberg.org/Bazsalanszky/Eternity) <sup>**[[F-Droid](https://f-droid.org/packages/eu.toldi.infinityforlemmy)]**</sup>
 * [**Fedilab**](https://codeberg.org/tom79/Fedilab) <sup>**[[F-Droid](https://f-droid.org/packages/fr.gouv.etalab.mastodon)]**</sup>
-* [**Fritter**](https://github.com/jonjomckay/fritter) <sup>**[[F-Droid](https://f-droid.org/packages/com.jonjomckay.fritter)]**</sup>
 * [**Hacki**](https://github.com/Livinglist/Hacki) <sup>**[[F-Droid](https://f-droid.org/packages/com.jiaqifeng.hacki)]**</sup>
 * [**Husky**](https://github.com/captainepoch/husky) <sup>**[[F-Droid](https://f-droid.org/packages/su.xash.husky)]**</sup>
 * [**Infinity for Reddit**](https://github.com/Docile-Alligator/Infinity-For-Reddit) <sup>**[[F-Droid](https://f-droid.org/packages/ml.docilealligator.infinityforreddit)]**</sup>
 * [**Jerboa**](https://github.com/dessalines/jerboa) <sup>**[[F-Droid](https://f-droid.org/packages/com.jerboa)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.jerboa)]**</sup>
-* [**monocles social**](https://codeberg.org/Arne/monocles_social) <sup>**[[F-Droid](https://f-droid.org/packages/de.monocles.social)]**</sup>
 * [**OctoDroid**](https://github.com/slapperwan/gh4a) <sup>**[[F-Droid](https://f-droid.org/packages/com.gh4a)]**</sup>
 * [**Odysee**](https://github.com/OdyseeTeam/odysee-android-floss) <sup>**[[F-Droid](https://f-droid.org/packages/com.odysee.floss)]**</sup>
 * [**PixelDroid**](https://gitlab.shinice.net/pixeldroid/PixelDroid) <sup>**[[F-Droid](https://f-droid.org/packages/org.pixeldroid.app)]**</sup>
 * [**RedReader**](https://github.com/QuantumBadger/RedReader) <sup>**[[F-Droid](https://f-droid.org/packages/org.quantumbadger.redreader)]**</sup>
-* [**Slide**](https://github.com/ccrama/Slide) <sup>**[[F-Droid](https://f-droid.org/packages/me.ccrama.redditslide)]**</sup>
 * [**Squawker**](https://github.com/j-fbriere/squawker) <sup>**[[F-Droid](https://f-droid.org/packages/org.ca.squawker)]**</sup>
 * [**Stealth**](https://gitlab.com/cosmosapps/stealth) <sup>**[[F-Droid](https://f-droid.org/packages/com.cosmos.unreddit)]**</sup>
 * [**Thunder**](https://github.com/thunder-app/thunder) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.hjiangsu.thunder)]**</sup>
@@ -383,7 +378,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Arru**](https://github.com/KSSidll/Arru) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.kssidll.arru)]**</sup>
 * [**CryptoTracker**](https://github.com/judemont/cryptotracker) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/jdm.apps.cryptotracker)]**</sup>
 * [**Currencies**](https://github.com/sal0max/currencies) <sup>**[[F-Droid](https://f-droid.org/packages/de.salomax.currencies)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/de.salomax.currencies)]**</sup>
-* [**FDTracker**](https://github.com/Abhay-cloud/Fixed-Deposit-Tracker) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/dev.abhaycloud.fdtracker)]**</sup>
 * [**GreenStash**](https://github.com/Pool-Of-Tears/GreenStash) <sup>**[[F-Droid](https://f-droid.org/packages/com.starry.greenstash)]**</sup>
 * [**My Expenses**](https://github.com/mtotschnig/MyExpenses) <sup>**[[F-Droid](https://f-droid.org/packages/org.totschnig.myexpenses)]**</sup>
 * [**Oinkoin**](https://github.com/emavgl/oinkoin) <sup>**[[F-Droid](https://f-droid.org/packages/com.github.emavgl.piggybankpro)]**</sup>
@@ -401,7 +395,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**AnkiDroid**](https://github.com/ankidroid/Anki-Android) <sup>**[[F-Droid](https://f-droid.org/packages/com.ichi2.anki)]**</sup>
 * [**Flash Deck**](https://github.com/rh-id/a-flash-deck) <sup>**[[F-Droid](https://f-droid.org/packages/m.co.rh.id.a_flash_deck)]**</sup>
-* [**ForgetMeNot**](https://github.com/tema6120/ForgetMeNot) <sup>**[[F-Droid](https://f-droid.org/packages/com.odnovolov.forgetmenot)]**</sup>
 * [**QuizFlow**](https://github.com/judemont/quizflow) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/jdm.apps.quizflow)]**</sup>
 
 ### • Flashlight
