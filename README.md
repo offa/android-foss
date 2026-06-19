@@ -554,7 +554,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Molly**](https://github.com/mollyim/mollyim-android)
 * [**Mumla**](https://gitlab.com/quite/mumla) <sup>**[[F-Droid](https://f-droid.org/packages/se.lublin.mumla)]**</sup>
 * [**SchildiChat**](https://github.com/SchildiChat/SchildiChat-android) <sup>**[[F-Droid](https://f-droid.org/packages/de.spiritcroc.riotx)]**</sup>
-* [**Session F-Droid**](https://github.com/oxen-io/session-android) <sup>**[[F-Droid](https://f-droid.org/packages/network.loki.messenger.fdroid)]**</sup>
+* [**Session Android**](https://github.com/session-foundation/session-android)
 * [**Signal-Foss**](https://github.com/tw-hx/Signal-Android)
 * [**SimpleX Chat**](https://github.com/simplex-chat/simplex-chat) <sup>**[[F-Droid](https://f-droid.org/packages/chat.simplex.app)]**</sup>
 * [**Telegram-FOSS**](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) <sup>**[[F-Droid](https://f-droid.org/packages/org.telegram.messenger)]**</sup>
