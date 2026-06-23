@@ -625,7 +625,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [**Outer Tune**](https://github.com/DD3Boh/OuterTune) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.dd3boh.outertune)]**</sup>
 * [**Kreate**](https://github.com/knighthat/Kreate) <sup>**[[F-Droid](https://f-droid.org/packages/me.knighthat.kreate)]**</sup>
 * [**little music player**](https://github.com/martinmimigames/little-music-player) <sup>**[[F-Droid](https://f-droid.org/packages/com.martinmimigames.littlemusicplayer)]**</sup>
-* [**Metro**](https://github.com/MuntashirAkon/Metro) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.muntashirakon.Music)]**</sup>
 * [**Metrolist**](https://github.com/mostafaalagamy/Metrolist) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.metrolist.music)]**</sup>
 * [**Music-you**](https://github.com/DanielSevillano/music-you)
 * [**Musify**](https://github.com/gokadzev/Musify) <sup>**[[F-Droid](https://f-droid.org/packages/com.gokadzev.musify.fdroid)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.gokadzev.musify)]**</sup>
