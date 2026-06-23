@@ -759,7 +759,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Atomic - Periodic Table**](https://github.com/JLindemann42/Atomic-Periodic-Table.Android) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.jlindemann.science)]**</sup>
 * [**Brainf**](https://github.com/fredhappyface/android.brainf) <sup>**[[F-Droid](https://f-droid.org/packages/com.fredhappyface.brainf)]**</sup>
 * [**Bubble**](https://github.com/woheller69/level) <sup>**[[F-Droid](https://f-droid.org/packages/org.woheller69.level)]**</sup>
-* [**ChemistryLab**](https://gitlab.com/asdoi/ChemistryLab) <sup>**[[F-Droid](https://f-droid.org/packages/com.chemistry.admin.chemistrylab)]**</sup>
 * [**Git+ Coach**](https://github.com/vishal2376/git-coach) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.vishal2376.gitcoach)]**</sup>
 * [**Linux Command Library**](https://github.com/SimonSchubert/LinuxCommandLibrary) <sup>**[[F-Droid](https://f-droid.org/packages/com.inspiredandroid.linuxcommandbibliotheca)]**</sup>
 * [**phyphox**](https://github.com/phyphox/phyphox-android) <sup>**[[F-Droid](https://f-droid.org/packages/de.rwth_aachen.phyphox)]**</sup>
