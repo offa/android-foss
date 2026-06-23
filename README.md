@@ -826,7 +826,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**PCAPdroid**](https://github.com/emanuele-f/PCAPdroid) <sup>**[[F-Droid](https://f-droid.org/packages/com.emanuelef.remote_capture)]**</sup>
 * [**Permission Pilot**](https://github.com/d4rken-org/permission-pilot) <sup>**[[F-Droid](https://f-droid.org/packages/eu.darken.myperm)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/eu.darken.myperm)]**</sup>
 * [**ReVanced Manager**](https://github.com/ReVanced/revanced-manager)
-* [**Scoop**](https://github.com/TacoTheDank/Scoop) <sup>**[[F-Droid](https://f-droid.org/packages/taco.scoop)]**</sup>
 * [**SuperFreezZ**](https://gitlab.com/SuperFreezZ/SuperFreezZ) <sup>**[[F-Droid](https://f-droid.org/packages/superfreeze.tool.android)]**</sup>
 * [**SystemUI Tuner**](https://github.com/zacharee/Tweaker) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.zacharee1.systemuituner)]**</sup>
 * [**TaskManager**](https://github.com/RohitKushvaha01/TaskManager) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.rk.taskmanager)]**</sup>
