@@ -719,7 +719,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**AirGuard - AirTag tracking protection**](https://github.com/seemoo-lab/AirGuard) <sup>**[[F-Droid](https://f-droid.org/packages/de.seemoo.at_tracking_detection)]**</sup>
 * [**Exodus**](https://github.com/Exodus-Privacy/exodus-android-app) <sup>**[[F-Droid](https://f-droid.org/packages/org.eu.exodus_privacy.exodusprivacy)]**</sup>
-* [**PilferShush Jammer**](https://github.com/kaputnikGo/PilferShushJammer) <sup>**[[F-Droid](https://f-droid.org/packages/cityfreqs.com.pilfershushjammer)]**</sup>
+* [**PilferShush Jammer**](https://codeberg.org/kaputnikGo/PilferShushJammer) <sup>**[[F-Droid](https://f-droid.org/packages/cityfreqs.com.pilfershushjammer)]**</sup>
 * [**Safe Space**](https://github.com/aashishksahu/SafeSpace) <sup>**[[F-Droid](https://f-droid.org/packages/org.privacymatters.safespace)]**</sup>
 * [**Valv**](https://github.com/Arctosoft/Valv-Android) <sup>**[[F-Droid](https://f-droid.org/packages/se.arctosoft.vault)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/se.arctosoft.vault)]**</sup>
 
