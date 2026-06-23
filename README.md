@@ -680,7 +680,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Office
 
 * [**Collabora Office**](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/)
-* [**LibreOffice Viewer**](https://www.libreoffice.org/download/android-viewer/) <sup>**[[F-Droid](https://f-droid.org/packages/org.documentfoundation.libreoffice)]**</sup>
+* [**LibreOffice Viewer**](https://www.libreoffice.org/download-other/#android-ios) <sup>**[[F-Droid](https://f-droid.org/packages/org.documentfoundation.libreoffice)]**</sup>
 * [**OpenDocument**](https://github.com/opendocument-app/OpenDocument.droid) <sup>**[[F-Droid](https://f-droid.org/packages/at.tomtasche.reader)]**</sup>
 
 ### • Password & Authentication
