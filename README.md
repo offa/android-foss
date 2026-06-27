@@ -1110,6 +1110,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**APKLab**](https://github.com/APKLab/APKLab)
 * [**Apktool**](https://github.com/iBotPeaches/Apktool)
 * [**APKToolGUI**](https://github.com/AndnixSH/APKToolGUI)
+* [**NodeLook**](https://github.com/nodelook/android)
 * [**Shizuku**](https://github.com/RikkaApps/Shizuku)
 * [**Universal Android Debloater GUI**](https://github.com/Universal-Debloater-Alliance/universal-android-debloater)
 
