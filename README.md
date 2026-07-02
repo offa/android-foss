@@ -779,6 +779,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Feeel**](https://gitlab.com/enjoyingfoss/feeel) <sup>**[[F-Droid](https://f-droid.org/packages/com.enjoyingfoss.feeel)]**</sup>
 * [**FitoTrack**](https://codeberg.org/jannis/FitoTrack) <sup>**[[F-Droid](https://f-droid.org/packages/de.tadris.fitness)]**</sup>
 * [**Flexify**](https://github.com/brandonp2412/Flexify) <sup>**[[F-Droid](https://f-droid.org/packages/com.presley.flexify)]**</sup>
+* [**ForestMate**](https://github.com/spcx0701/forest-mate)
 * [**hEARtest**](https://github.com/woheller69/audiometry) <sup>**[[F-Droid](https://f-droid.org/packages/org.woheller69.audiometry)]**</sup>
 * [**Meditation**](https://github.com/nyxkn/meditation) <sup>**[[F-Droid](https://f-droid.org/packages/com.nyxkn.meditation)]**</sup>
 * [**MedTimer**](https://github.com/Futsch1/medTimer) <sup>**[[F-Droid](https://f-droid.org/packages/com.futsch1.medtimer)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.futsch1.medtimer)]**</sup>
