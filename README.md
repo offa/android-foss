@@ -344,6 +344,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Cryptomator**](https://github.com/cryptomator/android) <sup>**[[F-Droid](https://f-droid.org/packages/org.cryptomator.lite)]**</sup>
 * [**DroidFS**](https://forge.chapril.org/hardcoresushi/DroidFS) <sup>**[[F-Droid](https://f-droid.org/packages/sushi.hardcore.droidfs)]**</sup>
 * [**Koofr Vault**](https://github.com/koofr/vault) <sup>**[[F-Droid](https://f-droid.org/packages/net.koofr.vault)]**</sup>
+* [**Picocrypt-NG**](https://github.com/Picocrypt-NG/Picocrypt-NG) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.picocrypt_ng.picocrypt_ng)]**</sup>
 
 ### • File Manager
 
