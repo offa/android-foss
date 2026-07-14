@@ -862,11 +862,9 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Translation
 
 * [**DeepL**](https://github.com/sakusaku3939/DeepLAndroid) <sup>**[[F-Droid](https://f-droid.org/packages/com.example.deeplviewer)]**</sup>
-* [**Lentil Translate**](https://github.com/yaxarat/lingvaandroid) <sup>**[[F-Droid](https://f-droid.org/packages/dev.atajan.lingva_android)]**</sup>
 * [**Offline Translator**](https://github.com/DavidVentura/offline-translator) <sup>**[[F-Droid](https://f-droid.org/packages/dev.davidv.translator)]**</sup>
 * [**Seamless**](https://github.com/woheller69/seamless) <sup>**[[F-Droid](https://f-droid.org/packages/org.woheller69.seemless)]**</sup>
 * [**SimplyTranslate Mobile**](https://github.com/ManeraKai/simplytranslate_mobile) <sup>**[[F-Droid](https://f-droid.org/packages/com.simplytranslate_mobile)]**</sup>
-* [**The Translator**](https://github.com/sunilpaulmathew/Translator) <sup>**[[F-Droid](https://f-droid.org/packages/com.sunilpaulmathew.translator)]**</sup>
 * [**Translate You**](https://github.com/you-apps/TranslateYou) <sup>**[[F-Droid](https://f-droid.org/packages/com.bnyro.translate)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.bnyro.translate)]**</sup>
 
 ### • URL Manipulation
