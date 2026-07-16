@@ -12,6 +12,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ## Table of Contents
 
+* [AI Chatbots](#-ai-chatbots-)
 * [App Store](#-app-store-)
 * [Apps](#-apps-)
     * [Ad Blocker](#-ad-blocker)
@@ -102,6 +103,10 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [Getting more …](#-getting-more--)
 
 ------------------------
+
+## – AI Chatbots –
+
+* [**Ambient HybridAI**](https://techambient.github.io/HybridAI)
 
 ## – App Store –
 
