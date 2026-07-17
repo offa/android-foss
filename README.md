@@ -1013,6 +1013,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Emulator
 
+* [**Cemu**](https://github.com/SSimco/Cemu)
 * [**Dolphin**](https://github.com/dolphin-emu/dolphin) <sup>**[[F-Droid](https://f-droid.org/packages/org.dolphinemu.dolphinemu)]**</sup>
 * [**Eden**](https://git.eden-emu.dev/eden-emu/eden)
 * [**J2ME Loader**](https://github.com/nikita36078/J2ME-Loader) <sup>**[[F-Droid](https://f-droid.org/packages/ru.playsoftware.j2meloader)]**</sup>
