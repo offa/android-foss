@@ -605,7 +605,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Metronome**](https://github.com/thetwom/toc2) <sup>**[[F-Droid](https://f-droid.org/packages/de.moekadu.metronome)]**</sup>
 * [**Musekit**](https://github.com/Kwasow/Musekit) <sup>**[[F-Droid](https://f-droid.org/packages/com.kwasow.musekit)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.kwasow.musekit)]**</sup>
 * [**Noice**](https://github.com/ashutoshgngwr/noice) <sup>**[[F-Droid](https://f-droid.org/packages/com.github.ashutoshgngwr.noice)]**</sup>
-* [**Noten Learner**](https://github.com/MelvilQ/noten-lernen)
+* [**Noten Learnen**](https://github.com/MelvilQ/noten-lernen) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/de.melvil.noten)]**</sup>
 * [**Practice Suite**](https://codeberg.org/Berker/practice_suite) <sup>**[[F-Droid](https://f-droid.org/packages/com.berkersen.practicesuite)]**</sup>
 * [**Rush**](https://github.com/shub39/Rush) <sup>**[[F-Droid](https://f-droid.org/packages/com.shub39.rush)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.shub39.rush)]**</sup>
 * [**Tack**](https://github.com/patzly/tack-android) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/xyz.zedler.patrick.tack)]**</sup>
