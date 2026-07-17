@@ -718,6 +718,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Privacy & Security
 
 * [**AirGuard - AirTag tracking protection**](https://github.com/seemoo-lab/AirGuard) <sup>**[[F-Droid](https://f-droid.org/packages/de.seemoo.at_tracking_detection)]**</sup>
+* [**AppVerifier BG**](https://github.com/RoundSalmon4/AppVerifierBG) <sup>**[[F-Droid](https://f-droid.org/packages/com.roundsalmon4.appverifier)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.roundsalmon4.appverifier)]**</sup>
 * [**Exodus**](https://github.com/Exodus-Privacy/exodus-android-app) <sup>**[[F-Droid](https://f-droid.org/packages/org.eu.exodus_privacy.exodusprivacy)]**</sup>
 * [**PilferShush Jammer**](https://codeberg.org/kaputnikGo/PilferShushJammer) <sup>**[[F-Droid](https://f-droid.org/packages/cityfreqs.com.pilfershushjammer)]**</sup>
 * [**Safe Space**](https://github.com/aashishksahu/SafeSpace) <sup>**[[F-Droid](https://f-droid.org/packages/org.privacymatters.safespace)]**</sup>
