@@ -386,6 +386,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**AFWall+**](https://github.com/ukanth/afwall) <sup>**[[F-Droid](https://f-droid.org/packages/dev.ukanth.ufirewall)]**</sup>
 * [**De1984**](https://github.com/dorumrr/de1984) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.dorumrr.de1984)]**</sup>
 * [**Karma Firewall**](https://github.com/nightflame2/karma-firewall) <sup>**[[F-Droid](https://f-droid.org/packages/net.stargw.fok)]**</sup>
+* [**LANShield**](https://github.com/DistriNet/LANShield) <sup>**[[F-Droid](https://f-droid.org/packages/org.distrinet.lanshield)]**</sup>
 * [**NetGuard**](https://github.com/M66B/NetGuard) <sup>**[[F-Droid](https://f-droid.org/packages/eu.faircode.netguard)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/eu.faircode.netguard)]**</sup>
 * [**Rethink DNS + Firewall**](https://github.com/celzero/rethink-app) <sup>**[[F-Droid](https://f-droid.org/packages/com.celzero.bravedns)]**</sup>
 
