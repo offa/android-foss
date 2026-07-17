@@ -1020,6 +1020,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Lemuroid**](https://github.com/Swordfish90/Lemuroid) <sup>**[[F-Droid](https://f-droid.org/packages/com.swordfish.lemuroid)]**</sup>
 * [**PPSSPP**](https://github.com/hrydgard/ppsspp) <sup>**[[F-Droid](https://f-droid.org/packages/org.ppsspp.ppsspp)]**</sup>
 * [**RetroArch**](https://github.com/libretro/RetroArch) <sup>**[[F-Droid](https://f-droid.org/packages/com.retroarch)]**</sup>
+* [**Vita3K**](https://github.com/Vita3K/Vita3K)
 
 ### • Miscellaneous
 
