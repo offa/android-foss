@@ -784,6 +784,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**hEARtest**](https://github.com/woheller69/audiometry) <sup>**[[F-Droid](https://f-droid.org/packages/org.woheller69.audiometry)]**</sup>
 * [**Meditation**](https://github.com/nyxkn/meditation) <sup>**[[F-Droid](https://f-droid.org/packages/com.nyxkn.meditation)]**</sup>
 * [**MedTimer**](https://github.com/Futsch1/medTimer) <sup>**[[F-Droid](https://f-droid.org/packages/com.futsch1.medtimer)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.futsch1.medtimer)]**</sup>
+* [**OpenHearing**](https://github.com/HMAKT99/OpenHearing)
 * [**OpenTracks**](https://github.com/OpenTracksApp/OpenTracks) <sup>**[[F-Droid](https://f-droid.org/packages/de.dennisguse.opentracks)]**</sup>
 * [**Paseo**](https://gitlab.com/pardomi/paseo) <sup>**[[F-Droid](https://f-droid.org/packages/ca.chancehorizon.paseo)]**</sup>
 * [**Red Moon**](https://github.com/LibreShift/red-moon) <sup>**[[F-Droid](https://f-droid.org/packages/com.jmstudios.redmoon)]**</sup>
