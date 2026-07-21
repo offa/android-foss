@@ -377,7 +377,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**CryptoTracker**](https://github.com/judemont/cryptotracker) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/jdm.apps.cryptotracker)]**</sup>
 * [**Currencies**](https://github.com/sal0max/currencies) <sup>**[[F-Droid](https://f-droid.org/packages/de.salomax.currencies)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/de.salomax.currencies)]**</sup>
 * [**GreenStash**](https://github.com/Pool-Of-Tears/GreenStash) <sup>**[[F-Droid](https://f-droid.org/packages/com.starry.greenstash)]**</sup>
-* [**Money Manager Ex**](https://github.com/moneymanagerex/android-money-manager-ex)<sup>**[[F-Droid](https://f-droid.org/en/packages/com.money.manager.ex/)]**</sup>
+* [**Money Manager Ex**](https://github.com/moneymanagerex/android-money-manager-ex)<sup>**[[F-Droid](https://f-droid.org/packages/com.money.manager.ex)]**</sup>
 * [**My Expenses**](https://github.com/mtotschnig/MyExpenses) <sup>**[[F-Droid](https://f-droid.org/packages/org.totschnig.myexpenses)]**</sup>
 * [**Oinkoin**](https://github.com/emavgl/oinkoin) <sup>**[[F-Droid](https://f-droid.org/packages/com.github.emavgl.piggybankpro)]**</sup>
 * [**Recurring Expense Tracker**](https://github.com/DennisBauer/RecurringExpenseTracker) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/de.dbauer.expensetracker)]**</sup>
