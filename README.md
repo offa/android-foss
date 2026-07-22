@@ -478,6 +478,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**BlissLauncher**](https://gitlab.e.foundation/e/os/BlissLauncher3)
 * [**CCLauncher**](https://github.com/mlm-games/cclauncher) <sup>**[[F-Droid](https://f-droid.org/packages/app.cclauncher)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/app.cclauncher)]**</sup>
 * [**Discreet Launcher**](https://github.com/falzonv/discreet-launcher) <sup>**[[F-Droid](https://f-droid.org/packages/com.vincent_falzon.discreetlauncher)]**</sup>
+* [**Dragon Launcher**](https://github.com/Elnix90/Dragon-Launcher) <sup>**[[F-Droid](https://f-droid.org/packages/org.elnix.dragonlauncher)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.elnix.dragonlauncher)]**</sup>
 * [**Easy Launcher**](https://github.com/DroidWorksStudio/EasyLauncher) <sup>**[[F-Droid](https://f-droid.org/packages/app.easy.launcher)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/app.easy.launcher)]**</sup>
 * [**Fokus Launcher**](https://github.com/luantak/FokusLauncher) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.luantak.fokuslauncher)]**</sup>
 * [**Fossify Launcher**](https://github.com/FossifyOrg/Launcher) <sup>**[[F-Droid](https://f-droid.org/packages/org.fossify.home)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.fossify.home)]**</sup>
