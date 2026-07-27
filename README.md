@@ -313,6 +313,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Aria2App**](https://github.com/devgianlu/Aria2App) <sup>**[[F-Droid](https://f-droid.org/packages/com.gianlu.aria2app)]**</sup>
 * [**Download Navi**](https://github.com/TachibanaGeneralLaboratories/download-navi) <sup>**[[F-Droid](https://f-droid.org/packages/com.tachibana.downloader)]**</sup>
 * [**dvd**](https://github.com/yausername/dvd) <sup>**[[F-Droid](https://f-droid.org/packages/org.yausername.dvd)]**</sup>
+* [**FluxDown**](https://github.com/zerx-lab/FluxDown)
 * [**Gopeed**](https://github.com/GopeedLab/gopeed)
 * [**LibreTorrent**](https://github.com/proninyaroslav/libretorrent) <sup>**[[F-Droid](https://f-droid.org/packages/org.proninyaroslav.libretorrent)]**</sup>
 * [**Myne**](https://github.com/Pool-Of-Tears/Myne) <sup>**[[F-Droid](https://f-droid.org/packages/com.starry.myne)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.starry.myne)]**</sup>
