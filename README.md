@@ -1004,7 +1004,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Educational
 
-* [**Braincup**](https://github.com/SimonSchubert/Braincup) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.inspiredandroid.braincup/)]**</sup>
+* [**Braincup**](https://github.com/SimonSchubert/Braincup) <sup>**[[F-Droid](https://f-droid.org/packages/com.inspiredandroid.braincup)]**</sup>
 * [**Digits**](https://github.com/foxtrotdev/learn-digits) <sup>**[[F-Droid](https://f-droid.org/packages/eu.mokrzycki.learndigits)]**</sup>
 * [**Everest**](https://github.com/mwageringel/everest) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.mwageringel.everest)]**</sup>
 * [**GCompris**](https://invent.kde.org/education/gcompris.git) <sup>**[[F-Droid](https://f-droid.org/packages/net.gcompris.full)]**</sup>
