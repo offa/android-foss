@@ -336,6 +336,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**K-9 Mail**](https://github.com/thundernest/k-9) <sup>**[[F-Droid](https://f-droid.org/packages/com.fsck.k9)]**</sup>
     * [**monocles mail**](https://codeberg.org/Arne/monocles_mail) <sup>**[[F-Droid](https://f-droid.org/packages/de.monocles.mail)]**</sup>
 * [**Ltt.rs**](https://codeberg.org/iNPUTmice/lttrs-android) <sup>**[[F-Droid](https://f-droid.org/packages/rs.ltt.android)]**</sup>
+* [**Sterna Mail**](https://codeberg.org/emon/sterna-mail) <sup>**[[F-Droid](https://f-droid.org/packages/app.sterna)]**</sup>
 * [**Thunderbird**](https://github.com/thunderbird/thunderbird-android) <sup>**[[F-Droid](https://f-droid.org/packages/net.thunderbird.android)]**</sup>
 * [**Tutanota**](https://github.com/tutao/tutanota) <sup>**[[F-Droid](https://f-droid.org/packages/de.tutao.tutanota)]**</sup>
 
