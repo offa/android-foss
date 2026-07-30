@@ -783,6 +783,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Sports & Health
 
 * [**Box, Box!**](https://github.com/BrightDV/BoxBox) <sup>**[[F-Droid](https://f-droid.org/packages/org.brightdv.boxbox)]**</sup>
+* [**Chompass**](https://codeberg.org/fitguy/chompass)
 * [**Feeel**](https://gitlab.com/enjoyingfoss/feeel) <sup>**[[F-Droid](https://f-droid.org/packages/com.enjoyingfoss.feeel)]**</sup>
 * [**FitoTrack**](https://codeberg.org/jannis/FitoTrack) <sup>**[[F-Droid](https://f-droid.org/packages/de.tadris.fitness)]**</sup>
 * [**Flexify**](https://github.com/brandonp2412/Flexify) <sup>**[[F-Droid](https://f-droid.org/packages/com.presley.flexify)]**</sup>
