@@ -740,7 +740,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Religion
 
-* [**AndBible: Bible Study**](https://github.com/AndBible/and-bible) <sup>**[[F-Droid](https://f-droid.org/packages/net.bible.android.activity/)]**</sup>
+* [**AndBible: Bible Study**](https://github.com/AndBible/and-bible) <sup>**[[F-Droid](https://f-droid.org/packages/net.bible.android.activity)]**</sup>
 * [**Bhagavad Gita**](https://github.com/WirelessAlien/BhagavadGitaApp) <sup>**[[F-Droid](https://f-droid.org/packages/com.wirelessalien.android.bhagavadgita)]**</sup>
 * [**Dharmik**](https://github.com/shub39/Dharmik) <sup>**[[F-Droid](https://f-droid.org/packages/com.shub39.dharmik.online)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.shub39.dharmik.online)]**</sup>
 * [**PocketDhamma**](https://github.com/s4nj1th/pocket-dhamma) <sup>**[[F-Droid](https://f-droid.org/packages/com.s4nj1th.pocket_dhamma)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.s4nj1th.pocket_dhamma)]**</sup>
