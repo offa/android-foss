@@ -892,6 +892,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**BendyStraw**](https://codeberg.org/mm-dev/bendy-straw) <sup>**[[F-Droid](https://f-droid.org/packages/rocks.mm_dev.BendyStraw)]**</sup>
 * [**BetterCounter**](https://github.com/albertvaka/bettercounter) <sup>**[[F-Droid](https://f-droid.org/packages/org.kde.bettercounter)]**</sup>
 * [**Cams**](https://github.com/vladpen/cams) <sup>**[[F-Droid](https://f-droid.org/packages/com.vladpen.cams)]**</sup>
+* [**Cloudflare Mobile**](https://github.com/hasanzadee/cloudflare-mobile)
 * [**ConnectBot**](https://github.com/connectbot/connectbot) <sup>**[[F-Droid](https://f-droid.org/packages/org.connectbot)]**</sup>
 * [**Converter NOW**](https://github.com/ferraridamiano/ConverterNOW) <sup>**[[F-Droid](https://f-droid.org/packages/com.ferrarid.converterpro)]**</sup>
 * [**CSV Editor**](https://codeberg.org/bgrayburn/csv-editor) <sup>**[[F-Droid](https://f-droid.org/packages/tech.brianrayburn.csv_editor)]**</sup>
