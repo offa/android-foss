@@ -900,6 +900,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**DeadHash**](https://github.com/CodeDead/DeadHash-android) <sup>**[[F-Droid](https://f-droid.org/packages/com.codedead.deadhash)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.codedead.deadhash)]**</sup>
 * [**droidVNC-NG**](https://github.com/bk138/droidVNC-NG) <sup>**[[F-Droid](https://f-droid.org/packages/net.christianbeier.droidvnc_ng)]**</sup>
 * [**EtchDroid**](https://github.com/EtchDroid/EtchDroid) <sup>**[[F-Droid](https://f-droid.org/packages/eu.depau.etchdroid)]**</sup>
+* [**Granular Volume: Quiet Dial**](https://github.com/Rzuss/granular-volume) <sup>**[[F-Droid](https://f-droid.org/packages/granularvolume.com)]**</sup>
 * [**HexViewer**](https://github.com/Keidan/HexViewer) <sup>**[[F-Droid](https://f-droid.org/packages/fr.ralala.hexviewer)]**</sup>
 * [**InviZible Pro**](https://github.com/Gedsh/InviZible) <sup>**[[F-Droid](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable)]**</sup>
 * [**Json List**](https://github.com/SlaVcE14/JsonList) <sup>**[[F-Droid](https://f-droid.org/packages/com.sjapps.jsonlist)]**</sup>
