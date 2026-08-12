@@ -181,7 +181,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**IronFox**](https://gitlab.com/ironfox-oss/IronFox)
 * [**Lightning**](https://github.com/anthonycr/Lightning-Browser) <sup>**[[F-Droid](https://f-droid.org/packages/acr.browser.lightning)]**</sup>
 * [**Monocles Browser**](https://codeberg.org/Arne/monocles_browser) <sup>**[[F-Droid](https://f-droid.org/packages/de.monocles.browser)]**</sup>
-* [**Native Alpha**](https://github.com/cylonid/NativeAlphaForAndroid) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/packages/com.cylonid.nativealpha)]**</sup>
+* [**Native Alpha**](https://github.com/cylonid/NativeAlphaForAndroid) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.cylonid.nativealpha)]**</sup>
 * [**Privacy Browser**](https://gitweb.stoutner.com/?p=PrivacyBrowserAndroid.git;a=summary) <sup>**[[F-Droid](https://f-droid.org/packages/com.stoutner.privacybrowser.standard)]**</sup>
 * [**Tor Browser**](https://gitlab.torproject.org/tpo/applications/tor-browser)
 * [**WebLibre**](https://github.com/FaFre/WebLibre) <sup>**[[F-Droid](https://f-droid.org/packages/eu.weblibre.gecko)]**</sup>
@@ -418,7 +418,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Habit Tracker
 
 * [**Grit**](https://github.com/shub39/Grit) <sup>**[[F-Droid](https://f-droid.org/packages/com.shub39.grit)]**</sup>
-* [**Habit-Maker**](https://github.com/dessalines/habit-maker) <sup>**[[F-Droid](https://f-droid.org/packages/com.dessalines.habitmaker)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.dessalines.habitmaker)]**</sup>
+* [**Habit-Maker**](https://github.com/dessalines/habit-maker) <sup>**[[F-Droid](https://f-droid.org/packages/com.dessalines.habitmaker)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.dessalines.habitmaker)]**</sup>
 * [**Loop Habit Tracker**](https://github.com/iSoron/uhabits) <sup>**[[F-Droid](https://f-droid.org/packages/org.isoron.uhabits)]**</sup>
 * [**OpenHabitTracker**](https://github.com/Jinjinov/OpenHabitTracker)
 * [**SkillApp**](https://github.com/Jaimies/SkillApp) <sup>**[[F-Droid](https://f-droid.org/packages/com.theskillapp.skillapp)]**</sup>
@@ -584,7 +584,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Motion Eye**](https://github.com/JairajJangle/motioneye-android) <sup>**[[F-Droid](https://f-droid.org/packages/com.jairaj.janglegmail.motioneye)]**</sup>
 * [**Openreads**](https://github.com/mateusz-bak/openreads) <sup>**[[F-Droid](https://f-droid.org/packages/software.mdev.bookstracker)]**</sup>
 * [**RustDesk**](https://github.com/rustdesk/rustdesk) <sup>**[[F-Droid](https://f-droid.org/packages/com.carriez.flutter_hbb)]**</sup>
-* [**ShizuCallRecorder**](https://github.com/kitsumed/ShizuCallRecorder) <sup>**[[F-Droid](https://f-droid.org/packages/com.kitsumed.shizucallrecorder)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.kitsumed.shizucallrecorder)]**</sup>
+* [**ShizuCallRecorder**](https://github.com/kitsumed/ShizuCallRecorder) <sup>**[[F-Droid](https://f-droid.org/packages/com.kitsumed.shizucallrecorder)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.kitsumed.shizucallrecorder)]**</sup>
 * [**Simple Time Tracker**](https://github.com/Razeeman/Android-SimpleTimeTracker) <sup>**[[F-Droid](https://f-droid.org/packages/com.razeeman.util.simpletimetracker)]**</sup>
 * [**Stay Put**](https://codeberg.org/y20k/stayput) <sup>**[[F-Droid](https://f-droid.org/packages/org.y20k.stayput)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.y20k.stayput)]**</sup>
 * [**Timeto.me**](https://github.com/Medvedev91/timeto.me) <sup>**[[F-Droid](https://f-droid.org/packages/me.timeto.app)]**</sup>
@@ -732,7 +732,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Productivity
 
-* [**Flux**](https://github.com/chindaronit/Flux) <sup>**[[F-Droid](https://f-droid.org/packages/com.flux)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.flux)]**</sup>
+* [**Flux**](https://github.com/chindaronit/Flux) <sup>**[[F-Droid](https://f-droid.org/packages/com.flux)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.flux)]**</sup>
 * [**Read Later**](https://github.com/sak96/read_later) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/io.github.sak.read.it.later)]**</sup>
 
 ### • Public Transport
@@ -913,7 +913,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Middor**](https://github.com/nktnet1/middor) <sup>**[[F-Droid](https://f-droid.org/packages/org.nktnet.middor)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.nktnet.middor)]**</sup>
 * [**NFCGate**](https://github.com/nfcgate/nfcgate) <sup>**[[F-Droid](https://f-droid.org/packages/de.tu_darmstadt.seemoo.nfcgate)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/de.tu_darmstadt.seemoo.nfcgate)]**</sup>
 * [**OCR**](https://github.com/SubhamTyagi/android-ocr) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.subhamtyagi.ocr)]**</sup>
-* [**Omni**](https://github.com/FoedusProgramme/Omni) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/uk.akane.omni)]**</sup>
+* [**Omni**](https://github.com/FoedusProgramme/Omni) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/uk.akane.omni)]**</sup>
 * [**OONI Probe**](https://github.com/ooni/probe-multiplatform) <sup>**[[F-Droid](https://f-droid.org/packages/org.openobservatory.ooniprobe)]**</sup>
 * [**Orgro**](https://orgro.org/) <sup>**[[F-Droid](https://f-droid.org/packages/com.madlonkay.orgro)]**</sup>
 * [**PlugBrain**](https://github.com/msbelaid/PlugBrain) <sup>**[[F-Droid](https://f-droid.org/packages/app.plugbrain.android)]**</sup>
