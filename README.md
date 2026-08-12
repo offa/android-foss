@@ -733,7 +733,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Productivity
 
 * [**Flux**](https://github.com/chindaronit/Flux) <sup>**[[F-Droid](https://f-droid.org/packages/com.flux)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.flux)]**</sup>
-* [**Read Later**](https://github.com/sak96/read_later) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/io.github.sak.read.it.later)]**</sup> <sup>**[[Google Play](https://play.google.com/store/apps/details?id=io.github.sak.read.it.later)]**</sup> <sup>**[[GitHub](https://github.com/sak96/read_later/releases/latest)]**</sup> <sup>**[[OpenAPK](https://www.openapk.net/read-later/io.github.sak.read.it.later/)]**</sup>
+* [**Read Later**](https://github.com/sak96/read_later) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/io.github.sak.read.it.later)]**</sup>
 
 ### • Public Transport
 
