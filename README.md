@@ -870,6 +870,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Orgzly**](https://github.com/orgzly/orgzly-android) <sup>**[[F-Droid](https://f-droid.org/packages/com.orgzly)]**</sup>
 * [**PocketPlan**](https://github.com/RayLeaf-Studios/PocketPlan) <sup>**[[F-Droid](https://f-droid.org/packages/com.pocket_plan.j7_003)]**</sup>
 * [**Tasks.org**](https://github.com/tasks/tasks) <sup>**[[F-Droid](https://f-droid.org/packages/org.tasks)]**</sup>
+* [**TimePlanner**](https://github.com/v1tzor/TimePlanner) <sup>**[[F-Droid](https://f-droid.org/packages/ru.aleshin.timeplanner)]**</sup>
 
 ### • Translation
 
