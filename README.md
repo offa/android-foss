@@ -735,6 +735,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Flux**](https://github.com/chindaronit/Flux) <sup>**[[F-Droid](https://f-droid.org/packages/com.flux)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.flux)]**</sup>
 * [**Read Later**](https://github.com/sak96/read_later) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/io.github.sak.read.it.later)]**</sup>
 * [**Super Productivity**](https://github.com/super-productivity/super-productivity) <sup>**[[F-Droid](https://f-droid.org/packages/com.superproductivity.superproductivity)]**</sup>
+* [**TimePlanner**](https://github.com/v1tzor/TimePlanner) <sup>**[[F-Droid](https://f-droid.org/packages/ru.aleshin.timeplanner)]**</sup>
 
 ### • Public Transport
 
@@ -870,7 +871,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Orgzly**](https://github.com/orgzly/orgzly-android) <sup>**[[F-Droid](https://f-droid.org/packages/com.orgzly)]**</sup>
 * [**PocketPlan**](https://github.com/RayLeaf-Studios/PocketPlan) <sup>**[[F-Droid](https://f-droid.org/packages/com.pocket_plan.j7_003)]**</sup>
 * [**Tasks.org**](https://github.com/tasks/tasks) <sup>**[[F-Droid](https://f-droid.org/packages/org.tasks)]**</sup>
-* [**TimePlanner**](https://github.com/v1tzor/TimePlanner) <sup>**[[F-Droid](https://f-droid.org/packages/ru.aleshin.timeplanner)]**</sup>
 
 ### • Translation
 
