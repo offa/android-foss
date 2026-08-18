@@ -530,8 +530,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Materialious**](https://github.com/Materialious/Materialious) <sup>**[[F-Droid](https://f-droid.org/packages/us.materialio.app)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/us.materialio.app)]**</sup>
 * [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) <sup>**[[F-Droid](https://f-droid.org/packages/org.schabi.newpipe)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.schabi.newpipe)]**</sup>
     * [**LearnTube**](https://github.com/akshvaishnav21/LearnTube) <sup>**[[F-Droid](https://f-droid.org/packages/com.learntube.app)]**</sup>
-    * [**PipePipe**](https://codeberg.org/NullPointerException/PipePipe) <sup>**[[F-Droid](https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/InfinityLoop1309.NewPipeEnhanced)]**</sup>
 * [**PeerTube**](https://framagit.org/framasoft/peertube/mobile-application) <sup>**[[F-Droid](https://f-droid.org/en/packages/org.framasoft.peertube)]**</sup>
+* [**PipePipe**](https://codeberg.org/NullPointerException/PipePipe) <sup>**[[F-Droid](https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/InfinityLoop1309.NewPipeEnhanced)]**</sup>
 * [**SkyTube**](https://github.com/ram-on/SkyTube) <sup>**[[F-Droid](https://f-droid.org/packages/free.rm.skytube.oss)]**</sup>
 * [**Twire**](https://github.com/twireapp/Twire) <sup>**[[F-Droid](https://f-droid.org/packages/com.perflyst.twire)]**</sup>
 * [**Xtra**](https://github.com/crackededed/Xtra) <sup>**[[F-Droid](https://f-droid.org/packages/com.github.andreyasadchy.xtra)]**</sup>
