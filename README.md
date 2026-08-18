@@ -715,7 +715,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Escapepod**](https://codeberg.org/y20k/escapepod) <sup>**[[F-Droid](https://f-droid.org/packages/org.y20k.escapepod)]**</sup>
 * [**FocusPodcast**](https://github.com/allentown521/FocusPodcast) <sup>**[[F-Droid](https://f-droid.org/packages/allen.town.focus.podcast)]**</sup>
 * [**Libre Librivox listener**](https://gitlab.com/libre-librivox-listener/libre-librivox-listener) <sup>**[[F-Droid](https://f-droid.org/packages/io.gitlab.libre_librivox_listener)]**</sup>
-* [**Podcini.X**](https://github.com/XilinJia/Podcini.X) <sup>**[[F-Droid](https://f-droid.org/packages/ac.mdiq.podcini.X)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/ac.mdiq.podcini.X)]**</sup>
+* [**Podcini.A**](https://github.com/XilinJia/Podcini.A) <sup>**[[F-Droid](https://f-droid.org/packages/ac.mdiq.Podcini.A)]**</sup>
 * [**Podverse**](https://github.com/podverse/podverse-fdroid) <sup>**[[F-Droid](https://f-droid.org/packages/com.podverse.fdroid)]**</sup>
 * [**Tsacdop**](https://github.com/stonega/tsacdop) <sup>**[[F-Droid](https://f-droid.org/packages/com.stonegate.tsacdop)]**</sup>
 * [**Voice**](https://github.com/PaulWoitaschek/Voice) <sup>**[[F-Droid](https://f-droid.org/packages/de.ph1b.audiobook)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/de.ph1b.audiobook)]**</sup>
