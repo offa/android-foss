@@ -735,6 +735,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Productivity
 
+* [**Expanda**](https://github.com/diegomarzaa/expanda)
 * [**Flux**](https://github.com/chindaronit/Flux) <sup>**[[F-Droid](https://f-droid.org/packages/com.flux)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.flux)]**</sup>
 * [**Read Later**](https://github.com/sak96/read_later) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/io.github.sak.read.it.later)]**</sup>
 * [**Super Productivity**](https://github.com/super-productivity/super-productivity) <sup>**[[F-Droid](https://f-droid.org/packages/com.superproductivity.superproductivity)]**</sup>
