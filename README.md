@@ -925,6 +925,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Screen Time**](https://github.com/markusfisch/ScreenTime) <sup>**[[F-Droid](https://f-droid.org/packages/de.markusfisch.android.screentime)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/de.markusfisch.android.screentime)]**</sup>
 * [**SD Maid 2/SE**](https://github.com/d4rken-org/sdmaid-se) <sup>**[[F-Droid](https://f-droid.org/packages/eu.darken.sdmse)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/eu.darken.sdmse)]**</sup>
 * [**Smart Edge**](https://github.com/Imtiaz-Official/Smart-Edge) <sup>**[[F-Droid](https://f-droid.org/packages/com.imi.smartedge.sidebar.panel)]**</sup>
+* [**Smart Island**](https://github.com/agupta07505/SmartIsland)
 * [**SMS Import / Export**](https://github.com/tmo1/sms-ie) <sup>**[[F-Droid](https://f-droid.org/packages/com.github.tmo1.sms_ie)]**</sup>
 * [**Track & Graph**](https://github.com/SamAmco/track-and-graph) <sup>**[[F-Droid](https://f-droid.org/packages/com.samco.trackandgraph)]**</sup>
 * [**TTS Util**](https://github.com/Danesprite/tts-util-app) <sup>**[[F-Droid](https://f-droid.org/packages/com.danefinlay.ttsutil)]**</sup>
