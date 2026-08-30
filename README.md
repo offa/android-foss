@@ -886,6 +886,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Leon**](https://github.com/svenjacobs/leon) <sup>**[[F-Droid](https://f-droid.org/packages/com.svenjacobs.app.leon)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.svenjacobs.app.leon)]**</sup>
 * [**LinkSheet**](https://github.com/LinkSheet/LinkSheet) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/fe.linksheet)]**</sup>
+* [**spoo.me**](https://github.com/spoo-me/spoo-android)
 * [**Tarnhelm**](https://github.com/lz233/Tarnhelm) <sup>**[[F-Droid](https://f-droid.org/packages/cn.ac.lz233.tarnhelm)]**</sup>
 * [**Untracker**](https://github.com/zhanghai/Untracker) <sup>**[[F-Droid](https://f-droid.org/packages/me.zhanghai.android.untracker)]**</sup>
 * [**UntrackMe**](https://framagit.org/tom79/nitterizeme) <sup>**[[F-Droid](https://f-droid.org/packages/app.fedilab.nitterizeme)]**</sup>
