@@ -638,7 +638,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Music-you**](https://github.com/DanielSevillano/music-you)
 * [**Musify**](https://github.com/gokadzev/Musify) <sup>**[[F-Droid](https://f-droid.org/packages/com.gokadzev.musify.fdroid)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.gokadzev.musify)]**</sup>
 * [**N-Zik**](https://github.com/NEVARLeVrai/N-Zik)
-* [**Odeon**](https://github.com/thibseisel/android-odeon) <sup>**[[F-Droid](https://f-droid.org/packages/fr.nihilus.music)]**</sup>
 * [**Odyssey**](https://github.com/gateship-one/odyssey) <sup>**[[F-Droid](https://f-droid.org/packages/org.gateshipone.odyssey)]**</sup>
 * [**OpenTune**](https://github.com/Arturo254/OpenTune) <sup>**[[F-Droid](https://f-droid.org/packages/com.Arturo254.opentune)]**</sup>
 * [**phiola**](https://github.com/stsaz/phiola) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.github.stsaz.phiola)]**</sup>
