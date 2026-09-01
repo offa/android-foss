@@ -619,7 +619,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Music & Audio Player
 
-* [**ArchiveTune**](https://github.com/koiverse/ArchiveTune)<sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/moe.koiverse.archivetune)]**</sup>
+* [**ArchiveTune**](https://github.com/koiverse/ArchiveTune) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/moe.koiverse.archivetune)]**</sup>
 * [**Auxio**](https://github.com/OxygenCobalt/Auxio) <sup>**[[F-Droid](https://f-droid.org/packages/org.oxycblt.auxio)]**</sup>
 * [**Bloomee**](https://github.com/HemantKArya/BloomeeTunes)<sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/ls.bloomee.musicplayer)]**</sup>
 * [**Booming Music**](https://github.com/mardous/BoomingMusic) <sup>**[[F-Droid](https://f-droid.org/packages/com.mardous.booming)]**</sup>
@@ -637,7 +637,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Metrolist**](https://github.com/mostafaalagamy/Metrolist) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.metrolist.music)]**</sup>
 * [**Music-you**](https://github.com/DanielSevillano/music-you)
 * [**Musify**](https://github.com/gokadzev/Musify) <sup>**[[F-Droid](https://f-droid.org/packages/com.gokadzev.musify.fdroid)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.gokadzev.musify)]**</sup>
-* [**N-Zik**](https://github.com/NEVARLeVrai/N-Zik)
+* [**N-Zik**](https://github.com/NEVARLeVrai/N-Zik) <sup>**[[F-Droid](https://f-droid.org/packages/com.nevar.nzik.foss)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.nevar.nzik.foss)]**</sup>
 * [**Odyssey**](https://github.com/gateship-one/odyssey) <sup>**[[F-Droid](https://f-droid.org/packages/org.gateshipone.odyssey)]**</sup>
 * [**OpenTune**](https://github.com/Arturo254/OpenTune) <sup>**[[F-Droid](https://f-droid.org/packages/com.Arturo254.opentune)]**</sup>
 * [**phiola**](https://github.com/stsaz/phiola) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.github.stsaz.phiola)]**</sup>
