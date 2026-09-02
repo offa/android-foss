@@ -621,6 +621,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**ArchiveTune**](https://github.com/koiverse/ArchiveTune) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/moe.koiverse.archivetune)]**</sup>
 * [**Auxio**](https://github.com/OxygenCobalt/Auxio) <sup>**[[F-Droid](https://f-droid.org/packages/org.oxycblt.auxio)]**</sup>
+* [**Blazify**](https://github.com/rajendra7169/blazify)
 * [**Bloomee**](https://github.com/HemantKArya/BloomeeTunes)<sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/ls.bloomee.musicplayer)]**</sup>
 * [**Booming Music**](https://github.com/mardous/BoomingMusic) <sup>**[[F-Droid](https://f-droid.org/packages/com.mardous.booming)]**</sup>
 * [**CuteMusic**](https://github.com/sosauce/CuteMusic)<sup>**[[F-Droid](https://f-droid.org/packages/com.sosauce.cutemusic)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.sosauce.cutemusic)]**</sup>
