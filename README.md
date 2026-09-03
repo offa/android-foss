@@ -58,6 +58,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [Movie &amp; Cinema](#-movie--cinema)
     * [Music](#-music)
     * [Music &amp; Audio Player](#-music--audio-player)
+    * [Music &amp; Radio Streaming Player](#-music--radio-streaming-player)
     * [Notes](#-notes)
     * [Office](#-office)
     * [Password &amp; Authentication](#-password--authentication)
@@ -619,40 +620,43 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Music & Audio Player
 
-* [**ArchiveTune**](https://github.com/koiverse/ArchiveTune) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/moe.koiverse.archivetune)]**</sup>
 * [**Auxio**](https://github.com/OxygenCobalt/Auxio) <sup>**[[F-Droid](https://f-droid.org/packages/org.oxycblt.auxio)]**</sup>
-* [**Bloomee**](https://github.com/HemantKArya/BloomeeTunes)<sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/ls.bloomee.musicplayer)]**</sup>
 * [**Booming Music**](https://github.com/mardous/BoomingMusic) <sup>**[[F-Droid](https://f-droid.org/packages/com.mardous.booming)]**</sup>
 * [**CuteMusic**](https://github.com/sosauce/CuteMusic)<sup>**[[F-Droid](https://f-droid.org/packages/com.sosauce.cutemusic)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.sosauce.cutemusic)]**</sup>
-* [**Deutsia Radio**](https://github.com/deutsia/deutsia-radio)<sup>**[[F-Droid](https://f-droid.org/packages/com.opensource.i2pradio)]**</sup>
 * [**Dialog Music Player**](https://github.com/VishnuSanal/DialogMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/packages/phone.vishnu.dialogmusicplayer)]**</sup>
-* [**Echo Music**](https://github.com/EchoMusicApp/Echo-Music)
 * [**Fossify Music Player**](https://github.com/FossifyOrg/Music-Player) <sup>**[[F-Droid](https://f-droid.org/packages/org.fossify.musicplayer)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.fossify.musicplayer)]**</sup>
 * [**Gramophone**](https://github.com/FoedusProgramme/Gramophone) <sup>**[[F-Droid](https://f-droid.org/packages/org.akanework.gramophone)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.akanework.gramophone)]**</sup>
+* [**little music player**](https://github.com/martinmimigames/little-music-player) <sup>**[[F-Droid](https://f-droid.org/packages/com.martinmimigames.littlemusicplayer)]**</sup>
+* [**Odyssey**](https://github.com/gateship-one/odyssey) <sup>**[[F-Droid](https://f-droid.org/packages/org.gateshipone.odyssey)]**</sup>
+* [**phiola**](https://github.com/stsaz/phiola) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.github.stsaz.phiola)]**</sup>
+* [**Phonograph Plus**](https://github.com/chr56/Phonograph_Plus) <sup>**[[F-Droid](https://f-droid.org/packages/player.phonograph.plus)]**</sup>
+* [**Retro Music Player**](https://github.com/RetroMusicPlayer/RetroMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/packages/code.name.monkey.retromusic)]**</sup>
+* [**Rhythm**](https://github.com/cromaguy/Rhythm) <sup>**[[F-Droid](https://f-droid.org/packages/chromahub.rhythm.app)]**</sup>
+* [**Vanilla Music**](https://vanilla-music.github.io/) <sup>**[[F-Droid](https://f-droid.org/packages/ch.blinkenlights.android.vanilla)]**</sup>
+* [**Vinyl Music Player**](https://github.com/AdrienPoupa/VinylMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/packages/com.poupa.vinylmusicplayer)]**</sup>
+
+### • Music & Radio Streaming Player
+
+* [**ArchiveTune**](https://github.com/koiverse/ArchiveTune) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/moe.koiverse.archivetune)]**</sup>
+* [**Bloomee**](https://github.com/HemantKArya/BloomeeTunes)<sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/ls.bloomee.musicplayer)]**</sup>
+* [**Deutsia Radio**](https://github.com/deutsia/deutsia-radio)<sup>**[[F-Droid](https://f-droid.org/packages/com.opensource.i2pradio)]**</sup>
+* [**Echo Music**](https://github.com/EchoMusicApp/Echo-Music)
 * [**InnerTune**](https://github.com/z-huang/InnerTune) <sup>**[[F-Droid](https://f-droid.org/packages/com.zionhuang.music)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.zionhuang.music)]**</sup>
     * [**InnerTune (Fork)**](https://github.com/Malopieds/InnerTune) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.malopieds.innertune)]**</sup>
     * [**Outer Tune**](https://github.com/DD3Boh/OuterTune) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.dd3boh.outertune)]**</sup>
 * [**Kreate**](https://github.com/knighthat/Kreate) <sup>**[[F-Droid](https://f-droid.org/packages/me.knighthat.kreate)]**</sup>
-* [**little music player**](https://github.com/martinmimigames/little-music-player) <sup>**[[F-Droid](https://f-droid.org/packages/com.martinmimigames.littlemusicplayer)]**</sup>
 * [**Metrolist**](https://github.com/mostafaalagamy/Metrolist) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.metrolist.music)]**</sup>
 * [**Music-you**](https://github.com/DanielSevillano/music-you)
 * [**Musify**](https://github.com/gokadzev/Musify) <sup>**[[F-Droid](https://f-droid.org/packages/com.gokadzev.musify.fdroid)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.gokadzev.musify)]**</sup>
-* [**N-Zik**](https://github.com/NEVARLeVrai/N-Zik) <sup>**[[F-Droid](https://f-droid.org/packages/com.nevar.nzik.foss)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.nevar.nzik.foss)]**</sup>
-* [**Odyssey**](https://github.com/gateship-one/odyssey) <sup>**[[F-Droid](https://f-droid.org/packages/org.gateshipone.odyssey)]**</sup>
+* [**N-Zik**](https://github.com/NEVARLeVrai/N-Zik) <sup>**[[F-Droid](https://f-droid.org/packages/com.nevar.nzik.foss)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.nevar.nzik)]**</sup>
 * [**OpenTune**](https://github.com/Arturo254/OpenTune) <sup>**[[F-Droid](https://f-droid.org/packages/com.Arturo254.opentune)]**</sup>
-* [**phiola**](https://github.com/stsaz/phiola) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.github.stsaz.phiola)]**</sup>
-* [**Phonograph Plus**](https://github.com/chr56/Phonograph_Plus) <sup>**[[F-Droid](https://f-droid.org/packages/player.phonograph.plus)]**</sup>
 * [**RadioDroid**](https://github.com/segler-alex/RadioDroid) <sup>**[[F-Droid](https://f-droid.org/packages/net.programmierecke.radiodroid2)]**</sup>
-* [**Retro Music Player**](https://github.com/RetroMusicPlayer/RetroMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/packages/code.name.monkey.retromusic)]**</sup>
-* [**Rhythm**](https://github.com/cromaguy/Rhythm) <sup>**[[F-Droid](https://f-droid.org/packages/chromahub.rhythm.app)]**</sup>
 * [**SimpMusic**](https://github.com/maxrave-dev/SimpMusic) <sup>**[[F-Droid](https://f-droid.org/packages/com.maxrave.simpmusic)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.maxrave.simpmusic)]**</sup>
 * [**SongTube**](https://github.com/SongTube/SongTube-App)
 * [**SpMp**](https://github.com/toasterofbread/spmp) <sup>**[[F-Droid](https://f-droid.org/packages/com.toasterofbread.spmp)]**</sup>
 * [**Spotube**](https://github.com/KRTirtho/spotube) <sup>**[[F-Droid](https://f-droid.org/packages/oss.krtirtho.spotube)]**</sup>
 * [**Tempus**](https://github.com/eddyizm/tempus) <sup>**[[F-Droid](https://f-droid.org/packages/com.eddyizm.degoogled.tempus)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.eddyizm.degoogled.tempus)]**</sup>
 * [**Transistor**](https://codeberg.org/y20k/transistor) <sup>**[[F-Droid](https://f-droid.org/packages/org.y20k.transistor)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.y20k.transistor)]**</sup>
-* [**Vanilla Music**](https://vanilla-music.github.io/) <sup>**[[F-Droid](https://f-droid.org/packages/ch.blinkenlights.android.vanilla)]**</sup>
-* [**Vinyl Music Player**](https://github.com/AdrienPoupa/VinylMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/packages/com.poupa.vinylmusicplayer)]**</sup>
 
 ### • Notes
 
