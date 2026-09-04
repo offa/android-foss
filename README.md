@@ -695,6 +695,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**2fa**](https://codeberg.org/979/2fa) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/app.ninesevennine.twofactorauthenticator)]**</sup>
 * [**Aegis**](https://getaegis.app/) <sup>**[[F-Droid](https://f-droid.org/packages/com.beemdevelopment.aegis)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.beemdevelopment.aegis)]**</sup>
+* [**AIPOS Password Manager**](https://github.com/gininaba/AIPOSPasswordManager) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.aipos.aipospm/)]**</sup>
 * [**AuthenticatorPro**](https://github.com/jamie-mh/AuthenticatorPro) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.stratumauth.app)]**</sup>
 * [**AuthPass**](https://github.com/authpass/authpass) <sup>**[[F-Droid](https://f-droid.org/packages/design.codeux.authpass.fdroid)]**</sup>
 * [**Bitwarden**](https://github.com/bitwarden/android)
