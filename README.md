@@ -639,6 +639,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Music & Radio Streaming Player
 
 * [**ArchiveTune**](https://github.com/koiverse/ArchiveTune) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/moe.koiverse.archivetune)]**</sup>
+* [**Blazify**](https://github.com/rajendra7169/blazify)
 * [**Bloomee**](https://github.com/HemantKArya/BloomeeTunes)<sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/ls.bloomee.musicplayer)]**</sup>
 * [**Deutsia Radio**](https://github.com/deutsia/deutsia-radio)<sup>**[[F-Droid](https://f-droid.org/packages/com.opensource.i2pradio)]**</sup>
 * [**Echo Music**](https://github.com/EchoMusicApp/Echo-Music)
