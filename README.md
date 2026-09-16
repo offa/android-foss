@@ -295,6 +295,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Book Reader**](https://gitlab.com/axet/android-book-reader) <sup>**[[F-Droid](https://f-droid.org/packages/com.github.axet.bookreader)]**</sup>
 * [**Book's Story**](https://github.com/Acclorite/book-story) <sup>**[[F-Droid](https://f-droid.org/packages/ua.acclorite.book_story)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/ua.acclorite.book_story)]**</sup>
 * [**Episteme Reader**](https://github.com/Aryan-Raj3112/episteme) <sup>**[[F-Droid](https://f-droid.org/packages/com.aryan.reader.oss)]**</sup>
+* [**Fossify Documents**](https://github.com/FossifyOrg/Documents) <sup>**[[F-Droid](https://f-droid.org/en/packages/org.fossify.documents/)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.fossify.documents)]**</sup>
 * [**KOReader**](https://github.com/koreader/koreader) <sup>**[[F-Droid](https://f-droid.org/packages/org.koreader.launcher.fdroid)]**</sup>
 * [**Librera Reader**](https://github.com/foobnix/LibreraReader) <sup>**[[F-Droid](https://f-droid.org/packages/com.foobnix.pro.pdf.reader)]**</sup>
 * [**LxReader**](https://gitlab.com/coolreader-ng/lxreader) <sup>**[[F-Droid](https://f-droid.org/packages/io.gitlab.coolreader_ng.lxreader.fdroid)]**</sup>
