@@ -788,6 +788,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • SMS
 
+* [**Clear SMS**](https://github.com/itsluminous/ClearSMS) <sup>**[[F-Droid](https://f-droid.org/packages/app.clearsms)]**</sup>
 * [**Fossify SMS Messenger**](https://github.com/FossifyOrg/Messages) <sup>**[[F-Droid](https://f-droid.org/packages/org.fossify.messages)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.fossify.messages)]**</sup>
 * [**Messages**](https://github.com/PVOT-OSS/Messages) <sup>**[[F-Droid](https://f-droid.org/packages/org.prauga.messages)]**</sup>
 * [**Messages**](https://github.com/an1ndra/Messages) <sup>**[[F-Droid](https://f-droid.org/packages/com.anindra.messages)]**</sup>
