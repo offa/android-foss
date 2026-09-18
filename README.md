@@ -277,6 +277,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Amadz**](https://github.com/msusman1/Amadz) <sup>**[[F-Droid](https://f-droid.org/packages/com.talsk.amadz)]**</sup>
 * [**Fossify Phone**](https://github.com/FossifyOrg/Phone) <sup>**[[F-Droid](https://f-droid.org/packages/org.fossify.phone)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.fossify.phone)]**</sup>
 * [**Koler**](https://github.com/Chooloo/koler) <sup>**[[F-Droid](https://f-droid.org/packages/com.chooloo.www.koler)]**</sup>
+* [**NovaDial**](https://github.com/dhilipmpms/NovaDial) <sup>**[[F-Droid](https://f-droid.org/packages/com.novadial.phone)]**</sup>
 
 ### • Dictionaries
 
