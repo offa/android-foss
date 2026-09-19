@@ -168,6 +168,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Battery Tool**](https://github.com/Domi04151309/BatteryTool) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.domi04151309.batterytool)]**</sup>
 * [**BCL**](https://github.com/MuntashirAkon/BatteryChargeLimiter) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/io.github.muntashirakon.bcl)]**</sup>
+* [**Enforcedoze**](https://github.com/Akylas/EnforceDoze) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.akylas.enforcedoze/)]**</sup>
 * [**SaverTuner**](https://codeberg.org/s1m/savertuner) <sup>**[[F-Droid](https://f-droid.org/packages/s1m.savertuner)]**</sup>
 * [**Wattz**](https://github.com/dubrowgn/wattz) <sup>**[[F-Droid](https://f-droid.org/packages/dubrowgn.wattz)]**</sup>
 
