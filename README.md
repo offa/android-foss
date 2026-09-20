@@ -612,6 +612,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Helio**](https://github.com/helio-fm/helio-sequencer) <sup>**[[F-Droid](https://f-droid.org/packages/fm.helio)]**</sup>
 * [**Hexpress**](https://github.com/jmiskovic/hexpress) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.castlewrath.hexpress)]**</sup>
 * [**Liedgutverzeichnis**](https://codeberg.org/LiedgutDatenbank/Liedgutverzeichnis) <sup>**[[F-Droid](https://f-droid.org/packages/de.thefeiter.liedgutverzeichnis)]**</sup>
+* [**Like Current Song**](https://github.com/Osasuwu/like-current-song)
 * [**Metronome**](https://github.com/thetwom/toc2) <sup>**[[F-Droid](https://f-droid.org/packages/de.moekadu.metronome)]**</sup>
 * [**Musekit**](https://github.com/Kwasow/Musekit) <sup>**[[F-Droid](https://f-droid.org/packages/com.kwasow.musekit)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.kwasow.musekit)]**</sup>
 * [**Noice**](https://github.com/ashutoshgngwr/noice) <sup>**[[F-Droid](https://f-droid.org/packages/com.github.ashutoshgngwr.noice)]**</sup>
