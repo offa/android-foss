@@ -853,6 +853,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**SystemUI Tuner**](https://github.com/zacharee/Tweaker) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.zacharee1.systemuituner)]**</sup>
 * [**TaskManager**](https://github.com/RohitKushvaha01/TaskManager) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.rk.taskmanager)]**</sup>
 * [**Treble Info**](https://gitlab.com/TrebleInfo/TrebleInfo) <sup>**[[F-Droid](https://f-droid.org/packages/tk.hack5.treblecheck)]**</sup>
+* [**Universal Installer**](https://github.com/pass-with-high-score/universal-installer) <sup>**[[F-Droid](https://f-droid.org/packages/app.pwhs.universalinstaller)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/app.pwhs.universalinstaller)]**</sup>
 * [**UpgradeAll**](https://github.com/DUpdateSystem/UpgradeAll) <sup>**[[F-Droid](https://f-droid.org/packages/net.xzos.upgradeall)]**</sup>
 * [**WifiAnalyzer**](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) <sup>**[[F-Droid](https://f-droid.org/packages/com.vrem.wifianalyzer)]**</sup>
 
