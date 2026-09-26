@@ -553,6 +553,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
     * [**another.im**](https://dev.narayana.im/narayana/anotherim) <sup>**[[F-Droid](https://f-droid.org/packages/im.narayana.another)]**</sup>
     * [**Cheogram**](https://git.singpolyma.net/cheogram-android) <sup>**[[F-Droid](https://f-droid.org/packages/com.cheogram.android)]**</sup>
     * [**monocles chat**](https://codeberg.org/monocles/monocles_chat) <sup>**[[F-Droid](https://f-droid.org/packages/de.monocles.chat)]**</sup>
+* [**Delta Chat**](https://github.com/deltachat/deltachat-android) <sup>**[[F-Droid](https://f-droid.org/packages/com.b44t.messenger)]**</sup>
 * [**Element X**](https://github.com/vector-im/element-x-android) <sup>**[[F-Droid](https://f-droid.org/packages/io.element.android.x)]**</sup>
     * [**SchildiChat Next**](https://github.com/SchildiChat/schildichat-android-next) <sup>**[[F-Droid](https://f-droid.org/packages/chat.schildi.android)]**</sup>
 * [**FluffyChat**](https://github.com/krille-chan/fluffychat) <sup>**[[F-Droid](https://f-droid.org/packages/chat.fluffy.fluffychat)]**</sup>
