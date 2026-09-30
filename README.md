@@ -735,6 +735,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**AppVerifier BG**](https://github.com/RoundSalmon4/AppVerifierBG) <sup>**[[F-Droid](https://f-droid.org/packages/com.roundsalmon4.appverifier)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.roundsalmon4.appverifier)]**</sup>
 * [**Exodus**](https://github.com/Exodus-Privacy/exodus-android-app) <sup>**[[F-Droid](https://f-droid.org/packages/org.eu.exodus_privacy.exodusprivacy)]**</sup>
 * [**PilferShush Jammer**](https://codeberg.org/kaputnikGo/PilferShushJammer) <sup>**[[F-Droid](https://f-droid.org/packages/cityfreqs.com.pilfershushjammer)]**</sup>
+* [**RF Sentinel**](https://github.com/CIS-C0/RFSentinel)
 * [**Safe Space**](https://github.com/aashishksahu/SafeSpace) <sup>**[[F-Droid](https://f-droid.org/packages/org.privacymatters.safespace)]**</sup>
 * [**Spectre**](https://github.com/thomasbuilds/Spectre) <sup>**[[F-Droid](https://f-droid.org/packages/dev.thomasbuilds.spectre)]**</sup>
 * [**Valv**](https://github.com/Arctosoft/Valv-Android) <sup>**[[F-Droid](https://f-droid.org/packages/se.arctosoft.vault)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/se.arctosoft.vault)]**</sup>
