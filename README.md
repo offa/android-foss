@@ -770,6 +770,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**ReaDrops**](https://github.com/readrops/Readrops) <sup>**[[F-Droid](https://f-droid.org/packages/com.readrops.app)]**</sup>
 * [**ReadYou**](https://github.com/Ashinch/ReadYou) <sup>**[[F-Droid](https://f-droid.org/packages/me.ash.reader)]**</sup>
 * [**Thud**](https://github.com/aerotoad/Thud) <sup>**[[F-Droid](https://f-droid.org/packages/com.aerotoad.thud)]**</sup>
+* [**Tru**](https://github.com/debpalash/tru)
 
 ### • Sandboxing
 
