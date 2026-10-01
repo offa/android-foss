@@ -965,6 +965,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Calyx VPN**](https://gitlab.com/CalyxOS/bitmask_android) <sup>**[[F-Droid](https://f-droid.org/packages/org.calyxinstitute.vpn)]**</sup>
 * [**IVPN**](https://github.com/ivpn/android-app) <sup>**[[F-Droid](https://f-droid.org/packages/net.ivpn.client)]**</sup>
+* [**L×Box**](https://github.com/Leadaxe/LxBox) <sup>**[[F-Droid](https://f-droid.org/packages/com.leadaxe.lxbox)]**</sup>
 * [**Mullvad**](https://github.com/mullvad/mullvadvpn-app) <sup>**[[F-Droid](https://f-droid.org/packages/net.mullvad.mullvadvpn)]**</sup>
 * [**Mysterium VPN**](https://github.com/mysteriumnetwork/mysterium-vpn-mobile) <sup>**[[F-Droid](https://f-droid.org/packages/network.mysterium.vpn)]**</sup>
 * [**NekoBox for Android**](https://github.com/MatsuriDayo/NekoBoxForAndroid)
