@@ -119,6 +119,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Obtainium**](https://github.com/ImranR98/Obtainium) <sup>**[[F-Droid](https://f-droid.org/packages/dev.imranr.obtainium.fdroid)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/dev.imranr.obtainium)]**</sup>
 * [**Git Store**](https://github.com/Darkmintis/Git-Store)
 * [**Komi Store**](https://github.com/kurikomi-labs/komi-store) <sup>**[[F-Droid](https://f-droid.org/packages/zed.rainxch.githubstore)]**
+* [**Tern**](https://github.com/munzzyy/tern)
 * [**Zap.Store**](https://github.com/zapstore/zapstore)
 
 ------------------------
@@ -272,6 +273,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Daily You**](https://github.com/Demizo/Daily_You) <sup>**[[F-Droid](https://f-droid.org/packages/com.demizo.daily_you)]**</sup>
 * [**Easy Diary**](https://github.com/hanjoongcho/aaf-easydiary) <sup>**[[F-Droid](https://f-droid.org/packages/me.blog.korn123.easydiary)]**</sup>
+* [**Magpie**](https://github.com/munzzyy/magpie) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.munzzyy.magpie)]**</sup>
 
 ### • Dialer
 
@@ -308,6 +310,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Document Scanner & Editor
 
+* [**Blot**](https://github.com/munzzyy/blot)
 * [**FairScan**](https://github.com/pynicolas/FairScan) <sup>[**[F-Droid](https://f-droid.org/packages/org.fairscan.app)]**</sup>
 * [**MakeACopy**](https://github.com/egdels/makeacopy) <sup>[**[F-Droid](https://f-droid.org/packages/de.schliweb.makeacopy)]**</sup>
 * [**OpenDocument Reader**](https://github.com/opendocument-app/OpenDocument.droid) <sup>**[[F-Droid](https://f-droid.org/packages/at.tomtasche.reader)]**</sup>
@@ -449,6 +452,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Metadata Remover**](https://github.com/Crazy-Marvin/MetadataRemover) <sup>**[[F-Droid](https://f-droid.org/packages/rocks.poopjournal.metadataremover)]**</sup>
 * [**PrivacyBlur**](https://github.com/MATHEMA-GmbH/privacyblur) <sup>**[[F-Droid](https://f-droid.org/packages/de.mathema.privacyblur)]**</sup>
 * [**Scrambled Exif**](https://gitlab.com/juanitobananas/scrambled-exif) <sup>**[[F-Droid](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif)]**</sup>
+* [**Sepia**](https://github.com/munzzyy/sepia)
 
 ### • Image Viewer & Gallery
 
@@ -519,6 +523,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**OpenTopoMap Viewer**](https://github.com/Pygmalion69/OpenTopoMapViewer) <sup>**[[F-Droid](https://f-droid.org/packages/org.nitri.opentopo)]**</sup>
 * [**Organic Maps**](https://github.com/organicmaps/organicmaps) <sup>**[[F-Droid](https://f-droid.org/packages/app.organicmaps)]**</sup>
 * [**OsmAnd~**](http://osmand.net/) <sup>**[[F-Droid](https://f-droid.org/packages/net.osmand.plus)]**</sup>
+* [**Starling**](https://github.com/munzzyy/starling) <sup>**[[F-Droid](https://f-droid.org/packages/app.starlingmap)]**</sup>
 * [**Trail Sense**](https://github.com/kylecorry31/Trail-Sense) <sup>**[[F-Droid](https://f-droid.org/packages/com.kylecorry.trail_sense)]**</sup>
 * [**Trailence**](https://github.com/trailence/trailence-front) <sup>**[[F-Droid](https://f-droid.org/packages/trailence.org)]**</sup>
 * [**Trekarta**](https://github.com/andreynovikov/trekarta) <sup>**[[F-Droid](https://f-droid.org/packages/mobi.maptrek)]**</sup>
@@ -805,6 +810,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**FitoTrack**](https://codeberg.org/jannis/FitoTrack) <sup>**[[F-Droid](https://f-droid.org/packages/de.tadris.fitness)]**</sup>
 * [**Flexify**](https://github.com/brandonp2412/Flexify) <sup>**[[F-Droid](https://f-droid.org/packages/com.presley.flexify)]**</sup>
 * [**hEARtest**](https://github.com/woheller69/audiometry) <sup>**[[F-Droid](https://f-droid.org/packages/org.woheller69.audiometry)]**</sup>
+* [**liftmath**](https://github.com/munzzyy/liftmath)
 * [**Meditation**](https://github.com/nyxkn/meditation) <sup>**[[F-Droid](https://f-droid.org/packages/com.nyxkn.meditation)]**</sup>
 * [**MedTimer**](https://github.com/Futsch1/medTimer) <sup>**[[F-Droid](https://f-droid.org/packages/com.futsch1.medtimer)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.futsch1.medtimer)]**</sup>
 * [**openScale**](https://github.com/oliexdev/openScale) <sup>**[[F-Droid](https://f-droid.org/packages/com.health.openscale)]**</sup>
@@ -1089,6 +1095,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Minute Maze**](https://gitlab.com/ygingras/minute-maze) <sup>**[[F-Droid](https://f-droid.org/packages/net.ygingras.minutemaze)]**</sup>
 * [**Open Sudoku**](https://gitlab.com/opensudoku/opensudoku) <sup>**[[F-Droid](https://f-droid.org/packages/org.moire.opensudoku)]**</sup>
 * [**Puzzle Games**](https://github.com/sidhant947/puzzle) <sup>**[[F-Droid](https://f-droid.org/packages/com.sidhant.puzzle)]**</sup>
+* [**Puzzle Press**](https://github.com/munzzyy/puzzlepress)
 * [**Simon Tatham's Puzzles**](https://github.com/chrisboyle/sgtpuzzles) <sup>**[[F-Droid](https://f-droid.org/packages/name.boyle.chris.sgtpuzzles)]**</sup>
 * [**Simple Sudoku Game**](https://git.harrault.fr/android/org.benoitharrault.sudoku) <sup>**[[F-Droid](https://f-droid.org/packages/org.benoitharrault.sudoku)]**</sup>
 * [**Sleuth**](https://codeberg.org/BWPanda/sleuth)
