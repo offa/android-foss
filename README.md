@@ -655,6 +655,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Music-you**](https://github.com/DanielSevillano/music-you)
 * [**Musify**](https://github.com/gokadzev/Musify) <sup>**[[F-Droid](https://f-droid.org/packages/com.gokadzev.musify.fdroid)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.gokadzev.musify)]**</sup>
 * [**N-Zik**](https://github.com/NEVARLeVrai/N-Zik) <sup>**[[F-Droid](https://f-droid.org/packages/com.nevar.nzik.foss)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.nevar.nzik)]**</sup>
+* [**Nest Music**](https://github.com/Davidix07TV/Nest-Music)
 * [**OpenTune**](https://github.com/Arturo254/OpenTune) <sup>**[[F-Droid](https://f-droid.org/packages/com.Arturo254.opentune)]**</sup>
 * [**SimpMusic**](https://github.com/maxrave-dev/SimpMusic) <sup>**[[F-Droid](https://f-droid.org/packages/com.maxrave.simpmusic)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.maxrave.simpmusic)]**</sup>
 * [**SongTube**](https://github.com/SongTube/SongTube-App)
