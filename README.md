@@ -119,7 +119,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Obtainium**](https://github.com/ImranR98/Obtainium) <sup>**[[F-Droid](https://f-droid.org/packages/dev.imranr.obtainium.fdroid)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/dev.imranr.obtainium)]**</sup>
 * [**Git Store**](https://github.com/Darkmintis/Git-Store)
 * [**Komi Store**](https://github.com/kurikomi-labs/komi-store) <sup>**[[F-Droid](https://f-droid.org/packages/zed.rainxch.githubstore)]**
-* [**Tern**](https://github.com/munzzyy/tern)
+* [**Tern**](https://github.com/munzzyy/tern) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.munzzyy.tern)]**</sup>
 * [**Zap.Store**](https://github.com/zapstore/zapstore)
 
 ------------------------
@@ -810,7 +810,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**FitoTrack**](https://codeberg.org/jannis/FitoTrack) <sup>**[[F-Droid](https://f-droid.org/packages/de.tadris.fitness)]**</sup>
 * [**Flexify**](https://github.com/brandonp2412/Flexify) <sup>**[[F-Droid](https://f-droid.org/packages/com.presley.flexify)]**</sup>
 * [**hEARtest**](https://github.com/woheller69/audiometry) <sup>**[[F-Droid](https://f-droid.org/packages/org.woheller69.audiometry)]**</sup>
-* [**liftmath**](https://github.com/munzzyy/liftmath)
+* [**liftmath**](https://github.com/munzzyy/liftmath) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.munzzyy.liftmath)]**</sup>
 * [**Meditation**](https://github.com/nyxkn/meditation) <sup>**[[F-Droid](https://f-droid.org/packages/com.nyxkn.meditation)]**</sup>
 * [**MedTimer**](https://github.com/Futsch1/medTimer) <sup>**[[F-Droid](https://f-droid.org/packages/com.futsch1.medtimer)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.futsch1.medtimer)]**</sup>
 * [**openScale**](https://github.com/oliexdev/openScale) <sup>**[[F-Droid](https://f-droid.org/packages/com.health.openscale)]**</sup>
