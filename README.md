@@ -959,6 +959,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**mpvExtended**](https://github.com/marlboro-advance/mpvex) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/app.marlboroadvance.mpvex)]**</sup>
 * [**Next Player**](https://github.com/anilbeesetti/nextplayer) <sup>**[[F-Droid](https://f-droid.org/packages/dev.anilbeesetti.nextplayer)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/dev.anilbeesetti.nextplayer)]**</sup>
 * [**Nova Video Player**](https://github.com/nova-video-player/aos-AVP) <sup>**[[F-Droid](https://f-droid.org/packages/org.courville.nova)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.courville.nova)]**</sup>
+* [**TMPlayer**](https://github.com/dracu-lah/TMPlayer)
 * [**VLC**](https://www.videolan.org/vlc/download-android.html) <sup>**[[F-Droid](https://f-droid.org/packages/org.videolan.vlc)]**</sup>
 
 ### • VPN
