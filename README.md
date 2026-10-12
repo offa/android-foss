@@ -811,6 +811,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**OpenTracks**](https://codeberg.org/OpenTracksApp/OpenTracks) <sup>**[[F-Droid](https://f-droid.org/packages/de.dennisguse.opentracks)]**</sup>
 * [**Paseo**](https://gitlab.com/pardomi/paseo) <sup>**[[F-Droid](https://f-droid.org/packages/ca.chancehorizon.paseo)]**</sup>
 * [**Red Moon**](https://github.com/LibreShift/red-moon) <sup>**[[F-Droid](https://f-droid.org/packages/com.jmstudios.redmoon)]**</sup>
+* [**WonderFood**](https://github.com/vaddisrinivas/wonderfood)
 
 ### • Synchronisation
 
