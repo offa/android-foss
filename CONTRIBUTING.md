@@ -10,7 +10,7 @@ Each listed software has to meet following criteria:
 1. Actively developed, maintained or supported
 1. Documentation available (Project website etc.)
 1. Free of charge
-1. At least 6 months old
+1. At least 6 months active development time
 
 F-Droid provides good [guidance](https://f-droid.org/docs/Anti-Features/) on *Anti-Features*.
 
