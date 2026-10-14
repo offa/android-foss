@@ -940,6 +940,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Track & Graph**](https://github.com/SamAmco/track-and-graph) <sup>**[[F-Droid](https://f-droid.org/packages/com.samco.trackandgraph)]**</sup>
 * [**TTS Util**](https://github.com/Danesprite/tts-util-app) <sup>**[[F-Droid](https://f-droid.org/packages/com.danefinlay.ttsutil)]**</sup>
 * [**USB Descriptor Explorer**](https://github.com/iodn/android-usb-device-info) <sup>**[[F-Droid](https://f-droid.org/packages/org.kaijinlab.usbdevinfo)]**</sup>
+* [**Verdroid**](https://github.com/chr243/Verdroid)
 * [**Voice Notify**](https://github.com/pilot51/voicenotify) <sup>**[[F-Droid](https://f-droid.org/packages/com.pilot51.voicenotify)]**</sup>
 * [**VolumeScroll**](https://github.com/YeapGuy/VolumeScroll) <sup>**[[F-Droid](https://f-droid.org/packages/com.yeapguy.volumescroll)]**</sup>
 
