@@ -637,8 +637,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Phonograph Plus**](https://github.com/chr56/Phonograph_Plus) <sup>**[[F-Droid](https://f-droid.org/packages/player.phonograph.plus)]**</sup>
 * [**Retro Music Player**](https://github.com/RetroMusicPlayer/RetroMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/packages/code.name.monkey.retromusic)]**</sup>
 * [**Rhythm**](https://github.com/cromaguy/Rhythm) <sup>**[[F-Droid](https://f-droid.org/packages/chromahub.rhythm.app)]**</sup>
-* [**Vanilla Music**](https://vanilla-music.github.io/) <sup>**[[F-Droid](https://f-droid.org/packages/ch.blinkenlights.android.vanilla)]**</sup>
-* [**Vinyl Music Player**](https://github.com/AdrienPoupa/VinylMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/packages/com.poupa.vinylmusicplayer)]**</sup>
 
 ### • Music & Radio Streaming Player
 
