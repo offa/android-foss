@@ -673,6 +673,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Markor**](https://github.com/gsantner/markor) <sup>**[[F-Droid](https://f-droid.org/packages/net.gsantner.markor)]**</sup>
 * [**Mavinote**](https://github.com/bwqr/mavinote) <sup>**[[F-Droid](https://f-droid.org/packages/com.bwqr.mavinote)]**</sup>
 * [**Memento**](https://github.com/mwarning/Memento) <sup>**[[F-Droid](https://f-droid.org/packages/de.mwarning.memento)]**</sup>
+* [**Moe Memos**](https://github.com/mudkipme/MoeMemosAndroid) <sup>**[[F-Droid](https://f-droid.org/packages/me.mudkip.moememos)]**</sup>
 * [**My Brain**](https://github.com/mhss1/MyBrain) <sup>**[[F-Droid](https://f-droid.org/packages/com.mhss.app.mybrain)]**</sup>
 * [**neutriNote**](https://github.com/appml/neutrinote) <sup>**[[F-Droid](https://f-droid.org/packages/com.appmindlab.nano)]**</sup>
 * [**Nextcloud Notes**](https://github.com/nextcloud/notes-android) <sup>**[[F-Droid](https://f-droid.org/packages/it.niedermann.owncloud.notes)]**</sup>
