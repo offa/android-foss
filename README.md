@@ -395,6 +395,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Firewall
 
 * [**AFWall+**](https://github.com/ukanth/afwall) <sup>**[[F-Droid](https://f-droid.org/packages/dev.ukanth.ufirewall)]**</sup>
+* [**Data Saver**](https://github.com/anubisproductions/data-saver-usage-blocker)
 * [**De1984**](https://github.com/dorumrr/de1984) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.dorumrr.de1984)]**</sup>
 * [**Karma Firewall**](https://github.com/nightflame2/karma-firewall) <sup>**[[F-Droid](https://f-droid.org/packages/net.stargw.fok)]**</sup>
 * [**LANShield**](https://github.com/DistriNet/LANShield) <sup>**[[F-Droid](https://f-droid.org/packages/org.distrinet.lanshield)]**</sup>
