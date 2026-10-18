@@ -340,6 +340,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Email Clients
 
+* [**Aster Mail**](https://github.com/Aster-Privacy/Aster-Android) <sup>**[[F-Droid](https://f-droid.org/packages/org.astermail.android)]**</sup>
 * [**FairEmail**](https://github.com/M66B/FairEmail) <sup>**[[F-Droid](https://f-droid.org/packages/eu.faircode.email)]**</sup>
 * [**K-9 Mail**](https://github.com/thundernest/k-9) <sup>**[[F-Droid](https://f-droid.org/packages/com.fsck.k9)]**</sup>
     * [**monocles mail**](https://codeberg.org/Arne/monocles_mail) <sup>**[[F-Droid](https://f-droid.org/packages/de.monocles.mail)]**</sup>
