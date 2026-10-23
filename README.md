@@ -844,6 +844,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**LibChecker**](https://github.com/zhaobozhen/LibChecker) <sup>**[[F-Droid](https://f-droid.org/packages/com.absinthe.libchecker)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.absinthe.libchecker)]**</sup>
 * [**LogFox**](https://github.com/F0x1d/LogFox) <sup>**[[F-Droid](https://f-droid.org/packages/com.f0x1d.logfox)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.f0x1d.logfox)]**</sup>
 * [**Network Survey**](https://github.com/christianrowlands/android-network-survey) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.craxiom.networksurvey)]**</sup>
+* [**Nightbell**](https://github.com/riveerxd/nightbell) <sup>**[[F-Droid](https://f-droid.org/packages/me.river.nightbell)]**</sup>
 * [**Nix-on-Droid**](https://github.com/nix-community/nix-on-droid) <sup>**[[F-Droid](https://f-droid.org/packages/com.termux.nix)]**</sup>
 * [**NoMoreBackground**](https://github.com/adil192/no_more_background) <sup>**[[F-Droid](https://f-droid.org/packages/com.adilhanney.no_more_background)]**</sup>
 * [**PCAPdroid**](https://github.com/emanuele-f/PCAPdroid) <sup>**[[F-Droid](https://f-droid.org/packages/com.emanuelef.remote_capture)]**</sup>
