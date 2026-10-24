@@ -141,6 +141,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**DailyAL**](https://github.com/JICA98/DailyAL) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.jica98)]**</sup>
 * [**Futon**](https://github.com/AppFuton/Futon) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.landwarderer.futon)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/io.github.landwarderer.futon)]**</sup>
 * [**Kahon**](https://github.com/AmanoTeam/Kahon) <sup>**[[F-Droid](https://f-droid.org/packages/com.amanoteam.kahon)]**</sup>
+* [**Manxia**](https://github.com/LexianLix/manxia)
+
 * [**Nekome**](https://github.com/Chesire/Nekome) <sup>**[[F-Droid](https://f-droid.org/packages/com.chesire.nekome)]**</sup>
 
 ### • Automation
