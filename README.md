@@ -745,6 +745,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Read Later**](https://github.com/sak96/read_later) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/io.github.sak.read.it.later)]**</sup>
 * [**Super Productivity**](https://github.com/super-productivity/super-productivity) <sup>**[[F-Droid](https://f-droid.org/packages/com.superproductivity.superproductivity)]**</sup>
 * [**TimePlanner**](https://github.com/v1tzor/TimePlanner) <sup>**[[F-Droid](https://f-droid.org/packages/ru.aleshin.timeplanner)]**</sup>
+* [**Viraam**](https://github.com/golgames1/viraam)
 
 ### • Public Transport
 
