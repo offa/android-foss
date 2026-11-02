@@ -644,6 +644,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Bloomee**](https://github.com/HemantKArya/BloomeeTunes)<sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/ls.bloomee.musicplayer)]**</sup>
 * [**Deutsia Radio**](https://github.com/deutsia/deutsia-radio)<sup>**[[F-Droid](https://f-droid.org/packages/com.opensource.i2pradio)]**</sup>
 * [**Echo Music**](https://github.com/EchoMusicApp/Echo-Music)
+* [**Finamp**](https://github.com/finamp-app/finamp) <sup>**[[F-Droid](https://f-droid.org/packages/com.unicornsonlsd.finamp)]**</sup>
 * [**InnerTune**](https://github.com/z-huang/InnerTune) <sup>**[[F-Droid](https://f-droid.org/packages/com.zionhuang.music)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.zionhuang.music)]**</sup>
     * [**InnerTune (Fork)**](https://github.com/Malopieds/InnerTune) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.malopieds.innertune)]**</sup>
     * [**Outer Tune**](https://github.com/DD3Boh/OuterTune) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.dd3boh.outertune)]**</sup>
