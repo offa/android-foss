@@ -1,0 +1,90 @@
+/* ====== General Reset ====== */
+body {
+  font-family: 'Inter', 'Segoe UI', Roboto, sans-serif;
+  background-color: #f8f9fa; /* Soft light background */
+  color: #212529;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* ====== Navbar ====== */
+.navbar {
+  background: #ffffff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  transition: background 0.3s ease;
+}
+
+.navbar a {
+  color: #333;
+  font-weight: 500;
+  padding: 8px 15px;
+  transition: color 0.3s ease, background-color 0.3s ease;
+  border-radius: 6px;
+}
+
+.navbar a:hover {
+  background-color: rgba(0, 123, 255, 0.08);
+  color: #007bff;
+}
+
+/* ====== Buttons ====== */
+.btn {
+  border-radius: 8px;
+  padding: 8px 16px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #0056d2;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(0, 123, 255, 0.25);
+}
+
+/* ====== Links ====== */
+a {
+  color: #007bff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #0056d2;
+}
+
+/* ====== Cards / Containers ====== */
+.card {
+  border: none;
+  border-radius: 12px;
+  background: #ffffff;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.05);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+}
+
+/* ====== Responsive Improvements ====== */
+@media (max-width: 768px) {
+  .navbar a {
+    display: block;
+    margin: 5px 0;
+  }
+  .btn {
+    width: 100%;
+  }
+}
+
+/* ====== Smooth Animations ====== */
+* {
+  transition: all 0.2s ease-in-out;
+}
