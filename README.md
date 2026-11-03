@@ -266,6 +266,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Godot Editor**](https://github.com/godotengine/godot) <sup>**[[F-Droid](https://f-droid.org/packages/org.godotengine.editor.v3)]**</sup>
 * [**OpenCode Mobile**](https://github.com/dzianisv/opencode-mobile)
+* [**PinkCollab**](https://github.com/3xian/PinkCollab)
 * [**TermuC**](https://github.com/RainbowC0/TermuC) <sup>**[[F-Droid](https://f-droid.org/packages/cn.rbc.termuc)]**</sup>
 
 ### • Diary
