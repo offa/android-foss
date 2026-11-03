@@ -833,6 +833,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**aShell You**](https://github.com/DP-Hridayan/aShellYou) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/in.hridayan.ashell)]**</sup>
 * [**Auditor**](https://github.com/GrapheneOS/Auditor)
 * [**AutoPie**](https://github.com/cryptrr/AutoPie)
+* [**BakaBlocker**](https://github.com/11010001101001/BakaBlocker)
 * [**Canta**](https://github.com/samolego/Canta) <sup>**[[F-Droid](https://f-droid.org/packages/org.samo_lego.canta)]**</sup>
 * [**Captive Portal Controller**](https://github.com/MuntashirAkon/CaptivePortalController) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.muntashirakon.captiveportalcontroller)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/io.github.muntashirakon.captiveportalcontroller)]**</sup>
 * [**CPU Info**](https://github.com/kamgurgul/cpu-info) <sup>**[[F-Droid](https://f-droid.org/packages/com.kgurgul.cpuinfo)]**</sup>
