@@ -684,6 +684,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Notesnook**](https://github.com/streetwriters/notesnook) <sup>**[[F-Droid](https://f-droid.org/packages/com.streetwriters.notesnook)]**</sup>
 * [**Noto**](https://github.com/alialbaali/Noto) <sup>**[[F-Droid](https://f-droid.org/packages/com.noto)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.noto)]**</sup>
 * [**Omni-Notes**](https://federicoiosue.github.io/Omni-Notes/) <sup>**[[F-Droid](https://f-droid.org/packages/it.feio.android.omninotes.foss)]**</sup>
+* [**OmniVault**](https://github.com/webtools-dotcom/OmniVault)
 * [**Privacy Friendly Notes**](https://github.com/SecUSo/privacy-friendly-notes) <sup>**[[F-Droid](https://f-droid.org/packages/org.secuso.privacyfriendlynotes)]**</sup>
 * [**Quillpad**](https://github.com/quillpad/quillpad) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.quillpad)]**</sup>
 * [**Saber**](https://github.com/adil192/saber) <sup>**[[F-Droid](https://f-droid.org/packages/com.adilhanney.saber)]**</sup>
