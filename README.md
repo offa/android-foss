@@ -888,6 +888,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Translation
 
+* [**DeepL**](https://github.com/sakusaku3939/DA-Translator)
 * [**Offline Translator**](https://github.com/DavidVentura/offline-translator) <sup>**[[F-Droid](https://f-droid.org/packages/dev.davidv.translator)]**</sup>
 * [**Seamless**](https://github.com/woheller69/seamless) <sup>**[[F-Droid](https://f-droid.org/packages/org.woheller69.seemless)]**</sup>
 * [**SimplyTranslate Mobile**](https://github.com/ManeraKai/simplytranslate_mobile) <sup>**[[F-Droid](https://f-droid.org/packages/com.simplytranslate_mobile)]**</sup>
