@@ -374,6 +374,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Filester**](https://github.com/rouzbehzarei/filester) <sup>**[[F-Droid](https://f-droid.org/packages/com.roozbehzarei.filester)]**</sup>
 * [**FTPClient**](https://codeberg.org/qwerty287/ftpclient) <sup>**[[F-Droid](https://f-droid.org/packages/de.qwerty287.ftpclient)]**</sup>
 * [**KDE Connect**](https://invent.kde.org/network/kdeconnect-android) <sup>**[[F-Droid](https://f-droid.org/packages/org.kde.kdeconnect_tp)]**</sup>
+* [**KindBeamer**](https://github.com/jooray/kindbeamer)
 * [**LocalSend**](https://github.com/localsend/localsend) <sup>**[[F-Droid](https://f-droid.org/packages/org.localsend.localsend_app)]**</sup>
 * [**ShareX**](https://github.com/akanshSirohi/ShareX) <sup>**[[F-Droid](https://f-droid.org/packages/com.akansh.fileserversuit)]**</sup>
 * [**Sharik**](https://github.com/marchellodev/sharik) <sup>**[[F-Droid](https://f-droid.org/packages/dev.marchello.sharik)]**</sup>
@@ -520,6 +521,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**OpenTopoMap Viewer**](https://github.com/Pygmalion69/OpenTopoMapViewer) <sup>**[[F-Droid](https://f-droid.org/packages/org.nitri.opentopo)]**</sup>
 * [**Organic Maps**](https://github.com/organicmaps/organicmaps) <sup>**[[F-Droid](https://f-droid.org/packages/app.organicmaps)]**</sup>
 * [**OsmAnd~**](http://osmand.net/) <sup>**[[F-Droid](https://f-droid.org/packages/net.osmand.plus)]**</sup>
+* [**Roadstr**](https://github.com/jooray/roadstr)
 * [**Trail Sense**](https://github.com/kylecorry31/Trail-Sense) <sup>**[[F-Droid](https://f-droid.org/packages/com.kylecorry.trail_sense)]**</sup>
 * [**Trailence**](https://github.com/trailence/trailence-front) <sup>**[[F-Droid](https://f-droid.org/packages/trailence.org)]**</sup>
 * [**Trekarta**](https://github.com/andreynovikov/trekarta) <sup>**[[F-Droid](https://f-droid.org/packages/mobi.maptrek)]**</sup>
@@ -811,6 +813,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**openScale**](https://github.com/oliexdev/openScale) <sup>**[[F-Droid](https://f-droid.org/packages/com.health.openscale)]**</sup>
 * [**OpenTracks**](https://codeberg.org/OpenTracksApp/OpenTracks) <sup>**[[F-Droid](https://f-droid.org/packages/de.dennisguse.opentracks)]**</sup>
 * [**Paseo**](https://gitlab.com/pardomi/paseo) <sup>**[[F-Droid](https://f-droid.org/packages/ca.chancehorizon.paseo)]**</sup>
+* [**PulseLibre**](https://github.com/jooray/PulseLibre)
 * [**Red Moon**](https://github.com/LibreShift/red-moon) <sup>**[[F-Droid](https://f-droid.org/packages/com.jmstudios.redmoon)]**</sup>
 
 ### • Synchronisation
