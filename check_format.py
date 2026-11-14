@@ -33,9 +33,16 @@ ENTRY_HEAD_RE = re.compile(r"^\s*\* \[\*\*(.+?)\*\*\]\(([^)]*)\)(.*)$")
 # An extra link on a link-list entry line:  / [**Name**](URL)
 SECOND_LINK_RE = re.compile(r"^ / \[\*\*(.+?)\*\*\]\(([^)]*)\)(.*)$")
 
-# The only acceptable badge markup (without leading space, matched from "<sup>")
+# A single store link inside a badge block
+BADGE_LINK_RE = re.compile(r"\[\[(F-Droid|IzzyOnDroid)\]\(([^)]*)\)\]")
+
+# The only acceptable badge markup (without leading space, matched from "<sup>"):
+# a single <sup> element wrapping all store links in one bold span, e.g.
+# <sup>**[[F-Droid](URL)] [[IzzyOnDroid](URL)]**</sup>
 CANON_BADGE_RE = re.compile(
-    r"^<sup>\*\*\[\[(F-Droid|IzzyOnDroid)\]\(([^)]*)\)\]\*\*</sup>"
+    r"^<sup>\*\*"
+    r"\[\[(?:F-Droid|IzzyOnDroid)\]\([^)]*\)\](?: \[\[(?:F-Droid|IzzyOnDroid)\]\([^)]*\)\])*"
+    r"\*\*</sup>$"
 )
 
 LINK_RE = re.compile(r"\[([^\[\]]*)\]\(([^)]*)\)")
@@ -138,7 +145,7 @@ def check_entry(lineno, line, section, ctx):
             break
 
         gap = tail[pos:i]
-        where = "before the store badges" if pos == 0 else "between store badges"
+        where = "before the store badge" if pos == 0 else "between store badges"
         if gap.strip():
             findings.append(
                 (
@@ -156,9 +163,9 @@ def check_entry(lineno, line, section, ctx):
 
         cm = CANON_BADGE_RE.match(tail[i:])
         if cm:
-            store, badge_url = cm.groups()
-            findings.extend(check_store_url(lineno, ctx, name, store, badge_url))
-            stores.append(store)
+            for store, badge_url in BADGE_LINK_RE.findall(cm.group(0)):
+                findings.extend(check_store_url(lineno, ctx, name, store, badge_url))
+                stores.append(store)
             pos = i + cm.end()
             continue
 
@@ -177,16 +184,32 @@ def check_entry(lineno, line, section, ctx):
                         f"{ctx} [{name}]: {store} badge is not closed (missing '</sup>')",
                     )
                 )
-            elif not re.fullmatch(r"\*\*\[\[.*\]\(.*\)\]\*\*", content):
-                findings.append(
-                    (
-                        lineno,
+            else:
+                has_more = "<sup>" in inner[close + len("</sup>") :]
+                if has_more:
+                    findings.append(
                         (
-                            f"{ctx} [{name}]: non-canonical {store} badge markup: '{tail[i : i + 70]}' "
-                            f"(expected '<sup>**[[{store}](URL)]**</sup>')"
-                        ),
+                            lineno,
+                            (
+                                f"{ctx} [{name}]: all store badges must be combined into a single "
+                                f"'<sup>**[[F-Droid](URL)] [[IzzyOnDroid](URL)]**</sup>' block, "
+                                f"got: '{tail[i : i + 70]}'"
+                            ),
+                        )
                     )
-                )
+                elif not re.fullmatch(
+                    r"\*\*(?:\[\[.*\]\(.*\)\](?: \[\[.*\]\(.*\)\])*)\*\*", content
+                ):
+                    findings.append(
+                        (
+                            lineno,
+                            (
+                                f"{ctx} [{name}]: non-canonical store badge markup: "
+                                f"'{tail[i : i + 70]}' (expected '<sup>**[[{store}](URL)]**</sup>' "
+                                f"with all badges in one <sup> block)"
+                            ),
+                        )
+                    )
             if lm:
                 findings.extend(check_store_url(lineno, ctx, name, store, lm.group(2)))
             stores.append(store)
