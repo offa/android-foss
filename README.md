@@ -107,18 +107,18 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ## – App Store –
 
+* [**Accrescent**](https://github.com/accrescent/accrescent)
+* [**Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore) <sup>**[[F-Droid](https://f-droid.org/packages/com.aurora.store)]**</sup>
 * [**F-Droid**](https://f-droid.org)
     * [**Neo-Store**](https://github.com/NeoApplications/Neo-Store) <sup>**[[F-Droid](https://f-droid.org/packages/com.machiav3lli.fdroid)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.machiav3lli.fdroid)]**</sup>
     * [**Droid-ify**](https://github.com/Iamlooker/Droid-ify) <sup>**[[F-Droid](https://f-droid.org/packages/com.looker.droidify)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.looker.droidify)]**</sup>
     * [**Flicky**](https://github.com/mlm-games/flicky) <sup>**[[F-Droid](https://f-droid.org/packages/app.flicky)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/app.flicky)]**</sup>
     * [**Florid**](https://github.com/Nandanrmenon/florid) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.nahnah.florid)]**</sup>
     * [**G-Droid**](https://gitlab.com/gdroid/gdroidclient) <sup>**[[F-Droid](https://f-droid.org/packages/org.gdroid.gdroid)]**</sup>
-* [**Accrescent**](https://github.com/accrescent/accrescent)
-* [**Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore) <sup>**[[F-Droid](https://f-droid.org/packages/com.aurora.store)]**</sup>
-* [**IzzyOnDroid**](https://gitlab.com/sunilpaulmathew/izzyondroid) <sup>**[[F-Droid](https://f-droid.org/packages/in.sunilpaulmathew.izzyondroid)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/in.sunilpaulmathew.izzyondroid)]**</sup>
-* [**Obtainium**](https://github.com/ImranR98/Obtainium) <sup>**[[F-Droid](https://f-droid.org/packages/dev.imranr.obtainium.fdroid)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/dev.imranr.obtainium)]**</sup>
 * [**Git Store**](https://github.com/Darkmintis/Git-Store)
-* [**Komi Store**](https://github.com/kurikomi-labs/komi-store) <sup>**[[F-Droid](https://f-droid.org/packages/zed.rainxch.githubstore)]**
+* [**IzzyOnDroid**](https://gitlab.com/sunilpaulmathew/izzyondroid) <sup>**[[F-Droid](https://f-droid.org/packages/in.sunilpaulmathew.izzyondroid)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/in.sunilpaulmathew.izzyondroid)]**</sup>
+* [**Komi Store**](https://github.com/kurikomi-labs/komi-store) <sup>**[[F-Droid](https://f-droid.org/packages/zed.rainxch.githubstore)]**</sup>
+* [**Obtainium**](https://github.com/ImranR98/Obtainium) <sup>**[[F-Droid](https://f-droid.org/packages/dev.imranr.obtainium.fdroid)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/dev.imranr.obtainium)]**</sup>
 * [**Zap.Store**](https://github.com/zapstore/zapstore)
 
 ------------------------
@@ -199,7 +199,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Fossify Calculator**](https://github.com/FossifyOrg/Calculator) <sup>**[[F-Droid](https://f-droid.org/packages/org.fossify.math)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.fossify.math)]**</sup>
 * [**NumberHub**](https://github.com/Myzel394/NumberHub) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/app.myzel394.numberhub)]**</sup>
 * [**OpenCalc**](https://github.com/Darkempire78/OpenCalc) <sup>**[[F-Droid](https://f-droid.org/packages/com.darkempire78.opencalculator)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.darkempire78.opencalculator)]**</sup>
-* [**Qalculate**](https://github.com/jherkenhoff/qalculate-android)<sup>**[[F-Droid](https://f-droid.org/packages/com.jherkenhoff.qalculate)]**</sup>
+* [**Qalculate**](https://github.com/jherkenhoff/qalculate-android) <sup>**[[F-Droid](https://f-droid.org/packages/com.jherkenhoff.qalculate)]**</sup>
 * [**Unitto**](https://github.com/sadellie/unitto) <sup>**[[F-Droid](https://f-droid.org/packages/com.sadellie.unitto)]**</sup>
 * [**yetCalc**](https://github.com/Yet-Zio/yetCalc) <sup>**[[F-Droid](https://f-droid.org/packages/yetzio.yetcalc)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/yetzio.yetcalc)]**</sup>
 
@@ -298,7 +298,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Book Reader**](https://gitlab.com/axet/android-book-reader) <sup>**[[F-Droid](https://f-droid.org/packages/com.github.axet.bookreader)]**</sup>
 * [**Book's Story**](https://github.com/Acclorite/book-story) <sup>**[[F-Droid](https://f-droid.org/packages/ua.acclorite.book_story)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/ua.acclorite.book_story)]**</sup>
 * [**Episteme Reader**](https://github.com/Aryan-Raj3112/episteme) <sup>**[[F-Droid](https://f-droid.org/packages/com.aryan.reader.oss)]**</sup>
-* [**Fossify Documents**](https://github.com/FossifyOrg/Documents) <sup>**[[F-Droid](https://f-droid.org/packages/org.fossify.documents)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.fossify.documents)]**</sup>
+* [**Fossify Documents**](https://github.com/FossifyOrg/Documents) <sup>**[[F-Droid](https://f-droid.org/packages/org.fossify.documents)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.fossify.documents)]**</sup>
 * [**KOReader**](https://github.com/koreader/koreader) <sup>**[[F-Droid](https://f-droid.org/packages/org.koreader.launcher.fdroid)]**</sup>
 * [**Librera Reader**](https://github.com/foobnix/LibreraReader) <sup>**[[F-Droid](https://f-droid.org/packages/com.foobnix.pro.pdf.reader)]**</sup>
 * [**LxReader**](https://gitlab.com/coolreader-ng/lxreader) <sup>**[[F-Droid](https://f-droid.org/packages/io.gitlab.coolreader_ng.lxreader.fdroid)]**</sup>
@@ -310,8 +310,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Document Scanner & Editor
 
-* [**FairScan**](https://github.com/pynicolas/FairScan) <sup>[**[F-Droid](https://f-droid.org/packages/org.fairscan.app)]**</sup>
-* [**MakeACopy**](https://github.com/egdels/makeacopy) <sup>[**[F-Droid](https://f-droid.org/packages/de.schliweb.makeacopy)]**</sup>
+* [**FairScan**](https://github.com/pynicolas/FairScan) <sup>**[[F-Droid](https://f-droid.org/packages/org.fairscan.app)]**</sup>
+* [**MakeACopy**](https://github.com/egdels/makeacopy) <sup>**[[F-Droid](https://f-droid.org/packages/de.schliweb.makeacopy)]**</sup>
 * [**OpenDocument Reader**](https://github.com/opendocument-app/OpenDocument.droid) <sup>**[[F-Droid](https://f-droid.org/packages/at.tomtasche.reader)]**</sup>
 * [**OpenNoteScanner**](https://github.com/ctodobom/OpenNoteScanner) <sup>**[[F-Droid](https://f-droid.org/packages/com.todobom.opennotescanner)]**</sup>
 * [**OSS Document Scanner**](https://github.com/Akylas/com.akylas.documentscanner) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.akylas.documentscanner)]**</sup>
@@ -390,7 +390,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Currencies**](https://github.com/sal0max/currencies) <sup>**[[F-Droid](https://f-droid.org/packages/de.salomax.currencies)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/de.salomax.currencies)]**</sup>
 * [**Gem Wallet**](https://github.com/gemwalletcom/wallet) <sup>**[[F-Droid](https://f-droid.org/packages/com.gemwallet.android)]**</sup>
 * [**GreenStash**](https://github.com/Pool-Of-Tears/GreenStash) <sup>**[[F-Droid](https://f-droid.org/packages/com.starry.greenstash)]**</sup>
-* [**Money Manager Ex**](https://github.com/moneymanagerex/android-money-manager-ex)<sup>**[[F-Droid](https://f-droid.org/packages/com.money.manager.ex)]**</sup>
+* [**Money Manager Ex**](https://github.com/moneymanagerex/android-money-manager-ex) <sup>**[[F-Droid](https://f-droid.org/packages/com.money.manager.ex)]**</sup>
 * [**My Expenses**](https://github.com/mtotschnig/MyExpenses) <sup>**[[F-Droid](https://f-droid.org/packages/org.totschnig.myexpenses)]**</sup>
 * [**Oinkoin**](https://github.com/emavgl/oinkoin) <sup>**[[F-Droid](https://f-droid.org/packages/com.github.emavgl.piggybankpro)]**</sup>
 * [**Recurring Expense Tracker**](https://github.com/DennisBauer/RecurringExpenseTracker) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/de.dbauer.expensetracker)]**</sup>
@@ -469,7 +469,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**AnySoftKeyboard**](https://anysoftkeyboard.github.io/) <sup>**[[F-Droid](https://f-droid.org/packages/com.menny.android.anysoftkeyboard)]**</sup>
 * [**fcitx5-android**](https://github.com/fcitx5-android/fcitx5-android) <sup>**[[F-Droid](https://f-droid.org/packages/org.fcitx.fcitx5.android)]**</sup>
 * [**FlorisBoard**](https://github.com/florisboard/florisboard) <sup>**[[F-Droid](https://f-droid.org/packages/dev.patrickgold.florisboard)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/dev.patrickgold.florisboard)]**</sup>
-    FlorisBoard Beta:  <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/dev.patrickgold.florisboard.beta)]**</sup>
+    * [**FlorisBoard (Beta)**](https://github.com/florisboard/florisboard) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/dev.patrickgold.florisboard.beta)]**</sup>
 * [**Fossify Keyboard**](https://github.com/FossifyOrg/Keyboard) <sup>**[[F-Droid](https://f-droid.org/packages/org.fossify.keyboard)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.fossify.keyboard)]**</sup>
 * [**FutharkBoard**](https://github.com/DrMaxNix/futharkboard) <sup>**[[F-Droid](https://f-droid.org/packages/de.drmaxnix.futharkboard)]**</sup>
 * [**GifBoard**](https://github.com/gifboard/gifboard) <sup>**[[F-Droid](https://f-droid.org/packages/com.gifboard)]**</sup>
@@ -540,7 +540,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Materialious**](https://github.com/Materialious/Materialious) <sup>**[[F-Droid](https://f-droid.org/packages/us.materialio.app)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/us.materialio.app)]**</sup>
 * [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) <sup>**[[F-Droid](https://f-droid.org/packages/org.schabi.newpipe)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.schabi.newpipe)]**</sup>
     * [**LearnTube**](https://github.com/akshvaishnav21/LearnTube) <sup>**[[F-Droid](https://f-droid.org/packages/com.learntube.app)]**</sup>
-* [**PeerTube**](https://framagit.org/framasoft/peertube/mobile-application) <sup>**[[F-Droid](https://f-droid.org/en/packages/org.framasoft.peertube)]**</sup>
+* [**PeerTube**](https://framagit.org/framasoft/peertube/mobile-application) <sup>**[[F-Droid](https://f-droid.org/packages/org.framasoft.peertube)]**</sup>
 * [**PipePipe**](https://codeberg.org/NullPointerException/PipePipe) <sup>**[[F-Droid](https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/InfinityLoop1309.NewPipeEnhanced)]**</sup>
 * [**PlayTube**](https://github.com/arslandaim-hub/PlayTube) <sup>**[[F-Droid](https://f-droid.org/packages/com.arslandaim.playtube)]**</sup>
 * [**SkyTube**](https://github.com/ram-on/SkyTube) <sup>**[[F-Droid](https://f-droid.org/packages/free.rm.skytube.oss)]**</sup>
@@ -630,7 +630,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Auxio**](https://github.com/OxygenCobalt/Auxio) <sup>**[[F-Droid](https://f-droid.org/packages/org.oxycblt.auxio)]**</sup>
 * [**Booming Music**](https://github.com/mardous/BoomingMusic) <sup>**[[F-Droid](https://f-droid.org/packages/com.mardous.booming)]**</sup>
-* [**CuteMusic**](https://github.com/sosauce/CuteMusic)<sup>**[[F-Droid](https://f-droid.org/packages/com.sosauce.cutemusic)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.sosauce.cutemusic)]**</sup>
+* [**CuteMusic**](https://github.com/sosauce/CuteMusic) <sup>**[[F-Droid](https://f-droid.org/packages/com.sosauce.cutemusic)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.sosauce.cutemusic)]**</sup>
 * [**Dialog Music Player**](https://github.com/VishnuSanal/DialogMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/packages/phone.vishnu.dialogmusicplayer)]**</sup>
 * [**Fossify Music Player**](https://github.com/FossifyOrg/Music-Player) <sup>**[[F-Droid](https://f-droid.org/packages/org.fossify.musicplayer)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.fossify.musicplayer)]**</sup>
 * [**Gramophone**](https://github.com/FoedusProgramme/Gramophone) <sup>**[[F-Droid](https://f-droid.org/packages/org.akanework.gramophone)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/org.akanework.gramophone)]**</sup>
@@ -644,8 +644,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Music & Radio Streaming Player
 
 * [**ArchiveTune**](https://github.com/koiverse/ArchiveTune) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/moe.koiverse.archivetune)]**</sup>
-* [**Bloomee**](https://github.com/HemantKArya/BloomeeTunes)<sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/ls.bloomee.musicplayer)]**</sup>
-* [**Deutsia Radio**](https://github.com/deutsia/deutsia-radio)<sup>**[[F-Droid](https://f-droid.org/packages/com.opensource.i2pradio)]**</sup>
+* [**Bloomee**](https://github.com/HemantKArya/BloomeeTunes) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/ls.bloomee.musicplayer)]**</sup>
+* [**Deutsia Radio**](https://github.com/deutsia/deutsia-radio) <sup>**[[F-Droid](https://f-droid.org/packages/com.opensource.i2pradio)]**</sup>
 * [**Echo Music**](https://github.com/EchoMusicApp/Echo-Music)
 * [**Finamp**](https://github.com/finamp-app/finamp) <sup>**[[F-Droid](https://f-droid.org/packages/com.unicornsonlsd.finamp)]**</sup>
 * [**InnerTune**](https://github.com/z-huang/InnerTune) <sup>**[[F-Droid](https://f-droid.org/packages/com.zionhuang.music)]**</sup> <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.zionhuang.music)]**</sup>
