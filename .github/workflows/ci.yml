@@ -7,16 +7,6 @@ permissions:
   pull-requests: read
 
 jobs:
-  # TODO: #572 - needs improvements
-  # build:
-  #   runs-on: ubuntu-latest
-  #   name: Check
-  #   steps:
-  #     - name: Checkout
-  #       uses: actions/checkout@main
-  #     - name: Check
-  #       run: ./check.sh
-
   markdownlint:
     runs-on: ubuntu-latest
     name: Markdownlint
@@ -29,13 +19,11 @@ jobs:
           files: "*.md"
           config_file: .markdownlint.json
 
-  ensure_sorted:
+  check_format:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-    name: Ensure sorted
+    name: Check format
     steps:
       - name: Checkout
         uses: actions/checkout@main
-      - name: Ensure sorted
-        run: python3 ensure_sorted.py
+      - name: Check format
+        run: python3 check_format.py
