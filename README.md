@@ -110,11 +110,11 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Accrescent**](https://github.com/accrescent/accrescent)
 * [**Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore) <sup>**[[F-Droid](https://f-droid.org/packages/com.aurora.store)]**</sup>
 * [**F-Droid**](https://f-droid.org)
-    * [**Neo-Store**](https://github.com/NeoApplications/Neo-Store) <sup>**[[F-Droid](https://f-droid.org/packages/com.machiav3lli.fdroid)] [[IzzyOnDroid](https://apt.izzysoft.de/packages/com.machiav3lli.fdroid)]**</sup>
     * [**Droid-ify**](https://github.com/Iamlooker/Droid-ify) <sup>**[[F-Droid](https://f-droid.org/packages/com.looker.droidify)] [[IzzyOnDroid](https://apt.izzysoft.de/packages/com.looker.droidify)]**</sup>
     * [**Flicky**](https://github.com/mlm-games/flicky) <sup>**[[F-Droid](https://f-droid.org/packages/app.flicky)] [[IzzyOnDroid](https://apt.izzysoft.de/packages/app.flicky)]**</sup>
     * [**Florid**](https://github.com/Nandanrmenon/florid) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.nahnah.florid)]**</sup>
     * [**G-Droid**](https://gitlab.com/gdroid/gdroidclient) <sup>**[[F-Droid](https://f-droid.org/packages/org.gdroid.gdroid)]**</sup>
+    * [**Neo-Store**](https://github.com/NeoApplications/Neo-Store) <sup>**[[F-Droid](https://f-droid.org/packages/com.machiav3lli.fdroid)] [[IzzyOnDroid](https://apt.izzysoft.de/packages/com.machiav3lli.fdroid)]**</sup>
 * [**Git Store**](https://github.com/Darkmintis/Git-Store)
 * [**IzzyOnDroid**](https://gitlab.com/sunilpaulmathew/izzyondroid) <sup>**[[F-Droid](https://f-droid.org/packages/in.sunilpaulmathew.izzyondroid)] [[IzzyOnDroid](https://apt.izzysoft.de/packages/in.sunilpaulmathew.izzyondroid)]**</sup>
 * [**Komi Store**](https://github.com/kurikomi-labs/komi-store) <sup>**[[F-Droid](https://f-droid.org/packages/zed.rainxch.githubstore)]**</sup>

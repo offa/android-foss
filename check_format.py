@@ -1,8 +1,8 @@
 """Verify that the app entries in README.md match the formats
 
 Prints one "<file>:<line>: <message>" per finding and exits with 1 if any
-finding was produced, 2 if the file cannot be read or no known section was
-recognized, and 0 otherwise.
+finding was produced, 2 if the file cannot be read or contains no '## – … –'
+section heading at all, and 0 otherwise.
 """
 
 import argparse
@@ -54,7 +54,9 @@ STORE_URL_HINT = {
     "F-Droid": "https://f-droid.org/packages/<app-id>",
     "IzzyOnDroid": "https://apt.izzysoft.de/packages/<app-id>",
 }
-APP_ID_RE = re.compile(r"^[A-Za-z0-9._-]+$")
+# App ids are dot-separated; segments must be non-empty, i.e. no leading,
+# trailing or doubled dots ("org..foo", "org.foo.", ".org.foo" are invalid).
+APP_ID_RE = re.compile(r"^[A-Za-z0-9_-]+(?:\.[A-Za-z0-9_-]+)*$")
 
 
 def check_store_url(lineno, ctx, name, store, url):
@@ -77,7 +79,7 @@ def check_store_url(lineno, ctx, name, store, url):
                 lineno,
                 (
                     f"{ctx} [{name}]: invalid app id '{app_id}' in {store} link "
-                    "(only letters, digits, '.', '_' and '-' are allowed)"
+                    "(must be dot-separated; only letters, digits, '_', '-' and '.' are allowed)"
                 ),
             )
         ]
@@ -89,8 +91,9 @@ def check_entry(lineno, line, section, ctx):
     findings = []
     m = ENTRY_HEAD_RE.match(line)
     if m is None:
-        # main() only passes lines matching r"^\s*\* " to check_entry().
-        rest = re.match(r"^\s*\* (.*)$", line).group(1).strip()
+        # main() only passes lines matching r"^\s*\* " to check_entry();
+        # strip the bullet defensively instead of re-matching it.
+        rest = re.sub(r"^\s*\* ", "", line, count=1).strip()
         if rest.startswith("[**"):
             findings.append(
                 (
@@ -111,7 +114,7 @@ def check_entry(lineno, line, section, ctx):
     if not name.strip():
         findings.append((lineno, f"{ctx}: empty entry name"))
     if section in LINK_LIST_SECTIONS:
-        if not url:
+        if not url.strip():
             findings.append((lineno, f"{ctx} [{name}]: empty link target"))
     elif not re.match(r"^https?://", url):
         findings.append(
@@ -132,17 +135,19 @@ def check_entry(lineno, line, section, ctx):
                 findings.append(
                     (lineno, f"{ctx} [{name}]: extra link has an empty name")
                 )
-            if not sub_url:
+            if not sub_url.strip():
                 findings.append(
                     (lineno, f"{ctx} [{name}]: extra link has an empty target")
                 )
 
     pos = 0
+    badge_seen = False
     stores = []
     while True:
         i = tail.find("<sup>", pos)
         if i == -1:
             break
+        badge_seen = True
 
         gap = tail[pos:i]
         where = "before the store badge" if pos == 0 else "between store badges"
@@ -157,7 +162,7 @@ def check_entry(lineno, line, section, ctx):
             findings.append(
                 (
                     lineno,
-                    f"{ctx} [{name}]: expected exactly one space {where} (got {len(gap)})",
+                    f"{ctx} [{name}]: expected exactly one space {where}, got {gap!r}",
                 )
             )
 
@@ -237,10 +242,11 @@ def check_entry(lineno, line, section, ctx):
 
     leftover = tail[pos:]
     if leftover.strip():
+        anchor = "the store badges" if badge_seen else "the project URL"
         findings.append(
             (
                 lineno,
-                f"{ctx} [{name}]: unexpected content after store badges: '{leftover.strip()[:60]}'",
+                f"{ctx} [{name}]: unexpected content after {anchor}: '{leftover.strip()[:60]}'",
             )
         )
     elif leftover:
@@ -258,7 +264,11 @@ def check_entry(lineno, line, section, ctx):
 
 
 def check_sort(items, ctx):
-    """Return findings for every alphabetical inversion among top-level entries."""
+    """Return findings for every alphabetical inversion within a sort group.
+
+    A sort group is either the top-level entries of a category or the
+    entries nested under a single top-level entry.
+    """
     findings = []
     for idx in range(1, len(items)):
         prev_line, prev_name = items[idx - 1]
@@ -294,13 +304,14 @@ def main():
     try:
         with open(args.readme, encoding="utf-8") as fh:
             lines = fh.read().splitlines()
-    except OSError as exc:
+    except (OSError, UnicodeDecodeError) as exc:
         print(f"error: cannot read {args.readme}: {exc}", file=sys.stderr)
         return 2
 
     section = None
     category = None
     items = []  # (lineno, name) of the top-level entries of the current category
+    nested = []  # (lineno, name) of the entries nested under the last top-level entry
     findings = []
     entries_checked = 0
     sections_found = 0
@@ -308,7 +319,13 @@ def main():
     def ctx():
         return section if category is None else f"{section} > {category}"
 
+    def flush_nested():
+        if not args.no_sort and nested:
+            findings.extend(check_sort(nested, ctx()))
+        nested.clear()
+
     def flush():
+        flush_nested()
         if not args.no_sort and items:
             findings.extend(check_sort(items, ctx()))
 
@@ -346,8 +363,13 @@ def main():
             entry_findings, entry_name = check_entry(lineno, line, section, ctx())
             findings.extend(entry_findings)
             entries_checked += 1
-            if top_level and entry_name:
-                items.append((lineno, entry_name))
+            if top_level:
+                # A top-level entry ends the nested group of its predecessor.
+                flush_nested()
+                if entry_name:
+                    items.append((lineno, entry_name))
+            elif entry_name:
+                nested.append((lineno, entry_name))
         else:
             stripped = line.strip()
             if "<sup>" in line:
@@ -370,7 +392,9 @@ def main():
     flush()
 
     if findings:
-        for ln, msg in sorted(findings):
+        # Sort by line number only; the stable sort keeps same-line
+        # findings in detection order.
+        for ln, msg in sorted(findings, key=lambda finding: finding[0]):
             print(f"{args.readme}:{ln}: {msg}")
         print(f"\n{len(findings)} issue(s) found ({entries_checked} entries checked).")
         return 1
