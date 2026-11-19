@@ -567,7 +567,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Launch Chat**](https://github.com/vinaygopinath/launch-chat) <sup>**[[F-Droid](https://f-droid.org/packages/org.vinaygopinath.launchchat)]**</sup>
 * [**Manyverse**](https://gitlab.com/staltz/manyverse) <sup>**[[F-Droid](https://f-droid.org/packages/se.manyver)]**</sup>
 * [**Mastodon**](https://github.com/mastodon/mastodon-android) <sup>**[[F-Droid](https://f-droid.org/packages/org.joinmastodon.android)] [[IzzyOnDroid](https://apt.izzysoft.de/packages/org.joinmastodon.android)]**</sup>
-    * [**Megalodon**](https://github.com/sk22/megalodon)
     * [**Moshidon**](https://github.com/LucasGGamerM/moshidon) <sup>**[[F-Droid](https://f-droid.org/packages/org.joinmastodon.android.moshinda)] [[IzzyOnDroid](https://apt.izzysoft.de/packages/org.joinmastodon.android.moshinda)]**</sup>
 * [**Mercurygram**](https://github.com/drizzt/Mercurygram) <sup>**[[F-Droid](https://f-droid.org/packages/it.belloworld.mercurygram)]**</sup>
 * [**Meshenger**](https://github.com/meshenger-app/meshenger-android) <sup>**[[F-Droid](https://f-droid.org/packages/d.d.meshenger)]**</sup>
