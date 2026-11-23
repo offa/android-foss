@@ -322,7 +322,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 * [**Aria2App**](https://github.com/devgianlu/Aria2App) <sup>**[[F-Droid](https://f-droid.org/packages/com.gianlu.aria2app)]**</sup>
 * [**Download Navi**](https://github.com/TachibanaGeneralLaboratories/download-navi) <sup>**[[F-Droid](https://f-droid.org/packages/com.tachibana.downloader)]**</sup>
-* [**dvd**](https://github.com/yausername/dvd) <sup>**[[F-Droid](https://f-droid.org/packages/org.yausername.dvd)]**</sup>
 * [**FluxDown**](https://github.com/zerx-lab/FluxDown)
 * [**Gopeed**](https://github.com/GopeedLab/gopeed)
 * [**LibreTorrent**](https://github.com/proninyaroslav/libretorrent) <sup>**[[F-Droid](https://f-droid.org/packages/org.proninyaroslav.libretorrent)]**</sup>
@@ -331,7 +330,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Openlib**](https://github.com/dstark5/Openlib) <sup>**[[F-Droid](https://f-droid.org/packages/com.app.openlib)]**</sup>
 * [**Seal**](https://github.com/JunkFood02/Seal) <sup>**[[F-Droid](https://f-droid.org/packages/com.junkfood.seal)]**</sup>
 * [**SpotiFlyer**](https://github.com/Shabinder/SpotiFlyer) <sup>**[[F-Droid](https://f-droid.org/packages/com.shabinder.spotiflyer)]**</sup>
-* [**Torrent Client**](https://gitlab.com/axet/android-torrent-client) <sup>**[[F-Droid](https://f-droid.org/packages/com.github.axet.torrentclient)]**</sup>
 * [**TorrServe**](https://github.com/YouROK/TorrServe) <sup>**[[F-Droid](https://f-droid.org/packages/ru.yourok.torrserve)]**</sup>
 * [**YTDLnis**](https://github.com/deniscerri/ytdlnis) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.deniscerri.ytdl)]**</sup>
 
