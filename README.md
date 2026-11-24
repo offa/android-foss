@@ -673,7 +673,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Local Material Notes**](https://github.com/maelchiotti/LocalMaterialNotes) <sup>**[[F-Droid](https://f-droid.org/packages/com.maelchiotti.localmaterialnotes)] [[IzzyOnDroid](https://apt.izzysoft.de/packages/com.maelchiotti.localmaterialnotes)]**</sup>
 * [**Logseq**](https://github.com/logseq/logseq) <sup>**[[F-Droid](https://f-droid.org/packages/com.logseq.app)]**</sup>
 * [**Markor**](https://github.com/gsantner/markor) <sup>**[[F-Droid](https://f-droid.org/packages/net.gsantner.markor)]**</sup>
-* [**Mavinote**](https://github.com/bwqr/mavinote) <sup>**[[F-Droid](https://f-droid.org/packages/com.bwqr.mavinote)]**</sup>
 * [**Memento**](https://github.com/mwarning/Memento) <sup>**[[F-Droid](https://f-droid.org/packages/de.mwarning.memento)]**</sup>
 * [**Moe Memos**](https://github.com/mudkipme/MoeMemosAndroid) <sup>**[[F-Droid](https://f-droid.org/packages/me.mudkip.moememos)]**</sup>
 * [**My Brain**](https://github.com/mhss1/MyBrain) <sup>**[[F-Droid](https://f-droid.org/packages/com.mhss.app.mybrain)]**</sup>
@@ -683,12 +682,10 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**NotallyX**](https://github.com/PhilKes/NotallyX) <sup>**[[F-Droid](https://f-droid.org/packages/com.philkes.notallyx)] [[IzzyOnDroid](https://apt.izzysoft.de/packages/com.philkes.notallyx)]**</sup>
 * [**Notely Voice**](https://github.com/tosinonikute/NotelyVoice) <sup>**[[F-Droid](https://f-droid.org/packages/com.module.notelycompose.android)]**</sup>
 * [**Notesnook**](https://github.com/streetwriters/notesnook) <sup>**[[F-Droid](https://f-droid.org/packages/com.streetwriters.notesnook)]**</sup>
-* [**Noto**](https://github.com/alialbaali/Noto) <sup>**[[F-Droid](https://f-droid.org/packages/com.noto)] [[IzzyOnDroid](https://apt.izzysoft.de/packages/com.noto)]**</sup>
 * [**Omni-Notes**](https://federicoiosue.github.io/Omni-Notes/) <sup>**[[F-Droid](https://f-droid.org/packages/it.feio.android.omninotes.foss)]**</sup>
 * [**Privacy Friendly Notes**](https://github.com/SecUSo/privacy-friendly-notes) <sup>**[[F-Droid](https://f-droid.org/packages/org.secuso.privacyfriendlynotes)]**</sup>
 * [**Quillpad**](https://github.com/quillpad/quillpad) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.quillpad)]**</sup>
 * [**Saber**](https://github.com/adil192/saber) <sup>**[[F-Droid](https://f-droid.org/packages/com.adilhanney.saber)]**</sup>
-* [**Simple Material Notes**](https://github.com/RafhaanShah/Simple-Notes) <sup>**[[F-Droid](https://f-droid.org/packages/com.rafapps.simplenotes)]**</sup>
 * [**Simple Notes Sync**](https://github.com/inventory69/simple-notes-sync) <sup>**[[F-Droid](https://f-droid.org/packages/dev.dettmer.simplenotes)] [[IzzyOnDroid](https://apt.izzysoft.de/packages/dev.dettmer.simplenotes)]**</sup>
 * [**Standard Notes**](https://github.com/standardnotes/app) <sup>**[[F-Droid](https://f-droid.org/packages/com.standardnotes)]**</sup>
 
