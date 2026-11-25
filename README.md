@@ -682,7 +682,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**NotallyX**](https://github.com/PhilKes/NotallyX) <sup>**[[F-Droid](https://f-droid.org/packages/com.philkes.notallyx)] [[IzzyOnDroid](https://apt.izzysoft.de/packages/com.philkes.notallyx)]**</sup>
 * [**Notely Voice**](https://github.com/tosinonikute/NotelyVoice) <sup>**[[F-Droid](https://f-droid.org/packages/com.module.notelycompose.android)]**</sup>
 * [**Notesnook**](https://github.com/streetwriters/notesnook) <sup>**[[F-Droid](https://f-droid.org/packages/com.streetwriters.notesnook)]**</sup>
-* [**Omni-Notes**](https://federicoiosue.github.io/Omni-Notes/) <sup>**[[F-Droid](https://f-droid.org/packages/it.feio.android.omninotes.foss)]**</sup>
+* [**Omni-Notes**](https://github.com/federicoiosue/Omni-Notes) <sup>**[[F-Droid](https://f-droid.org/packages/it.feio.android.omninotes.foss)]**</sup>
 * [**Privacy Friendly Notes**](https://github.com/SecUSo/privacy-friendly-notes) <sup>**[[F-Droid](https://f-droid.org/packages/org.secuso.privacyfriendlynotes)]**</sup>
 * [**Quillpad**](https://github.com/quillpad/quillpad) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.quillpad)]**</sup>
 * [**Saber**](https://github.com/adil192/saber) <sup>**[[F-Droid](https://f-droid.org/packages/com.adilhanney.saber)]**</sup>
