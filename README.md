@@ -252,7 +252,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**PixelDroid**](https://gitlab.shinice.net/pixeldroid/PixelDroid) <sup>**[[F-Droid](https://f-droid.org/packages/org.pixeldroid.app)]**</sup>
 * [**RedReader**](https://github.com/QuantumBadger/RedReader) <sup>**[[F-Droid](https://f-droid.org/packages/org.quantumbadger.redreader)]**</sup>
 * [**Squawker**](https://github.com/j-fbriere/squawker) <sup>**[[F-Droid](https://f-droid.org/packages/org.ca.squawker)]**</sup>
-* [**Stealth**](https://gitlab.com/cosmosapps/stealth) <sup>**[[F-Droid](https://f-droid.org/packages/com.cosmos.unreddit)]**</sup>
 * [**Thunder**](https://github.com/thunder-app/thunder) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.hjiangsu.thunder)]**</sup>
 * [**Tusky**](https://codeberg.org/tusky/Tusky) <sup>**[[F-Droid](https://f-droid.org/packages/com.keylesspalace.tusky)]**</sup>
 * [**Voyager**](https://github.com/aeharding/voyager) <sup>**[[F-Droid](https://f-droid.org/packages/app.vger.voyager)]**</sup>
@@ -431,7 +430,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Loop Habit Tracker**](https://github.com/iSoron/uhabits) <sup>**[[F-Droid](https://f-droid.org/packages/org.isoron.uhabits)]**</sup>
 * [**OpenHabitTracker**](https://github.com/Jinjinov/OpenHabitTracker)
 * [**SkillApp**](https://github.com/Jaimies/SkillApp) <sup>**[[F-Droid](https://f-droid.org/packages/com.theskillapp.skillapp)]**</sup>
-* [**Sobriety**](https://github.com/KiARC/Sobriety) <sup>**[[F-Droid](https://f-droid.org/packages/com.katiearose.sobriety)]**</sup>
 * [**Table Habit**](https://github.com/FriesI23/mhabit) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.friesi23.mhabit)]**</sup>
 
 ### • Icon Packs
@@ -492,7 +490,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**CCLauncher**](https://github.com/mlm-games/cclauncher) <sup>**[[F-Droid](https://f-droid.org/packages/app.cclauncher)] [[IzzyOnDroid](https://apt.izzysoft.de/packages/app.cclauncher)]**</sup>
 * [**Discreet Launcher**](https://github.com/falzonv/discreet-launcher) <sup>**[[F-Droid](https://f-droid.org/packages/com.vincent_falzon.discreetlauncher)]**</sup>
 * [**Dragon Launcher**](https://github.com/Elnix90/Dragon-Launcher) <sup>**[[F-Droid](https://f-droid.org/packages/org.elnix.dragonlauncher)] [[IzzyOnDroid](https://apt.izzysoft.de/packages/org.elnix.dragonlauncher)]**</sup>
-* [**Easy Launcher**](https://github.com/DroidWorksStudio/EasyLauncher) <sup>**[[F-Droid](https://f-droid.org/packages/app.easy.launcher)] [[IzzyOnDroid](https://apt.izzysoft.de/packages/app.easy.launcher)]**</sup>
 * [**Fokus Launcher**](https://github.com/luantak/FokusLauncher) <sup>**[[F-Droid](https://f-droid.org/packages/io.github.luantak.fokuslauncher)]**</sup>
 * [**Fossify Launcher**](https://github.com/FossifyOrg/Launcher) <sup>**[[F-Droid](https://f-droid.org/packages/org.fossify.home)] [[IzzyOnDroid](https://apt.izzysoft.de/packages/org.fossify.home)]**</sup>
 * [**Hex Launcher**](https://github.com/MrMannWood/launcher) <sup>**[[F-Droid](https://f-droid.org/packages/com.mrmannwood.hexlauncher)]**</sup>
@@ -809,7 +806,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**openScale**](https://github.com/oliexdev/openScale) <sup>**[[F-Droid](https://f-droid.org/packages/com.health.openscale)]**</sup>
 * [**OpenTracks**](https://codeberg.org/OpenTracksApp/OpenTracks) <sup>**[[F-Droid](https://f-droid.org/packages/de.dennisguse.opentracks)]**</sup>
 * [**Paseo**](https://gitlab.com/pardomi/paseo) <sup>**[[F-Droid](https://f-droid.org/packages/ca.chancehorizon.paseo)]**</sup>
-* [**Red Moon**](https://github.com/LibreShift/red-moon) <sup>**[[F-Droid](https://f-droid.org/packages/com.jmstudios.redmoon)]**</sup>
 
 ### • Synchronisation
 
@@ -1029,7 +1025,6 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 ### • Card
 
 * [**MTG Familiar**](https://github.com/AEFeinstein/mtg-familiar) <sup>**[[F-Droid](https://f-droid.org/packages/com.gelakinetic.mtgfam)]**</sup>
-* [**TriPeaks**](https://github.com/mimoguz/tripeaks-gdx) <sup>**[[F-Droid](https://f-droid.org/packages/ogz.tripeaks)]**</sup>
 
 ### • Educational
 
