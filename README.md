@@ -329,6 +329,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Seal**](https://github.com/JunkFood02/Seal) <sup>**[[F-Droid](https://f-droid.org/packages/com.junkfood.seal)]**</sup>
 * [**SpotiFlyer**](https://github.com/Shabinder/SpotiFlyer) <sup>**[[F-Droid](https://f-droid.org/packages/com.shabinder.spotiflyer)]**</sup>
 * [**TorrServe**](https://github.com/YouROK/TorrServe) <sup>**[[F-Droid](https://f-droid.org/packages/ru.yourok.torrserve)]**</sup>
+* [**uTube**](https://github.com/omer73364/uTube)
 * [**YTDLnis**](https://github.com/deniscerri/ytdlnis) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/packages/com.deniscerri.ytdl)]**</sup>
 
 ### • Email Aliases
